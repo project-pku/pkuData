@@ -2,1931 +2,3960 @@
   "Bulbasaur": {
     "Indices": {
       "pk3": 1
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Ivysaur": {
     "Indices": {
       "pk3": 2
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Venusaur": {
     "Indices": {
       "pk3": 3
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Charmander": {
     "Indices": {
       "pk3": 4
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Charmeleon": {
     "Indices": {
       "pk3": 5
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Charizard": {
     "Indices": {
       "pk3": 6
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Squirtle": {
     "Indices": {
       "pk3": 7
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Wartortle": {
     "Indices": {
       "pk3": 8
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Blastoise": {
     "Indices": {
       "pk3": 9
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Caterpie": {
     "Indices": {
       "pk3": 10
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Metapod": {
     "Indices": {
       "pk3": 11
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Butterfree": {
     "Indices": {
       "pk3": 12
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Weedle": {
     "Indices": {
       "pk3": 13
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Kakuna": {
     "Indices": {
       "pk3": 14
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Beedrill": {
     "Indices": {
       "pk3": 15
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Pidgey": {
     "Indices": {
       "pk3": 16
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Pidgeotto": {
     "Indices": {
       "pk3": 17
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Pidgeot": {
     "Indices": {
       "pk3": 18
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Rattata": {
     "Indices": {
       "pk3": 19
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Raticate": {
     "Indices": {
       "pk3": 20
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Spearow": {
     "Indices": {
       "pk3": 21
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Fearow": {
     "Indices": {
       "pk3": 22
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Ekans": {
     "Indices": {
       "pk3": 23
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Arbok": {
     "Indices": {
       "pk3": 24
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Pikachu": {
     "Indices": {
       "pk3": 25
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Raichu": {
     "Indices": {
       "pk3": 26
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Sandshrew": {
     "Indices": {
       "pk3": 27
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Sandslash": {
     "Indices": {
       "pk3": 28
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Nidoran♀": {
     "Indices": {
       "pk3": 29
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Nidorina": {
     "Indices": {
       "pk3": 30
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Nidoqueen": {
     "Indices": {
       "pk3": 31
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Nidoran♂": {
     "Indices": {
       "pk3": 32
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Nidorino": {
     "Indices": {
       "pk3": 33
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Nidoking": {
     "Indices": {
       "pk3": 34
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Clefairy": {
     "Indices": {
       "pk3": 35
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Clefable": {
     "Indices": {
       "pk3": 36
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Vulpix": {
     "Indices": {
       "pk3": 37
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Ninetales": {
     "Indices": {
       "pk3": 38
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Jigglypuff": {
     "Indices": {
       "pk3": 39
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Wigglytuff": {
     "Indices": {
       "pk3": 40
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Zubat": {
     "Indices": {
       "pk3": 41
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Golbat": {
     "Indices": {
       "pk3": 42
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Oddish": {
     "Indices": {
       "pk3": 43
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Gloom": {
     "Indices": {
       "pk3": 44
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Vileplume": {
     "Indices": {
       "pk3": 45
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Paras": {
     "Indices": {
       "pk3": 46
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Parasect": {
     "Indices": {
       "pk3": 47
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Venonat": {
     "Indices": {
       "pk3": 48
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Venomoth": {
     "Indices": {
       "pk3": 49
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Diglett": {
     "Indices": {
       "pk3": 50
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Dugtrio": {
     "Indices": {
       "pk3": 51
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Meowth": {
     "Indices": {
       "pk3": 52
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Persian": {
     "Indices": {
       "pk3": 53
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Psyduck": {
     "Indices": {
       "pk3": 54
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Golduck": {
     "Indices": {
       "pk3": 55
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Mankey": {
     "Indices": {
       "pk3": 56
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Primeape": {
     "Indices": {
       "pk3": 57
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Growlithe": {
     "Indices": {
       "pk3": 58
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Arcanine": {
     "Indices": {
       "pk3": 59
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Poliwag": {
     "Indices": {
       "pk3": 60
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Poliwhirl": {
     "Indices": {
       "pk3": 61
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Poliwrath": {
     "Indices": {
       "pk3": 62
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Abra": {
     "Indices": {
       "pk3": 63
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Kadabra": {
     "Indices": {
       "pk3": 64
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Alakazam": {
     "Indices": {
       "pk3": 65
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Machop": {
     "Indices": {
       "pk3": 66
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Machoke": {
     "Indices": {
       "pk3": 67
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Machamp": {
     "Indices": {
       "pk3": 68
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Bellsprout": {
     "Indices": {
       "pk3": 69
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Weepinbell": {
     "Indices": {
       "pk3": 70
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Victreebel": {
     "Indices": {
       "pk3": 71
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Tentacool": {
     "Indices": {
       "pk3": 72
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Tentacruel": {
     "Indices": {
       "pk3": 73
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Geodude": {
     "Indices": {
       "pk3": 74
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Graveler": {
     "Indices": {
       "pk3": 75
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Golem": {
     "Indices": {
       "pk3": 76
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Ponyta": {
     "Indices": {
       "pk3": 77
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Rapidash": {
     "Indices": {
       "pk3": 78
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Slowpoke": {
     "Indices": {
       "pk3": 79
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Slowbro": {
     "Indices": {
       "pk3": 80
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Magnemite": {
     "Indices": {
       "pk3": 81
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Magneton": {
     "Indices": {
       "pk3": 82
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
-  "Farfetch'd": {
+  "Farfetch’d": {
     "Indices": {
       "pk3": 83
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Doduo": {
     "Indices": {
       "pk3": 84
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Dodrio": {
     "Indices": {
       "pk3": 85
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Seel": {
     "Indices": {
       "pk3": 86
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Dewgong": {
     "Indices": {
       "pk3": 87
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Grimer": {
     "Indices": {
       "pk3": 88
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Muk": {
     "Indices": {
       "pk3": 89
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Shellder": {
     "Indices": {
       "pk3": 90
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Cloyster": {
     "Indices": {
       "pk3": 91
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Gastly": {
     "Indices": {
       "pk3": 92
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Haunter": {
     "Indices": {
       "pk3": 93
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Gengar": {
     "Indices": {
       "pk3": 94
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Onix": {
     "Indices": {
       "pk3": 95
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Drowzee": {
     "Indices": {
       "pk3": 96
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Hypno": {
     "Indices": {
       "pk3": 97
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Krabby": {
     "Indices": {
       "pk3": 98
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Kingler": {
     "Indices": {
       "pk3": 99
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Voltorb": {
     "Indices": {
       "pk3": 100
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Electrode": {
     "Indices": {
       "pk3": 101
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Exeggcute": {
     "Indices": {
       "pk3": 102
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Exeggutor": {
     "Indices": {
       "pk3": 103
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Cubone": {
     "Indices": {
       "pk3": 104
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Marowak": {
     "Indices": {
       "pk3": 105
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Hitmonlee": {
     "Indices": {
       "pk3": 106
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Hitmonchan": {
     "Indices": {
       "pk3": 107
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Lickitung": {
     "Indices": {
       "pk3": 108
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Koffing": {
     "Indices": {
       "pk3": 109
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Weezing": {
     "Indices": {
       "pk3": 110
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Rhyhorn": {
     "Indices": {
       "pk3": 111
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Rhydon": {
     "Indices": {
       "pk3": 112
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Chansey": {
     "Indices": {
       "pk3": 113
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Tangela": {
     "Indices": {
       "pk3": 114
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Kangaskhan": {
     "Indices": {
       "pk3": 115
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Horsea": {
     "Indices": {
       "pk3": 116
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Seadra": {
     "Indices": {
       "pk3": 117
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Goldeen": {
     "Indices": {
       "pk3": 118
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Seaking": {
     "Indices": {
       "pk3": 119
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Staryu": {
     "Indices": {
       "pk3": 120
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Starmie": {
     "Indices": {
       "pk3": 121
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Mr. Mime": {
     "Indices": {
       "pk3": 122
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Scyther": {
     "Indices": {
       "pk3": 123
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Jynx": {
     "Indices": {
       "pk3": 124
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Electabuzz": {
     "Indices": {
       "pk3": 125
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Magmar": {
     "Indices": {
       "pk3": 126
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Pinsir": {
     "Indices": {
       "pk3": 127
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Tauros": {
     "Indices": {
       "pk3": 128
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Magikarp": {
     "Indices": {
       "pk3": 129
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Gyarados": {
     "Indices": {
       "pk3": 130
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Lapras": {
     "Indices": {
       "pk3": 131
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Ditto": {
     "Indices": {
       "pk3": 132
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Eevee": {
     "Indices": {
       "pk3": 133
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Vaporeon": {
     "Indices": {
       "pk3": 134
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Jolteon": {
     "Indices": {
       "pk3": 135
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Flareon": {
     "Indices": {
       "pk3": 136
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Porygon": {
     "Indices": {
       "pk3": 137
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Omanyte": {
     "Indices": {
       "pk3": 138
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Omastar": {
     "Indices": {
       "pk3": 139
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Kabuto": {
     "Indices": {
       "pk3": 140
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Kabutops": {
     "Indices": {
       "pk3": 141
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Aerodactyl": {
     "Indices": {
       "pk3": 142
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Snorlax": {
     "Indices": {
       "pk3": 143
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Articuno": {
     "Indices": {
       "pk3": 144
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Zapdos": {
     "Indices": {
       "pk3": 145
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Moltres": {
     "Indices": {
       "pk3": 146
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Dratini": {
     "Indices": {
       "pk3": 147
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Dragonair": {
     "Indices": {
       "pk3": 148
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Dragonite": {
     "Indices": {
       "pk3": 149
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Mewtwo": {
     "Indices": {
       "pk3": 150
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Mew": {
     "Indices": {
       "pk3": 151
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Chikorita": {
     "Indices": {
       "pk3": 152
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Bayleef": {
     "Indices": {
       "pk3": 153
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Meganium": {
     "Indices": {
       "pk3": 154
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Cyndaquil": {
     "Indices": {
       "pk3": 155
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Quilava": {
     "Indices": {
       "pk3": 156
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Typhlosion": {
     "Indices": {
       "pk3": 157
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Totodile": {
     "Indices": {
       "pk3": 158
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Croconaw": {
     "Indices": {
       "pk3": 159
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Feraligatr": {
     "Indices": {
       "pk3": 160
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Sentret": {
     "Indices": {
       "pk3": 161
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Furret": {
     "Indices": {
       "pk3": 162
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Hoothoot": {
     "Indices": {
       "pk3": 163
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Noctowl": {
     "Indices": {
       "pk3": 164
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Ledyba": {
     "Indices": {
       "pk3": 165
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Ledian": {
     "Indices": {
       "pk3": 166
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Spinarak": {
     "Indices": {
       "pk3": 167
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Ariados": {
     "Indices": {
       "pk3": 168
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Crobat": {
     "Indices": {
       "pk3": 169
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Chinchou": {
     "Indices": {
       "pk3": 170
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Lanturn": {
     "Indices": {
       "pk3": 171
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Pichu": {
     "Indices": {
       "pk3": 172
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Cleffa": {
     "Indices": {
       "pk3": 173
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Igglybuff": {
     "Indices": {
       "pk3": 174
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Togepi": {
     "Indices": {
       "pk3": 175
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Togetic": {
     "Indices": {
       "pk3": 176
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Natu": {
     "Indices": {
       "pk3": 177
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Xatu": {
     "Indices": {
       "pk3": 178
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Mareep": {
     "Indices": {
       "pk3": 179
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Flaaffy": {
     "Indices": {
       "pk3": 180
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Ampharos": {
     "Indices": {
       "pk3": 181
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Bellossom": {
     "Indices": {
       "pk3": 182
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Marill": {
     "Indices": {
       "pk3": 183
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Azumarill": {
     "Indices": {
       "pk3": 184
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Sudowoodo": {
     "Indices": {
       "pk3": 185
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Politoed": {
     "Indices": {
       "pk3": 186
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Hoppip": {
     "Indices": {
       "pk3": 187
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Skiploom": {
     "Indices": {
       "pk3": 188
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Jumpluff": {
     "Indices": {
       "pk3": 189
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Aipom": {
     "Indices": {
       "pk3": 190
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Sunkern": {
     "Indices": {
       "pk3": 191
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Sunflora": {
     "Indices": {
       "pk3": 192
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Yanma": {
     "Indices": {
       "pk3": 193
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Wooper": {
     "Indices": {
       "pk3": 194
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Quagsire": {
     "Indices": {
       "pk3": 195
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Espeon": {
     "Indices": {
       "pk3": 196
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Umbreon": {
     "Indices": {
       "pk3": 197
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Murkrow": {
     "Indices": {
       "pk3": 198
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Slowking": {
     "Indices": {
       "pk3": 199
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Misdreavus": {
     "Indices": {
       "pk3": 200
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Unown": {
     "Indices": {
       "pk3": 201
+    },
+    "Forms": {
+      "A": {
+        "Exists in": ["pk3"]
+      },
+      "B": {
+        "Exists in": ["pk3"]
+      },
+      "C": {
+        "Exists in": ["pk3"]
+      },
+      "D": {
+        "Exists in": ["pk3"]
+      },
+      "E": {
+        "Exists in": ["pk3"]
+      },
+      "F": {
+        "Exists in": ["pk3"]
+      },
+      "G": {
+        "Exists in": ["pk3"]
+      },
+      "H": {
+        "Exists in": ["pk3"]
+      },
+      "I": {
+        "Exists in": ["pk3"]
+      },
+      "J": {
+        "Exists in": ["pk3"]
+      },
+      "K": {
+        "Exists in": ["pk3"]
+      },
+      "L": {
+        "Exists in": ["pk3"]
+      },
+      "M": {
+        "Exists in": ["pk3"]
+      },
+      "N": {
+        "Exists in": ["pk3"]
+      },
+      "O": {
+        "Exists in": ["pk3"]
+      },
+      "P": {
+        "Exists in": ["pk3"]
+      },
+      "Q": {
+        "Exists in": ["pk3"]
+      },
+      "R": {
+        "Exists in": ["pk3"]
+      },
+      "S": {
+        "Exists in": ["pk3"]
+      },
+      "T": {
+        "Exists in": ["pk3"]
+      },
+      "U": {
+        "Exists in": ["pk3"]
+      },
+      "V": {
+        "Exists in": ["pk3"]
+      },
+      "W": {
+        "Exists in": ["pk3"]
+      },
+      "X": {
+        "Exists in": ["pk3"]
+      },
+      "Y": {
+        "Exists in": ["pk3"]
+      },
+      "Z": {
+        "Exists in": ["pk3"]
+      },
+      "!": {
+        "Exists in": ["pk3"]
+      },
+      "?": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Wobbuffet": {
     "Indices": {
       "pk3": 202
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Girafarig": {
     "Indices": {
       "pk3": 203
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Pineco": {
     "Indices": {
       "pk3": 204
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Forretress": {
     "Indices": {
       "pk3": 205
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Dunsparce": {
     "Indices": {
       "pk3": 206
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Gligar": {
     "Indices": {
       "pk3": 207
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Steelix": {
     "Indices": {
       "pk3": 208
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Snubbull": {
     "Indices": {
       "pk3": 209
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Granbull": {
     "Indices": {
       "pk3": 210
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Qwilfish": {
     "Indices": {
       "pk3": 211
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Scizor": {
     "Indices": {
       "pk3": 212
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Shuckle": {
     "Indices": {
       "pk3": 213
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Heracross": {
     "Indices": {
       "pk3": 214
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Sneasel": {
     "Indices": {
       "pk3": 215
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Teddiursa": {
     "Indices": {
       "pk3": 216
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Ursaring": {
     "Indices": {
       "pk3": 217
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Slugma": {
     "Indices": {
       "pk3": 218
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Magcargo": {
     "Indices": {
       "pk3": 219
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Swinub": {
     "Indices": {
       "pk3": 220
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Piloswine": {
     "Indices": {
       "pk3": 221
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Corsola": {
     "Indices": {
       "pk3": 222
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Remoraid": {
     "Indices": {
       "pk3": 223
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Octillery": {
     "Indices": {
       "pk3": 224
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Delibird": {
     "Indices": {
       "pk3": 225
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Mantine": {
     "Indices": {
       "pk3": 226
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Skarmory": {
     "Indices": {
       "pk3": 227
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Houndour": {
     "Indices": {
       "pk3": 228
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Houndoom": {
     "Indices": {
       "pk3": 229
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Kingdra": {
     "Indices": {
       "pk3": 230
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Phanpy": {
     "Indices": {
       "pk3": 231
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Donphan": {
     "Indices": {
       "pk3": 232
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Porygon2": {
     "Indices": {
       "pk3": 233
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Stantler": {
     "Indices": {
       "pk3": 234
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Smeargle": {
     "Indices": {
       "pk3": 235
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Tyrogue": {
     "Indices": {
       "pk3": 236
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Hitmontop": {
     "Indices": {
       "pk3": 237
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Smoochum": {
     "Indices": {
       "pk3": 238
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Elekid": {
     "Indices": {
       "pk3": 239
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Magby": {
     "Indices": {
       "pk3": 240
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Miltank": {
     "Indices": {
       "pk3": 241
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Blissey": {
     "Indices": {
       "pk3": 242
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Raikou": {
     "Indices": {
       "pk3": 243
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Entei": {
     "Indices": {
       "pk3": 244
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Suicune": {
     "Indices": {
       "pk3": 245
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Larvitar": {
     "Indices": {
       "pk3": 246
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Pupitar": {
     "Indices": {
       "pk3": 247
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Tyranitar": {
     "Indices": {
       "pk3": 248
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Lugia": {
     "Indices": {
       "pk3": 249
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Ho-Oh": {
     "Indices": {
       "pk3": 250
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Celebi": {
     "Indices": {
       "pk3": 251
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Treecko": {
     "Indices": {
       "pk3": 277
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Grovyle": {
     "Indices": {
       "pk3": 278
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Sceptile": {
     "Indices": {
       "pk3": 279
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Torchic": {
     "Indices": {
       "pk3": 280
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Combusken": {
     "Indices": {
       "pk3": 281
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Blaziken": {
     "Indices": {
       "pk3": 282
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Mudkip": {
     "Indices": {
       "pk3": 283
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Marshtomp": {
     "Indices": {
       "pk3": 284
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Swampert": {
     "Indices": {
       "pk3": 285
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Poochyena": {
     "Indices": {
       "pk3": 286
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Mightyena": {
     "Indices": {
       "pk3": 287
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Zigzagoon": {
     "Indices": {
       "pk3": 288
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Linoone": {
     "Indices": {
       "pk3": 289
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Wurmple": {
     "Indices": {
       "pk3": 290
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Silcoon": {
     "Indices": {
       "pk3": 291
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Beautifly": {
     "Indices": {
       "pk3": 292
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Cascoon": {
     "Indices": {
       "pk3": 293
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Dustox": {
     "Indices": {
       "pk3": 294
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Lotad": {
     "Indices": {
       "pk3": 295
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Lombre": {
     "Indices": {
       "pk3": 296
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Ludicolo": {
     "Indices": {
       "pk3": 297
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Seedot": {
     "Indices": {
       "pk3": 298
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Nuzleaf": {
     "Indices": {
       "pk3": 299
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Shiftry": {
     "Indices": {
       "pk3": 300
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Taillow": {
     "Indices": {
       "pk3": 304
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Swellow": {
     "Indices": {
       "pk3": 305
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Wingull": {
     "Indices": {
       "pk3": 309
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Pelipper": {
     "Indices": {
       "pk3": 310
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Ralts": {
     "Indices": {
       "pk3": 392
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Kirlia": {
     "Indices": {
       "pk3": 393
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Gardevoir": {
     "Indices": {
       "pk3": 394
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Surskit": {
     "Indices": {
       "pk3": 311
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Masquerain": {
     "Indices": {
       "pk3": 312
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Shroomish": {
     "Indices": {
       "pk3": 306
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Breloom": {
     "Indices": {
       "pk3": 307
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Slakoth": {
     "Indices": {
       "pk3": 364
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Vigoroth": {
     "Indices": {
       "pk3": 365
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Slaking": {
     "Indices": {
       "pk3": 366
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Nincada": {
     "Indices": {
       "pk3": 301
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Ninjask": {
     "Indices": {
       "pk3": 302
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Shedinja": {
     "Indices": {
       "pk3": 303
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Whismur": {
     "Indices": {
       "pk3": 370
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Loudred": {
     "Indices": {
       "pk3": 371
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Exploud": {
     "Indices": {
       "pk3": 372
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Makuhita": {
     "Indices": {
       "pk3": 335
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Hariyama": {
     "Indices": {
       "pk3": 336
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Azurill": {
     "Indices": {
       "pk3": 350
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Nosepass": {
     "Indices": {
       "pk3": 320
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Skitty": {
     "Indices": {
       "pk3": 315
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Delcatty": {
     "Indices": {
       "pk3": 316
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Sableye": {
     "Indices": {
       "pk3": 322
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Mawile": {
     "Indices": {
       "pk3": 355
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Aron": {
     "Indices": {
       "pk3": 382
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Lairon": {
     "Indices": {
       "pk3": 383
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Aggron": {
     "Indices": {
       "pk3": 384
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Meditite": {
     "Indices": {
       "pk3": 356
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Medicham": {
     "Indices": {
       "pk3": 357
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Electrike": {
     "Indices": {
       "pk3": 337
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Manectric": {
     "Indices": {
       "pk3": 338
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Plusle": {
     "Indices": {
       "pk3": 353
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Minun": {
     "Indices": {
       "pk3": 354
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Volbeat": {
     "Indices": {
       "pk3": 386
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Illumise": {
     "Indices": {
       "pk3": 387
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Roselia": {
     "Indices": {
       "pk3": 363
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Gulpin": {
     "Indices": {
       "pk3": 367
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Swalot": {
     "Indices": {
       "pk3": 368
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Carvanha": {
     "Indices": {
       "pk3": 330
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Sharpedo": {
     "Indices": {
       "pk3": 331
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Wailmer": {
     "Indices": {
       "pk3": 313
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Wailord": {
     "Indices": {
       "pk3": 314
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Numel": {
     "Indices": {
       "pk3": 339
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Camerupt": {
     "Indices": {
       "pk3": 340
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Torkoal": {
     "Indices": {
       "pk3": 321
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Spoink": {
     "Indices": {
       "pk3": 351
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Grumpig": {
     "Indices": {
       "pk3": 352
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Spinda": {
     "Indices": {
       "pk3": 308
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Trapinch": {
     "Indices": {
       "pk3": 332
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Vibrava": {
     "Indices": {
       "pk3": 333
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Flygon": {
     "Indices": {
       "pk3": 334
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Cacnea": {
     "Indices": {
       "pk3": 344
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Cacturne": {
     "Indices": {
       "pk3": 345
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Swablu": {
     "Indices": {
       "pk3": 358
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Altaria": {
     "Indices": {
       "pk3": 359
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Zangoose": {
     "Indices": {
       "pk3": 380
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Seviper": {
     "Indices": {
       "pk3": 379
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Lunatone": {
     "Indices": {
       "pk3": 348
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Solrock": {
     "Indices": {
       "pk3": 349
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Barboach": {
     "Indices": {
       "pk3": 323
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Whiscash": {
     "Indices": {
       "pk3": 324
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Corphish": {
     "Indices": {
       "pk3": 326
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Crawdaunt": {
     "Indices": {
       "pk3": 327
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Baltoy": {
     "Indices": {
       "pk3": 318
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Claydol": {
     "Indices": {
       "pk3": 319
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Lileep": {
     "Indices": {
       "pk3": 388
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Cradily": {
     "Indices": {
       "pk3": 389
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Anorith": {
     "Indices": {
       "pk3": 390
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Armaldo": {
     "Indices": {
       "pk3": 391
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Feebas": {
     "Indices": {
       "pk3": 328
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Milotic": {
     "Indices": {
       "pk3": 329
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Castform": {
     "Indices": {
       "pk3": 385
+    },
+    "Forms": {
+      "Normal": {
+        "Exists in": ["pk3"]
+      },
+      "Sunny": {
+        "Exists in": ["pk3"]
+      },
+      "Rainy": {
+        "Exists in": ["pk3"]
+      },
+      "Snowy": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Kecleon": {
     "Indices": {
       "pk3": 317
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Shuppet": {
     "Indices": {
       "pk3": 377
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Banette": {
     "Indices": {
       "pk3": 378
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Duskull": {
     "Indices": {
       "pk3": 361
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Dusclops": {
     "Indices": {
       "pk3": 362
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Tropius": {
     "Indices": {
       "pk3": 369
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Chimecho": {
     "Indices": {
       "pk3": 411
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Absol": {
     "Indices": {
       "pk3": 376
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Wynaut": {
     "Indices": {
       "pk3": 360
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Snorunt": {
     "Indices": {
       "pk3": 346
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Glalie": {
     "Indices": {
       "pk3": 347
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Spheal": {
     "Indices": {
       "pk3": 341
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Sealeo": {
     "Indices": {
       "pk3": 342
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Walrein": {
     "Indices": {
       "pk3": 343
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Clamperl": {
     "Indices": {
       "pk3": 373
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Huntail": {
     "Indices": {
       "pk3": 374
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Gorebyss": {
     "Indices": {
       "pk3": 375
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Relicanth": {
     "Indices": {
       "pk3": 381
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Luvdisc": {
     "Indices": {
       "pk3": 325
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Bagon": {
     "Indices": {
       "pk3": 395
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Shelgon": {
     "Indices": {
       "pk3": 396
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Salamence": {
     "Indices": {
       "pk3": 397
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Beldum": {
     "Indices": {
       "pk3": 398
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Metang": {
     "Indices": {
       "pk3": 399
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Metagross": {
     "Indices": {
       "pk3": 400
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Regirock": {
     "Indices": {
       "pk3": 401
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Regice": {
     "Indices": {
       "pk3": 402
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Registeel": {
     "Indices": {
       "pk3": 403
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Latias": {
     "Indices": {
       "pk3": 407
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Latios": {
     "Indices": {
       "pk3": 408
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Kyogre": {
     "Indices": {
       "pk3": 404
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Groudon": {
     "Indices": {
       "pk3": 405
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Rayquaza": {
     "Indices": {
       "pk3": 406
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Jirachi": {
     "Indices": {
       "pk3": 409
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["pk3"]
+      }
     }
   },
   "Deoxys": {
     "Indices": {
       "pk3": 410
+    },
+    "Forms": {
+      "Normal": {
+        "Exists in": ["pk3"]
+      },
+      "Attack": {
+        "Exists in": ["pk3"]
+      },
+      "Defense": {
+        "Exists in": ["pk3"]
+      },
+      "Speed": {
+        "Exists in": ["pk3"]
+      }
     }
   }
 }
