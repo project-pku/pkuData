@@ -1,0 +1,1932 @@
+{
+  "Bulbasaur": {
+    "Indices": {
+      "pk3": 1
+    }
+  },
+  "Ivysaur": {
+    "Indices": {
+      "pk3": 2
+    }
+  },
+  "Venusaur": {
+    "Indices": {
+      "pk3": 3
+    }
+  },
+  "Charmander": {
+    "Indices": {
+      "pk3": 4
+    }
+  },
+  "Charmeleon": {
+    "Indices": {
+      "pk3": 5
+    }
+  },
+  "Charizard": {
+    "Indices": {
+      "pk3": 6
+    }
+  },
+  "Squirtle": {
+    "Indices": {
+      "pk3": 7
+    }
+  },
+  "Wartortle": {
+    "Indices": {
+      "pk3": 8
+    }
+  },
+  "Blastoise": {
+    "Indices": {
+      "pk3": 9
+    }
+  },
+  "Caterpie": {
+    "Indices": {
+      "pk3": 10
+    }
+  },
+  "Metapod": {
+    "Indices": {
+      "pk3": 11
+    }
+  },
+  "Butterfree": {
+    "Indices": {
+      "pk3": 12
+    }
+  },
+  "Weedle": {
+    "Indices": {
+      "pk3": 13
+    }
+  },
+  "Kakuna": {
+    "Indices": {
+      "pk3": 14
+    }
+  },
+  "Beedrill": {
+    "Indices": {
+      "pk3": 15
+    }
+  },
+  "Pidgey": {
+    "Indices": {
+      "pk3": 16
+    }
+  },
+  "Pidgeotto": {
+    "Indices": {
+      "pk3": 17
+    }
+  },
+  "Pidgeot": {
+    "Indices": {
+      "pk3": 18
+    }
+  },
+  "Rattata": {
+    "Indices": {
+      "pk3": 19
+    }
+  },
+  "Raticate": {
+    "Indices": {
+      "pk3": 20
+    }
+  },
+  "Spearow": {
+    "Indices": {
+      "pk3": 21
+    }
+  },
+  "Fearow": {
+    "Indices": {
+      "pk3": 22
+    }
+  },
+  "Ekans": {
+    "Indices": {
+      "pk3": 23
+    }
+  },
+  "Arbok": {
+    "Indices": {
+      "pk3": 24
+    }
+  },
+  "Pikachu": {
+    "Indices": {
+      "pk3": 25
+    }
+  },
+  "Raichu": {
+    "Indices": {
+      "pk3": 26
+    }
+  },
+  "Sandshrew": {
+    "Indices": {
+      "pk3": 27
+    }
+  },
+  "Sandslash": {
+    "Indices": {
+      "pk3": 28
+    }
+  },
+  "Nidoran♀": {
+    "Indices": {
+      "pk3": 29
+    }
+  },
+  "Nidorina": {
+    "Indices": {
+      "pk3": 30
+    }
+  },
+  "Nidoqueen": {
+    "Indices": {
+      "pk3": 31
+    }
+  },
+  "Nidoran♂": {
+    "Indices": {
+      "pk3": 32
+    }
+  },
+  "Nidorino": {
+    "Indices": {
+      "pk3": 33
+    }
+  },
+  "Nidoking": {
+    "Indices": {
+      "pk3": 34
+    }
+  },
+  "Clefairy": {
+    "Indices": {
+      "pk3": 35
+    }
+  },
+  "Clefable": {
+    "Indices": {
+      "pk3": 36
+    }
+  },
+  "Vulpix": {
+    "Indices": {
+      "pk3": 37
+    }
+  },
+  "Ninetales": {
+    "Indices": {
+      "pk3": 38
+    }
+  },
+  "Jigglypuff": {
+    "Indices": {
+      "pk3": 39
+    }
+  },
+  "Wigglytuff": {
+    "Indices": {
+      "pk3": 40
+    }
+  },
+  "Zubat": {
+    "Indices": {
+      "pk3": 41
+    }
+  },
+  "Golbat": {
+    "Indices": {
+      "pk3": 42
+    }
+  },
+  "Oddish": {
+    "Indices": {
+      "pk3": 43
+    }
+  },
+  "Gloom": {
+    "Indices": {
+      "pk3": 44
+    }
+  },
+  "Vileplume": {
+    "Indices": {
+      "pk3": 45
+    }
+  },
+  "Paras": {
+    "Indices": {
+      "pk3": 46
+    }
+  },
+  "Parasect": {
+    "Indices": {
+      "pk3": 47
+    }
+  },
+  "Venonat": {
+    "Indices": {
+      "pk3": 48
+    }
+  },
+  "Venomoth": {
+    "Indices": {
+      "pk3": 49
+    }
+  },
+  "Diglett": {
+    "Indices": {
+      "pk3": 50
+    }
+  },
+  "Dugtrio": {
+    "Indices": {
+      "pk3": 51
+    }
+  },
+  "Meowth": {
+    "Indices": {
+      "pk3": 52
+    }
+  },
+  "Persian": {
+    "Indices": {
+      "pk3": 53
+    }
+  },
+  "Psyduck": {
+    "Indices": {
+      "pk3": 54
+    }
+  },
+  "Golduck": {
+    "Indices": {
+      "pk3": 55
+    }
+  },
+  "Mankey": {
+    "Indices": {
+      "pk3": 56
+    }
+  },
+  "Primeape": {
+    "Indices": {
+      "pk3": 57
+    }
+  },
+  "Growlithe": {
+    "Indices": {
+      "pk3": 58
+    }
+  },
+  "Arcanine": {
+    "Indices": {
+      "pk3": 59
+    }
+  },
+  "Poliwag": {
+    "Indices": {
+      "pk3": 60
+    }
+  },
+  "Poliwhirl": {
+    "Indices": {
+      "pk3": 61
+    }
+  },
+  "Poliwrath": {
+    "Indices": {
+      "pk3": 62
+    }
+  },
+  "Abra": {
+    "Indices": {
+      "pk3": 63
+    }
+  },
+  "Kadabra": {
+    "Indices": {
+      "pk3": 64
+    }
+  },
+  "Alakazam": {
+    "Indices": {
+      "pk3": 65
+    }
+  },
+  "Machop": {
+    "Indices": {
+      "pk3": 66
+    }
+  },
+  "Machoke": {
+    "Indices": {
+      "pk3": 67
+    }
+  },
+  "Machamp": {
+    "Indices": {
+      "pk3": 68
+    }
+  },
+  "Bellsprout": {
+    "Indices": {
+      "pk3": 69
+    }
+  },
+  "Weepinbell": {
+    "Indices": {
+      "pk3": 70
+    }
+  },
+  "Victreebel": {
+    "Indices": {
+      "pk3": 71
+    }
+  },
+  "Tentacool": {
+    "Indices": {
+      "pk3": 72
+    }
+  },
+  "Tentacruel": {
+    "Indices": {
+      "pk3": 73
+    }
+  },
+  "Geodude": {
+    "Indices": {
+      "pk3": 74
+    }
+  },
+  "Graveler": {
+    "Indices": {
+      "pk3": 75
+    }
+  },
+  "Golem": {
+    "Indices": {
+      "pk3": 76
+    }
+  },
+  "Ponyta": {
+    "Indices": {
+      "pk3": 77
+    }
+  },
+  "Rapidash": {
+    "Indices": {
+      "pk3": 78
+    }
+  },
+  "Slowpoke": {
+    "Indices": {
+      "pk3": 79
+    }
+  },
+  "Slowbro": {
+    "Indices": {
+      "pk3": 80
+    }
+  },
+  "Magnemite": {
+    "Indices": {
+      "pk3": 81
+    }
+  },
+  "Magneton": {
+    "Indices": {
+      "pk3": 82
+    }
+  },
+  "Farfetch'd": {
+    "Indices": {
+      "pk3": 83
+    }
+  },
+  "Doduo": {
+    "Indices": {
+      "pk3": 84
+    }
+  },
+  "Dodrio": {
+    "Indices": {
+      "pk3": 85
+    }
+  },
+  "Seel": {
+    "Indices": {
+      "pk3": 86
+    }
+  },
+  "Dewgong": {
+    "Indices": {
+      "pk3": 87
+    }
+  },
+  "Grimer": {
+    "Indices": {
+      "pk3": 88
+    }
+  },
+  "Muk": {
+    "Indices": {
+      "pk3": 89
+    }
+  },
+  "Shellder": {
+    "Indices": {
+      "pk3": 90
+    }
+  },
+  "Cloyster": {
+    "Indices": {
+      "pk3": 91
+    }
+  },
+  "Gastly": {
+    "Indices": {
+      "pk3": 92
+    }
+  },
+  "Haunter": {
+    "Indices": {
+      "pk3": 93
+    }
+  },
+  "Gengar": {
+    "Indices": {
+      "pk3": 94
+    }
+  },
+  "Onix": {
+    "Indices": {
+      "pk3": 95
+    }
+  },
+  "Drowzee": {
+    "Indices": {
+      "pk3": 96
+    }
+  },
+  "Hypno": {
+    "Indices": {
+      "pk3": 97
+    }
+  },
+  "Krabby": {
+    "Indices": {
+      "pk3": 98
+    }
+  },
+  "Kingler": {
+    "Indices": {
+      "pk3": 99
+    }
+  },
+  "Voltorb": {
+    "Indices": {
+      "pk3": 100
+    }
+  },
+  "Electrode": {
+    "Indices": {
+      "pk3": 101
+    }
+  },
+  "Exeggcute": {
+    "Indices": {
+      "pk3": 102
+    }
+  },
+  "Exeggutor": {
+    "Indices": {
+      "pk3": 103
+    }
+  },
+  "Cubone": {
+    "Indices": {
+      "pk3": 104
+    }
+  },
+  "Marowak": {
+    "Indices": {
+      "pk3": 105
+    }
+  },
+  "Hitmonlee": {
+    "Indices": {
+      "pk3": 106
+    }
+  },
+  "Hitmonchan": {
+    "Indices": {
+      "pk3": 107
+    }
+  },
+  "Lickitung": {
+    "Indices": {
+      "pk3": 108
+    }
+  },
+  "Koffing": {
+    "Indices": {
+      "pk3": 109
+    }
+  },
+  "Weezing": {
+    "Indices": {
+      "pk3": 110
+    }
+  },
+  "Rhyhorn": {
+    "Indices": {
+      "pk3": 111
+    }
+  },
+  "Rhydon": {
+    "Indices": {
+      "pk3": 112
+    }
+  },
+  "Chansey": {
+    "Indices": {
+      "pk3": 113
+    }
+  },
+  "Tangela": {
+    "Indices": {
+      "pk3": 114
+    }
+  },
+  "Kangaskhan": {
+    "Indices": {
+      "pk3": 115
+    }
+  },
+  "Horsea": {
+    "Indices": {
+      "pk3": 116
+    }
+  },
+  "Seadra": {
+    "Indices": {
+      "pk3": 117
+    }
+  },
+  "Goldeen": {
+    "Indices": {
+      "pk3": 118
+    }
+  },
+  "Seaking": {
+    "Indices": {
+      "pk3": 119
+    }
+  },
+  "Staryu": {
+    "Indices": {
+      "pk3": 120
+    }
+  },
+  "Starmie": {
+    "Indices": {
+      "pk3": 121
+    }
+  },
+  "Mr. Mime": {
+    "Indices": {
+      "pk3": 122
+    }
+  },
+  "Scyther": {
+    "Indices": {
+      "pk3": 123
+    }
+  },
+  "Jynx": {
+    "Indices": {
+      "pk3": 124
+    }
+  },
+  "Electabuzz": {
+    "Indices": {
+      "pk3": 125
+    }
+  },
+  "Magmar": {
+    "Indices": {
+      "pk3": 126
+    }
+  },
+  "Pinsir": {
+    "Indices": {
+      "pk3": 127
+    }
+  },
+  "Tauros": {
+    "Indices": {
+      "pk3": 128
+    }
+  },
+  "Magikarp": {
+    "Indices": {
+      "pk3": 129
+    }
+  },
+  "Gyarados": {
+    "Indices": {
+      "pk3": 130
+    }
+  },
+  "Lapras": {
+    "Indices": {
+      "pk3": 131
+    }
+  },
+  "Ditto": {
+    "Indices": {
+      "pk3": 132
+    }
+  },
+  "Eevee": {
+    "Indices": {
+      "pk3": 133
+    }
+  },
+  "Vaporeon": {
+    "Indices": {
+      "pk3": 134
+    }
+  },
+  "Jolteon": {
+    "Indices": {
+      "pk3": 135
+    }
+  },
+  "Flareon": {
+    "Indices": {
+      "pk3": 136
+    }
+  },
+  "Porygon": {
+    "Indices": {
+      "pk3": 137
+    }
+  },
+  "Omanyte": {
+    "Indices": {
+      "pk3": 138
+    }
+  },
+  "Omastar": {
+    "Indices": {
+      "pk3": 139
+    }
+  },
+  "Kabuto": {
+    "Indices": {
+      "pk3": 140
+    }
+  },
+  "Kabutops": {
+    "Indices": {
+      "pk3": 141
+    }
+  },
+  "Aerodactyl": {
+    "Indices": {
+      "pk3": 142
+    }
+  },
+  "Snorlax": {
+    "Indices": {
+      "pk3": 143
+    }
+  },
+  "Articuno": {
+    "Indices": {
+      "pk3": 144
+    }
+  },
+  "Zapdos": {
+    "Indices": {
+      "pk3": 145
+    }
+  },
+  "Moltres": {
+    "Indices": {
+      "pk3": 146
+    }
+  },
+  "Dratini": {
+    "Indices": {
+      "pk3": 147
+    }
+  },
+  "Dragonair": {
+    "Indices": {
+      "pk3": 148
+    }
+  },
+  "Dragonite": {
+    "Indices": {
+      "pk3": 149
+    }
+  },
+  "Mewtwo": {
+    "Indices": {
+      "pk3": 150
+    }
+  },
+  "Mew": {
+    "Indices": {
+      "pk3": 151
+    }
+  },
+  "Chikorita": {
+    "Indices": {
+      "pk3": 152
+    }
+  },
+  "Bayleef": {
+    "Indices": {
+      "pk3": 153
+    }
+  },
+  "Meganium": {
+    "Indices": {
+      "pk3": 154
+    }
+  },
+  "Cyndaquil": {
+    "Indices": {
+      "pk3": 155
+    }
+  },
+  "Quilava": {
+    "Indices": {
+      "pk3": 156
+    }
+  },
+  "Typhlosion": {
+    "Indices": {
+      "pk3": 157
+    }
+  },
+  "Totodile": {
+    "Indices": {
+      "pk3": 158
+    }
+  },
+  "Croconaw": {
+    "Indices": {
+      "pk3": 159
+    }
+  },
+  "Feraligatr": {
+    "Indices": {
+      "pk3": 160
+    }
+  },
+  "Sentret": {
+    "Indices": {
+      "pk3": 161
+    }
+  },
+  "Furret": {
+    "Indices": {
+      "pk3": 162
+    }
+  },
+  "Hoothoot": {
+    "Indices": {
+      "pk3": 163
+    }
+  },
+  "Noctowl": {
+    "Indices": {
+      "pk3": 164
+    }
+  },
+  "Ledyba": {
+    "Indices": {
+      "pk3": 165
+    }
+  },
+  "Ledian": {
+    "Indices": {
+      "pk3": 166
+    }
+  },
+  "Spinarak": {
+    "Indices": {
+      "pk3": 167
+    }
+  },
+  "Ariados": {
+    "Indices": {
+      "pk3": 168
+    }
+  },
+  "Crobat": {
+    "Indices": {
+      "pk3": 169
+    }
+  },
+  "Chinchou": {
+    "Indices": {
+      "pk3": 170
+    }
+  },
+  "Lanturn": {
+    "Indices": {
+      "pk3": 171
+    }
+  },
+  "Pichu": {
+    "Indices": {
+      "pk3": 172
+    }
+  },
+  "Cleffa": {
+    "Indices": {
+      "pk3": 173
+    }
+  },
+  "Igglybuff": {
+    "Indices": {
+      "pk3": 174
+    }
+  },
+  "Togepi": {
+    "Indices": {
+      "pk3": 175
+    }
+  },
+  "Togetic": {
+    "Indices": {
+      "pk3": 176
+    }
+  },
+  "Natu": {
+    "Indices": {
+      "pk3": 177
+    }
+  },
+  "Xatu": {
+    "Indices": {
+      "pk3": 178
+    }
+  },
+  "Mareep": {
+    "Indices": {
+      "pk3": 179
+    }
+  },
+  "Flaaffy": {
+    "Indices": {
+      "pk3": 180
+    }
+  },
+  "Ampharos": {
+    "Indices": {
+      "pk3": 181
+    }
+  },
+  "Bellossom": {
+    "Indices": {
+      "pk3": 182
+    }
+  },
+  "Marill": {
+    "Indices": {
+      "pk3": 183
+    }
+  },
+  "Azumarill": {
+    "Indices": {
+      "pk3": 184
+    }
+  },
+  "Sudowoodo": {
+    "Indices": {
+      "pk3": 185
+    }
+  },
+  "Politoed": {
+    "Indices": {
+      "pk3": 186
+    }
+  },
+  "Hoppip": {
+    "Indices": {
+      "pk3": 187
+    }
+  },
+  "Skiploom": {
+    "Indices": {
+      "pk3": 188
+    }
+  },
+  "Jumpluff": {
+    "Indices": {
+      "pk3": 189
+    }
+  },
+  "Aipom": {
+    "Indices": {
+      "pk3": 190
+    }
+  },
+  "Sunkern": {
+    "Indices": {
+      "pk3": 191
+    }
+  },
+  "Sunflora": {
+    "Indices": {
+      "pk3": 192
+    }
+  },
+  "Yanma": {
+    "Indices": {
+      "pk3": 193
+    }
+  },
+  "Wooper": {
+    "Indices": {
+      "pk3": 194
+    }
+  },
+  "Quagsire": {
+    "Indices": {
+      "pk3": 195
+    }
+  },
+  "Espeon": {
+    "Indices": {
+      "pk3": 196
+    }
+  },
+  "Umbreon": {
+    "Indices": {
+      "pk3": 197
+    }
+  },
+  "Murkrow": {
+    "Indices": {
+      "pk3": 198
+    }
+  },
+  "Slowking": {
+    "Indices": {
+      "pk3": 199
+    }
+  },
+  "Misdreavus": {
+    "Indices": {
+      "pk3": 200
+    }
+  },
+  "Unown": {
+    "Indices": {
+      "pk3": 201
+    }
+  },
+  "Wobbuffet": {
+    "Indices": {
+      "pk3": 202
+    }
+  },
+  "Girafarig": {
+    "Indices": {
+      "pk3": 203
+    }
+  },
+  "Pineco": {
+    "Indices": {
+      "pk3": 204
+    }
+  },
+  "Forretress": {
+    "Indices": {
+      "pk3": 205
+    }
+  },
+  "Dunsparce": {
+    "Indices": {
+      "pk3": 206
+    }
+  },
+  "Gligar": {
+    "Indices": {
+      "pk3": 207
+    }
+  },
+  "Steelix": {
+    "Indices": {
+      "pk3": 208
+    }
+  },
+  "Snubbull": {
+    "Indices": {
+      "pk3": 209
+    }
+  },
+  "Granbull": {
+    "Indices": {
+      "pk3": 210
+    }
+  },
+  "Qwilfish": {
+    "Indices": {
+      "pk3": 211
+    }
+  },
+  "Scizor": {
+    "Indices": {
+      "pk3": 212
+    }
+  },
+  "Shuckle": {
+    "Indices": {
+      "pk3": 213
+    }
+  },
+  "Heracross": {
+    "Indices": {
+      "pk3": 214
+    }
+  },
+  "Sneasel": {
+    "Indices": {
+      "pk3": 215
+    }
+  },
+  "Teddiursa": {
+    "Indices": {
+      "pk3": 216
+    }
+  },
+  "Ursaring": {
+    "Indices": {
+      "pk3": 217
+    }
+  },
+  "Slugma": {
+    "Indices": {
+      "pk3": 218
+    }
+  },
+  "Magcargo": {
+    "Indices": {
+      "pk3": 219
+    }
+  },
+  "Swinub": {
+    "Indices": {
+      "pk3": 220
+    }
+  },
+  "Piloswine": {
+    "Indices": {
+      "pk3": 221
+    }
+  },
+  "Corsola": {
+    "Indices": {
+      "pk3": 222
+    }
+  },
+  "Remoraid": {
+    "Indices": {
+      "pk3": 223
+    }
+  },
+  "Octillery": {
+    "Indices": {
+      "pk3": 224
+    }
+  },
+  "Delibird": {
+    "Indices": {
+      "pk3": 225
+    }
+  },
+  "Mantine": {
+    "Indices": {
+      "pk3": 226
+    }
+  },
+  "Skarmory": {
+    "Indices": {
+      "pk3": 227
+    }
+  },
+  "Houndour": {
+    "Indices": {
+      "pk3": 228
+    }
+  },
+  "Houndoom": {
+    "Indices": {
+      "pk3": 229
+    }
+  },
+  "Kingdra": {
+    "Indices": {
+      "pk3": 230
+    }
+  },
+  "Phanpy": {
+    "Indices": {
+      "pk3": 231
+    }
+  },
+  "Donphan": {
+    "Indices": {
+      "pk3": 232
+    }
+  },
+  "Porygon2": {
+    "Indices": {
+      "pk3": 233
+    }
+  },
+  "Stantler": {
+    "Indices": {
+      "pk3": 234
+    }
+  },
+  "Smeargle": {
+    "Indices": {
+      "pk3": 235
+    }
+  },
+  "Tyrogue": {
+    "Indices": {
+      "pk3": 236
+    }
+  },
+  "Hitmontop": {
+    "Indices": {
+      "pk3": 237
+    }
+  },
+  "Smoochum": {
+    "Indices": {
+      "pk3": 238
+    }
+  },
+  "Elekid": {
+    "Indices": {
+      "pk3": 239
+    }
+  },
+  "Magby": {
+    "Indices": {
+      "pk3": 240
+    }
+  },
+  "Miltank": {
+    "Indices": {
+      "pk3": 241
+    }
+  },
+  "Blissey": {
+    "Indices": {
+      "pk3": 242
+    }
+  },
+  "Raikou": {
+    "Indices": {
+      "pk3": 243
+    }
+  },
+  "Entei": {
+    "Indices": {
+      "pk3": 244
+    }
+  },
+  "Suicune": {
+    "Indices": {
+      "pk3": 245
+    }
+  },
+  "Larvitar": {
+    "Indices": {
+      "pk3": 246
+    }
+  },
+  "Pupitar": {
+    "Indices": {
+      "pk3": 247
+    }
+  },
+  "Tyranitar": {
+    "Indices": {
+      "pk3": 248
+    }
+  },
+  "Lugia": {
+    "Indices": {
+      "pk3": 249
+    }
+  },
+  "Ho-Oh": {
+    "Indices": {
+      "pk3": 250
+    }
+  },
+  "Celebi": {
+    "Indices": {
+      "pk3": 251
+    }
+  },
+  "Treecko": {
+    "Indices": {
+      "pk3": 277
+    }
+  },
+  "Grovyle": {
+    "Indices": {
+      "pk3": 278
+    }
+  },
+  "Sceptile": {
+    "Indices": {
+      "pk3": 279
+    }
+  },
+  "Torchic": {
+    "Indices": {
+      "pk3": 280
+    }
+  },
+  "Combusken": {
+    "Indices": {
+      "pk3": 281
+    }
+  },
+  "Blaziken": {
+    "Indices": {
+      "pk3": 282
+    }
+  },
+  "Mudkip": {
+    "Indices": {
+      "pk3": 283
+    }
+  },
+  "Marshtomp": {
+    "Indices": {
+      "pk3": 284
+    }
+  },
+  "Swampert": {
+    "Indices": {
+      "pk3": 285
+    }
+  },
+  "Poochyena": {
+    "Indices": {
+      "pk3": 286
+    }
+  },
+  "Mightyena": {
+    "Indices": {
+      "pk3": 287
+    }
+  },
+  "Zigzagoon": {
+    "Indices": {
+      "pk3": 288
+    }
+  },
+  "Linoone": {
+    "Indices": {
+      "pk3": 289
+    }
+  },
+  "Wurmple": {
+    "Indices": {
+      "pk3": 290
+    }
+  },
+  "Silcoon": {
+    "Indices": {
+      "pk3": 291
+    }
+  },
+  "Beautifly": {
+    "Indices": {
+      "pk3": 292
+    }
+  },
+  "Cascoon": {
+    "Indices": {
+      "pk3": 293
+    }
+  },
+  "Dustox": {
+    "Indices": {
+      "pk3": 294
+    }
+  },
+  "Lotad": {
+    "Indices": {
+      "pk3": 295
+    }
+  },
+  "Lombre": {
+    "Indices": {
+      "pk3": 296
+    }
+  },
+  "Ludicolo": {
+    "Indices": {
+      "pk3": 297
+    }
+  },
+  "Seedot": {
+    "Indices": {
+      "pk3": 298
+    }
+  },
+  "Nuzleaf": {
+    "Indices": {
+      "pk3": 299
+    }
+  },
+  "Shiftry": {
+    "Indices": {
+      "pk3": 300
+    }
+  },
+  "Taillow": {
+    "Indices": {
+      "pk3": 304
+    }
+  },
+  "Swellow": {
+    "Indices": {
+      "pk3": 305
+    }
+  },
+  "Wingull": {
+    "Indices": {
+      "pk3": 309
+    }
+  },
+  "Pelipper": {
+    "Indices": {
+      "pk3": 310
+    }
+  },
+  "Ralts": {
+    "Indices": {
+      "pk3": 392
+    }
+  },
+  "Kirlia": {
+    "Indices": {
+      "pk3": 393
+    }
+  },
+  "Gardevoir": {
+    "Indices": {
+      "pk3": 394
+    }
+  },
+  "Surskit": {
+    "Indices": {
+      "pk3": 311
+    }
+  },
+  "Masquerain": {
+    "Indices": {
+      "pk3": 312
+    }
+  },
+  "Shroomish": {
+    "Indices": {
+      "pk3": 306
+    }
+  },
+  "Breloom": {
+    "Indices": {
+      "pk3": 307
+    }
+  },
+  "Slakoth": {
+    "Indices": {
+      "pk3": 364
+    }
+  },
+  "Vigoroth": {
+    "Indices": {
+      "pk3": 365
+    }
+  },
+  "Slaking": {
+    "Indices": {
+      "pk3": 366
+    }
+  },
+  "Nincada": {
+    "Indices": {
+      "pk3": 301
+    }
+  },
+  "Ninjask": {
+    "Indices": {
+      "pk3": 302
+    }
+  },
+  "Shedinja": {
+    "Indices": {
+      "pk3": 303
+    }
+  },
+  "Whismur": {
+    "Indices": {
+      "pk3": 370
+    }
+  },
+  "Loudred": {
+    "Indices": {
+      "pk3": 371
+    }
+  },
+  "Exploud": {
+    "Indices": {
+      "pk3": 372
+    }
+  },
+  "Makuhita": {
+    "Indices": {
+      "pk3": 335
+    }
+  },
+  "Hariyama": {
+    "Indices": {
+      "pk3": 336
+    }
+  },
+  "Azurill": {
+    "Indices": {
+      "pk3": 350
+    }
+  },
+  "Nosepass": {
+    "Indices": {
+      "pk3": 320
+    }
+  },
+  "Skitty": {
+    "Indices": {
+      "pk3": 315
+    }
+  },
+  "Delcatty": {
+    "Indices": {
+      "pk3": 316
+    }
+  },
+  "Sableye": {
+    "Indices": {
+      "pk3": 322
+    }
+  },
+  "Mawile": {
+    "Indices": {
+      "pk3": 355
+    }
+  },
+  "Aron": {
+    "Indices": {
+      "pk3": 382
+    }
+  },
+  "Lairon": {
+    "Indices": {
+      "pk3": 383
+    }
+  },
+  "Aggron": {
+    "Indices": {
+      "pk3": 384
+    }
+  },
+  "Meditite": {
+    "Indices": {
+      "pk3": 356
+    }
+  },
+  "Medicham": {
+    "Indices": {
+      "pk3": 357
+    }
+  },
+  "Electrike": {
+    "Indices": {
+      "pk3": 337
+    }
+  },
+  "Manectric": {
+    "Indices": {
+      "pk3": 338
+    }
+  },
+  "Plusle": {
+    "Indices": {
+      "pk3": 353
+    }
+  },
+  "Minun": {
+    "Indices": {
+      "pk3": 354
+    }
+  },
+  "Volbeat": {
+    "Indices": {
+      "pk3": 386
+    }
+  },
+  "Illumise": {
+    "Indices": {
+      "pk3": 387
+    }
+  },
+  "Roselia": {
+    "Indices": {
+      "pk3": 363
+    }
+  },
+  "Gulpin": {
+    "Indices": {
+      "pk3": 367
+    }
+  },
+  "Swalot": {
+    "Indices": {
+      "pk3": 368
+    }
+  },
+  "Carvanha": {
+    "Indices": {
+      "pk3": 330
+    }
+  },
+  "Sharpedo": {
+    "Indices": {
+      "pk3": 331
+    }
+  },
+  "Wailmer": {
+    "Indices": {
+      "pk3": 313
+    }
+  },
+  "Wailord": {
+    "Indices": {
+      "pk3": 314
+    }
+  },
+  "Numel": {
+    "Indices": {
+      "pk3": 339
+    }
+  },
+  "Camerupt": {
+    "Indices": {
+      "pk3": 340
+    }
+  },
+  "Torkoal": {
+    "Indices": {
+      "pk3": 321
+    }
+  },
+  "Spoink": {
+    "Indices": {
+      "pk3": 351
+    }
+  },
+  "Grumpig": {
+    "Indices": {
+      "pk3": 352
+    }
+  },
+  "Spinda": {
+    "Indices": {
+      "pk3": 308
+    }
+  },
+  "Trapinch": {
+    "Indices": {
+      "pk3": 332
+    }
+  },
+  "Vibrava": {
+    "Indices": {
+      "pk3": 333
+    }
+  },
+  "Flygon": {
+    "Indices": {
+      "pk3": 334
+    }
+  },
+  "Cacnea": {
+    "Indices": {
+      "pk3": 344
+    }
+  },
+  "Cacturne": {
+    "Indices": {
+      "pk3": 345
+    }
+  },
+  "Swablu": {
+    "Indices": {
+      "pk3": 358
+    }
+  },
+  "Altaria": {
+    "Indices": {
+      "pk3": 359
+    }
+  },
+  "Zangoose": {
+    "Indices": {
+      "pk3": 380
+    }
+  },
+  "Seviper": {
+    "Indices": {
+      "pk3": 379
+    }
+  },
+  "Lunatone": {
+    "Indices": {
+      "pk3": 348
+    }
+  },
+  "Solrock": {
+    "Indices": {
+      "pk3": 349
+    }
+  },
+  "Barboach": {
+    "Indices": {
+      "pk3": 323
+    }
+  },
+  "Whiscash": {
+    "Indices": {
+      "pk3": 324
+    }
+  },
+  "Corphish": {
+    "Indices": {
+      "pk3": 326
+    }
+  },
+  "Crawdaunt": {
+    "Indices": {
+      "pk3": 327
+    }
+  },
+  "Baltoy": {
+    "Indices": {
+      "pk3": 318
+    }
+  },
+  "Claydol": {
+    "Indices": {
+      "pk3": 319
+    }
+  },
+  "Lileep": {
+    "Indices": {
+      "pk3": 388
+    }
+  },
+  "Cradily": {
+    "Indices": {
+      "pk3": 389
+    }
+  },
+  "Anorith": {
+    "Indices": {
+      "pk3": 390
+    }
+  },
+  "Armaldo": {
+    "Indices": {
+      "pk3": 391
+    }
+  },
+  "Feebas": {
+    "Indices": {
+      "pk3": 328
+    }
+  },
+  "Milotic": {
+    "Indices": {
+      "pk3": 329
+    }
+  },
+  "Castform": {
+    "Indices": {
+      "pk3": 385
+    }
+  },
+  "Kecleon": {
+    "Indices": {
+      "pk3": 317
+    }
+  },
+  "Shuppet": {
+    "Indices": {
+      "pk3": 377
+    }
+  },
+  "Banette": {
+    "Indices": {
+      "pk3": 378
+    }
+  },
+  "Duskull": {
+    "Indices": {
+      "pk3": 361
+    }
+  },
+  "Dusclops": {
+    "Indices": {
+      "pk3": 362
+    }
+  },
+  "Tropius": {
+    "Indices": {
+      "pk3": 369
+    }
+  },
+  "Chimecho": {
+    "Indices": {
+      "pk3": 411
+    }
+  },
+  "Absol": {
+    "Indices": {
+      "pk3": 376
+    }
+  },
+  "Wynaut": {
+    "Indices": {
+      "pk3": 360
+    }
+  },
+  "Snorunt": {
+    "Indices": {
+      "pk3": 346
+    }
+  },
+  "Glalie": {
+    "Indices": {
+      "pk3": 347
+    }
+  },
+  "Spheal": {
+    "Indices": {
+      "pk3": 341
+    }
+  },
+  "Sealeo": {
+    "Indices": {
+      "pk3": 342
+    }
+  },
+  "Walrein": {
+    "Indices": {
+      "pk3": 343
+    }
+  },
+  "Clamperl": {
+    "Indices": {
+      "pk3": 373
+    }
+  },
+  "Huntail": {
+    "Indices": {
+      "pk3": 374
+    }
+  },
+  "Gorebyss": {
+    "Indices": {
+      "pk3": 375
+    }
+  },
+  "Relicanth": {
+    "Indices": {
+      "pk3": 381
+    }
+  },
+  "Luvdisc": {
+    "Indices": {
+      "pk3": 325
+    }
+  },
+  "Bagon": {
+    "Indices": {
+      "pk3": 395
+    }
+  },
+  "Shelgon": {
+    "Indices": {
+      "pk3": 396
+    }
+  },
+  "Salamence": {
+    "Indices": {
+      "pk3": 397
+    }
+  },
+  "Beldum": {
+    "Indices": {
+      "pk3": 398
+    }
+  },
+  "Metang": {
+    "Indices": {
+      "pk3": 399
+    }
+  },
+  "Metagross": {
+    "Indices": {
+      "pk3": 400
+    }
+  },
+  "Regirock": {
+    "Indices": {
+      "pk3": 401
+    }
+  },
+  "Regice": {
+    "Indices": {
+      "pk3": 402
+    }
+  },
+  "Registeel": {
+    "Indices": {
+      "pk3": 403
+    }
+  },
+  "Latias": {
+    "Indices": {
+      "pk3": 407
+    }
+  },
+  "Latios": {
+    "Indices": {
+      "pk3": 408
+    }
+  },
+  "Kyogre": {
+    "Indices": {
+      "pk3": 404
+    }
+  },
+  "Groudon": {
+    "Indices": {
+      "pk3": 405
+    }
+  },
+  "Rayquaza": {
+    "Indices": {
+      "pk3": 406
+    }
+  },
+  "Jirachi": {
+    "Indices": {
+      "pk3": 409
+    }
+  },
+  "Deoxys": {
+    "Indices": {
+      "pk3": 410
+    }
+  }
+}
