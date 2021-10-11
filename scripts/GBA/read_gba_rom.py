@@ -63,9 +63,12 @@ for r in index_ranges:
 # generate output
 output = {}
 name_offset = profiles[profile_name]["Species Names Offset"]
+table_offset = profiles[profile_name]["Species Table Offset"]
 for id in valid_indices:
     species = {}
     species["name"] = list(rom[name_offset + id*11: name_offset + (id+1)*11])
+    species["slot 1"] = rom[table_offset + id*28 + 22]
+    species["slot 2"] = rom[table_offset + id*28 + 23]
     output[id] = species
 
 # all done, write file
