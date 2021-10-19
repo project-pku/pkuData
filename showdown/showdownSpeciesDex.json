@@ -1,0 +1,7982 @@
+// Groups: Gens 1-8, Pokéstar, CAP
+// Tags:
+//   Showdown Names
+//     - Associates a canonical species/form/appearance with a Showdown name.
+//   CAP Dex
+//     - The official Smogon CAP Dex number for CAP species.
+//
+// This file is updated as of 9/23/21. Check against https://github.com/smogon/pokemon-showdown/blob/master/data/pokedex.ts
+{
+  //-----------
+  // Gen 1
+  //-----------
+  "Bulbasaur": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Bulbasaur"
+      }
+    }
+  },
+  "Ivysaur": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Ivysaur"
+      }
+    }
+  },
+  "Venusaur": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Venusaur"
+      },
+      "Mega": {
+        "Showdown Name": "Venusaur-Mega"
+      }
+    }
+  },
+  "Charmander": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Charmander"
+      }
+    }
+  },
+  "Charmeleon": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Charmeleon"
+      }
+    }
+  },
+  "Charizard": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Charizard"
+      },
+      "Mega X": {
+        "Showdown Name": "Charizard-Mega-X"
+      },
+      "Mega Y": {
+        "Showdown Name": "Charizard-Mega-Y"
+      }
+    }
+  },
+  "Squirtle": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Squirtle"
+      }
+    }
+  },
+  "Wartortle": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Wartortle"
+      }
+    }
+  },
+  "Blastoise": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Blastoise"
+      },
+      "Mega": {
+        "Showdown Name": "Blastoise-Mega"
+      }
+    }
+  },
+  "Caterpie": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Caterpie"
+      }
+    }
+  },
+  "Metapod": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Metapod"
+      }
+    }
+  },
+  "Butterfree": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Butterfree"
+      }
+    }
+  },
+  "Weedle": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Weedle"
+      }
+    }
+  },
+  "Kakuna": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Kakuna"
+      }
+    }
+  },
+  "Beedrill": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Beedrill"
+      },
+      "Mega": {
+        "Showdown Name": "Beedrill-Mega"
+      }
+    }
+  },
+  "Pidgey": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Pidgey"
+      }
+    }
+  },
+  "Pidgeotto": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Pidgeotto"
+      }
+    }
+  },
+  "Pidgeot": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Pidgeot"
+      },
+      "Mega": {
+        "Showdown Name": "Pidgeot-Mega"
+      }
+    }
+  },
+  "Rattata": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Rattata"
+      },
+      "Alolan": {
+        "Showdown Name": "Rattata-Alola"
+      }
+    }
+  },
+  "Raticate": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Raticate"
+      },
+      "Alolan": {
+        "Showdown Name": "Raticate-Alola"
+      },
+      "Alolan|Totem": {
+        "Showdown Name": "Raticate-Alola-Totem"
+      }
+    }
+  },
+  "Spearow": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Spearow"
+      }
+    }
+  },
+  "Fearow": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Fearow"
+      }
+    }
+  },
+  "Ekans": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Ekans"
+      }
+    }
+  },
+  "Arbok": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Arbok"
+      }
+    }
+  },
+  "Pikachu": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Pikachu",
+        "Appearance": {
+          "Original Cap": {
+            "Showdown Name": "Pikachu-Original"
+          },
+          "Hoenn Cap": {
+            "Showdown Name": "Pikachu-Hoenn"
+          },
+          "Sinnoh Cap": {
+            "Showdown Name": "Pikachu-Sinnoh"
+          },
+          "Unova Cap": {
+            "Showdown Name": "Pikachu-Unova"
+          },
+          "Kalos Cap": {
+            "Showdown Name": "Pikachu-Kalos"
+          },
+          "Alola Cap": {
+            "Showdown Name": "Pikachu-Alola"
+          },
+          "Partner Cap": {
+            "Showdown Name": "Pikachu-Partner"
+          },
+          "World Cap": {
+            "Showdown Name": "Pikachu-World"
+          }
+        }
+      },
+      "Cosplay": {
+        "Showdown Name": "Pikachu-Cosplay",
+        "Appearance": {
+          "Rock-Star Outfit": {
+            "Showdown Name": "Pikachu-Rock-Star"
+          },
+          "Belle Outfit": {
+            "Showdown Name": "Pikachu-Belle"
+          },
+          "Pop-Star Outfit": {
+            "Showdown Name": "Pikachu-Pop-Star"
+          },
+          "PhD Outfit": {
+            "Showdown Name": "Pikachu-PhD"
+          },
+          "Libre Outfit": {
+            "Showdown Name": "Pikachu-Libre"
+          }
+        }
+      },
+      "Partner": {
+        "Showdown Name": "Pikachu-Starter"
+      }
+    }
+  },
+  "Raichu": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Raichu"
+      },
+      "Alolan": {
+        "Showdown Name": "Raichu-Alola"
+      }
+    }
+  },
+  "Sandshrew": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Sandshrew"
+      },
+      "Alolan": {
+        "Showdown Name": "Sandshrew-Alola"
+      }
+    }
+  },
+  "Sandslash": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Sandslash"
+      },
+      "Alolan": {
+        "Showdown Name": "Sandslash-Alola"
+      }
+    }
+  },
+  "Nidoran♀": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Nidoran-F"
+      }
+    }
+  },
+  "Nidorina": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Nidorina"
+      }
+    }
+  },
+  "Nidoqueen": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Nidoqueen"
+      }
+    }
+  },
+  "Nidoran♂": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Nidoran-M"
+      }
+    }
+  },
+  "Nidorino": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Nidorino"
+      }
+    }
+  },
+  "Nidoking": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Nidoking"
+      }
+    }
+  },
+  "Clefairy": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Clefairy"
+      }
+    }
+  },
+  "Clefable": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Clefable"
+      }
+    }
+  },
+  "Vulpix": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Vulpix"
+      },
+      "Alolan": {
+        "Showdown Name": "Vulpix-Alola"
+      }
+    }
+  },
+  "Ninetales": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Ninetales"
+      },
+      "Alolan": {
+        "Showdown Name": "Ninetales-Alola"
+      }
+    }
+  },
+  "Jigglypuff": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Jigglypuff"
+      }
+    }
+  },
+  "Wigglytuff": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Wigglytuff"
+      }
+    }
+  },
+  "Zubat": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Zubat"
+      }
+    }
+  },
+  "Golbat": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Golbat"
+      }
+    }
+  },
+  "Oddish": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Oddish"
+      }
+    }
+  },
+  "Gloom": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Gloom"
+      }
+    }
+  },
+  "Vileplume": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Vileplume"
+      }
+    }
+  },
+  "Paras": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Paras"
+      }
+    }
+  },
+  "Parasect": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Parasect"
+      }
+    }
+  },
+  "Venonat": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Venonat"
+      }
+    }
+  },
+  "Venomoth": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Venomoth"
+      }
+    }
+  },
+  "Diglett": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Diglett"
+      },
+      "Alolan": {
+        "Showdown Name": "Diglett-Alola"
+      }
+    }
+  },
+  "Dugtrio": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Dugtrio"
+      },
+      "Alolan": {
+        "Showdown Name": "Dugtrio-Alola"
+      }
+    }
+  },
+  "Meowth": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Meowth"
+      },
+      "Alolan": {
+        "Showdown Name": "Meowth-Alola"
+      },
+      "Galarian": {
+        "Showdown Name": "Meowth-Glalar"
+      }
+    }
+  },
+  "Persian": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Persian"
+      },
+      "Alolan": {
+        "Showdown Name": "Persian-Alola"
+      }
+    }
+  },
+  "Psyduck": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Psyduck"
+      }
+    }
+  },
+  "Golduck": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Golduck"
+      }
+    }
+  },
+  "Mankey": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Mankey"
+      }
+    }
+  },
+  "Primeape": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Primeape"
+      }
+    }
+  },
+  "Growlithe": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Growlithe"
+      }
+    }
+  },
+  "Arcanine": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Arcanine"
+      }
+    }
+  },
+  "Poliwag": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Poliwag"
+      }
+    }
+  },
+  "Poliwhirl": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Poliwhirl"
+      }
+    }
+  },
+  "Poliwrath": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Poliwrath"
+      }
+    }
+  },
+  "Abra": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Abra"
+      }
+    }
+  },
+  "Kadabra": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Kadabra"
+      }
+    }
+  },
+  "Alakazam": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Alakazam"
+      },
+      "Mega": {
+        "Showdown Name": "Alakazam-Mega"
+      }
+    }
+  },
+  "Machop": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Machop"
+      }
+    }
+  },
+  "Machoke": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Machoke"
+      }
+    }
+  },
+  "Machamp": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Machamp"
+      }
+    }
+  },
+  "Bellsprout": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Bellsprout"
+      }
+    }
+  },
+  "Weepinbell": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Weepinbell"
+      }
+    }
+  },
+  "Victreebel": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Victreebel"
+      }
+    }
+  },
+  "Tentacool": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Tentacool"
+      }
+    }
+  },
+  "Tentacruel": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Tentacruel"
+      }
+    }
+  },
+  "Geodude": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Geodude"
+      },
+      "Alolan": {
+        "Showdown Name": "Geodude-Alola"
+      }
+    }
+  },
+  "Graveler": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Graveler"
+      },
+      "Alolan": {
+        "Showdown Name": "Graveler-Alola"
+      }
+    }
+  },
+  "Golem": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Golem"
+      },
+      "Alolan": {
+        "Showdown Name": "Golem-Alola"
+      }
+    }
+  },
+  "Ponyta": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Ponyta"
+      },
+      "Galarian": {
+        "Showdown Name": "Ponyta-Galar"
+      }
+    }
+  },
+  "Rapidash": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Rapidash"
+      },
+      "Galarian": {
+        "Showdown Name": "Rapidash-Galar"
+      }
+    }
+  },
+  "Slowpoke": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Slowpoke"
+      },
+      "Galarian": {
+        "Showdown Name": "Slowpoke-Galar"
+      }
+    }
+  },
+  "Slowbro": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Slowbro"
+      },
+      "Galarian": {
+        "Showdown Name": "Slowbro-Galar"
+      }
+    }
+  },
+  "Magnemite": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Magnemite"
+      }
+    }
+  },
+  "Magneton": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Magneton"
+      }
+    }
+  },
+  "Farfetch’d": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Farfetch’d"
+      },
+      "Galarian": {
+        "Showdown Name": "Farfetch’d-Galar"
+      }
+    }
+  },
+  "Doduo": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Doduo"
+      }
+    }
+  },
+  "Dodrio": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Dodrio"
+      }
+    }
+  },
+  "Seel": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Seel"
+      }
+    }
+  },
+  "Dewgong": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Dewgong"
+      }
+    }
+  },
+  "Grimer": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Grimer"
+      },
+      "Alolan": {
+        "Showdown Name": "Grimer-Alola"
+      }
+    }
+  },
+  "Muk": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Muk"
+      },
+      "Alolan": {
+        "Showdown Name": "Muk-Alola"
+      }
+    }
+  },
+  "Shellder": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Shellder"
+      }
+    }
+  },
+  "Cloyster": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Cloyster"
+      }
+    }
+  },
+  "Gastly": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Gastly"
+      }
+    }
+  },
+  "Haunter": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Haunter"
+      }
+    }
+  },
+  "Gengar": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Gengar"
+      },
+      "Mega": {
+        "Showdown Name": "Gengar-Mega"
+      }
+    }
+  },
+  "Onix": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Onix"
+      }
+    }
+  },
+  "Drowzee": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Drowzee"
+      }
+    }
+  },
+  "Hypno": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Hypno"
+      }
+    }
+  },
+  "Krabby": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Krabby"
+      }
+    }
+  },
+  "Kingler": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Kingler"
+      }
+    }
+  },
+  "Voltorb": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Voltorb"
+      }
+    }
+  },
+  "Electrode": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Electrode"
+      }
+    }
+  },
+  "Exeggcute": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Exeggcute"
+      }
+    }
+  },
+  "Exeggutor": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Exeggutor"
+      },
+      "Alolan": {
+        "Showdown Name": "Exeggutor-Alola"
+      }
+    }
+  },
+  "Cubone": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Cubone"
+      }
+    }
+  },
+  "Marowak": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Marowak"
+      },
+      "Alolan": {
+        "Showdown Name": "Marowak-Alola"
+      },
+      "Alolan|Totem": {
+        "Showdown Name": "Marowak-Alola-Totem"
+      }
+    }
+  },
+  "Hitmonlee": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Hitmonlee"
+      }
+    }
+  },
+  "Hitmonchan": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Hitmonchan"
+      }
+    }
+  },
+  "Lickitung": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Lickitung"
+      }
+    }
+  },
+  "Koffing": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Koffing"
+      }
+    }
+  },
+  "Weezing": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Weezing"
+      },
+      "Galarian": {
+        "Showdown Name": "Weezing-Galar"
+      }
+    }
+  },
+  "Rhyhorn": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Rhyhorn"
+      }
+    }
+  },
+  "Rhydon": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Rhydon"
+      }
+    }
+  },
+  "Chansey": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Chansey"
+      }
+    }
+  },
+  "Tangela": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Tangela"
+      }
+    }
+  },
+  "Kangaskhan": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Kangaskhan"
+      },
+      "Mega": {
+        "Showdown Name": "Kangaskhan-Mega"
+      }
+    }
+  },
+  "Horsea": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Horsea"
+      }
+    }
+  },
+  "Seadra": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Seadra"
+      }
+    }
+  },
+  "Goldeen": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Goldeen"
+      }
+    }
+  },
+  "Seaking": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Seaking"
+      }
+    }
+  },
+  "Staryu": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Staryu"
+      }
+    }
+  },
+  "Starmie": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Starmie"
+      }
+    }
+  },
+  "Mr. Mime": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Mr. Mime"
+      },
+      "Galarian": {
+        "Showdown Name": "Mr. Mime-Galar"
+      }
+    }
+  },
+  "Scyther": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Scyther"
+      }
+    }
+  },
+  "Jynx": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Jynx"
+      }
+    }
+  },
+  "Electabuzz": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Electabuzz"
+      }
+    }
+  },
+  "Magmar": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Magmar"
+      }
+    }
+  },
+  "Pinsir": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Pinsir"
+      },
+      "Mega": {
+        "Showdown Name": "Pinsir-Mega"
+      }
+    }
+  },
+  "Tauros": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Tauros"
+      }
+    }
+  },
+  "Magikarp": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Magikarp"
+      }
+    }
+  },
+  "Gyarados": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Gyarados"
+      },
+      "Mega": {
+        "Showdown Name": "Gyarados-Mega"
+      }
+    }
+  },
+  "Lapras": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Lapras"
+      }
+    }
+  },
+  "Ditto": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Ditto"
+      }
+    }
+  },
+  "Eevee": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Eevee"
+      },
+      "Partner": {
+        "Showdown Name": "Eevee-Starter"
+      }
+    }
+  },
+  "Vaporeon": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Vaporeon"
+      }
+    }
+  },
+  "Jolteon": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Jolteon"
+      }
+    }
+  },
+  "Flareon": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Flareon"
+      }
+    }
+  },
+  "Porygon": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Porygon"
+      }
+    }
+  },
+  "Omanyte": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Omanyte"
+      }
+    }
+  },
+  "Omastar": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Omastar"
+      }
+    }
+  },
+  "Kabuto": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Kabuto"
+      }
+    }
+  },
+  "Kabutops": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Kabutops"
+      }
+    }
+  },
+  "Aerodactyl": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Aerodactyl"
+      },
+      "Mega": {
+        "Showdown Name": "Aerodactyl-Mega"
+      }
+    }
+  },
+  "Snorlax": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Snorlax"
+      }
+    }
+  },
+  "Articuno": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Articuno"
+      },
+      "Galarian": {
+        "Showdown Name": "Articuno-Galar"
+      }
+    }
+  },
+  "Zapdos": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Zapdos"
+      },
+      "Galarian": {
+        "Showdown Name": "Zapdos-Galar"
+      }
+    }
+  },
+  "Moltres": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Moltres"
+      },
+      "Galarian": {
+        "Showdown Name": "Moltres-Galar"
+      }
+    }
+  },
+  "Dratini": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Dratini"
+      }
+    }
+  },
+  "Dragonair": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Dragonair"
+      }
+    }
+  },
+  "Dragonite": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Dragonite"
+      }
+    }
+  },
+  "Mewtwo": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Mewtwo"
+      },
+      "Mega X": {
+        "Showdown Name": "Mewtwo-Mega-X"
+      },
+      "Mega Y": {
+        "Showdown Name": "Mewtwo-Mega-Y"
+      }
+    }
+  },
+  "Mew": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Mew"
+      }
+    }
+  },
+
+
+  //-----------
+  // Gen 2
+  //-----------
+  "Chikorita": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Chikorita"
+      }
+    }
+  },
+  "Bayleef": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Bayleef"
+      }
+    }
+  },
+  "Meganium": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Meganium"
+      }
+    }
+  },
+  "Cyndaquil": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Cyndaquil"
+      }
+    }
+  },
+  "Quilava": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Quilava"
+      }
+    }
+  },
+  "Typhlosion": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Typhlosion"
+      }
+    }
+  },
+  "Totodile": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Totodile"
+      }
+    }
+  },
+  "Croconaw": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Croconaw"
+      }
+    }
+  },
+  "Feraligatr": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Feraligatr"
+      }
+    }
+  },
+  "Sentret": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Sentret"
+      }
+    }
+  },
+  "Furret": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Furret"
+      }
+    }
+  },
+  "Hoothoot": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Hoothoot"
+      }
+    }
+  },
+  "Noctowl": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Noctowl"
+      }
+    }
+  },
+  "Ledyba": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Ledyba"
+      }
+    }
+  },
+  "Ledian": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Ledian"
+      }
+    }
+  },
+  "Spinarak": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Spinarak"
+      }
+    }
+  },
+  "Ariados": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Ariados"
+      }
+    }
+  },
+  "Crobat": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Crobat"
+      }
+    }
+  },
+  "Chinchou": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Chinchou"
+      }
+    }
+  },
+  "Lanturn": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Lanturn"
+      }
+    }
+  },
+  "Pichu": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Pichu",
+        "Appearance": {
+          "Spiky-eared": {
+            "Showdown Name": "Pichu-Spiky-eared"
+          }
+        }
+      }
+    }
+  },
+  "Cleffa": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Cleffa"
+      }
+    }
+  },
+  "Igglybuff": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Igglybuff"
+      }
+    }
+  },
+  "Togepi": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Togepi"
+      }
+    }
+  },
+  "Togetic": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Togetic"
+      }
+    }
+  },
+  "Natu": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Natu"
+      }
+    }
+  },
+  "Xatu": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Xatu"
+      }
+    }
+  },
+  "Mareep": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Mareep"
+      }
+    }
+  },
+  "Flaaffy": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Flaaffy"
+      }
+    }
+  },
+  "Ampharos": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Ampharos"
+      },
+      "Mega": {
+        "Showdown Name": "Ampharos-Mega"
+      }
+    }
+  },
+  "Bellossom": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Bellossom"
+      }
+    }
+  },
+  "Marill": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Marill"
+      }
+    }
+  },
+  "Azumarill": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Azumarill"
+      }
+    }
+  },
+  "Sudowoodo": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Sudowoodo"
+      }
+    }
+  },
+  "Politoed": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Politoed"
+      }
+    }
+  },
+  "Hoppip": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Hoppip"
+      }
+    }
+  },
+  "Skiploom": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Skiploom"
+      }
+    }
+  },
+  "Jumpluff": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Jumpluff"
+      }
+    }
+  },
+  "Aipom": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Aipom"
+      }
+    }
+  },
+  "Sunkern": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Sunkern"
+      }
+    }
+  },
+  "Sunflora": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Sunflora"
+      }
+    }
+  },
+  "Yanma": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Yanma"
+      }
+    }
+  },
+  "Wooper": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Wooper"
+      }
+    }
+  },
+  "Quagsire": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Quagsire"
+      }
+    }
+  },
+  "Espeon": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Espeon"
+      }
+    }
+  },
+  "Umbreon": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Umbreon"
+      }
+    }
+  },
+  "Murkrow": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Murkrow"
+      }
+    }
+  },
+  "Slowking": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Slowking"
+      },
+      "Galarian": {
+        "Showdown Name": "Slowking-Galar"
+      }
+    }
+  },
+  "Misdreavus": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Misdreavus"
+      }
+    }
+  },
+  "Unown": {
+    "Forms": {
+      "A": {
+        "Showdown Name": "Unown"
+      },
+      "B": {
+        "Showdown Name": "Unown-B"
+      },
+      "C": {
+        "Showdown Name": "Unown-C"
+      },
+      "D": {
+        "Showdown Name": "Unown-D"
+      },
+      "E": {
+        "Showdown Name": "Unown-E"
+      },
+      "F": {
+        "Showdown Name": "Unown-F"
+      },
+      "G": {
+        "Showdown Name": "Unown-G"
+      },
+      "H": {
+        "Showdown Name": "Unown-H"
+      },
+      "I": {
+        "Showdown Name": "Unown-I"
+      },
+      "J": {
+        "Showdown Name": "Unown-J"
+      },
+      "K": {
+        "Showdown Name": "Unown-K"
+      },
+      "L": {
+        "Showdown Name": "Unown-L"
+      },
+      "M": {
+        "Showdown Name": "Unown-M"
+      },
+      "N": {
+        "Showdown Name": "Unown-N"
+      },
+      "O": {
+        "Showdown Name": "Unown-O"
+      },
+      "P": {
+        "Showdown Name": "Unown-P"
+      },
+      "Q": {
+        "Showdown Name": "Unown-Q"
+      },
+      "R": {
+        "Showdown Name": "Unown-R"
+      },
+      "S": {
+        "Showdown Name": "Unown-S"
+      },
+      "T": {
+        "Showdown Name": "Unown-T"
+      },
+      "U": {
+        "Showdown Name": "Unown-U"
+      },
+      "V": {
+        "Showdown Name": "Unown-V"
+      },
+      "W": {
+        "Showdown Name": "Unown-W"
+      },
+      "X": {
+        "Showdown Name": "Unown-X"
+      },
+      "Y": {
+        "Showdown Name": "Unown-Y"
+      },
+      "Z": {
+        "Showdown Name": "Unown-Z"
+      },
+      "!": {
+        "Showdown Name": "Unown-Exclamation"
+      },
+      "?": {
+        "Showdown Name": "Unown-Question"
+      }
+    }
+  },
+  "Wobbuffet": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Wobbuffet"
+      }
+    }
+  },
+  "Girafarig": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Girafarig"
+      }
+    }
+  },
+  "Pineco": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Pineco"
+      }
+    }
+  },
+  "Forretress": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Forretress"
+      }
+    }
+  },
+  "Dunsparce": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Dunsparce"
+      }
+    }
+  },
+  "Gligar": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Gligar"
+      }
+    }
+  },
+  "Steelix": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Steelix"
+      },
+      "Mega": {
+        "Showdown Name": "Steelix-Mega"
+      }
+    }
+  },
+  "Snubbull": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Snubbull"
+      }
+    }
+  },
+  "Granbull": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Granbull"
+      }
+    }
+  },
+  "Qwilfish": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Qwilfish"
+      }
+    }
+  },
+  "Scizor": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Scizor"
+      },
+      "Mega": {
+        "Showdown Name": "Scizor-Mega"
+      }
+    }
+  },
+  "Shuckle": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Shuckle"
+      }
+    }
+  },
+  "Heracross": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Heracross"
+      },
+      "Mega": {
+        "Showdown Name": "Heracross-Mega"
+      }
+    }
+  },
+  "Sneasel": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Sneasel"
+      }
+    }
+  },
+  "Teddiursa": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Teddiursa"
+      }
+    }
+  },
+  "Ursaring": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Ursaring"
+      }
+    }
+  },
+  "Slugma": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Slugma"
+      }
+    }
+  },
+  "Magcargo": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Magcargo"
+      }
+    }
+  },
+  "Swinub": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Swinub"
+      }
+    }
+  },
+  "Piloswine": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Piloswine"
+      }
+    }
+  },
+  "Corsola": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Corsola"
+      },
+      "Galarian": {
+        "Showdown Name": "Corsola-Galar"
+      }
+    }
+  },
+  "Remoraid": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Remoraid"
+      }
+    }
+  },
+  "Octillery": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Octillery"
+      }
+    }
+  },
+  "Delibird": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Delibird"
+      }
+    }
+  },
+  "Mantine": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Mantine"
+      }
+    }
+  },
+  "Skarmory": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Skarmory"
+      }
+    }
+  },
+  "Houndour": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Houndour"
+      }
+    }
+  },
+  "Houndoom": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Houndoom"
+      },
+      "Mega": {
+        "Showdown Name": "Houndoom-Mega"
+      }
+    }
+  },
+  "Kingdra": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Kingdra"
+      }
+    }
+  },
+  "Phanpy": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Phanpy"
+      }
+    }
+  },
+  "Donphan": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Donphan"
+      }
+    }
+  },
+  "Porygon2": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Porygon2"
+      }
+    }
+  },
+  "Stantler": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Stantler"
+      }
+    }
+  },
+  "Smeargle": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Smeargle"
+      },
+      "Pokéstar": {
+        "Showdown Name": "Pokestar Smeargle"
+      }
+    }
+  },
+  "Tyrogue": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Tyrogue"
+      }
+    }
+  },
+  "Hitmontop": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Hitmontop"
+      }
+    }
+  },
+  "Smoochum": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Smoochum"
+      }
+    }
+  },
+  "Elekid": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Elekid"
+      }
+    }
+  },
+  "Magby": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Magby"
+      }
+    }
+  },
+  "Miltank": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Miltank"
+      }
+    }
+  },
+  "Blissey": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Blissey"
+      }
+    }
+  },
+  "Raikou": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Raikou"
+      }
+    }
+  },
+  "Entei": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Entei"
+      }
+    }
+  },
+  "Suicune": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Suicune"
+      }
+    }
+  },
+  "Larvitar": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Larvitar"
+      }
+    }
+  },
+  "Pupitar": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Pupitar"
+      }
+    }
+  },
+  "Tyranitar": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Tyranitar"
+      },
+      "Mega": {
+        "Showdown Name": "Tyranitar-Mega"
+      }
+    }
+  },
+  "Lugia": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Lugia"
+      }
+    }
+  },
+  "Ho-Oh": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Ho-Oh"
+      }
+    }
+  },
+  "Celebi": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Celebi"
+      }
+    }
+  },
+
+
+  //-----------
+  // Gen 3
+  //-----------
+  "Treecko": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Treecko"
+      }
+    }
+  },
+  "Grovyle": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Grovyle"
+      }
+    }
+  },
+  "Sceptile": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Sceptile"
+      },
+      "Mega": {
+        "Showdown Name": "Sceptile-Mega"
+      }
+    }
+  },
+  "Torchic": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Torchic"
+      }
+    }
+  },
+  "Combusken": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Combusken"
+      }
+    }
+  },
+  "Blaziken": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Blaziken"
+      },
+      "Mega": {
+        "Showdown Name": "Blaziken-Mega"
+      }
+    }
+  },
+  "Mudkip": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Mudkip"
+      }
+    }
+  },
+  "Marshtomp": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Marshtomp"
+      }
+    }
+  },
+  "Swampert": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Swampert"
+      },
+      "Mega": {
+        "Showdown Name": "Swampert-Mega"
+      }
+    }
+  },
+  "Poochyena": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Poochyena"
+      }
+    }
+  },
+  "Mightyena": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Mightyena"
+      }
+    }
+  },
+  "Zigzagoon": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Zigzagoon"
+      },
+      "Galarian": {
+        "Showdown Name": "Zigzagoon-Galar"
+      }
+    }
+  },
+  "Linoone": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Linoone"
+      },
+      "Galarian": {
+        "Showdown Name": "Linoone-Galar"
+      }
+    }
+  },
+  "Wurmple": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Wurmple"
+      }
+    }
+  },
+  "Silcoon": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Silcoon"
+      }
+    }
+  },
+  "Beautifly": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Beautifly"
+      }
+    }
+  },
+  "Cascoon": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Cascoon"
+      }
+    }
+  },
+  "Dustox": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Dustox"
+      }
+    }
+  },
+  "Lotad": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Lotad"
+      }
+    }
+  },
+  "Lombre": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Lombre"
+      }
+    }
+  },
+  "Ludicolo": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Ludicolo"
+      }
+    }
+  },
+  "Seedot": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Seedot"
+      }
+    }
+  },
+  "Nuzleaf": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Nuzleaf"
+      }
+    }
+  },
+  "Shiftry": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Shiftry"
+      }
+    }
+  },
+  "Taillow": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Taillow"
+      }
+    }
+  },
+  "Swellow": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Swellow"
+      }
+    }
+  },
+  "Wingull": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Wingull"
+      }
+    }
+  },
+  "Pelipper": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Pelipper"
+      }
+    }
+  },
+  "Ralts": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Ralts"
+      }
+    }
+  },
+  "Kirlia": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Kirlia"
+      }
+    }
+  },
+  "Gardevoir": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Gardevoir"
+      },
+      "Mega": {
+        "Showdown Name": "Gardevoir-Mega"
+      }
+    }
+  },
+  "Surskit": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Surskit"
+      }
+    }
+  },
+  "Masquerain": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Masquerain"
+      }
+    }
+  },
+  "Shroomish": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Shroomish"
+      }
+    }
+  },
+  "Breloom": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Breloom"
+      }
+    }
+  },
+  "Slakoth": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Slakoth"
+      }
+    }
+  },
+  "Vigoroth": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Vigoroth"
+      }
+    }
+  },
+  "Slaking": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Slaking"
+      }
+    }
+  },
+  "Nincada": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Nincada"
+      }
+    }
+  },
+  "Ninjask": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Ninjask"
+      }
+    }
+  },
+  "Shedinja": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Shedinja"
+      }
+    }
+  },
+  "Whismur": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Whismur"
+      }
+    }
+  },
+  "Loudred": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Loudred"
+      }
+    }
+  },
+  "Exploud": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Exploud"
+      }
+    }
+  },
+  "Makuhita": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Makuhita"
+      }
+    }
+  },
+  "Hariyama": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Hariyama"
+      }
+    }
+  },
+  "Azurill": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Azurill"
+      }
+    }
+  },
+  "Nosepass": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Nosepass"
+      }
+    }
+  },
+  "Skitty": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Skitty"
+      }
+    }
+  },
+  "Delcatty": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Delcatty"
+      }
+    }
+  },
+  "Sableye": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Sableye"
+      },
+      "Mega": {
+        "Showdown Name": "Sableye-Mega"
+      }
+    }
+  },
+  "Mawile": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Mawile"
+      },
+      "Mega": {
+        "Showdown Name": "Mawile-Mega"
+      }
+    }
+  },
+  "Aron": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Aron"
+      }
+    }
+  },
+  "Lairon": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Lairon"
+      }
+    }
+  },
+  "Aggron": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Aggron"
+      },
+      "Mega": {
+        "Showdown Name": "Aggron-Mega"
+      }
+    }
+  },
+  "Meditite": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Meditite"
+      }
+    }
+  },
+  "Medicham": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Medicham"
+      },
+      "Mega": {
+        "Showdown Name": "Medicham-Mega"
+      }
+    }
+  },
+  "Electrike": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Electrike"
+      }
+    }
+  },
+  "Manectric": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Manectric"
+      },
+      "Mega": {
+        "Showdown Name": "Manectric-Mega"
+      }
+    }
+  },
+  "Plusle": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Plusle"
+      }
+    }
+  },
+  "Minun": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Minun"
+      }
+    }
+  },
+  "Volbeat": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Volbeat"
+      }
+    }
+  },
+  "Illumise": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Illumise"
+      }
+    }
+  },
+  "Roselia": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Roselia"
+      }
+    }
+  },
+  "Gulpin": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Gulpin"
+      }
+    }
+  },
+  "Swalot": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Swalot"
+      }
+    }
+  },
+  "Carvanha": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Carvanha"
+      }
+    }
+  },
+  "Sharpedo": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Sharpedo"
+      },
+      "Mega": {
+        "Showdown Name": "Sharpedo-Mega"
+      }
+    }
+  },
+  "Wailmer": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Wailmer"
+      }
+    }
+  },
+  "Wailord": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Wailord"
+      }
+    }
+  },
+  "Numel": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Numel"
+      }
+    }
+  },
+  "Camerupt": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Camerupt"
+      },
+      "Mega": {
+        "Showdown Name": "Camerupt-Mega"
+      }
+    }
+  },
+  "Torkoal": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Torkoal"
+      }
+    }
+  },
+  "Spoink": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Spoink"
+      }
+    }
+  },
+  "Grumpig": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Grumpig"
+      }
+    }
+  },
+  "Spinda": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Spinda"
+      }
+    }
+  },
+  "Trapinch": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Trapinch"
+      }
+    }
+  },
+  "Vibrava": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Vibrava"
+      }
+    }
+  },
+  "Flygon": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Flygon"
+      }
+    }
+  },
+  "Cacnea": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Cacnea"
+      }
+    }
+  },
+  "Cacturne": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Cacturne"
+      }
+    }
+  },
+  "Swablu": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Swablu"
+      }
+    }
+  },
+  "Altaria": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Altaria"
+      },
+      "Mega": {
+        "Showdown Name": "Altaria-Mega"
+      }
+    }
+  },
+  "Zangoose": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Zangoose"
+      }
+    }
+  },
+  "Seviper": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Seviper"
+      }
+    }
+  },
+  "Lunatone": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Lunatone"
+      }
+    }
+  },
+  "Solrock": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Solrock"
+      }
+    }
+  },
+  "Barboach": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Barboach"
+      }
+    }
+  },
+  "Whiscash": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Whiscash"
+      }
+    }
+  },
+  "Corphish": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Corphish"
+      }
+    }
+  },
+  "Crawdaunt": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Crawdaunt"
+      }
+    }
+  },
+  "Baltoy": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Baltoy"
+      }
+    }
+  },
+  "Claydol": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Claydol"
+      }
+    }
+  },
+  "Lileep": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Lileep"
+      }
+    }
+  },
+  "Cradily": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Cradily"
+      }
+    }
+  },
+  "Anorith": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Anorith"
+      }
+    }
+  },
+  "Armaldo": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Armaldo"
+      }
+    }
+  },
+  "Feebas": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Feebas"
+      }
+    }
+  },
+  "Milotic": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Milotic"
+      }
+    }
+  },
+  "Castform": {
+    "Forms": {
+      "Normal": {
+        "Showdown Name": "Castform"
+      },
+      "Sunny": {
+        "Showdown Name": "Castform-Sunny"
+      },
+      "Rainy": {
+        "Showdown Name": "Castform-Rainy"
+      },
+      "Snowy": {
+        "Showdown Name": "Castform-Snowy"
+      }
+    }
+  },
+  "Kecleon": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Kecleon"
+      }
+    }
+  },
+  "Shuppet": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Shuppet"
+      }
+    }
+  },
+  "Banette": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Banette"
+      },
+      "Mega": {
+        "Showdown Name": "Banette-Mega"
+      }
+    }
+  },
+  "Duskull": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Duskull"
+      }
+    }
+  },
+  "Dusclops": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Dusclops"
+      }
+    }
+  },
+  "Tropius": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Tropius"
+      }
+    }
+  },
+  "Chimecho": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Chimecho"
+      }
+    }
+  },
+  "Absol": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Absol"
+      },
+      "Mega": {
+        "Showdown Name": "Absol-Mega"
+      }
+    }
+  },
+  "Wynaut": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Wynaut"
+      }
+    }
+  },
+  "Snorunt": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Snorunt"
+      }
+    }
+  },
+  "Glalie": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Glalie"
+      },
+      "Mega": {
+        "Showdown Name": "Glalie-Mega"
+      }
+    }
+  },
+  "Spheal": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Spheal"
+      }
+    }
+  },
+  "Sealeo": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Sealeo"
+      }
+    }
+  },
+  "Walrein": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Walrein"
+      }
+    }
+  },
+  "Clamperl": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Clamperl"
+      }
+    }
+  },
+  "Huntail": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Huntail"
+      }
+    }
+  },
+  "Gorebyss": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Gorebyss"
+      }
+    }
+  },
+  "Relicanth": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Relicanth"
+      }
+    }
+  },
+  "Luvdisc": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Luvdisc"
+      }
+    }
+  },
+  "Bagon": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Bagon"
+      }
+    }
+  },
+  "Shelgon": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Shelgon"
+      }
+    }
+  },
+  "Salamence": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Salamence"
+      },
+      "Mega": {
+        "Showdown Name": "Salamence-Mega"
+      }
+    }
+  },
+  "Beldum": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Beldum"
+      }
+    }
+  },
+  "Metang": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Metang"
+      }
+    }
+  },
+  "Metagross": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Metagross"
+      },
+      "Mega": {
+        "Showdown Name": "Metagross-Mega"
+      }
+    }
+  },
+  "Regirock": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Regirock"
+      }
+    }
+  },
+  "Regice": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Regice"
+      }
+    }
+  },
+  "Registeel": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Registeel"
+      }
+    }
+  },
+  "Latias": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Latias"
+      },
+      "Mega": {
+        "Showdown Name": "Latias-Mega"
+      }
+    }
+  },
+  "Latios": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Latios"
+      },
+      "Mega": {
+        "Showdown Name": "Latios-Mega"
+      }
+    }
+  },
+  "Kyogre": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Kyogre"
+      },
+      "Primal": {
+        "Showdown Name": "Kyogre-Primal"
+      }
+    }
+  },
+  "Groudon": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Groudon"
+      },
+      "Primal": {
+        "Showdown Name": "Groudon-Primal"
+      }
+    }
+  },
+  "Rayquaza": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Rayquaza"
+      },
+      "Mega": {
+        "Showdown Name": "Rayquaza-Mega"
+      }
+    }
+  },
+  "Jirachi": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Jirachi"
+      }
+    }
+  },
+  "Deoxys": {
+    "Forms": {
+      "Normal": {
+        "Showdown Name": "Deoxys"
+      },
+      "Attack": {
+        "Showdown Name": "Deoxys-Attack"
+      },
+      "Defense": {
+        "Showdown Name": "Deoxys-Defense"
+      },
+      "Speed": {
+        "Showdown Name": "Deoxys-Speed"
+      }
+    }
+  },
+
+
+  //-----------
+  // Gen 4
+  //-----------
+  "Turtwig": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Turtwig"
+      }
+    }
+  },
+  "Grotle": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Grotle"
+      }
+    }
+  },
+  "Torterra": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Torterra"
+      }
+    }
+  },
+  "Chimchar": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Chimchar"
+      }
+    }
+  },
+  "Monferno": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Monferno"
+      }
+    }
+  },
+  "Infernape": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Infernape"
+      }
+    }
+  },
+  "Piplup": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Piplup"
+      }
+    }
+  },
+  "Prinplup": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Prinplup"
+      }
+    }
+  },
+  "Empoleon": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Empoleon"
+      }
+    }
+  },
+  "Starly": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Starly"
+      }
+    }
+  },
+  "Staravia": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Staravia"
+      }
+    }
+  },
+  "Staraptor": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Staraptor"
+      }
+    }
+  },
+  "Bidoof": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Bidoof"
+      }
+    }
+  },
+  "Bibarel": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Bibarel"
+      }
+    }
+  },
+  "Kricketot": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Kricketot"
+      }
+    }
+  },
+  "Kricketune": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Kricketune"
+      }
+    }
+  },
+  "Shinx": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Shinx"
+      }
+    }
+  },
+  "Luxio": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Luxio"
+      }
+    }
+  },
+  "Luxray": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Luxray"
+      }
+    }
+  },
+  "Budew": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Budew"
+      }
+    }
+  },
+  "Roserade": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Roserade"
+      }
+    }
+  },
+  "Cranidos": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Cranidos"
+      }
+    }
+  },
+  "Rampardos": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Rampardos"
+      }
+    }
+  },
+  "Shieldon": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Shieldon"
+      }
+    }
+  },
+  "Bastiodon": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Bastiodon"
+      }
+    }
+  },
+  "Burmy": {
+    "Forms": {
+      "Plant Cloak": {
+        "Showdown Name": "Burmy"
+      },
+      "Sandy Cloak": {
+        "Showdown Name": "Burmy-Sandy"
+      },
+      "Trash Cloak": {
+        "Showdown Name": "Burmy-Trash"
+      }
+    }
+  },
+  "Wormadam": {
+    "Forms": {
+      "Plant Cloak": {
+        "Showdown Name": "Wormadam"
+      },
+      "Sandy Cloak": {
+        "Showdown Name": "Wormadam-Sandy"
+      },
+      "Trash Cloak": {
+        "Showdown Name": "Wormadam-Trash"
+      }
+    }
+  },
+  "Mothim": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Mothim"
+      }
+    }
+  },
+  "Combee": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Combee"
+      }
+    }
+  },
+  "Vespiquen": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Vespiquen"
+      }
+    }
+  },
+  "Pachirisu": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Pachirisu"
+      }
+    }
+  },
+  "Buizel": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Buizel"
+      }
+    }
+  },
+  "Floatzel": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Floatzel"
+      }
+    }
+  },
+  "Cherubi": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Cherubi"
+      }
+    }
+  },
+  "Cherrim": {
+    "Forms": {
+      "Overcast": {
+        "Showdown Name": "Cherrim"
+      },
+      "Sunny": {
+        "Showdown Name": "Cherrim-Sunshine"
+      }
+    }
+  },
+  "Shellos": {
+    "Forms": {
+      "West Sea": {
+        "Showdown Name": "Shellos"
+      },
+      "East Sea": {
+        "Showdown Name": "Shellos-East"
+      }
+    }
+  },
+  "Gastrodon": {
+    "Forms": {
+      "West Sea": {
+        "Showdown Name": "Gastrodon"
+      },
+      "East Sea": {
+        "Showdown Name": "Gastrodon-East"
+      }
+    }
+  },
+  "Ambipom": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Ambipom"
+      }
+    }
+  },
+  "Drifloon": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Drifloon"
+      }
+    }
+  },
+  "Drifblim": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Drifblim"
+      }
+    }
+  },
+  "Buneary": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Buneary"
+      }
+    }
+  },
+  "Lopunny": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Lopunny"
+      },
+      "Mega": {
+        "Showdown Name": "Lopunny-Mega"
+      }
+    }
+  },
+  "Mismagius": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Mismagius"
+      }
+    }
+  },
+  "Honchkrow": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Honchkrow"
+      }
+    }
+  },
+  "Glameow": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Glameow"
+      }
+    }
+  },
+  "Purugly": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Purugly"
+      }
+    }
+  },
+  "Chingling": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Chingling"
+      }
+    }
+  },
+  "Stunky": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Stunky"
+      }
+    }
+  },
+  "Skuntank": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Skuntank"
+      }
+    }
+  },
+  "Bronzor": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Bronzor"
+      }
+    }
+  },
+  "Bronzong": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Bronzong"
+      }
+    }
+  },
+  "Bonsly": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Bonsly"
+      }
+    }
+  },
+  "Mime Jr.": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Mime Jr."
+      }
+    }
+  },
+  "Happiny": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Happiny"
+      }
+    }
+  },
+  "Chatot": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Chatot"
+      }
+    }
+  },
+  "Spiritomb": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Spiritomb"
+      }
+    }
+  },
+  "Gible": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Gible"
+      }
+    }
+  },
+  "Gabite": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Gabite"
+      }
+    }
+  },
+  "Garchomp": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Garchomp"
+      },
+      "Mega": {
+        "Showdown Name": "Garchomp-Mega"
+      }
+    }
+  },
+  "Munchlax": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Munchlax"
+      }
+    }
+  },
+  "Riolu": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Riolu"
+      }
+    }
+  },
+  "Lucario": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Lucario"
+      },
+      "Mega": {
+        "Showdown Name": "Lucario-Mega"
+      }
+    }
+  },
+  "Hippopotas": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Hippopotas"
+      }
+    }
+  },
+  "Hippowdon": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Hippowdon"
+      }
+    }
+  },
+  "Skorupi": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Skorupi"
+      }
+    }
+  },
+  "Drapion": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Drapion"
+      }
+    }
+  },
+  "Croagunk": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Croagunk"
+      }
+    }
+  },
+  "Toxicroak": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Toxicroak"
+      }
+    }
+  },
+  "Carnivine": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Carnivine"
+      }
+    }
+  },
+  "Finneon": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Finneon"
+      }
+    }
+  },
+  "Lumineon": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Lumineon"
+      }
+    }
+  },
+  "Mantyke": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Mantyke"
+      }
+    }
+  },
+  "Snover": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Snover"
+      }
+    }
+  },
+  "Abomasnow": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Abomasnow"
+      },
+      "Mega": {
+        "Showdown Name": "Abomasnow-Mega"
+      }
+    }
+  },
+  "Weavile": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Weavile"
+      }
+    }
+  },
+  "Magnezone": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Magnezone"
+      }
+    }
+  },
+  "Lickilicky": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Lickilicky"
+      }
+    }
+  },
+  "Rhyperior": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Rhyperior"
+      }
+    }
+  },
+  "Tangrowth": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Tangrowth"
+      }
+    }
+  },
+  "Electivire": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Electivire"
+      }
+    }
+  },
+  "Magmortar": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Magmortar"
+      }
+    }
+  },
+  "Togekiss": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Togekiss"
+      }
+    }
+  },
+  "Yanmega": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Yanmega"
+      }
+    }
+  },
+  "Leafeon": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Leafeon"
+      }
+    }
+  },
+  "Glaceon": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Glaceon"
+      }
+    }
+  },
+  "Gliscor": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Gliscor"
+      }
+    }
+  },
+  "Mamoswine": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Mamoswine"
+      }
+    }
+  },
+  "Porygon-Z": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Porygon-Z"
+      }
+    }
+  },
+  "Gallade": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Gallade"
+      },
+      "Mega": {
+        "Showdown Name": "Gallade-Mega"
+      }
+    }
+  },
+  "Probopass": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Probopass"
+      }
+    }
+  },
+  "Dusknoir": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Dusknoir"
+      }
+    }
+  },
+  "Froslass": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Froslass"
+      }
+    }
+  },
+  "Rotom": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Rotom"
+      },
+      "Heat": {
+        "Showdown Name": "Rotom-Heat"
+      },
+      "Wash": {
+        "Showdown Name": "Rotom-Wash"
+      },
+      "Frost": {
+        "Showdown Name": "Rotom-Frost"
+      },
+      "Fan": {
+        "Showdown Name": "Rotom-Fan"
+      },
+      "Mow": {
+        "Showdown Name": "Rotom-Mow"
+      }
+    }
+  },
+  "Uxie": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Uxie"
+      }
+    }
+  },
+  "Mesprit": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Mesprit"
+      }
+    }
+  },
+  "Azelf": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Azelf"
+      }
+    }
+  },
+  "Dialga": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Dialga"
+      }
+    }
+  },
+  "Palkia": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Palkia"
+      }
+    }
+  },
+  "Heatran": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Heatran"
+      }
+    }
+  },
+  "Regigigas": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Regigigas"
+      }
+    }
+  },
+  "Giratina": {
+    "Forms": {
+      "Altered": {
+        "Showdown Name": "Giratina"
+      },
+      "Origin": {
+        "Showdown Name": "Giratina-Origin"
+      }
+    }
+  },
+  "Cresselia": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Cresselia"
+      }
+    }
+  },
+  "Phione": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Phione"
+      }
+    }
+  },
+  "Manaphy": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Manaphy"
+      }
+    }
+  },
+  "Darkrai": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Darkrai"
+      }
+    }
+  },
+  "Shaymin": {
+    "Forms": {
+      "Land": {
+        "Showdown Name": "Shaymin"
+      },
+      "Sky": {
+        "Showdown Name": "Shaymin-Sky"
+      }
+    }
+  },
+  "Arceus": {
+    "Forms": {
+      "Normal": {
+        "Showdown Name": "Arceus"
+      },
+      "Fire": {
+        "Showdown Name": "Arceus-Fire"
+      },
+      "Water": {
+        "Showdown Name": "Arceus-Water"
+      },
+      "Electric": {
+        "Showdown Name": "Arceus-Electric"
+      },
+      "Grass": {
+        "Showdown Name": "Arceus-Grass"
+      },
+      "Ice": {
+        "Showdown Name": "Arceus-Ice"
+      },
+      "Fighting": {
+        "Showdown Name": "Arceus-Fighting"
+      },
+      "Poison": {
+        "Showdown Name": "Arceus-Poison"
+      },
+      "Ground": {
+        "Showdown Name": "Arceus-Ground"
+      },
+      "Flying": {
+        "Showdown Name": "Arceus-Flying"
+      },
+      "Psychic": {
+        "Showdown Name": "Arceus-Psychic"
+      },
+      "Bug": {
+        "Showdown Name": "Arceus-Bug"
+      },
+      "Rock": {
+        "Showdown Name": "Arceus-Rock"
+      },
+      "Ghost": {
+        "Showdown Name": "Arceus-Ghost"
+      },
+      "Dragon": {
+        "Showdown Name": "Arceus-Dragon"
+      },
+      "Dark": {
+        "Showdown Name": "Arceus-Dark"
+      },
+      "Steel": {
+        "Showdown Name": "Arceus-Steel"
+      },
+      "Fairy": {
+        "Showdown Name": "Arceus-Fairy"
+      }
+    }
+  },
+
+
+  //-----------
+  // Gen 5
+  //-----------
+  "Victini": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Victini"
+      }
+    }
+  },
+  "Snivy": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Snivy"
+      }
+    }
+  },
+  "Servine": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Servine"
+      }
+    }
+  },
+  "Serperior": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Serperior"
+      }
+    }
+  },
+  "Tepig": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Tepig"
+      }
+    }
+  },
+  "Pignite": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Pignite"
+      }
+    }
+  },
+  "Emboar": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Emboar"
+      }
+    }
+  },
+  "Oshawott": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Oshawott"
+      }
+    }
+  },
+  "Dewott": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Dewott"
+      }
+    }
+  },
+  "Samurott": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Samurott"
+      }
+    }
+  },
+  "Patrat": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Patrat"
+      }
+    }
+  },
+  "Watchog": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Watchog"
+      }
+    }
+  },
+  "Lillipup": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Lillipup"
+      }
+    }
+  },
+  "Herdier": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Herdier"
+      }
+    }
+  },
+  "Stoutland": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Stoutland"
+      }
+    }
+  },
+  "Purrloin": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Purrloin"
+      }
+    }
+  },
+  "Liepard": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Liepard"
+      }
+    }
+  },
+  "Pansage": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Pansage"
+      }
+    }
+  },
+  "Simisage": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Simisage"
+      }
+    }
+  },
+  "Pansear": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Pansear"
+      }
+    }
+  },
+  "Simisear": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Simisear"
+      }
+    }
+  },
+  "Panpour": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Panpour"
+      }
+    }
+  },
+  "Simipour": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Simipour"
+      }
+    }
+  },
+  "Munna": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Munna"
+      }
+    }
+  },
+  "Musharna": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Musharna"
+      }
+    }
+  },
+  "Pidove": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Pidove"
+      }
+    }
+  },
+  "Tranquill": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Tranquill"
+      }
+    }
+  },
+  "Unfezant": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Unfezant"
+      }
+    }
+  },
+  "Blitzle": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Blitzle"
+      }
+    }
+  },
+  "Zebstrika": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Zebstrika"
+      }
+    }
+  },
+  "Roggenrola": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Roggenrola"
+      }
+    }
+  },
+  "Boldore": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Boldore"
+      }
+    }
+  },
+  "Gigalith": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Gigalith"
+      }
+    }
+  },
+  "Woobat": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Woobat"
+      }
+    }
+  },
+  "Swoobat": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Swoobat"
+      }
+    }
+  },
+  "Drilbur": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Drilbur"
+      }
+    }
+  },
+  "Excadrill": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Excadrill"
+      }
+    }
+  },
+  "Audino": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Audino"
+      },
+      "Mega": {
+        "Showdown Name": "Audino-Mega"
+      }
+    }
+  },
+  "Timburr": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Timburr"
+      }
+    }
+  },
+  "Gurdurr": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Gurdurr"
+      }
+    }
+  },
+  "Conkeldurr": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Conkeldurr"
+      }
+    }
+  },
+  "Tympole": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Tympole"
+      }
+    }
+  },
+  "Palpitoad": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Palpitoad"
+      }
+    }
+  },
+  "Seismitoad": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Seismitoad"
+      }
+    }
+  },
+  "Throh": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Throh"
+      }
+    }
+  },
+  "Sawk": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Sawk"
+      }
+    }
+  },
+  "Sewaddle": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Sewaddle"
+      }
+    }
+  },
+  "Swadloon": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Swadloon"
+      }
+    }
+  },
+  "Leavanny": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Leavanny"
+      }
+    }
+  },
+  "Venipede": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Venipede"
+      }
+    }
+  },
+  "Whirlipede": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Whirlipede"
+      }
+    }
+  },
+  "Scolipede": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Scolipede"
+      }
+    }
+  },
+  "Cottonee": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Cottonee"
+      }
+    }
+  },
+  "Whimsicott": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Whimsicott"
+      }
+    }
+  },
+  "Petilil": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Petilil"
+      }
+    }
+  },
+  "Lilligant": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Lilligant"
+      }
+    }
+  },
+  "Basculin": {
+    "Forms": {
+      "Red-Striped": {
+        "Showdown Name": "Basculin"
+      },
+      "Blue-Striped": {
+        "Showdown Name": "Basculin-Blue-Striped"
+      }
+    }
+  },
+  "Sandile": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Sandile"
+      }
+    }
+  },
+  "Krokorok": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Krokorok"
+      }
+    }
+  },
+  "Krookodile": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Krookodile"
+      }
+    }
+  },
+  "Darumaka": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Darumaka"
+      },
+      "Galarian": {
+        "Showdown Name": "Darumaka-Galar"
+      }
+    }
+  },
+  "Darmanitan": {
+    "Forms": {
+      "Standard Mode": {
+        "Showdown Name": "Darmanitan-Zen"
+      },
+      "Zen Mode": {
+        "Showdown Name": "Darmanitan-Zen"
+      },
+      "Galarian|Standard Mode": {
+        "Showdown Name": "Darmanitan-Galar"
+      },
+      "Galarian|Zen Mode": {
+        "Showdown Name": "Darmanitan-Galar-Zen"
+      }
+    }
+  },
+  "Maractus": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Maractus"
+      }
+    }
+  },
+  "Dwebble": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Dwebble"
+      }
+    }
+  },
+  "Crustle": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Crustle"
+      }
+    }
+  },
+  "Scraggy": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Scraggy"
+      }
+    }
+  },
+  "Scrafty": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Scrafty"
+      }
+    }
+  },
+  "Sigilyph": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Sigilyph"
+      }
+    }
+  },
+  "Yamask": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Yamask"
+      },
+      "Galarian": {
+        "Showdown Name": "Yamask-Galar"
+      }
+    }
+  },
+  "Cofagrigus": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Cofagrigus"
+      }
+    }
+  },
+  "Tirtouga": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Tirtouga"
+      }
+    }
+  },
+  "Carracosta": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Carracosta"
+      }
+    }
+  },
+  "Archen": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Archen"
+      }
+    }
+  },
+  "Archeops": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Archeops"
+      }
+    }
+  },
+  "Trubbish": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Trubbish"
+      }
+    }
+  },
+  "Garbodor": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Garbodor"
+      }
+    }
+  },
+  "Zorua": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Zorua"
+      }
+    }
+  },
+  "Zoroark": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Zoroark"
+      }
+    }
+  },
+  "Minccino": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Minccino"
+      }
+    }
+  },
+  "Cinccino": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Cinccino"
+      }
+    }
+  },
+  "Gothita": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Gothita"
+      }
+    }
+  },
+  "Gothorita": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Gothorita"
+      }
+    }
+  },
+  "Gothitelle": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Gothitelle"
+      }
+    }
+  },
+  "Solosis": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Solosis"
+      }
+    }
+  },
+  "Duosion": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Duosion"
+      }
+    }
+  },
+  "Reuniclus": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Reuniclus"
+      }
+    }
+  },
+  "Ducklett": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Ducklett"
+      }
+    }
+  },
+  "Swanna": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Swanna"
+      }
+    }
+  },
+  "Vanillite": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Vanillite"
+      }
+    }
+  },
+  "Vanillish": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Vanillish"
+      }
+    }
+  },
+  "Vanilluxe": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Vanilluxe"
+      }
+    }
+  },
+  "Deerling": {
+    "Forms": {
+      "Spring": {
+        "Showdown Name": "Deerling"
+      },
+      "Summer": {
+        "Showdown Name": "Deerling-Summer"
+      },
+      "Autumn": {
+        "Showdown Name": "Deerling-Autumn"
+      },
+      "Winter": {
+        "Showdown Name": "Deerling-Winter"
+      }
+    }
+  },
+  "Sawsbuck": {
+    "Forms": {
+      "Spring": {
+        "Showdown Name": "Sawsbuck"
+      },
+      "Summer": {
+        "Showdown Name": "Sawsbuck-Summer"
+      },
+      "Autumn": {
+        "Showdown Name": "Sawsbuck-Autumn"
+      },
+      "Winter": {
+        "Showdown Name": "Sawsbuck-Winter"
+      }
+    }
+  },
+  "Emolga": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Emolga"
+      }
+    }
+  },
+  "Karrablast": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Karrablast"
+      }
+    }
+  },
+  "Escavalier": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Escavalier"
+      }
+    }
+  },
+  "Foongus": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Foongus"
+      }
+    }
+  },
+  "Amoonguss": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Amoonguss"
+      }
+    }
+  },
+  "Frillish": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Frillish"
+      }
+    }
+  },
+  "Jellicent": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Jellicent"
+      }
+    }
+  },
+  "Alomomola": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Alomomola"
+      }
+    }
+  },
+  "Joltik": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Joltik"
+      }
+    }
+  },
+  "Galvantula": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Galvantula"
+      }
+    }
+  },
+  "Ferroseed": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Ferroseed"
+      }
+    }
+  },
+  "Ferrothorn": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Ferrothorn"
+      }
+    }
+  },
+  "Klink": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Klink"
+      }
+    }
+  },
+  "Klang": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Klang"
+      }
+    }
+  },
+  "Klinklang": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Klinklang"
+      }
+    }
+  },
+  "Tynamo": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Tynamo"
+      }
+    }
+  },
+  "Eelektrik": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Eelektrik"
+      }
+    }
+  },
+  "Eelektross": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Eelektross"
+      }
+    }
+  },
+  "Elgyem": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Elgyem"
+      }
+    }
+  },
+  "Beheeyem": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Beheeyem"
+      }
+    }
+  },
+  "Litwick": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Litwick"
+      }
+    }
+  },
+  "Lampent": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Lampent"
+      }
+    }
+  },
+  "Chandelure": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Chandelure"
+      }
+    }
+  },
+  "Axew": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Axew"
+      }
+    }
+  },
+  "Fraxure": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Fraxure"
+      }
+    }
+  },
+  "Haxorus": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Haxorus"
+      }
+    }
+  },
+  "Cubchoo": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Cubchoo"
+      }
+    }
+  },
+  "Beartic": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Beartic"
+      }
+    }
+  },
+  "Cryogonal": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Cryogonal"
+      }
+    }
+  },
+  "Shelmet": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Shelmet"
+      }
+    }
+  },
+  "Accelgor": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Accelgor"
+      }
+    }
+  },
+  "Stunfisk": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Stunfisk"
+      },
+      "Galarian": {
+        "Showdown Name": "Stunfisk-Galar"
+      }
+    }
+  },
+  "Mienfoo": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Mienfoo"
+      }
+    }
+  },
+  "Mienshao": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Mienshao"
+      }
+    }
+  },
+  "Druddigon": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Druddigon"
+      }
+    }
+  },
+  "Golett": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Golett"
+      }
+    }
+  },
+  "Golurk": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Golurk"
+      }
+    }
+  },
+  "Pawniard": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Pawniard"
+      }
+    }
+  },
+  "Bisharp": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Bisharp"
+      }
+    }
+  },
+  "Bouffalant": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Bouffalant"
+      }
+    }
+  },
+  "Rufflet": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Rufflet"
+      }
+    }
+  },
+  "Braviary": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Braviary"
+      }
+    }
+  },
+  "Vullaby": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Vullaby"
+      }
+    }
+  },
+  "Mandibuzz": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Mandibuzz"
+      }
+    }
+  },
+  "Heatmor": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Heatmor"
+      }
+    }
+  },
+  "Durant": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Durant"
+      }
+    }
+  },
+  "Deino": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Deino"
+      }
+    }
+  },
+  "Zweilous": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Zweilous"
+      }
+    }
+  },
+  "Hydreigon": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Hydreigon"
+      }
+    }
+  },
+  "Larvesta": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Larvesta"
+      }
+    }
+  },
+  "Volcarona": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Volcarona"
+      }
+    }
+  },
+  "Cobalion": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Cobalion"
+      }
+    }
+  },
+  "Terrakion": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Terrakion"
+      }
+    }
+  },
+  "Virizion": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Virizion"
+      }
+    }
+  },
+  "Tornadus": {
+    "Forms": {
+      "Incarnate": {
+        "Showdown Name": "Tornadus"
+      },
+      "Therian": {
+        "Showdown Name": "Tornadus-Therian"
+      }
+    }
+  },
+  "Thundurus": {
+    "Forms": {
+      "Incarnate": {
+        "Showdown Name": "Thundurus"
+      },
+      "Therian": {
+        "Showdown Name": "Thundurus-Therian"
+      }
+    }
+  },
+  "Reshiram": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Reshiram"
+      }
+    }
+  },
+  "Zekrom": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Zekrom"
+      }
+    }
+  },
+  "Landorus": {
+    "Forms": {
+      "Incarnate": {
+        "Showdown Name": "Landorus"
+      },
+      "Therian": {
+        "Showdown Name": "Landorus-Therian"
+      }
+    }
+  },
+  "Kyurem": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Kyurem"
+      },
+      "Black": {
+        "Showdown Name": "Kyurem-Black"
+      },
+      "White": {
+        "Showdown Name": "Kyurem-White"
+      }
+    }
+  },
+  "Keldeo": {
+    "Forms": {
+      "Ordinary": {
+        "Showdown Name": "Keldeo"
+      },
+      "Resolute": {
+        "Showdown Name": "Keldeo-Resolute"
+      }
+    }
+  },
+  "Meloetta": {
+    "Forms": {
+      "Aria": {
+        "Showdown Name": "Meloetta"
+      },
+      "Pirouette": {
+        "Showdown Name": "Meloetta-Pirouette"
+      }
+    }
+  },
+  "Genesect": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Genesect",
+        "Appearance": {
+          "Douse Drive": {
+            "Showdown Name": "Genesect-Douse"
+          },
+          "Shock Drive": {
+            "Showdown Name": "Genesect-Shock"
+          },
+          "Burn Drive": {
+            "Showdown Name": "Genesect-Burn"
+          },
+          "Chill Drive": {
+            "Showdown Name": "Genesect-Chill"
+          }
+        }
+      }
+    }
+  },
+
+
+  //-----------
+  // Gen 6
+  //-----------
+  "Chespin": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Chespin"
+      }
+    }
+  },
+  "Quilladin": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Quilladin"
+      }
+    }
+  },
+  "Chesnaught": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Chesnaught"
+      }
+    }
+  },
+  "Fennekin": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Fennekin"
+      }
+    }
+  },
+  "Braixen": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Braixen"
+      }
+    }
+  },
+  "Delphox": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Delphox"
+      }
+    }
+  },
+  "Froakie": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Froakie"
+      }
+    }
+  },
+  "Frogadier": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Frogadier"
+      }
+    }
+  },
+  "Greninja": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Greninja"
+      },
+      "Ash": {
+        "Showdown Name": "Greninja-Ash"
+      }
+    }
+  },
+  "Bunnelby": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Bunnelby"
+      }
+    }
+  },
+  "Diggersby": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Diggersby"
+      }
+    }
+  },
+  "Fletchling": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Fletchling"
+      }
+    }
+  },
+  "Fletchinder": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Fletchinder"
+      }
+    }
+  },
+  "Talonflame": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Talonflame"
+      }
+    }
+  },
+  "Scatterbug": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Scatterbug"
+      }
+    }
+  },
+  "Spewpa": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Spewpa"
+      }
+    }
+  },
+  "Vivillon": {
+    "Forms": {
+      "Meadow": {
+        "Showdown Name": "Vivillon"
+      },
+      "Archipelago": {
+        "Showdown Name": "Vivillon-Archipelago"
+      },
+      "Continental": {
+        "Showdown Name": "Vivillon-Continental"
+      },
+      "Elegant": {
+        "Showdown Name": "Vivillon-Elegant"
+      },
+      "Garden": {
+        "Showdown Name": "Vivillon-Garden"
+      },
+      "High Plains": {
+        "Showdown Name": "Vivillon-High Plains"
+      },
+      "Icy Snow": {
+        "Showdown Name": "Vivillon-Icy Snow"
+      },
+      "Jungle": {
+        "Showdown Name": "Vivillon-Jungle"
+      },
+      "Marine": {
+        "Showdown Name": "Vivillon-Marine"
+      },
+      "Modern": {
+        "Showdown Name": "Vivillon-Modern"
+      },
+      "Monsoon": {
+        "Showdown Name": "Vivillon-Monsoon"
+      },
+      "Ocean": {
+        "Showdown Name": "Vivillon-Ocean"
+      },
+      "Polar": {
+        "Showdown Name": "Vivillon-Polar"
+      },
+      "River": {
+        "Showdown Name": "Vivillon-River"
+      },
+      "Sandstorm": {
+        "Showdown Name": "Vivillon-Sandstorm"
+      },
+      "Savanna": {
+        "Showdown Name": "Vivillon-Savanna"
+      },
+      "Sun": {
+        "Showdown Name": "Vivillon-Sun"
+      },
+      "Tundra": {
+        "Showdown Name": "Vivillon-Tundra"
+      },
+      "Fancy": {
+        "Showdown Name": "Vivillon-Fancy"
+      },
+      "Poké Ball": {
+        "Showdown Name": "Vivillon-Pokeball"
+      }
+    }
+  },
+  "Litleo": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Litleo"
+      }
+    }
+  },
+  "Pyroar": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Pyroar"
+      }
+    }
+  },
+  "Flabébé": {
+    "Forms": {
+      "Red Flower": {
+        "Showdown Name": "Flabébé"
+      },
+      "Blue Flower": {
+        "Showdown Name": "Flabébé-Blue"
+      },
+      "Orange Flower": {
+        "Showdown Name": "Flabébé-Orange"
+      },
+      "White Flower": {
+        "Showdown Name": "Flabébé-White"
+      },
+      "Yellow Flower": {
+        "Showdown Name": "Flabébé-Yellow"
+      }
+    }
+  },
+  "Floette": {
+    "Forms": {
+      "Red Flower": {
+        "Showdown Name": "Floette"
+      },
+      "Blue Flower": {
+        "Showdown Name": "Floette-Blue"
+      },
+      "Orange Flower": {
+        "Showdown Name": "Floette-Orange"
+      },
+      "White Flower": {
+        "Showdown Name": "Floette-White"
+      },
+      "Yellow Flower": {
+        "Showdown Name": "Floette-Yellow"
+      },
+      "Eternal Flower": {
+        "Showdown Name": "Floette-Eternal"
+      }
+    }
+  },
+  "Florges": {
+    "Forms": {
+      "Red Flower": {
+        "Showdown Name": "Florges"
+      },
+      "Blue Flower": {
+        "Showdown Name": "Florges-Blue"
+      },
+      "Orange Flower": {
+        "Showdown Name": "Florges-Orange"
+      },
+      "White Flower": {
+        "Showdown Name": "Florges-White"
+      },
+      "Yellow Flower": {
+        "Showdown Name": "Florges-Yellow"
+      }
+    }
+  },
+  "Skiddo": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Skiddo"
+      }
+    }
+  },
+  "Gogoat": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Gogoat"
+      }
+    }
+  },
+  "Pancham": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Pancham"
+      }
+    }
+  },
+  "Pangoro": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Pangoro"
+      }
+    }
+  },
+  "Furfrou": {
+    "Forms": {
+      "Natural": {
+        "Showdown Name": "Furfrou",
+        "Appearance": {
+          "Dandy Trim": {
+            "Showdown Name": "Furfrou-Dandy"
+          },
+          "Debutante Trim": {
+            "Showdown Name": "Furfrou-Debutante"
+          },
+          "Diamond Trim": {
+            "Showdown Name": "Furfrou-Diamond"
+          },
+          "Heart Trim": {
+            "Showdown Name": "Furfrou-Heart"
+          },
+          "Kabuki Trim": {
+            "Showdown Name": "Furfrou-Kabuki"
+          },
+          "La Reine Trim": {
+            "Showdown Name": "Furfrou-La Reine"
+          },
+          "Matron Trim": {
+            "Showdown Name": "Furfrou-Matron"
+          },
+          "Pharaoh Trim": {
+            "Showdown Name": "Furfrou-Pharaoh"
+          },
+          "Star Trim": {
+            "Showdown Name": "Furfrou-Star"
+          }
+        }
+      }
+    }
+  },
+  "Espurr": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Espurr"
+      }
+    }
+  },
+  "Meowstic": {
+    "Forms": {
+      "": {
+        "Showdown Gender Split": true,
+        "Showdown Name Male": "Meowstic",
+        "Showdown Name Female": "Meowstic-F"
+      }
+    }
+  },
+  "Honedge": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Honedge"
+      }
+    }
+  },
+  "Doublade": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Doublade"
+      }
+    }
+  },
+  "Aegislash": {
+    "Forms": {
+      "Shield": {
+        "Showdown Name": "Aegislash"
+      },
+      "Blade": {
+        "Showdown Name": "Aegislash-Blade"
+      }
+    }
+  },
+  "Spritzee": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Spritzee"
+      }
+    }
+  },
+  "Aromatisse": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Aromatisse"
+      }
+    }
+  },
+  "Swirlix": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Swirlix"
+      }
+    }
+  },
+  "Slurpuff": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Slurpuff"
+      }
+    }
+  },
+  "Inkay": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Inkay"
+      }
+    }
+  },
+  "Malamar": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Malamar"
+      }
+    }
+  },
+  "Binacle": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Binacle"
+      }
+    }
+  },
+  "Barbaracle": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Barbaracle"
+      }
+    }
+  },
+  "Skrelp": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Skrelp"
+      }
+    }
+  },
+  "Dragalge": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Dragalge"
+      }
+    }
+  },
+  "Clauncher": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Clauncher"
+      }
+    }
+  },
+  "Clawitzer": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Clawitzer"
+      }
+    }
+  },
+  "Helioptile": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Helioptile"
+      }
+    }
+  },
+  "Heliolisk": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Heliolisk"
+      }
+    }
+  },
+  "Tyrunt": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Tyrunt"
+      }
+    }
+  },
+  "Tyrantrum": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Tyrantrum"
+      }
+    }
+  },
+  "Amaura": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Amaura"
+      }
+    }
+  },
+  "Aurorus": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Aurorus"
+      }
+    }
+  },
+  "Sylveon": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Sylveon"
+      }
+    }
+  },
+  "Hawlucha": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Hawlucha"
+      }
+    }
+  },
+  "Dedenne": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Dedenne"
+      }
+    }
+  },
+  "Carbink": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Carbink"
+      }
+    }
+  },
+  "Goomy": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Goomy"
+      }
+    }
+  },
+  "Sliggoo": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Sliggoo"
+      }
+    }
+  },
+  "Goodra": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Goodra"
+      }
+    }
+  },
+  "Klefki": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Klefki"
+      }
+    }
+  },
+  "Phantump": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Phantump"
+      }
+    }
+  },
+  "Trevenant": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Trevenant"
+      }
+    }
+  },
+  "Pumpkaboo": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Pumpkaboo",
+        "Appearance": {
+          "Small Size": {
+            "Showdown Name": "Pumpkaboo-Small"
+          },
+          "Large Size": {
+            "Showdown Name": "Pumpkaboo-Large"
+          },
+          "Super Size": {
+            "Showdown Name": "Pumpkaboo-Super"
+          }
+        }
+      }
+    }
+  },
+  "Gourgeist": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Gourgeist",
+        "Appearance": {
+          "Small Size": {
+            "Showdown Name": "Gourgeist-Small"
+          },
+          "Large Size": {
+            "Showdown Name": "Gourgeist-Large"
+          },
+          "Super Size": {
+            "Showdown Name": "Gourgeist-Super"
+          }
+        }
+      }
+    }
+  },
+  "Bergmite": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Bergmite"
+      }
+    }
+  },
+  "Avalugg": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Avalugg"
+      }
+    }
+  },
+  "Noibat": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Noibat"
+      }
+    }
+  },
+  "Noivern": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Noivern"
+      }
+    }
+  },
+  "Xerneas": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Xerneas"
+      }
+    }
+  },
+  "Yveltal": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Yveltal"
+      }
+    }
+  },
+  "Zygarde": {
+    "Forms": {
+      "50%": {
+        "Showdown Name": "Zygarde"
+      },
+      "10%": {
+        "Showdown Name": "Zygarde-10%"
+      },
+      "Complete": {
+        "Showdown Name": "Zygarde-Complete"
+      }
+    }
+  },
+  "Diancie": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Diancie"
+      },
+      "Mega": {
+        "Showdown Name": "Diancie-Mega"
+      }
+    }
+  },
+  "Hoopa": {
+    "Forms": {
+      "Confined": {
+        "Showdown Name": "Hoopa"
+      },
+      "Unbound": {
+        "Showdown Name": "Hoopa-Unbound"
+      }
+    }
+  },
+  "Volcanion": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Volcanion"
+      }
+    }
+  },
+
+
+  //-----------
+  // Gen 7
+  //-----------
+  "Rowlet": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Rowlet"
+      }
+    }
+  },
+  "Dartrix": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Dartrix"
+      }
+    }
+  },
+  "Decidueye": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Decidueye"
+      }
+    }
+  },
+  "Litten": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Litten"
+      }
+    }
+  },
+  "Torracat": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Torracat"
+      }
+    }
+  },
+  "Incineroar": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Incineroar"
+      }
+    }
+  },
+  "Popplio": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Popplio"
+      }
+    }
+  },
+  "Brionne": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Brionne"
+      }
+    }
+  },
+  "Primarina": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Primarina"
+      }
+    }
+  },
+  "Pikipek": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Pikipek"
+      }
+    }
+  },
+  "Trumbeak": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Trumbeak"
+      }
+    }
+  },
+  "Toucannon": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Toucannon"
+      }
+    }
+  },
+  "Yungoos": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Yungoos"
+      }
+    }
+  },
+  "Gumshoos": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Gumshoos"
+      },
+      "Totem": {
+        "Showdown Name": "Gumshoos-Totem"
+      }
+    }
+  },
+  "Grubbin": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Grubbin"
+      }
+    }
+  },
+  "Charjabug": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Charjabug"
+      }
+    }
+  },
+  "Vikavolt": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Vikavolt"
+      },
+      "Totem": {
+        "Showdown Name": "Vikavolt-Totem"
+      }
+    }
+  },
+  "Crabrawler": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Crabrawler"
+      }
+    }
+  },
+  "Crabominable": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Crabominable"
+      }
+    }
+  },
+  "Oricorio": {
+    "Forms": {
+      "Baile Style": {
+        "Showdown Name": "Oricorio"
+      },
+      "Pom-Pom Style": {
+        "Showdown Name": "Oricorio-Pom-Pom"
+      },
+      "Pa'u Style Style": {
+        "Showdown Name": "Oricorio-Pa'u"
+      },
+      "Sensu Style": {
+        "Showdown Name": "Oricorio-Sensu"
+      }
+    }
+  },
+  "Cutiefly": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Cutiefly"
+      }
+    }
+  },
+  "Ribombee": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Ribombee"
+      },
+      "Totem": {
+        "Showdown Name": "Ribombee-Totem"
+      }
+    }
+  },
+  "Rockruff": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Rockruff"
+      }
+    }
+  },
+  "Lycanroc": {
+    "Forms": {
+      "Midday": {
+        "Showdown Name": "Lycanroc"
+      },
+      "Midnight": {
+        "Showdown Name": "Lycanroc-Midnight"
+      },
+      "Dusk": {
+        "Showdown Name": "Lycanroc-Dusk"
+      }
+    }
+  },
+  "Wishiwashi": {
+    "Forms": {
+      "Solo": {
+        "Showdown Name": "Wishiwashi"
+      },
+      "School": {
+        "Showdown Name": "Wishiwashi-School"
+      }
+    }
+  },
+  "Mareanie": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Mareanie"
+      }
+    }
+  },
+  "Toxapex": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Toxapex"
+      }
+    }
+  },
+  "Mudbray": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Mudbray"
+      }
+    }
+  },
+  "Mudsdale": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Mudsdale"
+      }
+    }
+  },
+  "Dewpider": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Dewpider"
+      }
+    }
+  },
+  "Araquanid": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Araquanid"
+      },
+      "Totem": {
+        "Showdown Name": "Araquanid-Totem"
+      }
+    }
+  },
+  "Fomantis": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Fomantis"
+      }
+    }
+  },
+  "Lurantis": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Lurantis"
+      },
+      "Totem": {
+        "Showdown Name": "Lurantis-Totem"
+      }
+    }
+  },
+  "Morelull": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Morelull"
+      }
+    }
+  },
+  "Shiinotic": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Shiinotic"
+      }
+    }
+  },
+  "Salandit": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Salandit"
+      }
+    }
+  },
+  "Salazzle": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Salazzle"
+      },
+      "Totem": {
+        "Showdown Name": "Salazzle-Totem"
+      }
+    }
+  },
+  "Stufful": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Stufful"
+      }
+    }
+  },
+  "Bewear": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Bewear"
+      }
+    }
+  },
+  "Bounsweet": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Bounsweet"
+      }
+    }
+  },
+  "Steenee": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Steenee"
+      }
+    }
+  },
+  "Tsareena": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Tsareena"
+      }
+    }
+  },
+  "Comfey": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Comfey"
+      }
+    }
+  },
+  "Oranguru": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Oranguru"
+      }
+    }
+  },
+  "Passimian": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Passimian"
+      }
+    }
+  },
+  "Wimpod": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Wimpod"
+      }
+    }
+  },
+  "Golisopod": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Golisopod"
+      }
+    }
+  },
+  "Sandygast": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Sandygast"
+      }
+    }
+  },
+  "Palossand": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Palossand"
+      }
+    }
+  },
+  "Pyukumuku": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Pyukumuku"
+      }
+    }
+  },
+  "Type: Null": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Type: Null"
+      }
+    }
+  },
+  "Silvally": {
+    "Forms": {
+      "Normal": {
+        "Showdown Name": "Silvally"
+      },
+      "Fire": {
+        "Showdown Name": "Silvally-Fire"
+      },
+      "Water": {
+        "Showdown Name": "Silvally-Water"
+      },
+      "Electric": {
+        "Showdown Name": "Silvally-Electric"
+      },
+      "Grass": {
+        "Showdown Name": "Silvally-Grass"
+      },
+      "Ice": {
+        "Showdown Name": "Silvally-Ice"
+      },
+      "Fighting": {
+        "Showdown Name": "Silvally-Fighting"
+      },
+      "Poison": {
+        "Showdown Name": "Silvally-Poison"
+      },
+      "Ground": {
+        "Showdown Name": "Silvally-Ground"
+      },
+      "Flying": {
+        "Showdown Name": "Silvally-Flying"
+      },
+      "Psychic": {
+        "Showdown Name": "Silvally-Psychic"
+      },
+      "Bug": {
+        "Showdown Name": "Silvally-Bug"
+      },
+      "Rock": {
+        "Showdown Name": "Silvally-Rock"
+      },
+      "Ghost": {
+        "Showdown Name": "Silvally-Ghost"
+      },
+      "Dragon": {
+        "Showdown Name": "Silvally-Dragon"
+      },
+      "Dark": {
+        "Showdown Name": "Silvally-Dark"
+      },
+      "Steel": {
+        "Showdown Name": "Silvally-Steel"
+      },
+      "Fairy": {
+        "Showdown Name": "Silvally-Fairy"
+      }
+    }
+  },
+  "Minior": {
+    "Forms": {
+      "Red": {
+        "Showdown Name": "Minior-Red"
+      },
+      "Orange": {
+        "Showdown Name": "Minior-Orange"
+      },
+      "Yellow": {
+        "Showdown Name": "Minior-Yellow"
+      },
+      "Green": {
+        "Showdown Name": "Minior-Green"
+      },
+      "Blue": {
+        "Showdown Name": "Minior-Blue"
+      },
+      "Indigo": {
+        "Showdown Name": "Minior-Indigo"
+      },
+      "Violet": {
+        "Showdown Name": "Minior-Violet"
+      },
+      "Meteor|Red": {
+        "Showdown Name": "Minior-Meteor"
+      },
+      "Meteor|Orange": {
+        "Showdown Name": "Minior-Meteor"
+      },
+      "Meteor|Yellow": {
+        "Showdown Name": "Minior-Meteor"
+      },
+      "Green|Meteor": {
+        "Showdown Name": "Minior-Meteor"
+      },
+      "Blue|Meteor": {
+        "Showdown Name": "Minior-Meteor"
+      },
+      "Indigo|Meteor": {
+        "Showdown Name": "Minior-Meteor"
+      },
+      "Meteor|Violet": {
+        "Showdown Name": "Minior-Meteor"
+      }
+    }
+  },
+  "Komala": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Komala"
+      }
+    }
+  },
+  "Turtonator": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Turtonator"
+      }
+    }
+  },
+  "Togedemaru": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Togedemaru"
+      },
+      "Totem": {
+        "Showdown Name": "Togedemaru-Totem"
+      }
+    }
+  },
+  "Mimikyu": {
+    "Forms": {
+      "Disguised": {
+        "Showdown Name": "Mimikyu"
+      },
+      "Busted": {
+        "Showdown Name": "Mimikyu-Busted"
+      },
+      "Totem|Disguised": {
+        "Showdown Name": "Mimikyu-Totem"
+      },
+      "Totem|Busted": {
+        "Showdown Name": "Mimikyu-Busted-Totem"
+      }
+    }
+  },
+  "Bruxish": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Bruxish"
+      }
+    }
+  },
+  "Drampa": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Drampa"
+      }
+    }
+  },
+  "Dhelmise": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Dhelmise"
+      }
+    }
+  },
+  "Jangmo-o": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Jangmo-o"
+      }
+    }
+  },
+  "Hakamo-o": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Hakamo-o"
+      }
+    }
+  },
+  "Kommo-o": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Kommo-o"
+      },
+      "Totem": {
+        "Showdown Name": "Kommo-o-Totem"
+      }
+    }
+  },
+  "Tapu Koko": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Tapu Koko"
+      }
+    }
+  },
+  "Tapu Lele": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Tapu Lele"
+      }
+    }
+  },
+  "Tapu Bulu": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Tapu Bulu"
+      }
+    }
+  },
+  "Tapu Fini": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Tapu Fini"
+      }
+    }
+  },
+  "Cosmog": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Cosmog"
+      }
+    }
+  },
+  "Cosmoem": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Cosmoem"
+      }
+    }
+  },
+  "Solgaleo": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Solgaleo"
+      }
+    }
+  },
+  "Lunala": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Lunala"
+      }
+    }
+  },
+  "Nihilego": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Nihilego"
+      }
+    }
+  },
+  "Buzzwole": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Buzzwole"
+      }
+    }
+  },
+  "Pheromosa": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Pheromosa"
+      }
+    }
+  },
+  "Xurkitree": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Xurkitree"
+      }
+    }
+  },
+  "Celesteela": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Celesteela"
+      }
+    }
+  },
+  "Kartana": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Kartana"
+      }
+    }
+  },
+  "Guzzlord": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Guzzlord"
+      }
+    }
+  },
+  "Necrozma": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Necrozma"
+      },
+      "Dusk Mane": {
+        "Showdown Name": "Necrozma-Dusk-Mane"
+      },
+      "Dawn Wings": {
+        "Showdown Name": "Necrozma-Dawn-Wings"
+      },
+      "Ultra": {
+        "Showdown Name": "Necrozma-Ultra"
+      }
+    }
+  },
+  "Magearna": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Magearna",
+        "Appearance": {
+          "Original Color": {
+            "Showdown Name": "Magearna-Original"
+          }
+        }
+      }
+    }
+  },
+  "Marshadow": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Marshadow"
+      }
+    }
+  },
+  "Poipole": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Poipole"
+      }
+    }
+  },
+  "Naganadel": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Naganadel"
+      }
+    }
+  },
+  "Stakataka": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Stakataka"
+      }
+    }
+  },
+  "Blacephalon": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Blacephalon"
+      }
+    }
+  },
+  "Zeraora": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Zeraora"
+      }
+    }
+  },
+  "Meltan": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Meltan"
+      }
+    }
+  },
+  "Melmetal": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Melmetal"
+      }
+    }
+  },
+
+
+  //-----------
+  // Gen 8
+  //-----------
+  "Grookey": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Grookey"
+      }
+    }
+  },
+  "Thwackey": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Thwackey"
+      }
+    }
+  },
+  "Rillaboom": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Rillaboom"
+      }
+    }
+  },
+  "Scorbunny": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Scorbunny"
+      }
+    }
+  },
+  "Raboot": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Raboot"
+      }
+    }
+  },
+  "Cinderace": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Cinderace"
+      }
+    }
+  },
+  "Sobble": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Sobble"
+      }
+    }
+  },
+  "Drizzile": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Drizzile"
+      }
+    }
+  },
+  "Inteleon": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Inteleon"
+      }
+    }
+  },
+  "Skwovet": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Skwovet"
+      }
+    }
+  },
+  "Greedent": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Greedent"
+      }
+    }
+  },
+  "Rookidee": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Rookidee"
+      }
+    }
+  },
+  "Corvisquire": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Corvisquire"
+      }
+    }
+  },
+  "Corviknight": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Corviknight"
+      }
+    }
+  },
+  "Blipbug": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Blipbug"
+      }
+    }
+  },
+  "Dottler": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Dottler"
+      }
+    }
+  },
+  "Orbeetle": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Orbeetle"
+      }
+    }
+  },
+  "Nickit": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Nickit"
+      }
+    }
+  },
+  "Thievul": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Thievul"
+      }
+    }
+  },
+  "Gossifleur": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Gossifleur"
+      }
+    }
+  },
+  "Eldegoss": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Eldegoss"
+      }
+    }
+  },
+  "Wooloo": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Wooloo"
+      }
+    }
+  },
+  "Dubwool": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Dubwool"
+      }
+    }
+  },
+  "Chewtle": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Chewtle"
+      }
+    }
+  },
+  "Drednaw": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Drednaw"
+      }
+    }
+  },
+  "Yamper": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Yamper"
+      }
+    }
+  },
+  "Boltund": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Boltund"
+      }
+    }
+  },
+  "Rolycoly": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Rolycoly"
+      }
+    }
+  },
+  "Carkol": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Carkol"
+      }
+    }
+  },
+  "Coalossal": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Coalossal"
+      }
+    }
+  },
+  "Applin": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Applin"
+      }
+    }
+  },
+  "Flapple": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Flapple"
+      }
+    }
+  },
+  "Appletun": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Appletun"
+      }
+    }
+  },
+  "Silicobra": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Silicobra"
+      }
+    }
+  },
+  "Sandaconda": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Sandaconda"
+      }
+    }
+  },
+  "Cramorant": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Cramorant"
+      },
+      "Gulping": {
+        "Showdown Name": "Cramorant-Gulping"
+      },
+      "Gorging": {
+        "Showdown Name": "Cramorant-Gorging"
+      }
+    }
+  },
+  "Arrokuda": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Arrokuda"
+      }
+    }
+  },
+  "Barraskewda": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Barraskewda"
+      }
+    }
+  },
+  "Toxel": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Toxel"
+      }
+    }
+  },
+  "Toxtricity": {
+    "Forms": {
+      "Amped": {
+        "Showdown Name": "Toxtricity"
+      },
+      "Low Key": {
+        "Showdown Name": "Toxtricity-Low-Key"
+      }
+    }
+  },
+  "Sizzlipede": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Sizzlipede"
+      }
+    }
+  },
+  "Centiskorch": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Centiskorch"
+      }
+    }
+  },
+  "Clobbopus": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Clobbopus"
+      }
+    }
+  },
+  "Grapploct": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Grapploct"
+      }
+    }
+  },
+  "Sinistea": {
+    "Forms": {
+      "Phony": {
+        "Showdown Name": "Sinistea"
+      },
+      "Antique": {
+        "Showdown Name": "Sinistea-Antique"
+      }
+    }
+  },
+  "Polteageist": {
+    "Forms": {
+      "Phony": {
+        "Showdown Name": "Polteageist"
+      },
+      "Antique": {
+        "Showdown Name": "Polteageist-Antique"
+      }
+    }
+  },
+  "Hatenna": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Hatenna"
+      }
+    }
+  },
+  "Hattrem": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Hattrem"
+      }
+    }
+  },
+  "Hatterene": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Hatterene"
+      }
+    }
+  },
+  "Impidimp": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Impidimp"
+      }
+    }
+  },
+  "Morgrem": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Morgrem"
+      }
+    }
+  },
+  "Grimmsnarl": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Grimmsnarl"
+      }
+    }
+  },
+  "Obstagoon": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Obstagoon"
+      }
+    }
+  },
+  "Perrserker": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Perrserker"
+      }
+    }
+  },
+  "Cursola": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Cursola"
+      }
+    }
+  },
+  "Sirfetch’d": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Sirfetch’d"
+      }
+    }
+  },
+  "Mr. Rime": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Mr. Rime"
+      }
+    }
+  },
+  "Runerigus": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Runerigus"
+      }
+    }
+  },
+  "Milcery": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Milcery"
+      }
+    }
+  },
+  "Alcremie": {
+    "Forms": {
+      "Vanilla Cream": {
+        "Showdown Name": "Alcremie"
+      },
+      "Ruby Cream": {
+        "Showdown Name": "Alcremie-Ruby-Cream"
+      },
+      "Matcha Cream": {
+        "Showdown Name": "Alcremie-Matcha-Cream"
+      },
+      "Mint Cream": {
+        "Showdown Name": "Alcremie-Mint-Cream"
+      },
+      "Lemon Cream": {
+        "Showdown Name": "Alcremie-Lemon-Cream"
+      },
+      "Salted Cream": {
+        "Showdown Name": "Alcremie-Salted-Cream"
+      },
+      "Ruby Swirl": {
+        "Showdown Name": "Alcremie-Ruby-Swirl"
+      },
+      "Caramel Swirl": {
+        "Showdown Name": "Alcremie-Caramel-Swirl"
+      },
+      "Rainbow Swirl": {
+        "Showdown Name": "Alcremie-Rainbow-Swirl"
+      }
+    }
+  },
+  "Falinks": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Falinks"
+      }
+    }
+  },
+  "Pincurchin": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Pincurchin"
+      }
+    }
+  },
+  "Snom": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Snom"
+      }
+    }
+  },
+  "Frosmoth": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Frosmoth"
+      }
+    }
+  },
+  "Stonjourner": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Stonjourner"
+      }
+    }
+  },
+  "Eiscue": {
+    "Forms": {
+      "Ice Face": {
+        "Showdown Name": "Eiscue"
+      },
+      "Noice Face": {
+        "Showdown Name": "Eiscue-Noice"
+      }
+    }
+  },
+  "Indeedee": {
+    "Forms": {
+      "": {
+        "Showdown Gender Split": true,
+        "Showdown Name Male": "Indeedee",
+        "Showdown Name Female": "Indeedee-F"
+      }
+    }
+  },
+  "Morpeko": {
+    "Forms": {
+      "Full Belly Mode": {
+        "Showdown Name": "Morpeko"
+      },
+      "Hangry Mode": {
+        "Showdown Name": "Morpeko-Hangry"
+      }
+    }
+  },
+  "Cufant": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Cufant"
+      }
+    }
+  },
+  "Copperajah": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Copperajah"
+      }
+    }
+  },
+  "Dracozolt": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Dracozolt"
+      }
+    }
+  },
+  "Arctozolt": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Arctozolt"
+      }
+    }
+  },
+  "Dracovish": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Dracovish"
+      }
+    }
+  },
+  "Arctovish": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Arctovish"
+      }
+    }
+  },
+  "Duraludon": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Duraludon"
+      }
+    }
+  },
+  "Dreepy": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Dreepy"
+      }
+    }
+  },
+  "Drakloak": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Drakloak"
+      }
+    }
+  },
+  "Dragapult": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Dragapult"
+      }
+    }
+  },
+  "Zacian": {
+    "Forms": {
+      "Hero of Many Battles": {
+        "Showdown Name": "Zacian"
+      },
+      "Crowned Sword": {
+        "Showdown Name": "Zacian-Crowned"
+      }
+    }
+  },
+  "Zamazenta": {
+    "Forms": {
+      "Hero of Many Battles": {
+        "Showdown Name": "Zamazenta"
+      },
+      "Crowned Shield": {
+        "Showdown Name": "Zamazenta-Crowned"
+      }
+    }
+  },
+  "Eternatus": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Eternatus"
+      },
+      "Eternamax": {
+        "Showdown Name": "Eternatus-Eternamax"
+      }
+    }
+  },
+  "Kubfu": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Kubfu"
+      }
+    }
+  },
+  "Urshifu": {
+    "Forms": {
+      "Single Strike Style": {
+        "Showdown Name": "Urshifu"
+      },
+      "Rapid Strike Style": {
+        "Showdown Name": "Urshifu-Rapid-Strike"
+      }
+    }
+  },
+  "Zarude": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Zarude",
+        "Appearance": {
+          "Dada Cape": {
+            "Showdown Name": "Zarude-Dada"
+          }
+        }
+      }
+    }
+  },
+  "Regieleki": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Regieleki"
+      }
+    }
+  },
+  "Regidrago": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Regidrago"
+      }
+    }
+  },
+  "Glastrier": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Glastrier"
+      }
+    }
+  },
+  "Spectrier": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Spectrier"
+      }
+    }
+  },
+  "Calyrex": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Calyrex"
+      },
+      "Ice Rider": {
+        "Showdown Name": "Calyrex-Ice"
+      },
+      "Shadow Rider": {
+        "Showdown Name": "Calyrex-Shadow"
+      }
+    }
+  },
+
+
+  //-----------
+  // Pokéstar
+  //-----------
+  "UFO": {
+    "Forms": {
+      "Form 1": {
+        "Showdown Name": "Pokestar UFO"
+      },
+      "Prop 1": {
+        "Showdown Name": "Pokestar UFO-Prop"
+      },
+      "Form 2": {
+        "Showdown Name": "Pokestar UFO-2"
+      },
+      "Prop 2": {
+        "Showdown Name": "Pokestar UFO-PropU2"
+      }
+    }
+  },
+  "Brycen-Man": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Pokestar Brycen-Man"
+      },
+      "Prop": {
+        "Showdown Name": "Pokestar Brycen-Man-Prop"
+      }
+    }
+  },
+  "MT": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Pokestar MT"
+      },
+      "Prop": {
+        "Showdown Name": "Pokestar MT-Prop"
+      }
+    }
+  },
+  "MT2": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Pokestar MT2"
+      },
+      "Prop": {
+        "Showdown Name": "Pokestar MT2-Prop"
+      }
+    }
+  },
+  "Transport": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Pokestar Transport"
+      },
+      "Prop": {
+        "Showdown Name": "Pokestar Transport-Prop"
+      }
+    }
+  },
+  "Giant ♀": {
+    "Forms": {
+      "Form 1": {
+        "Showdown Name": "Pokestar Giant"
+      },
+      "Prop 1": {
+        "Showdown Name": "Pokestar Giant-PropO1"
+      },
+      "Form 2": {
+        "Showdown Name": "Pokestar Giant-2"
+      },
+      "Prop 2": {
+        "Showdown Name": "Pokestar Giant-PropO2"
+      }
+    }
+  },
+  "Humanoid": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Pokestar Humanoid"
+      },
+      "Prop": {
+        "Showdown Name": "Pokestar Humanoid-Prop"
+      }
+    }
+  },
+  "Monster": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Pokestar Monster"
+      },
+      "Prop": {
+        "Showdown Name": "Pokestar Monster-Prop"
+      }
+    }
+  },
+  "F-00": {
+    "Forms": {
+      "Form 1": {
+        "Showdown Name": "Pokestar F-00"
+      },
+      "Prop 1": {
+        "Showdown Name": "Pokestar F-00-Prop"
+      },
+      "Form 2": {
+        "Showdown Name": "Pokestar F-002"
+      },
+      "Prop 2": {
+        "Showdown Name": "Pokestar F-002-Prop"
+      }
+    }
+  },
+  "Spirit": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Pokestar Spirit"
+      },
+      "Prop": {
+        "Showdown Name": "Pokestar Spirit-Prop"
+      }
+    }
+  },
+  "White Door": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Pokestar White Door"
+      },
+      "Prop": {
+        "Showdown Name": "Pokestar White Door-Prop"
+      }
+    }
+  },
+  "Black Door": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Pokestar Black Door"
+      },
+      "Prop": {
+        "Showdown Name": "Pokestar Black Door-Prop"
+      }
+    }
+  },
+  "Black Belt": {
+    "Forms": {
+      "": {
+        "Showdown Name": "Pokestar Black Belt"
+      },
+      "Prop": {
+        "Showdown Name": "Pokestar Black Belt-Prop"
+      }
+    }
+  },
+
+
+  //-----------
+  // CAP
+  //-----------
+  "Syclar": {
+    "CAP Dex": 1,
+    "Forms": {
+      "": {
+        "Showdown Name": "Syclar"
+      }
+    }
+  },
+  "Syclant": {
+    "CAP Dex": 2,
+    "Forms": {
+      "": {
+        "Showdown Name": "Syclant"
+      }
+    }
+  },
+  "Revenankh": {
+    "CAP Dex": 3,
+    "Forms": {
+      "": {
+        "Showdown Name": "Revenankh"
+      }
+    }
+  },
+  "Embirch": {
+    "CAP Dex": 4,
+    "Forms": {
+      "": {
+        "Showdown Name": "Embirch"
+      }
+    }
+  },
+  "Flarelm": {
+    "CAP Dex": 5,
+    "Forms": {
+      "": {
+        "Showdown Name": "Flarelm"
+      }
+    }
+  },
+  "Pyroak": {
+    "CAP Dex": 6,
+    "Forms": {
+      "": {
+        "Showdown Name": "Pyroak"
+      }
+    }
+  },
+  "Breezi": {
+    "CAP Dex": 7,
+    "Forms": {
+      "": {
+        "Showdown Name": "Breezi"
+      }
+    }
+  },
+  "Fidgit": {
+    "CAP Dex": 8,
+    "Forms": {
+      "": {
+        "Showdown Name": "Fidgit"
+      }
+    }
+  },
+  "Rebble": {
+    "CAP Dex": 9,
+    "Forms": {
+      "": {
+        "Showdown Name": "Rebble"
+      }
+    }
+  },
+  "Tactite": {
+    "CAP Dex": 10,
+    "Forms": {
+      "": {
+        "Showdown Name": "Tactite"
+      }
+    }
+  },
+  "Stratagem": {
+    "CAP Dex": 11,
+    "Forms": {
+      "": {
+        "Showdown Name": "Stratagem"
+      }
+    }
+  },
+  "Privatyke": {
+    "CAP Dex": 12,
+    "Forms": {
+      "": {
+        "Showdown Name": "Privatyke"
+      }
+    }
+  },
+  "Arghonaut": {
+    "CAP Dex": 13,
+    "Forms": {
+      "": {
+        "Showdown Name": "Arghonaut"
+      }
+    }
+  },
+  "Kitsunoh": {
+    "CAP Dex": 14,
+    "Forms": {
+      "": {
+        "Showdown Name": "Kitsunoh"
+      }
+    }
+  },
+  "Cyclohm": {
+    "CAP Dex": 15,
+    "Forms": {
+      "": {
+        "Showdown Name": "Cyclohm"
+      }
+    }
+  },
+  "Colossoil": {
+    "CAP Dex": 16,
+    "Forms": {
+      "": {
+        "Showdown Name": "Colossoil"
+      }
+    }
+  },
+  "Krilowatt": {
+    "CAP Dex": 17,
+    "Forms": {
+      "": {
+        "Showdown Name": "Krilowatt"
+      }
+    }
+  },
+  "Voodoll": {
+    "CAP Dex": 18,
+    "Forms": {
+      "": {
+        "Showdown Name": "Voodoll"
+      }
+    }
+  },
+  "Voodoom": {
+    "CAP Dex": 19,
+    "Forms": {
+      "": {
+        "Showdown Name": "Voodoom"
+      }
+    }
+  },
+  "Scratchet": {
+    "CAP Dex": 20,
+    "Forms": {
+      "": {
+        "Showdown Name": "Scratchet"
+      }
+    }
+  },
+  "Tomohawk": {
+    "CAP Dex": 21,
+    "Forms": {
+      "": {
+        "Showdown Name": "Tomohawk"
+      }
+    }
+  },
+  "Necturine": {
+    "CAP Dex": 22,
+    "Forms": {
+      "": {
+        "Showdown Name": "Necturine"
+      }
+    }
+  },
+  "Necturna": {
+    "CAP Dex": 23,
+    "Forms": {
+      "": {
+        "Showdown Name": "Necturna"
+      }
+    }
+  },
+  "Mollux": {
+    "CAP Dex": 24,
+    "Forms": {
+      "": {
+        "Showdown Name": "Mollux"
+      }
+    }
+  },
+  "Cupra": {
+    "CAP Dex": 25,
+    "Forms": {
+      "": {
+        "Showdown Name": "Cupra"
+      }
+    }
+  },
+  "Argalis": {
+    "CAP Dex": 26,
+    "Forms": {
+      "": {
+        "Showdown Name": "Argalis"
+      }
+    }
+  },
+  "Aurumoth": {
+    "CAP Dex": 27,
+    "Forms": {
+      "": {
+        "Showdown Name": "Aurumoth"
+      }
+    }
+  },
+  "Brattler": {
+    "CAP Dex": 28,
+    "Forms": {
+      "": {
+        "Showdown Name": "Brattler"
+      }
+    }
+  },
+  "Malaconda": {
+    "CAP Dex": 29,
+    "Forms": {
+      "": {
+        "Showdown Name": "Malaconda"
+      }
+    }
+  },
+  "Cawdet": {
+    "CAP Dex": 30,
+    "Forms": {
+      "": {
+        "Showdown Name": "Cawdet"
+      }
+    }
+  },
+  "Cawmodore": {
+    "CAP Dex": 31,
+    "Forms": {
+      "": {
+        "Showdown Name": "Cawmodore"
+      }
+    }
+  },
+  "Volkritter": {
+    "CAP Dex": 32,
+    "Forms": {
+      "": {
+        "Showdown Name": "Volkritter"
+      }
+    }
+  },
+  "Volkraken": {
+    "CAP Dex": 33,
+    "Forms": {
+      "": {
+        "Showdown Name": "Volkraken"
+      }
+    }
+  },
+  "Snugglow": {
+    "CAP Dex": 34,
+    "Forms": {
+      "": {
+        "Showdown Name": "Snugglow"
+      }
+    }
+  },
+  "Plasmanta": {
+    "CAP Dex": 35,
+    "Forms": {
+      "": {
+        "Showdown Name": "Plasmanta"
+      }
+    }
+  },
+  "Floatoy": {
+    "CAP Dex": 36,
+    "Forms": {
+      "": {
+        "Showdown Name": "Floatoy"
+      }
+    }
+  },
+  "Caimanoe": {
+    "CAP Dex": 37,
+    "Forms": {
+      "": {
+        "Showdown Name": "Caimanoe"
+      }
+    }
+  },
+  "Naviathan": {
+    "CAP Dex": 38,
+    "Forms": {
+      "": {
+        "Showdown Name": "Naviathan"
+      }
+    }
+  },
+  "Crucibelle": {
+    "CAP Dex": 39,
+    "Forms": {
+      "": {
+        "Showdown Name": "Crucibelle"
+      },
+      "Mega": {
+        "Showdown Name": "Crucibelle-Mega"
+      }
+    }
+  },
+  "Pluffle": {
+    "CAP Dex": 40,
+    "Forms": {
+      "": {
+        "Showdown Name": "Pluffle"
+      }
+    }
+  },
+  "Kerfluffle": {
+    "CAP Dex": 41,
+    "Forms": {
+      "": {
+        "Showdown Name": "Kerfluffle"
+      }
+    }
+  },
+  "Pajantom": {
+    "CAP Dex": 42,
+    "Forms": {
+      "": {
+        "Showdown Name": "Pajantom"
+      }
+    }
+  },
+  "Mumbao": {
+    "CAP Dex": 43,
+    "Forms": {
+      "": {
+        "Showdown Name": "Mumbao"
+      }
+    }
+  },
+  "Jumbao": {
+    "CAP Dex": 44,
+    "Forms": {
+      "": {
+        "Showdown Name": "Jumbao"
+      }
+    }
+  },
+  "Fawnifer": {
+    "CAP Dex": 45,
+    "Forms": {
+      "": {
+        "Showdown Name": "Fawnifer"
+      }
+    }
+  },
+  "Electrelk": {
+    "CAP Dex": 46,
+    "Forms": {
+      "": {
+        "Showdown Name": "Electrelk"
+      }
+    }
+  },
+  "Caribolt": {
+    "CAP Dex": 47,
+    "Forms": {
+      "": {
+        "Showdown Name": "Caribolt"
+      }
+    }
+  },
+  "Smogecko": {
+    "CAP Dex": 48,
+    "Forms": {
+      "": {
+        "Showdown Name": "Smogecko"
+      }
+    }
+  },
+  "Smoguana": {
+    "CAP Dex": 49,
+    "Forms": {
+      "": {
+        "Showdown Name": "Smoguana"
+      }
+    }
+  },
+  "Smokomodo": {
+    "CAP Dex": 50,
+    "Forms": {
+      "": {
+        "Showdown Name": "Smokomodo"
+      }
+    }
+  },
+  "Swirlpool": {
+    "CAP Dex": 51,
+    "Forms": {
+      "": {
+        "Showdown Name": "Swirlpool"
+      }
+    }
+  },
+  "Coribalis": {
+    "CAP Dex": 52,
+    "Forms": {
+      "": {
+        "Showdown Name": "Coribalis"
+      }
+    }
+  },
+  "Snaelstrom": {
+    "CAP Dex": 53,
+    "Forms": {
+      "": {
+        "Showdown Name": "Snaelstrom"
+      }
+    }
+  },
+  "Justyke": {
+    "CAP Dex": 54,
+    "Forms": {
+      "": {
+        "Showdown Name": "Justyke"
+      }
+    }
+  },
+  "Equilibra": {
+    "CAP Dex": 55,
+    "Forms": {
+      "": {
+        "Showdown Name": "Equilibra"
+      }
+    }
+  },
+  "Solotl": {
+    "CAP Dex": 56,
+    "Forms": {
+      "": {
+        "Showdown Name": "Solotl"
+      }
+    }
+  },
+  "Astrolotl": {
+    "CAP Dex": 57,
+    "Forms": {
+      "": {
+        "Showdown Name": "Astrolotl"
+      }
+    }
+  },
+  "Miasmite": {
+    "CAP Dex": 58,
+    "Forms": {
+      "": {
+        "Showdown Name": "Miasmite"
+      }
+    }
+  },
+  "Miasmaw": {
+    "CAP Dex": 59,
+    "Forms": {
+      "": {
+        "Showdown Name": "Miasmaw"
+      }
+    }
+  },
+  "Chromera": {
+    "CAP Dex": 60,
+    "Forms": {
+      "": {
+        "Showdown Name": "Chromera"
+      }
+    }
+  },
+  "Nohface": {
+    "CAP Dex": 61,
+    "Forms": {
+      "": {
+        "Showdown Name": "Nohface"
+      }
+    }
+  },
+  "Monohm": {
+    "CAP Dex": 62,
+    "Forms": {
+      "": {
+        "Showdown Name": "Monohm"
+      }
+    }
+  },
+  "Duohm": {
+    "CAP Dex": 63,
+    "Forms": {
+      "": {
+        "Showdown Name": "Duohm"
+      }
+    }
+  },
+  "Dorsoil": {
+    "CAP Dex": 64,
+    "Forms": {
+      "": {
+        "Showdown Name": "Dorsoil"
+      }
+    }
+  },
+  "Protowatt": {
+    "CAP Dex": 65,
+    "Forms": {
+      "": {
+        "Showdown Name": "Protowatt"
+      }
+    }
+  }
+}

@@ -1,4 +1,5 @@
 {
   "National Dex": "https://raw.githubusercontent.com/project-pku/pkuData/main/main-series/nationalSpeciesDex.json",
-  "pk3 Species": "https://raw.githubusercontent.com/project-pku/pkuData/main/main-series/gen-3/pk3SpeciesDex.json"
+  "pk3 Species": "https://raw.githubusercontent.com/project-pku/pkuData/main/main-series/gen-3/pk3SpeciesDex.json",
+  "Showdown Species": "https://raw.githubusercontent.com/project-pku/pkuData/main/showdown/showdownSpeciesDex.json"
 }
