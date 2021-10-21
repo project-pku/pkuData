@@ -5,6 +5,9 @@
 //   Default Form
 //     - e.g. Shaymin Land form is default, but Giratina's Origin form isn't.
 //     - Only explicitly listed when it's not "".
+//   In-Battle Form Changes
+//     - e.g. Castform w/ Forecast ability can change form in-battle.
+//     - Includes its family of forms (i.e. Mega, Primal, Ultra burst, or Gigantamax) if any.
 {
   // Gen 1
   "Bulbasaur": {
@@ -14,7 +17,20 @@
     "National Dex": 2
   },
   "Venusaur": {
-    "National Dex": 3
+    "National Dex": 3,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Venusaurite"
+          },
+          "Gigantamax": {
+            "Type": "Gigantamax"
+          }
+        }
+      }
+    }
   },
   "Charmander": {
     "National Dex": 4
@@ -23,7 +39,24 @@
     "National Dex": 5
   },
   "Charizard": {
-    "National Dex": 6
+    "National Dex": 6,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Mega X": {
+            "Type": "Mega",
+            "Item": "Charizardite X"
+          },
+          "Mega Y": {
+            "Type": "Mega",
+            "Item": "Charizardite Y"
+          },
+          "Gigantamax": {
+            "Type": "Gigantamax"
+          }
+        }
+      }
+    }
   },
   "Squirtle": {
     "National Dex": 7
@@ -32,7 +65,20 @@
     "National Dex": 8
   },
   "Blastoise": {
-    "National Dex": 9
+    "National Dex": 9,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Blastoisinite"
+          },
+          "Gigantamax": {
+            "Type": "Gigantamax"
+          }
+        }
+      }
+    }
   },
   "Caterpie": {
     "National Dex": 10
@@ -41,7 +87,16 @@
     "National Dex": 11
   },
   "Butterfree": {
-    "National Dex": 12
+    "National Dex": 12,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Gigantamax": {
+            "Type": "Gigantamax"
+          }
+        }
+      }
+    }
   },
   "Weedle": {
     "National Dex": 13
@@ -50,7 +105,17 @@
     "National Dex": 14
   },
   "Beedrill": {
-    "National Dex": 15
+    "National Dex": 15,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Beedrillite"
+          }
+        }
+      }
+    }
   },
   "Pidgey": {
     "National Dex": 16
@@ -59,7 +124,17 @@
     "National Dex": 17
   },
   "Pidgeot": {
-    "National Dex": 18
+    "National Dex": 18,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Pidgeotite"
+          }
+        }
+      }
+    }
   },
   "Rattata": {
     "National Dex": 19
@@ -87,6 +162,13 @@
   "Pikachu": {
     "National Dex": 25,
     "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Gigantamax": {
+            "Type": "Gigantamax"
+          }
+        }
+      },
       "Cosplay": {
         "Castable to": [ "" ]
       },
@@ -174,7 +256,16 @@
     "National Dex": 51
   },
   "Meowth": {
-    "National Dex": 52
+    "National Dex": 52,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Gigantamax": {
+            "Type": "Gigantamax"
+          }
+        }
+      }
+    }
   },
   "Persian": {
     "National Dex": 53
@@ -213,7 +304,17 @@
     "National Dex": 64
   },
   "Alakazam": {
-    "National Dex": 65
+    "National Dex": 65,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Alakazite"
+          }
+        }
+      }
+    }
   },
   "Machop": {
     "National Dex": 66
@@ -222,7 +323,16 @@
     "National Dex": 67
   },
   "Machamp": {
-    "National Dex": 68
+    "National Dex": 68,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Gigantamax": {
+            "Type": "Gigantamax"
+          }
+        }
+      }
+    }
   },
   "Bellsprout": {
     "National Dex": 69
@@ -258,7 +368,17 @@
     "National Dex": 79
   },
   "Slowbro": {
-    "National Dex": 80
+    "National Dex": 80,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Slowbronite"
+          }
+        }
+      }
+    }
   },
   "Magnemite": {
     "National Dex": 81
@@ -300,7 +420,20 @@
     "National Dex": 93
   },
   "Gengar": {
-    "National Dex": 94
+    "National Dex": 94,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Gengarite"
+          },
+          "Gigantamax": {
+            "Type": "Gigantamax"
+          }
+        }
+      }
+    }
   },
   "Onix": {
     "National Dex": 95
@@ -315,7 +448,16 @@
     "National Dex": 98
   },
   "Kingler": {
-    "National Dex": 99
+    "National Dex": 99,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Gigantamax": {
+            "Type": "Gigantamax"
+          }
+        }
+      }
+    }
   },
   "Voltorb": {
     "National Dex": 100
@@ -368,7 +510,17 @@
     "National Dex": 114
   },
   "Kangaskhan": {
-    "National Dex": 115
+    "National Dex": 115,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Kangaskhanite"
+          }
+        }
+      }
+    }
   },
   "Horsea": {
     "National Dex": 116
@@ -404,7 +556,17 @@
     "National Dex": 126
   },
   "Pinsir": {
-    "National Dex": 127
+    "National Dex": 127,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Pinsirite"
+          }
+        }
+      }
+    }
   },
   "Tauros": {
     "National Dex": 128
@@ -413,16 +575,44 @@
     "National Dex": 129
   },
   "Gyarados": {
-    "National Dex": 130
+    "National Dex": 130,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Gyaradosite"
+          }
+        }
+      }
+    }
   },
   "Lapras": {
-    "National Dex": 131
+    "National Dex": 131,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Gigantamax": {
+            "Type": "Gigantamax"
+          }
+        }
+      }
+    }
   },
   "Ditto": {
     "National Dex": 132
   },
   "Eevee": {
-    "National Dex": 133
+    "National Dex": 133,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Gigantamax": {
+            "Type": "Gigantamax"
+          }
+        }
+      }
+    }
   },
   "Vaporeon": {
     "National Dex": 134
@@ -449,10 +639,29 @@
     "National Dex": 141
   },
   "Aerodactyl": {
-    "National Dex": 142
+    "National Dex": 142,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Aerodactylite"
+          }
+        }
+      }
+    }
   },
   "Snorlax": {
-    "National Dex": 143
+    "National Dex": 143,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Gigantamax": {
+            "Type": "Gigantamax"
+          }
+        }
+      }
+    }
   },
   "Articuno": {
     "National Dex": 144
@@ -473,7 +682,21 @@
     "National Dex": 149
   },
   "Mewtwo": {
-    "National Dex": 150
+    "National Dex": 150,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Mega X": {
+            "Type": "Mega",
+            "Item": "Mewtwonite X"
+          },
+          "Mega Y": {
+            "Type": "Mega",
+            "Item": "Mewtwonite Y"
+          }
+        }
+      }
+    }
   },
   "Mew": {
     "National Dex": 151
@@ -568,7 +791,17 @@
     "National Dex": 180
   },
   "Ampharos": {
-    "National Dex": 181
+    "National Dex": 181,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Ampharosite"
+          }
+        }
+      }
+    }
   },
   "Bellossom": {
     "National Dex": 182
@@ -654,7 +887,17 @@
     "National Dex": 207
   },
   "Steelix": {
-    "National Dex": 208
+    "National Dex": 208,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Steelixite"
+          }
+        }
+      }
+    }
   },
   "Snubbull": {
     "National Dex": 209
@@ -666,13 +909,33 @@
     "National Dex": 211
   },
   "Scizor": {
-    "National Dex": 212
+    "National Dex": 212,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Scizorite"
+          }
+        }
+      }
+    }
   },
   "Shuckle": {
     "National Dex": 213
   },
   "Heracross": {
-    "National Dex": 214
+    "National Dex": 214,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Heracronite"
+          }
+        }
+      }
+    }
   },
   "Sneasel": {
     "National Dex": 215
@@ -717,7 +980,17 @@
     "National Dex": 228
   },
   "Houndoom": {
-    "National Dex": 229
+    "National Dex": 229,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Houndoominite"
+          }
+        }
+      }
+    }
   },
   "Kingdra": {
     "National Dex": 230
@@ -774,7 +1047,17 @@
     "National Dex": 247
   },
   "Tyranitar": {
-    "National Dex": 248
+    "National Dex": 248,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Tyranitarite"
+          }
+        }
+      }
+    }
   },
   "Lugia": {
     "National Dex": 249
@@ -794,7 +1077,17 @@
     "National Dex": 253
   },
   "Sceptile": {
-    "National Dex": 254
+    "National Dex": 254,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Sceptilite"
+          }
+        }
+      }
+    }
   },
   "Torchic": {
     "National Dex": 255
@@ -803,7 +1096,17 @@
     "National Dex": 256
   },
   "Blaziken": {
-    "National Dex": 257
+    "National Dex": 257,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Blazikenite"
+          }
+        }
+      }
+    }
   },
   "Mudkip": {
     "National Dex": 258
@@ -812,7 +1115,17 @@
     "National Dex": 259
   },
   "Swampert": {
-    "National Dex": 260
+    "National Dex": 260,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Swampertite"
+          }
+        }
+      }
+    }
   },
   "Poochyena": {
     "National Dex": 261
@@ -878,7 +1191,17 @@
     "National Dex": 281
   },
   "Gardevoir": {
-    "National Dex": 282
+    "National Dex": 282,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Gardevoirite"
+          }
+        }
+      }
+    }
   },
   "Surskit": {
     "National Dex": 283
@@ -938,10 +1261,30 @@
     "National Dex": 301
   },
   "Sableye": {
-    "National Dex": 302
+    "National Dex": 302,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Sablenite"
+          }
+        }
+      }
+    }
   },
   "Mawile": {
-    "National Dex": 303
+    "National Dex": 303,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Mawilite"
+          }
+        }
+      }
+    }
   },
   "Aron": {
     "National Dex": 304
@@ -950,19 +1293,49 @@
     "National Dex": 305
   },
   "Aggron": {
-    "National Dex": 306
+    "National Dex": 306,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Aggronite"
+          }
+        }
+      }
+    }
   },
   "Meditite": {
     "National Dex": 307
   },
   "Medicham": {
-    "National Dex": 308
+    "National Dex": 308,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Medichamite"
+          }
+        }
+      }
+    }
   },
   "Electrike": {
     "National Dex": 309
   },
   "Manectric": {
-    "National Dex": 310
+    "National Dex": 310,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Manectite"
+          }
+        }
+      }
+    }
   },
   "Plusle": {
     "National Dex": 311
@@ -989,7 +1362,17 @@
     "National Dex": 318
   },
   "Sharpedo": {
-    "National Dex": 319
+    "National Dex": 319,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Sharpedonite"
+          }
+        }
+      }
+    }
   },
   "Wailmer": {
     "National Dex": 320
@@ -1001,7 +1384,17 @@
     "National Dex": 322
   },
   "Camerupt": {
-    "National Dex": 323
+    "National Dex": 323,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Cameruptite"
+          }
+        }
+      }
+    }
   },
   "Torkoal": {
     "National Dex": 324
@@ -1034,7 +1427,17 @@
     "National Dex": 333
   },
   "Altaria": {
-    "National Dex": 334
+    "National Dex": 334,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Altarianite"
+          }
+        }
+      }
+    }
   },
   "Zangoose": {
     "National Dex": 335
@@ -1088,7 +1491,57 @@
     "National Dex": 351,
     "Forms": {
       "Normal": {
-        "Default": true
+        "Default": true,
+        "In-Battle Form Changes": {
+          "Sunny": {
+            "Ability": "Forecast"
+          },
+          "Rainy": {
+            "Ability": "Forecast"
+          },
+          "Snowy": {
+            "Ability": "Forecast"
+          }
+        }
+      },
+      "Sunny": {
+        "In-Battle Form Changes": {
+          "Normal": {
+            "Ability": "Forecast"
+          },
+          "Rainy": {
+            "Ability": "Forecast"
+          },
+          "Snowy": {
+            "Ability": "Forecast"
+          }
+        }
+      },
+      "Rainy": {
+        "In-Battle Form Changes": {
+          "Normal": {
+            "Ability": "Forecast"
+          },
+          "Sunny": {
+            "Ability": "Forecast"
+          },
+          "Snowy": {
+            "Ability": "Forecast"
+          }
+        }
+      },
+      "Snowy": {
+        "In-Battle Form Changes": {
+          "Normal": {
+            "Ability": "Forecast"
+          },
+          "Sunny": {
+            "Ability": "Forecast"
+          },
+          "Rainy": {
+            "Ability": "Forecast"
+          }
+        }
       }
     }
   },
@@ -1099,7 +1552,17 @@
     "National Dex": 353
   },
   "Banette": {
-    "National Dex": 354
+    "National Dex": 354,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Banettite"
+          }
+        }
+      }
+    }
   },
   "Duskull": {
     "National Dex": 355
@@ -1114,7 +1577,17 @@
     "National Dex": 358
   },
   "Absol": {
-    "National Dex": 359
+    "National Dex": 359,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Absolite"
+          }
+        }
+      }
+    }
   },
   "Wynaut": {
     "National Dex": 360
@@ -1123,7 +1596,17 @@
     "National Dex": 361
   },
   "Glalie": {
-    "National Dex": 362
+    "National Dex": 362,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Glalitite"
+          }
+        }
+      }
+    }
   },
   "Spheal": {
     "National Dex": 363
@@ -1156,7 +1639,17 @@
     "National Dex": 372
   },
   "Salamence": {
-    "National Dex": 373
+    "National Dex": 373,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Salamencite"
+          }
+        }
+      }
+    }
   },
   "Beldum": {
     "National Dex": 374
@@ -1165,7 +1658,17 @@
     "National Dex": 375
   },
   "Metagross": {
-    "National Dex": 376
+    "National Dex": 376,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Metagrossite"
+          }
+        }
+      }
+    }
   },
   "Regirock": {
     "National Dex": 377
@@ -1177,19 +1680,68 @@
     "National Dex": 379
   },
   "Latias": {
-    "National Dex": 380
+    "National Dex": 380,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Latiasite"
+          }
+        }
+      }
+    }
   },
   "Latios": {
-    "National Dex": 381
+    "National Dex": 381,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Latiosite"
+          }
+        }
+      }
+    }
   },
   "Kyogre": {
-    "National Dex": 382
+    "National Dex": 382,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Primal": {
+            "Type": "Primal",
+            "Item": "Blue Orb"
+          }
+        }
+      }
+    }
   },
   "Groudon": {
-    "National Dex": 383
+    "National Dex": 383,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Primal": {
+            "Type": "Primal",
+            "Item": "Red Orb"
+          }
+        }
+      }
+    }
   },
   "Rayquaza": {
-    "National Dex": 384
+    "National Dex": 384,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega"
+          }
+        }
+      }
+    }
   },
   "Jirachi": {
     "National Dex": 385
@@ -1320,7 +1872,19 @@
     "National Dex": 421,
     "Forms": {
       "Overcast": {
-        "Default": true
+        "Default": true,
+        "In-Battle Form Changes": {
+          "Sunshine": {
+            "Ability": "Flower Gift"
+          }
+        }
+      },
+      "Sunshine": {
+        "In-Battle Form Changes": {
+          "Overcast": {
+            "Ability": "Flower Gift"
+          }
+        }
       }
     }
   },
@@ -1353,7 +1917,17 @@
     "National Dex": 427
   },
   "Lopunny": {
-    "National Dex": 428
+    "National Dex": 428,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Lopunnite"
+          }
+        }
+      }
+    }
   },
   "Mismagius": {
     "National Dex": 429
@@ -1404,7 +1978,17 @@
     "National Dex": 444
   },
   "Garchomp": {
-    "National Dex": 445
+    "National Dex": 445,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Garchompite"
+          }
+        }
+      }
+    }
   },
   "Munchlax": {
     "National Dex": 446
@@ -1413,7 +1997,17 @@
     "National Dex": 447
   },
   "Lucario": {
-    "National Dex": 448
+    "National Dex": 448,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Lucarionite"
+          }
+        }
+      }
+    }
   },
   "Hippopotas": {
     "National Dex": 449
@@ -1449,7 +2043,17 @@
     "National Dex": 459
   },
   "Abomasnow": {
-    "National Dex": 460
+    "National Dex": 460,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Abomasite"
+          }
+        }
+      }
+    }
   },
   "Weavile": {
     "National Dex": 461
@@ -1494,7 +2098,17 @@
     "National Dex": 474
   },
   "Gallade": {
-    "National Dex": 475
+    "National Dex": 475,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Galladite"
+          }
+        }
+      }
+    }
   },
   "Probopass": {
     "National Dex": 476
@@ -1679,7 +2293,17 @@
     "National Dex": 530
   },
   "Audino": {
-    "National Dex": 531
+    "National Dex": 531,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Audinite"
+          }
+        }
+      }
+    }
   },
   "Timburr": {
     "National Dex": 532
@@ -1759,7 +2383,33 @@
     "National Dex": 555,
     "Forms": {
       "Standard Mode": {
-        "Default": true
+        "Default": true,
+        "In-Battle Form Changes": {
+          "Zen Mode": {
+            "Ability": "Zen Mode"
+          }
+        }
+      },
+      "Zen Mode": {
+        "In-Battle Form Changes": {
+          "Standard Mode": {
+            "Ability": "Zen Mode"
+          }
+        }
+      },
+      "Galarian|Standard Mode": {
+        "In-Battle Form Changes": {
+          "Galarian|Zen Mode": {
+            "Ability": "Zen Mode"
+          }
+        }
+      },
+      "Galarian|Zen Mode": {
+        "In-Battle Form Changes": {
+          "Galarian|Standard Mode": {
+            "Ability": "Zen Mode"
+          }
+        }
       }
     }
   },
@@ -1803,7 +2453,16 @@
     "National Dex": 568
   },
   "Garbodor": {
-    "National Dex": 569
+    "National Dex": 569,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Gigantamax": {
+            "Type": "Gigantamax"
+          }
+        }
+      }
+    }
   },
   "Zorua": {
     "National Dex": 570
@@ -2073,7 +2732,19 @@
     "National Dex": 648,
     "Forms": {
       "Aria": {
-        "Default": true
+        "Default": true,
+        "In-Battle Form Changes": {
+          "Pirouette": {
+            "Move": "Relic Song"
+          }
+        }
+      },
+      "Pirouette": {
+        "In-Battle Form Changes": {
+          "Aria": {
+            "Move": "Relic Song"
+          }
+        }
       }
     }
   },
@@ -2107,7 +2778,16 @@
     "National Dex": 657
   },
   "Greninja": {
-    "National Dex": 658
+    "National Dex": 658,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Ash": {
+            "Ability": "Battle Bond"
+          }
+        }
+      }
+    }
   },
   "Bunnelby": {
     "National Dex": 659
@@ -2204,7 +2884,19 @@
     "National Dex": 681,
     "Forms": {
       "Shield": {
-        "Default": true
+        "Default": true,
+        "In-Battle Form Changes": {
+          "Sword": {
+            "Ability": "Stance Change"
+          }
+        }
+      },
+      "Sword": {
+        "In-Battle Form Changes": {
+          "Shield": {
+            "Ability": "Stance Change"
+          }
+        }
       }
     }
   },
@@ -2320,12 +3012,34 @@
     "National Dex": 718,
     "Forms": {
       "50%": {
-        "Default": true
+        "Default": true,
+        "In-Battle Form Changes": {
+          "Complete": {
+            "Ability": "Power Construct"
+          }
+        }
+      },
+      "10%": {
+        "In-Battle Form Changes": {
+          "Complete": {
+            "Ability": "Power Construct"
+          }
+        }
       }
     }
   },
   "Diancie": {
-    "National Dex": 719
+    "National Dex": 719,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Diancite"
+          }
+        }
+      }
+    }
   },
   "Hoopa": {
     "National Dex": 720,
@@ -2441,7 +3155,19 @@
     "National Dex": 746,
     "Forms": {
       "Solo": {
-        "Default": true
+        "Default": true,
+        "In-Battle Form Changes": {
+          "School": {
+            "Ability": "Schooling"
+          }
+        }
+      },
+      "School": {
+        "In-Battle Form Changes": {
+          "Solo": {
+            "Ability": "Schooling"
+          }
+        }
       }
     }
   },
@@ -2550,7 +3276,103 @@
     "National Dex": 774,
     "Forms": {
       "Red": {
-        "Default": true
+        "Default": true,
+        "In-Battle Form Changes": {
+          "Meteor|Red": {
+            "Ability": "Shields Down"
+          }
+        }
+      },
+      "Orange": {
+        "In-Battle Form Changes": {
+          "Meteor|Orange": {
+            "Ability": "Shields Down"
+          }
+        }
+      },
+      "Yellow": {
+        "In-Battle Form Changes": {
+          "Meteor|Yellow": {
+            "Ability": "Shields Down"
+          }
+        }
+      },
+      "Green": {
+        "In-Battle Form Changes": {
+          "Green|Meteor": {
+            "Ability": "Shields Down"
+          }
+        }
+      },
+      "Blue": {
+        "In-Battle Form Changes": {
+          "Blue|Meteor": {
+            "Ability": "Shields Down"
+          }
+        }
+      },
+      "Indigo": {
+        "In-Battle Form Changes": {
+          "Indigo|Meteor": {
+            "Ability": "Shields Down"
+          }
+        }
+      },
+      "Violet": {
+        "In-Battle Form Changes": {
+          "Meteor|Violet": {
+            "Ability": "Shields Down"
+          }
+        }
+      },
+      "Meteor|Red": {
+        "In-Battle Form Changes": {
+          "Red": {
+            "Ability": "Shields Down"
+          }
+        }
+      },
+      "Meteor|Orange": {
+        "In-Battle Form Changes": {
+          "Orange": {
+            "Ability": "Shields Down"
+          }
+        }
+      },
+      "Meteor|Yellow": {
+        "In-Battle Form Changes": {
+          "Yellow": {
+            "Ability": "Shields Down"
+          }
+        }
+      },
+      "Green|Meteor": {
+        "In-Battle Form Changes": {
+          "Green": {
+            "Ability": "Shields Down"
+          }
+        }
+      },
+      "Blue|Meteor": {
+        "In-Battle Form Changes": {
+          "Blue": {
+            "Ability": "Shields Down"
+          }
+        }
+      },
+      "Indigo|Meteor": {
+        "In-Battle Form Changes": {
+          "Indigo": {
+            "Ability": "Shields Down"
+          }
+        }
+      },
+      "Meteor|Violet": {
+        "In-Battle Form Changes": {
+          "Violet": {
+            "Ability": "Shields Down"
+          }
+        }
       }
     }
   },
@@ -2572,10 +3394,20 @@
     "National Dex": 778,
     "Forms": {
       "Disguised": {
-        "Default": true
+        "Default": true,
+        "In-Battle Form Changes": {
+          "Busted": {
+            "Ability": "Disguise"
+          }
+        }
       },
       "Disguised|Totem": {
-        "Castable to": [ "Disguised" ]
+        "Castable to": [ "Disguised" ],
+        "In-Battle Form Changes": {
+          "Busted|Totem": {
+            "Ability": "Disguise"
+          }
+        }
       },
       "Busted|Totem": {
         "Castable to": [ "Busted" ]
@@ -2651,7 +3483,23 @@
     "National Dex": 799
   },
   "Necrozma": {
-    "National Dex": 800
+    "National Dex": 800,
+    "Forms": {
+      "Dusk Mane": {
+        "In-Battle Form Changes": {
+          "Ultra": {
+            "Item": "Ultranecrozium Z"
+          }
+        }
+      },
+      "Dawn Wings": {
+        "In-Battle Form Changes": {
+          "Ultra": {
+            "Item": "Ultranecrozium Z"
+          }
+        }
+      }
+    }
   },
   "Magearna": {
     "National Dex": 801
@@ -2678,7 +3526,16 @@
     "National Dex": 808
   },
   "Melmetal": {
-    "National Dex": 809
+    "National Dex": 809,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Gigantamax": {
+            "Type": "Gigantamax"
+          }
+        }
+      }
+    }
   },
 
   // Gen 8
@@ -2689,7 +3546,16 @@
     "National Dex": 811
   },
   "Rillaboom": {
-    "National Dex": 812
+    "National Dex": 812,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Gigantamax": {
+            "Type": "Gigantamax"
+          }
+        }
+      }
+    }
   },
   "Scorbunny": {
     "National Dex": 813
@@ -2698,7 +3564,16 @@
     "National Dex": 814
   },
   "Cinderace": {
-    "National Dex": 815
+    "National Dex": 815,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Gigantamax": {
+            "Type": "Gigantamax"
+          }
+        }
+      }
+    }
   },
   "Sobble": {
     "National Dex": 816
@@ -2707,7 +3582,16 @@
     "National Dex": 817
   },
   "Inteleon": {
-    "National Dex": 818
+    "National Dex": 818,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Gigantamax": {
+            "Type": "Gigantamax"
+          }
+        }
+      }
+    }
   },
   "Skwovet": {
     "National Dex": 819
@@ -2722,7 +3606,16 @@
     "National Dex": 822
   },
   "Corviknight": {
-    "National Dex": 823
+    "National Dex": 823,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Gigantamax": {
+            "Type": "Gigantamax"
+          }
+        }
+      }
+    }
   },
   "Blipbug": {
     "National Dex": 824
@@ -2731,7 +3624,16 @@
     "National Dex": 825
   },
   "Orbeetle": {
-    "National Dex": 826
+    "National Dex": 826,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Gigantamax": {
+            "Type": "Gigantamax"
+          }
+        }
+      }
+    }
   },
   "Nickit": {
     "National Dex": 827
@@ -2755,7 +3657,16 @@
     "National Dex": 833
   },
   "Drednaw": {
-    "National Dex": 834
+    "National Dex": 834,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Gigantamax": {
+            "Type": "Gigantamax"
+          }
+        }
+      }
+    }
   },
   "Yamper": {
     "National Dex": 835
@@ -2770,25 +3681,93 @@
     "National Dex": 838
   },
   "Coalossal": {
-    "National Dex": 839
+    "National Dex": 839,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Gigantamax": {
+            "Type": "Gigantamax"
+          }
+        }
+      }
+    }
   },
   "Applin": {
     "National Dex": 840
   },
   "Flapple": {
-    "National Dex": 841
+    "National Dex": 841,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Gigantamax": {
+            "Type": "Gigantamax"
+          }
+        }
+      }
+    }
   },
   "Appletun": {
-    "National Dex": 842
+    "National Dex": 842,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Gigantamax": {
+            "Type": "Gigantamax"
+          }
+        }
+      }
+    }
   },
   "Silicobra": {
     "National Dex": 843
   },
   "Sandaconda": {
-    "National Dex": 844
+    "National Dex": 844,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Gigantamax": {
+            "Type": "Gigantamax"
+          }
+        }
+      }
+    }
   },
   "Cramorant": {
-    "National Dex": 845
+    "National Dex": 845,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Gulping": {
+            "Ability": "Gulp Missile"
+          },
+          "Gorging": {
+            "Ability": "Gulp Missile"
+          }
+        }
+      },
+      "Gulping": {
+        "In-Battle Form Changes": {
+          "": {
+            "Ability": "Gulp Missile"
+          },
+          "Gorging": {
+            "Ability": "Gulp Missile"
+          }
+        }
+      },
+      "Gorging": {
+        "In-Battle Form Changes": {
+          "": {
+            "Ability": "Gulp Missile"
+          },
+          "Gulping": {
+            "Ability": "Gulp Missile"
+          }
+        }
+      }
+    }
   },
   "Arrokuda": {
     "National Dex": 846
@@ -2803,7 +3782,19 @@
     "National Dex": 849,
     "Forms": {
       "Amped": {
-        "Default": true
+        "Default": true,
+        "In-Battle Form Changes": {
+          "Gigantamax": {
+            "Type": "Gigantamax"
+          }
+        }
+      },
+      "Low Key": {
+        "In-Battle Form Changes": {
+          "Gigantamax": {
+            "Type": "Gigantamax"
+          }
+        }
       }
     }
   },
@@ -2811,7 +3802,16 @@
     "National Dex": 850
   },
   "Centiskorch": {
-    "National Dex": 851
+    "National Dex": 851,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Gigantamax": {
+            "Type": "Gigantamax"
+          }
+        }
+      }
+    }
   },
   "Clobbopus": {
     "National Dex": 852
@@ -2842,7 +3842,16 @@
     "National Dex": 857
   },
   "Hatterene": {
-    "National Dex": 858
+    "National Dex": 858,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Gigantamax": {
+            "Type": "Gigantamax"
+          }
+        }
+      }
+    }
   },
   "Impidimp": {
     "National Dex": 859
@@ -2851,7 +3860,16 @@
     "National Dex": 860
   },
   "Grimmsnarl": {
-    "National Dex": 861
+    "National Dex": 861,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Gigantamax": {
+            "Type": "Gigantamax"
+          }
+        }
+      }
+    }
   },
   "Obstagoon": {
     "National Dex": 862
@@ -2878,7 +3896,68 @@
     "National Dex": 869,
     "Forms": {
       "Vanilla Cream": {
-        "Default": true
+        "Default": true,
+        "In-Battle Form Changes": {
+          "Gigantamax": {
+            "Type": "Gigantamax"
+          }
+        }
+      },
+      "Ruby Cream": {
+        "In-Battle Form Changes": {
+          "Gigantamax": {
+            "Type": "Gigantamax"
+          }
+        }
+      },
+      "Matcha Cream": {
+        "In-Battle Form Changes": {
+          "Gigantamax": {
+            "Type": "Gigantamax"
+          }
+        }
+      },
+      "Mint Cream": {
+        "In-Battle Form Changes": {
+          "Gigantamax": {
+            "Type": "Gigantamax"
+          }
+        }
+      },
+      "Lemon Cream": {
+        "In-Battle Form Changes": {
+          "Gigantamax": {
+            "Type": "Gigantamax"
+          }
+        }
+      },
+      "Salted Cream": {
+        "In-Battle Form Changes": {
+          "Gigantamax": {
+            "Type": "Gigantamax"
+          }
+        }
+      },
+      "Ruby Swirl": {
+        "In-Battle Form Changes": {
+          "Gigantamax": {
+            "Type": "Gigantamax"
+          }
+        }
+      },
+      "Caramel Swirl": {
+        "In-Battle Form Changes": {
+          "Gigantamax": {
+            "Type": "Gigantamax"
+          }
+        }
+      },
+      "Rainbow Swirl": {
+        "In-Battle Form Changes": {
+          "Gigantamax": {
+            "Type": "Gigantamax"
+          }
+        }
       }
     }
   },
@@ -2901,7 +3980,19 @@
     "National Dex": 875,
     "Forms": {
       "Ice Face": {
-        "Default": true
+        "Default": true,
+        "In-Battle Form Changes": {
+          "Noice Face": {
+            "Ability": "Ice Face"
+          }
+        }
+      },
+      "Noice Face": {
+        "In-Battle Form Changes": {
+          "Ice Face": {
+            "Ability": "Ice Face"
+          }
+        }
       }
     }
   },
@@ -2912,7 +4003,19 @@
     "National Dex": 877,
     "Forms": {
       "Full Belly Mode": {
-        "Default": true
+        "Default": true,
+        "In-Battle Form Changes": {
+          "Hangry Mode": {
+            "Ability": "Hunger Switch"
+          }
+        }
+      },
+      "Hangry Mode": {
+        "In-Battle Form Changes": {
+          "Fully Belly Mode": {
+            "Ability": "Hunger Switch"
+          }
+        }
       }
     }
   },
@@ -2920,7 +4023,16 @@
     "National Dex": 878
   },
   "Copperajah": {
-    "National Dex": 879
+    "National Dex": 879,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Gigantamax": {
+            "Type": "Gigantamax"
+          }
+        }
+      }
+    }
   },
   "Dracozolt": {
     "National Dex": 880
@@ -2935,7 +4047,16 @@
     "National Dex": 883
   },
   "Duraludon": {
-    "National Dex": 884
+    "National Dex": 884,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Gigantamax": {
+            "Type": "Gigantamax"
+          }
+        }
+      }
+    }
   },
   "Dreepy": {
     "National Dex": 885
@@ -2950,7 +4071,12 @@
     "National Dex": 888,
     "Forms": {
       "Hero of Many Battles": {
-        "Default": true
+        "Default": true,
+        "In-Battle Form Changes": {
+          "Crowned Sword": {
+            "Item": "Rusted Sword"
+          }
+        }
       }
     }
   },
@@ -2958,12 +4084,26 @@
     "National Dex": 889,
     "Forms": {
       "Hero of Many Battles": {
-        "Default": true
+        "Default": true,
+        "In-Battle Form Changes": {
+          "Crowned Shield": {
+            "Item": "Rusted Shield"
+          }
+        }
       }
     }
   },
   "Eternatus": {
-    "National Dex": 890
+    "National Dex": 890,
+    "Forms": {
+      "": {
+        "In-Battle Form Changes": {
+          "Eternamax": {
+            "Type": "Gigantamax"
+          } // Unobtainable
+        }
+      }
+    }
   },
   "Kubfu": {
     "National Dex": 891
@@ -2972,7 +4112,19 @@
     "National Dex": 892,
     "Forms": {
       "Single Strike Style": {
-        "Default": true
+        "Default": true,
+        "In-Battle Form Changes": {
+          "Gigantamax": {
+            "Type": "Gigantamax|Single Strike Style"
+          }
+        }
+      },
+      "Rapid Strike Style": {
+        "In-Battle Form Changes": {
+          "Gigantamax": {
+            "Type": "Gigantamax|Rapid Strike Style"
+          }
+        }
       }
     }
   },
