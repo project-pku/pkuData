@@ -1,0 +1,226 @@
+{
+  "UFO": {
+    "Forms": {
+      "Form 1": {
+        "Default": true,
+        "Indices": {
+          "pk5": 652
+        }
+      },
+      "Prop U1": {
+        "Indices": {
+          "pk5": 664
+        }
+      },
+      "Form 2": {
+        "Indices": {
+          "pk5": 680
+        }
+      },
+      "Prop U2": {
+        "Indices": {
+          "pk5": 665
+        }
+      }
+    }
+  },
+  "Brycen-Man": {
+    "Forms": {
+      "": {
+        "Indices": {
+          "pk5": 653
+        }
+      },
+      "Prop H1": {
+        "Indices": {
+          "pk5": 666
+        }
+      }
+    }
+  },
+  "MT": {
+    "Forms": {
+      "": {
+        "Indices": {
+          "pk5": 654
+        }
+      },
+      "Prop M1": {
+        "Indices": {
+          "pk5": 667
+        }
+      }
+    }
+  },
+  "MT2": {
+    "Forms": {
+      "": {
+        "Indices": {
+          "pk5": 655
+        }
+      },
+      "Prop M2": {
+        "Indices": {
+          "pk5": 668
+        }
+      }
+    }
+  },
+  "Transport": {
+    "Forms": {
+      "": {
+        "Indices": {
+          "pk5": 656
+        }
+      },
+      "Prop T1": {
+        "Indices": {
+          "pk5": 669
+        }
+      }
+    }
+  },
+  "Giant ♀": {
+    "Forms": {
+      "Form 1": {
+        "Default": true,
+        "Indices": {
+          "pk5": 657
+        }
+      },
+      "Prop O1": {
+        "Indices": {
+          "pk5": 670
+        }
+      },
+      "Form 2": {
+        "Indices": {
+          "pk5": 681
+        }
+      },
+      "Prop O2": {
+        "Indices": {
+          "pk5": 671
+        }
+      }
+    }
+  },
+  "Humanoid": {
+    "Forms": {
+      "": {
+        "Indices": {
+          "pk5": 658
+        }
+      },
+      "Prop C1": {
+        "Indices": {
+          "pk5": 672
+        }
+      }
+    }
+  },
+  "Monster": {
+    "Forms": {
+      "": {
+        "Indices": {
+          "pk5": 659
+        }
+      },
+      "Prop C2": {
+        "Indices": {
+          "pk5": 673
+        }
+      }
+    }
+  },
+  "F-00": {
+    "Forms": {
+      "Form 1": {
+        "Default": true,
+        "Indices": {
+          "pk5": 660
+        }
+      },
+      "Prop R1": {
+        "Indices": {
+          "pk5": 677
+        }
+      },
+      "Form 2": {
+        "Indices": {
+          "pk5": 682
+        }
+      },
+      "Prop R2": {
+        "Indices": {
+          "pk5": 678
+        }
+      }
+    }
+  },
+  "Spirit": {
+    "Forms": {
+      "": {
+        "Indices": {
+          "pk5": 661
+        }
+      },
+      "Prop G1": {
+        "Indices": {
+          "pk5": 674
+        }
+      }
+    }
+  },
+  "White Door": {
+    "Forms": {
+      "": {
+        "Indices": {
+          "pk5": 662
+        }
+      },
+      "Prop W1": {
+        "Indices": {
+          "pk5": 675
+        }
+      }
+    }
+  },
+  "Black Door": {
+    "Forms": {
+      "": {
+        "Indices": {
+          "pk5": 663
+        }
+      },
+      "Prop W2": {
+        "Indices": {
+          "pk5": 676
+        }
+      }
+    }
+  },
+  "Black Belt": {
+    "Forms": {
+      "": {
+        "Indices": {
+          "pk5": 683
+        }
+      },
+      "Prop K1": {
+        "Indices": {
+          "pk5": 679
+        }
+      }
+    }
+  },
+  "Smeargle": {
+    "Forms": {
+      "Pokéstar": {
+        "Indices": {
+          "pk5": 684
+        }
+      }
+    }
+  }
+}
