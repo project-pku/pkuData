@@ -1,0 +1,2534 @@
+{
+  "10,000,000 Volt Thunderbolt": {
+    "Exists in": ["Showdown"]
+  },
+  "Absorb": {
+    "Exists in": ["Showdown"]
+  },
+  "Accelerock": {
+    "Exists in": ["Showdown"]
+  },
+  "Acid": {
+    "Exists in": ["Showdown"]
+  },
+  "Acid Armor": {
+    "Exists in": ["Showdown"]
+  },
+  "Acid Downpour": {
+    "Exists in": ["Showdown"]
+  },
+  "Acid Spray": {
+    "Exists in": ["Showdown"]
+  },
+  "Acrobatics": {
+    "Exists in": ["Showdown"]
+  },
+  "Acupressure": {
+    "Exists in": ["Showdown"]
+  },
+  "Aerial Ace": {
+    "Exists in": ["Showdown"]
+  },
+  "Aeroblast": {
+    "Exists in": ["Showdown"]
+  },
+  "After You": {
+    "Exists in": ["Showdown"]
+  },
+  "Agility": {
+    "Exists in": ["Showdown"]
+  },
+  "Air Cutter": {
+    "Exists in": ["Showdown"]
+  },
+  "Air Slash": {
+    "Exists in": ["Showdown"]
+  },
+  "All-Out Pummeling": {
+    "Exists in": ["Showdown"]
+  },
+  "Ally Switch": {
+    "Exists in": ["Showdown"]
+  },
+  "Amnesia": {
+    "Exists in": ["Showdown"]
+  },
+  "Anchor Shot": {
+    "Exists in": ["Showdown"]
+  },
+  "Ancient Power": {
+    "Exists in": ["Showdown"]
+  },
+  "Apple Acid": {
+    "Exists in": ["Showdown"]
+  },
+  "Aqua Jet": {
+    "Exists in": ["Showdown"]
+  },
+  "Aqua Ring": {
+    "Exists in": ["Showdown"]
+  },
+  "Aqua Tail": {
+    "Exists in": ["Showdown"]
+  },
+  "Arm Thrust": {
+    "Exists in": ["Showdown"]
+  },
+  "Aromatherapy": {
+    "Exists in": ["Showdown"]
+  },
+  "Aromatic Mist": {
+    "Exists in": ["Showdown"]
+  },
+  "Assist": {
+    "Exists in": ["Showdown"]
+  },
+  "Assurance": {
+    "Exists in": ["Showdown"]
+  },
+  "Astonish": {
+    "Exists in": ["Showdown"]
+  },
+  "Astral Barrage": {
+    "Exists in": ["Showdown"]
+  },
+  "Attack Order": {
+    "Exists in": ["Showdown"]
+  },
+  "Attract": {
+    "Exists in": ["Showdown"]
+  },
+  "Aura Sphere": {
+    "Exists in": ["Showdown"]
+  },
+  "Aura Wheel": {
+    "Exists in": ["Showdown"]
+  },
+  "Aurora Beam": {
+    "Exists in": ["Showdown"]
+  },
+  "Aurora Veil": {
+    "Exists in": ["Showdown"]
+  },
+  "Autotomize": {
+    "Exists in": ["Showdown"]
+  },
+  "Avalanche": {
+    "Exists in": ["Showdown"]
+  },
+  "Baby-Doll Eyes": {
+    "Exists in": ["Showdown"]
+  },
+  "Baddy Bad": {
+    "Exists in": ["Showdown"]
+  },
+  "Baneful Bunker": {
+    "Exists in": ["Showdown"]
+  },
+  "Barrage": {
+    "Exists in": ["Showdown"]
+  },
+  "Barrier": {
+    "Exists in": ["Showdown"]
+  },
+  "Baton Pass": {
+    "Exists in": ["Showdown"]
+  },
+  "Beak Blast": {
+    "Exists in": ["Showdown"]
+  },
+  "Beat Up": {
+    "Exists in": ["Showdown"]
+  },
+  "Behemoth Bash": {
+    "Exists in": ["Showdown"]
+  },
+  "Behemoth Blade": {
+    "Exists in": ["Showdown"]
+  },
+  "Belch": {
+    "Exists in": ["Showdown"]
+  },
+  "Belly Drum": {
+    "Exists in": ["Showdown"]
+  },
+  "Bestow": {
+    "Exists in": ["Showdown"]
+  },
+  "Bide": {
+    "Exists in": ["Showdown"]
+  },
+  "Bind": {
+    "Exists in": ["Showdown"]
+  },
+  "Bite": {
+    "Exists in": ["Showdown"]
+  },
+  "Black Hole Eclipse": {
+    "Exists in": ["Showdown"]
+  },
+  "Blast Burn": {
+    "Exists in": ["Showdown"]
+  },
+  "Blaze Kick": {
+    "Exists in": ["Showdown"]
+  },
+  "Blizzard": {
+    "Exists in": ["Showdown"]
+  },
+  "Block": {
+    "Exists in": ["Showdown"]
+  },
+  "Bloom Doom": {
+    "Exists in": ["Showdown"]
+  },
+  "Blue Flare": {
+    "Exists in": ["Showdown"]
+  },
+  "Body Press": {
+    "Exists in": ["Showdown"]
+  },
+  "Body Slam": {
+    "Exists in": ["Showdown"]
+  },
+  "Bolt Beak": {
+    "Exists in": ["Showdown"]
+  },
+  "Bolt Strike": {
+    "Exists in": ["Showdown"]
+  },
+  "Bone Club": {
+    "Exists in": ["Showdown"]
+  },
+  "Bonemerang": {
+    "Exists in": ["Showdown"]
+  },
+  "Bone Rush": {
+    "Exists in": ["Showdown"]
+  },
+  "Boomburst": {
+    "Exists in": ["Showdown"]
+  },
+  "Bounce": {
+    "Exists in": ["Showdown"]
+  },
+  "Bouncy Bubble": {
+    "Exists in": ["Showdown"]
+  },
+  "Branch Poke": {
+    "Exists in": ["Showdown"]
+  },
+  "Brave Bird": {
+    "Exists in": ["Showdown"]
+  },
+  "Breaking Swipe": {
+    "Exists in": ["Showdown"]
+  },
+  "Breakneck Blitz": {
+    "Exists in": ["Showdown"]
+  },
+  "Brick Break": {
+    "Exists in": ["Showdown"]
+  },
+  "Brine": {
+    "Exists in": ["Showdown"]
+  },
+  "Brutal Swing": {
+    "Exists in": ["Showdown"]
+  },
+  "Bubble": {
+    "Exists in": ["Showdown"]
+  },
+  "Bubble Beam": {
+    "Exists in": ["Showdown"]
+  },
+  "Bug Bite": {
+    "Exists in": ["Showdown"]
+  },
+  "Bug Buzz": {
+    "Exists in": ["Showdown"]
+  },
+  "Bulk Up": {
+    "Exists in": ["Showdown"]
+  },
+  "Bulldoze": {
+    "Exists in": ["Showdown"]
+  },
+  "Bullet Punch": {
+    "Exists in": ["Showdown"]
+  },
+  "Bullet Seed": {
+    "Exists in": ["Showdown"]
+  },
+  "Burning Jealousy": {
+    "Exists in": ["Showdown"]
+  },
+  "Burn Up": {
+    "Exists in": ["Showdown"]
+  },
+  "Buzzy Buzz": {
+    "Exists in": ["Showdown"]
+  },
+  "Calm Mind": {
+    "Exists in": ["Showdown"]
+  },
+  "Camouflage": {
+    "Exists in": ["Showdown"]
+  },
+  "Captivate": {
+    "Exists in": ["Showdown"]
+  },
+  "Catastropika": {
+    "Exists in": ["Showdown"]
+  },
+  "Celebrate": {
+    "Exists in": ["Showdown"]
+  },
+  "Charge": {
+    "Exists in": ["Showdown"]
+  },
+  "Charge Beam": {
+    "Exists in": ["Showdown"]
+  },
+  "Charm": {
+    "Exists in": ["Showdown"]
+  },
+  "Chatter": {
+    "Exists in": ["Showdown"]
+  },
+  "Chip Away": {
+    "Exists in": ["Showdown"]
+  },
+  "Circle Throw": {
+    "Exists in": ["Showdown"]
+  },
+  "Clamp": {
+    "Exists in": ["Showdown"]
+  },
+  "Clanging Scales": {
+    "Exists in": ["Showdown"]
+  },
+  "Clangorous Soul": {
+    "Exists in": ["Showdown"]
+  },
+  "Clangorous Soulblaze": {
+    "Exists in": ["Showdown"]
+  },
+  "Clear Smog": {
+    "Exists in": ["Showdown"]
+  },
+  "Close Combat": {
+    "Exists in": ["Showdown"]
+  },
+  "Coaching": {
+    "Exists in": ["Showdown"]
+  },
+  "Coil": {
+    "Exists in": ["Showdown"]
+  },
+  "Comet Punch": {
+    "Exists in": ["Showdown"]
+  },
+  "Confide": {
+    "Exists in": ["Showdown"]
+  },
+  "Confuse Ray": {
+    "Exists in": ["Showdown"]
+  },
+  "Confusion": {
+    "Exists in": ["Showdown"]
+  },
+  "Constrict": {
+    "Exists in": ["Showdown"]
+  },
+  "Continental Crush": {
+    "Exists in": ["Showdown"]
+  },
+  "Conversion": {
+    "Exists in": ["Showdown"]
+  },
+  "Conversion 2": {
+    "Exists in": ["Showdown"]
+  },
+  "Copycat": {
+    "Exists in": ["Showdown"]
+  },
+  "Core Enforcer": {
+    "Exists in": ["Showdown"]
+  },
+  "Corkscrew Crash": {
+    "Exists in": ["Showdown"]
+  },
+  "Corrosive Gas": {
+    "Exists in": ["Showdown"]
+  },
+  "Cosmic Power": {
+    "Exists in": ["Showdown"]
+  },
+  "Cotton Guard": {
+    "Exists in": ["Showdown"]
+  },
+  "Cotton Spore": {
+    "Exists in": ["Showdown"]
+  },
+  "Counter": {
+    "Exists in": ["Showdown"]
+  },
+  "Court Change": {
+    "Exists in": ["Showdown"]
+  },
+  "Covet": {
+    "Exists in": ["Showdown"]
+  },
+  "Crabhammer": {
+    "Exists in": ["Showdown"]
+  },
+  "Crafty Shield": {
+    "Exists in": ["Showdown"]
+  },
+  "Cross Chop": {
+    "Exists in": ["Showdown"]
+  },
+  "Cross Poison": {
+    "Exists in": ["Showdown"]
+  },
+  "Crunch": {
+    "Exists in": ["Showdown"]
+  },
+  "Crush Claw": {
+    "Exists in": ["Showdown"]
+  },
+  "Crush Grip": {
+    "Exists in": ["Showdown"]
+  },
+  "Curse": {
+    "Exists in": ["Showdown"]
+  },
+  "Cut": {
+    "Exists in": ["Showdown"]
+  },
+  "Darkest Lariat": {
+    "Exists in": ["Showdown"]
+  },
+  "Dark Pulse": {
+    "Exists in": ["Showdown"]
+  },
+  "Dark Void": {
+    "Exists in": ["Showdown"]
+  },
+  "Dazzling Gleam": {
+    "Exists in": ["Showdown"]
+  },
+  "Decorate": {
+    "Exists in": ["Showdown"]
+  },
+  "Defend Order": {
+    "Exists in": ["Showdown"]
+  },
+  "Defense Curl": {
+    "Exists in": ["Showdown"]
+  },
+  "Defog": {
+    "Exists in": ["Showdown"]
+  },
+  "Destiny Bond": {
+    "Exists in": ["Showdown"]
+  },
+  "Detect": {
+    "Exists in": ["Showdown"]
+  },
+  "Devastating Drake": {
+    "Exists in": ["Showdown"]
+  },
+  "Diamond Storm": {
+    "Exists in": ["Showdown"]
+  },
+  "Dig": {
+    "Exists in": ["Showdown"]
+  },
+  "Disable": {
+    "Exists in": ["Showdown"]
+  },
+  "Disarming Voice": {
+    "Exists in": ["Showdown"]
+  },
+  "Discharge": {
+    "Exists in": ["Showdown"]
+  },
+  "Dive": {
+    "Exists in": ["Showdown"]
+  },
+  "Dizzy Punch": {
+    "Exists in": ["Showdown"]
+  },
+  "Doom Desire": {
+    "Exists in": ["Showdown"]
+  },
+  "Double-Edge": {
+    "Exists in": ["Showdown"]
+  },
+  "Double Hit": {
+    "Exists in": ["Showdown"]
+  },
+  "Double Iron Bash": {
+    "Exists in": ["Showdown"]
+  },
+  "Double Kick": {
+    "Exists in": ["Showdown"]
+  },
+  "Double Slap": {
+    "Exists in": ["Showdown"]
+  },
+  "Double Team": {
+    "Exists in": ["Showdown"]
+  },
+  "Draco Meteor": {
+    "Exists in": ["Showdown"]
+  },
+  "Dragon Ascent": {
+    "Exists in": ["Showdown"]
+  },
+  "Dragon Breath": {
+    "Exists in": ["Showdown"]
+  },
+  "Dragon Claw": {
+    "Exists in": ["Showdown"]
+  },
+  "Dragon Dance": {
+    "Exists in": ["Showdown"]
+  },
+  "Dragon Darts": {
+    "Exists in": ["Showdown"]
+  },
+  "Dragon Energy": {
+    "Exists in": ["Showdown"]
+  },
+  "Dragon Hammer": {
+    "Exists in": ["Showdown"]
+  },
+  "Dragon Pulse": {
+    "Exists in": ["Showdown"]
+  },
+  "Dragon Rage": {
+    "Exists in": ["Showdown"]
+  },
+  "Dragon Rush": {
+    "Exists in": ["Showdown"]
+  },
+  "Dragon Tail": {
+    "Exists in": ["Showdown"]
+  },
+  "Draining Kiss": {
+    "Exists in": ["Showdown"]
+  },
+  "Drain Punch": {
+    "Exists in": ["Showdown"]
+  },
+  "Dream Eater": {
+    "Exists in": ["Showdown"]
+  },
+  "Drill Peck": {
+    "Exists in": ["Showdown"]
+  },
+  "Drill Run": {
+    "Exists in": ["Showdown"]
+  },
+  "Drum Beating": {
+    "Exists in": ["Showdown"]
+  },
+  "Dual Chop": {
+    "Exists in": ["Showdown"]
+  },
+  "Dual Wingbeat": {
+    "Exists in": ["Showdown"]
+  },
+  "Dynamax Cannon": {
+    "Exists in": ["Showdown"]
+  },
+  "Dynamic Punch": {
+    "Exists in": ["Showdown"]
+  },
+  "Earth Power": {
+    "Exists in": ["Showdown"]
+  },
+  "Earthquake": {
+    "Exists in": ["Showdown"]
+  },
+  "Echoed Voice": {
+    "Exists in": ["Showdown"]
+  },
+  "Eerie Impulse": {
+    "Exists in": ["Showdown"]
+  },
+  "Eerie Spell": {
+    "Exists in": ["Showdown"]
+  },
+  "Egg Bomb": {
+    "Exists in": ["Showdown"]
+  },
+  "Electric Terrain": {
+    "Exists in": ["Showdown"]
+  },
+  "Electrify": {
+    "Exists in": ["Showdown"]
+  },
+  "Electro Ball": {
+    "Exists in": ["Showdown"]
+  },
+  "Electroweb": {
+    "Exists in": ["Showdown"]
+  },
+  "Embargo": {
+    "Exists in": ["Showdown"]
+  },
+  "Ember": {
+    "Exists in": ["Showdown"]
+  },
+  "Encore": {
+    "Exists in": ["Showdown"]
+  },
+  "Endeavor": {
+    "Exists in": ["Showdown"]
+  },
+  "Endure": {
+    "Exists in": ["Showdown"]
+  },
+  "Energy Ball": {
+    "Exists in": ["Showdown"]
+  },
+  "Entrainment": {
+    "Exists in": ["Showdown"]
+  },
+  "Eruption": {
+    "Exists in": ["Showdown"]
+  },
+  "Eternabeam": {
+    "Exists in": ["Showdown"]
+  },
+  "Expanding Force": {
+    "Exists in": ["Showdown"]
+  },
+  "Explosion": {
+    "Exists in": ["Showdown"]
+  },
+  "Extrasensory": {
+    "Exists in": ["Showdown"]
+  },
+  "Extreme Evoboost": {
+    "Exists in": ["Showdown"]
+  },
+  "Extreme Speed": {
+    "Exists in": ["Showdown"]
+  },
+  "Facade": {
+    "Exists in": ["Showdown"]
+  },
+  "Fairy Lock": {
+    "Exists in": ["Showdown"]
+  },
+  "Fairy Wind": {
+    "Exists in": ["Showdown"]
+  },
+  "Fake Out": {
+    "Exists in": ["Showdown"]
+  },
+  "Fake Tears": {
+    "Exists in": ["Showdown"]
+  },
+  "False Surrender": {
+    "Exists in": ["Showdown"]
+  },
+  "False Swipe": {
+    "Exists in": ["Showdown"]
+  },
+  "Feather Dance": {
+    "Exists in": ["Showdown"]
+  },
+  "Feint": {
+    "Exists in": ["Showdown"]
+  },
+  "Feint Attack": {
+    "Exists in": ["Showdown"]
+  },
+  "Fell Stinger": {
+    "Exists in": ["Showdown"]
+  },
+  "Fiery Dance": {
+    "Exists in": ["Showdown"]
+  },
+  "Fiery Wrath": {
+    "Exists in": ["Showdown"]
+  },
+  "Final Gambit": {
+    "Exists in": ["Showdown"]
+  },
+  "Fire Blast": {
+    "Exists in": ["Showdown"]
+  },
+  "Fire Fang": {
+    "Exists in": ["Showdown"]
+  },
+  "Fire Lash": {
+    "Exists in": ["Showdown"]
+  },
+  "Fire Pledge": {
+    "Exists in": ["Showdown"]
+  },
+  "Fire Punch": {
+    "Exists in": ["Showdown"]
+  },
+  "Fire Spin": {
+    "Exists in": ["Showdown"]
+  },
+  "First Impression": {
+    "Exists in": ["Showdown"]
+  },
+  "Fishious Rend": {
+    "Exists in": ["Showdown"]
+  },
+  "Fissure": {
+    "Exists in": ["Showdown"]
+  },
+  "Flail": {
+    "Exists in": ["Showdown"]
+  },
+  "Flame Burst": {
+    "Exists in": ["Showdown"]
+  },
+  "Flame Charge": {
+    "Exists in": ["Showdown"]
+  },
+  "Flame Wheel": {
+    "Exists in": ["Showdown"]
+  },
+  "Flamethrower": {
+    "Exists in": ["Showdown"]
+  },
+  "Flare Blitz": {
+    "Exists in": ["Showdown"]
+  },
+  "Flash": {
+    "Exists in": ["Showdown"]
+  },
+  "Flash Cannon": {
+    "Exists in": ["Showdown"]
+  },
+  "Flatter": {
+    "Exists in": ["Showdown"]
+  },
+  "Fleur Cannon": {
+    "Exists in": ["Showdown"]
+  },
+  "Fling": {
+    "Exists in": ["Showdown"]
+  },
+  "Flip Turn": {
+    "Exists in": ["Showdown"]
+  },
+  "Floaty Fall": {
+    "Exists in": ["Showdown"]
+  },
+  "Floral Healing": {
+    "Exists in": ["Showdown"]
+  },
+  "Flower Shield": {
+    "Exists in": ["Showdown"]
+  },
+  "Fly": {
+    "Exists in": ["Showdown"]
+  },
+  "Flying Press": {
+    "Exists in": ["Showdown"]
+  },
+  "Focus Blast": {
+    "Exists in": ["Showdown"]
+  },
+  "Focus Energy": {
+    "Exists in": ["Showdown"]
+  },
+  "Focus Punch": {
+    "Exists in": ["Showdown"]
+  },
+  "Follow Me": {
+    "Exists in": ["Showdown"]
+  },
+  "Force Palm": {
+    "Exists in": ["Showdown"]
+  },
+  "Foresight": {
+    "Exists in": ["Showdown"]
+  },
+  "Forest's Curse": {
+    "Exists in": ["Showdown"]
+  },
+  "Foul Play": {
+    "Exists in": ["Showdown"]
+  },
+  "Freeze-Dry": {
+    "Exists in": ["Showdown"]
+  },
+  "Freeze Shock": {
+    "Exists in": ["Showdown"]
+  },
+  "Freezing Glare": {
+    "Exists in": ["Showdown"]
+  },
+  "Freezy Frost": {
+    "Exists in": ["Showdown"]
+  },
+  "Frenzy Plant": {
+    "Exists in": ["Showdown"]
+  },
+  "Frost Breath": {
+    "Exists in": ["Showdown"]
+  },
+  "Frustration": {
+    "Exists in": ["Showdown"]
+  },
+  "Fury Attack": {
+    "Exists in": ["Showdown"]
+  },
+  "Fury Cutter": {
+    "Exists in": ["Showdown"]
+  },
+  "Fury Swipes": {
+    "Exists in": ["Showdown"]
+  },
+  "Fusion Bolt": {
+    "Exists in": ["Showdown"]
+  },
+  "Fusion Flare": {
+    "Exists in": ["Showdown"]
+  },
+  "Future Sight": {
+    "Exists in": ["Showdown"]
+  },
+  "Gastro Acid": {
+    "Exists in": ["Showdown"]
+  },
+  "Gear Grind": {
+    "Exists in": ["Showdown"]
+  },
+  "Gear Up": {
+    "Exists in": ["Showdown"]
+  },
+  "Genesis Supernova": {
+    "Exists in": ["Showdown"]
+  },
+  "Geomancy": {
+    "Exists in": ["Showdown"]
+  },
+  "Giga Drain": {
+    "Exists in": ["Showdown"]
+  },
+  "Giga Impact": {
+    "Exists in": ["Showdown"]
+  },
+  "Gigavolt Havoc": {
+    "Exists in": ["Showdown"]
+  },
+  "Glacial Lance": {
+    "Exists in": ["Showdown"]
+  },
+  "Glaciate": {
+    "Exists in": ["Showdown"]
+  },
+  "Glare": {
+    "Exists in": ["Showdown"]
+  },
+  "Glitzy Glow": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Befuddle": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Cannonade": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Centiferno": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Chi Strike": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Cuddle": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Depletion": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Drum Solo": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Finale": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Fire Ball": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Foam Burst": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Gold Rush": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Gravitas": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Hydrosnipe": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Malodor": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Meltdown": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max One Blow": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Rapid Flow": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Replenish": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Resonance": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Sandblast": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Smite": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Snooze": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Steelsurge": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Stonesurge": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Stun Shock": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Sweetness": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Tartness": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Terror": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Vine Lash": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Volcalith": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Volt Crash": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Wildfire": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Wind Rage": {
+    "Exists in": ["Showdown"]
+  },
+  "Grass Knot": {
+    "Exists in": ["Showdown"]
+  },
+  "Grass Pledge": {
+    "Exists in": ["Showdown"]
+  },
+  "Grass Whistle": {
+    "Exists in": ["Showdown"]
+  },
+  "Grassy Glide": {
+    "Exists in": ["Showdown"]
+  },
+  "Grassy Terrain": {
+    "Exists in": ["Showdown"]
+  },
+  "Grav Apple": {
+    "Exists in": ["Showdown"]
+  },
+  "Gravity": {
+    "Exists in": ["Showdown"]
+  },
+  "Growl": {
+    "Exists in": ["Showdown"]
+  },
+  "Growth": {
+    "Exists in": ["Showdown"]
+  },
+  "Grudge": {
+    "Exists in": ["Showdown"]
+  },
+  "Guardian of Alola": {
+    "Exists in": ["Showdown"]
+  },
+  "Guard Split": {
+    "Exists in": ["Showdown"]
+  },
+  "Guard Swap": {
+    "Exists in": ["Showdown"]
+  },
+  "Guillotine": {
+    "Exists in": ["Showdown"]
+  },
+  "Gunk Shot": {
+    "Exists in": ["Showdown"]
+  },
+  "Gust": {
+    "Exists in": ["Showdown"]
+  },
+  "Gyro Ball": {
+    "Exists in": ["Showdown"]
+  },
+  "Hail": {
+    "Exists in": ["Showdown"]
+  },
+  "Hammer Arm": {
+    "Exists in": ["Showdown"]
+  },
+  "Happy Hour": {
+    "Exists in": ["Showdown"]
+  },
+  "Harden": {
+    "Exists in": ["Showdown"]
+  },
+  "Haze": {
+    "Exists in": ["Showdown"]
+  },
+  "Headbutt": {
+    "Exists in": ["Showdown"]
+  },
+  "Head Charge": {
+    "Exists in": ["Showdown"]
+  },
+  "Head Smash": {
+    "Exists in": ["Showdown"]
+  },
+  "Heal Bell": {
+    "Exists in": ["Showdown"]
+  },
+  "Heal Block": {
+    "Exists in": ["Showdown"]
+  },
+  "Healing Wish": {
+    "Exists in": ["Showdown"]
+  },
+  "Heal Order": {
+    "Exists in": ["Showdown"]
+  },
+  "Heal Pulse": {
+    "Exists in": ["Showdown"]
+  },
+  "Heart Stamp": {
+    "Exists in": ["Showdown"]
+  },
+  "Heart Swap": {
+    "Exists in": ["Showdown"]
+  },
+  "Heat Crash": {
+    "Exists in": ["Showdown"]
+  },
+  "Heat Wave": {
+    "Exists in": ["Showdown"]
+  },
+  "Heavy Slam": {
+    "Exists in": ["Showdown"]
+  },
+  "Helping Hand": {
+    "Exists in": ["Showdown"]
+  },
+  "Hex": {
+    "Exists in": ["Showdown"]
+  },
+  "Hidden Power": {
+    "Exists in": ["Showdown"]
+  },
+  "High Horsepower": {
+    "Exists in": ["Showdown"]
+  },
+  "High Jump Kick": {
+    "Exists in": ["Showdown"]
+  },
+  "Hold Back": {
+    "Exists in": ["Showdown"]
+  },
+  "Hold Hands": {
+    "Exists in": ["Showdown"]
+  },
+  "Hone Claws": {
+    "Exists in": ["Showdown"]
+  },
+  "Horn Attack": {
+    "Exists in": ["Showdown"]
+  },
+  "Horn Drill": {
+    "Exists in": ["Showdown"]
+  },
+  "Horn Leech": {
+    "Exists in": ["Showdown"]
+  },
+  "Howl": {
+    "Exists in": ["Showdown"]
+  },
+  "Hurricane": {
+    "Exists in": ["Showdown"]
+  },
+  "Hydro Cannon": {
+    "Exists in": ["Showdown"]
+  },
+  "Hydro Pump": {
+    "Exists in": ["Showdown"]
+  },
+  "Hydro Vortex": {
+    "Exists in": ["Showdown"]
+  },
+  "Hyper Beam": {
+    "Exists in": ["Showdown"]
+  },
+  "Hyper Fang": {
+    "Exists in": ["Showdown"]
+  },
+  "Hyperspace Fury": {
+    "Exists in": ["Showdown"]
+  },
+  "Hyperspace Hole": {
+    "Exists in": ["Showdown"]
+  },
+  "Hyper Voice": {
+    "Exists in": ["Showdown"]
+  },
+  "Hypnosis": {
+    "Exists in": ["Showdown"]
+  },
+  "Ice Ball": {
+    "Exists in": ["Showdown"]
+  },
+  "Ice Beam": {
+    "Exists in": ["Showdown"]
+  },
+  "Ice Burn": {
+    "Exists in": ["Showdown"]
+  },
+  "Ice Fang": {
+    "Exists in": ["Showdown"]
+  },
+  "Ice Hammer": {
+    "Exists in": ["Showdown"]
+  },
+  "Ice Punch": {
+    "Exists in": ["Showdown"]
+  },
+  "Ice Shard": {
+    "Exists in": ["Showdown"]
+  },
+  "Icicle Crash": {
+    "Exists in": ["Showdown"]
+  },
+  "Icicle Spear": {
+    "Exists in": ["Showdown"]
+  },
+  "Icy Wind": {
+    "Exists in": ["Showdown"]
+  },
+  "Imprison": {
+    "Exists in": ["Showdown"]
+  },
+  "Incinerate": {
+    "Exists in": ["Showdown"]
+  },
+  "Inferno": {
+    "Exists in": ["Showdown"]
+  },
+  "Inferno Overdrive": {
+    "Exists in": ["Showdown"]
+  },
+  "Infestation": {
+    "Exists in": ["Showdown"]
+  },
+  "Ingrain": {
+    "Exists in": ["Showdown"]
+  },
+  "Instruct": {
+    "Exists in": ["Showdown"]
+  },
+  "Ion Deluge": {
+    "Exists in": ["Showdown"]
+  },
+  "Iron Defense": {
+    "Exists in": ["Showdown"]
+  },
+  "Iron Head": {
+    "Exists in": ["Showdown"]
+  },
+  "Iron Tail": {
+    "Exists in": ["Showdown"]
+  },
+  "Jaw Lock": {
+    "Exists in": ["Showdown"]
+  },
+  "Judgment": {
+    "Exists in": ["Showdown"]
+  },
+  "Jump Kick": {
+    "Exists in": ["Showdown"]
+  },
+  "Jungle Healing": {
+    "Exists in": ["Showdown"]
+  },
+  "Karate Chop": {
+    "Exists in": ["Showdown"]
+  },
+  "Kinesis": {
+    "Exists in": ["Showdown"]
+  },
+  "King's Shield": {
+    "Exists in": ["Showdown"]
+  },
+  "Knock Off": {
+    "Exists in": ["Showdown"]
+  },
+  "Land's Wrath": {
+    "Exists in": ["Showdown"]
+  },
+  "Laser Focus": {
+    "Exists in": ["Showdown"]
+  },
+  "Lash Out": {
+    "Exists in": ["Showdown"]
+  },
+  "Last Resort": {
+    "Exists in": ["Showdown"]
+  },
+  "Lava Plume": {
+    "Exists in": ["Showdown"]
+  },
+  "Leafage": {
+    "Exists in": ["Showdown"]
+  },
+  "Leaf Blade": {
+    "Exists in": ["Showdown"]
+  },
+  "Leaf Storm": {
+    "Exists in": ["Showdown"]
+  },
+  "Leaf Tornado": {
+    "Exists in": ["Showdown"]
+  },
+  "Leech Life": {
+    "Exists in": ["Showdown"]
+  },
+  "Leech Seed": {
+    "Exists in": ["Showdown"]
+  },
+  "Leer": {
+    "Exists in": ["Showdown"]
+  },
+  "Let's Snuggle Forever": {
+    "Exists in": ["Showdown"]
+  },
+  "Lick": {
+    "Exists in": ["Showdown"]
+  },
+  "Life Dew": {
+    "Exists in": ["Showdown"]
+  },
+  "Light of Ruin": {
+    "Exists in": ["Showdown"]
+  },
+  "Light Screen": {
+    "Exists in": ["Showdown"]
+  },
+  "Light That Burns the Sky": {
+    "Exists in": ["Showdown"]
+  },
+  "Liquidation": {
+    "Exists in": ["Showdown"]
+  },
+  "Lock-On": {
+    "Exists in": ["Showdown"]
+  },
+  "Lovely Kiss": {
+    "Exists in": ["Showdown"]
+  },
+  "Low Kick": {
+    "Exists in": ["Showdown"]
+  },
+  "Low Sweep": {
+    "Exists in": ["Showdown"]
+  },
+  "Lucky Chant": {
+    "Exists in": ["Showdown"]
+  },
+  "Lunar Dance": {
+    "Exists in": ["Showdown"]
+  },
+  "Lunge": {
+    "Exists in": ["Showdown"]
+  },
+  "Luster Purge": {
+    "Exists in": ["Showdown"]
+  },
+  "Mach Punch": {
+    "Exists in": ["Showdown"]
+  },
+  "Magical Leaf": {
+    "Exists in": ["Showdown"]
+  },
+  "Magic Coat": {
+    "Exists in": ["Showdown"]
+  },
+  "Magic Powder": {
+    "Exists in": ["Showdown"]
+  },
+  "Magic Room": {
+    "Exists in": ["Showdown"]
+  },
+  "Magikarp's Revenge": {
+    "Exists in": ["Showdown"]
+  },
+  "Magma Storm": {
+    "Exists in": ["Showdown"]
+  },
+  "Magnet Bomb": {
+    "Exists in": ["Showdown"]
+  },
+  "Magnetic Flux": {
+    "Exists in": ["Showdown"]
+  },
+  "Magnet Rise": {
+    "Exists in": ["Showdown"]
+  },
+  "Magnitude": {
+    "Exists in": ["Showdown"]
+  },
+  "Malicious Moonsault": {
+    "Exists in": ["Showdown"]
+  },
+  "Mat Block": {
+    "Exists in": ["Showdown"]
+  },
+  "Max Airstream": {
+    "Exists in": ["Showdown"]
+  },
+  "Max Darkness": {
+    "Exists in": ["Showdown"]
+  },
+  "Max Flare": {
+    "Exists in": ["Showdown"]
+  },
+  "Max Flutterby": {
+    "Exists in": ["Showdown"]
+  },
+  "Max Geyser": {
+    "Exists in": ["Showdown"]
+  },
+  "Max Guard": {
+    "Exists in": ["Showdown"]
+  },
+  "Max Hailstorm": {
+    "Exists in": ["Showdown"]
+  },
+  "Max Knuckle": {
+    "Exists in": ["Showdown"]
+  },
+  "Max Lightning": {
+    "Exists in": ["Showdown"]
+  },
+  "Max Mindstorm": {
+    "Exists in": ["Showdown"]
+  },
+  "Max Ooze": {
+    "Exists in": ["Showdown"]
+  },
+  "Max Overgrowth": {
+    "Exists in": ["Showdown"]
+  },
+  "Max Phantasm": {
+    "Exists in": ["Showdown"]
+  },
+  "Max Quake": {
+    "Exists in": ["Showdown"]
+  },
+  "Max Rockfall": {
+    "Exists in": ["Showdown"]
+  },
+  "Max Starfall": {
+    "Exists in": ["Showdown"]
+  },
+  "Max Steelspike": {
+    "Exists in": ["Showdown"]
+  },
+  "Max Strike": {
+    "Exists in": ["Showdown"]
+  },
+  "Max Wyrmwind": {
+    "Exists in": ["Showdown"]
+  },
+  "Mean Look": {
+    "Exists in": ["Showdown"]
+  },
+  "Meditate": {
+    "Exists in": ["Showdown"]
+  },
+  "Me First": {
+    "Exists in": ["Showdown"]
+  },
+  "Mega Drain": {
+    "Exists in": ["Showdown"]
+  },
+  "Megahorn": {
+    "Exists in": ["Showdown"]
+  },
+  "Mega Kick": {
+    "Exists in": ["Showdown"]
+  },
+  "Mega Punch": {
+    "Exists in": ["Showdown"]
+  },
+  "Memento": {
+    "Exists in": ["Showdown"]
+  },
+  "Menacing Moonraze Maelstrom": {
+    "Exists in": ["Showdown"]
+  },
+  "Metal Burst": {
+    "Exists in": ["Showdown"]
+  },
+  "Metal Claw": {
+    "Exists in": ["Showdown"]
+  },
+  "Metal Sound": {
+    "Exists in": ["Showdown"]
+  },
+  "Meteor Assault": {
+    "Exists in": ["Showdown"]
+  },
+  "Meteor Beam": {
+    "Exists in": ["Showdown"]
+  },
+  "Meteor Mash": {
+    "Exists in": ["Showdown"]
+  },
+  "Metronome": {
+    "Exists in": ["Showdown"]
+  },
+  "Milk Drink": {
+    "Exists in": ["Showdown"]
+  },
+  "Mimic": {
+    "Exists in": ["Showdown"]
+  },
+  "Mind Blown": {
+    "Exists in": ["Showdown"]
+  },
+  "Mind Reader": {
+    "Exists in": ["Showdown"]
+  },
+  "Minimize": {
+    "Exists in": ["Showdown"]
+  },
+  "Miracle Eye": {
+    "Exists in": ["Showdown"]
+  },
+  "Mirror Coat": {
+    "Exists in": ["Showdown"]
+  },
+  "Mirror Move": {
+    "Exists in": ["Showdown"]
+  },
+  "Mirror Shot": {
+    "Exists in": ["Showdown"]
+  },
+  "Mist": {
+    "Exists in": ["Showdown"]
+  },
+  "Mist Ball": {
+    "Exists in": ["Showdown"]
+  },
+  "Misty Explosion": {
+    "Exists in": ["Showdown"]
+  },
+  "Misty Terrain": {
+    "Exists in": ["Showdown"]
+  },
+  "Moonblast": {
+    "Exists in": ["Showdown"]
+  },
+  "Moongeist Beam": {
+    "Exists in": ["Showdown"]
+  },
+  "Moonlight": {
+    "Exists in": ["Showdown"]
+  },
+  "Morning Sun": {
+    "Exists in": ["Showdown"]
+  },
+  "Mud Bomb": {
+    "Exists in": ["Showdown"]
+  },
+  "Mud Shot": {
+    "Exists in": ["Showdown"]
+  },
+  "Mud-Slap": {
+    "Exists in": ["Showdown"]
+  },
+  "Mud Sport": {
+    "Exists in": ["Showdown"]
+  },
+  "Muddy Water": {
+    "Exists in": ["Showdown"]
+  },
+  "Multi-Attack": {
+    "Exists in": ["Showdown"]
+  },
+  "Mystical Fire": {
+    "Exists in": ["Showdown"]
+  },
+  "Nasty Plot": {
+    "Exists in": ["Showdown"]
+  },
+  "Natural Gift": {
+    "Exists in": ["Showdown"]
+  },
+  "Nature Power": {
+    "Exists in": ["Showdown"]
+  },
+  "Nature's Madness": {
+    "Exists in": ["Showdown"]
+  },
+  "Needle Arm": {
+    "Exists in": ["Showdown"]
+  },
+  "Never-Ending Nightmare": {
+    "Exists in": ["Showdown"]
+  },
+  "Night Daze": {
+    "Exists in": ["Showdown"]
+  },
+  "Nightmare": {
+    "Exists in": ["Showdown"]
+  },
+  "Night Shade": {
+    "Exists in": ["Showdown"]
+  },
+  "Night Slash": {
+    "Exists in": ["Showdown"]
+  },
+  "Noble Roar": {
+    "Exists in": ["Showdown"]
+  },
+  "No Retreat": {
+    "Exists in": ["Showdown"]
+  },
+  "Nuzzle": {
+    "Exists in": ["Showdown"]
+  },
+  "Oblivion Wing": {
+    "Exists in": ["Showdown"]
+  },
+  "Obstruct": {
+    "Exists in": ["Showdown"]
+  },
+  "Oceanic Operetta": {
+    "Exists in": ["Showdown"]
+  },
+  "Octazooka": {
+    "Exists in": ["Showdown"]
+  },
+  "Octolock": {
+    "Exists in": ["Showdown"]
+  },
+  "Odor Sleuth": {
+    "Exists in": ["Showdown"]
+  },
+  "Ominous Wind": {
+    "Exists in": ["Showdown"]
+  },
+  "Origin Pulse": {
+    "Exists in": ["Showdown"]
+  },
+  "Outrage": {
+    "Exists in": ["Showdown"]
+  },
+  "Overdrive": {
+    "Exists in": ["Showdown"]
+  },
+  "Overheat": {
+    "Exists in": ["Showdown"]
+  },
+  "Pain Split": {
+    "Exists in": ["Showdown"]
+  },
+  "Paleo Wave": {
+    "Exists in": ["Showdown"]
+  },
+  "Parabolic Charge": {
+    "Exists in": ["Showdown"]
+  },
+  "Parting Shot": {
+    "Exists in": ["Showdown"]
+  },
+  "Payback": {
+    "Exists in": ["Showdown"]
+  },
+  "Pay Day": {
+    "Exists in": ["Showdown"]
+  },
+  "Peck": {
+    "Exists in": ["Showdown"]
+  },
+  "Perish Song": {
+    "Exists in": ["Showdown"]
+  },
+  "Petal Blizzard": {
+    "Exists in": ["Showdown"]
+  },
+  "Petal Dance": {
+    "Exists in": ["Showdown"]
+  },
+  "Phantom Force": {
+    "Exists in": ["Showdown"]
+  },
+  "Photon Geyser": {
+    "Exists in": ["Showdown"]
+  },
+  "Pika Papow": {
+    "Exists in": ["Showdown"]
+  },
+  "Pin Missile": {
+    "Exists in": ["Showdown"]
+  },
+  "Plasma Fists": {
+    "Exists in": ["Showdown"]
+  },
+  "Play Nice": {
+    "Exists in": ["Showdown"]
+  },
+  "Play Rough": {
+    "Exists in": ["Showdown"]
+  },
+  "Pluck": {
+    "Exists in": ["Showdown"]
+  },
+  "Poison Fang": {
+    "Exists in": ["Showdown"]
+  },
+  "Poison Gas": {
+    "Exists in": ["Showdown"]
+  },
+  "Poison Jab": {
+    "Exists in": ["Showdown"]
+  },
+  "Poison Powder": {
+    "Exists in": ["Showdown"]
+  },
+  "Poison Sting": {
+    "Exists in": ["Showdown"]
+  },
+  "Poison Tail": {
+    "Exists in": ["Showdown"]
+  },
+  "Pollen Puff": {
+    "Exists in": ["Showdown"]
+  },
+  "Poltergeist": {
+    "Exists in": ["Showdown"]
+  },
+  "Pound": {
+    "Exists in": ["Showdown"]
+  },
+  "Powder": {
+    "Exists in": ["Showdown"]
+  },
+  "Powder Snow": {
+    "Exists in": ["Showdown"]
+  },
+  "Power Gem": {
+    "Exists in": ["Showdown"]
+  },
+  "Power Split": {
+    "Exists in": ["Showdown"]
+  },
+  "Power Swap": {
+    "Exists in": ["Showdown"]
+  },
+  "Power Trick": {
+    "Exists in": ["Showdown"]
+  },
+  "Power Trip": {
+    "Exists in": ["Showdown"]
+  },
+  "Power-Up Punch": {
+    "Exists in": ["Showdown"]
+  },
+  "Power Whip": {
+    "Exists in": ["Showdown"]
+  },
+  "Precipice Blades": {
+    "Exists in": ["Showdown"]
+  },
+  "Present": {
+    "Exists in": ["Showdown"]
+  },
+  "Prismatic Laser": {
+    "Exists in": ["Showdown"]
+  },
+  "Protect": {
+    "Exists in": ["Showdown"]
+  },
+  "Psybeam": {
+    "Exists in": ["Showdown"]
+  },
+  "Psych Up": {
+    "Exists in": ["Showdown"]
+  },
+  "Psychic": {
+    "Exists in": ["Showdown"]
+  },
+  "Psychic Fangs": {
+    "Exists in": ["Showdown"]
+  },
+  "Psychic Terrain": {
+    "Exists in": ["Showdown"]
+  },
+  "Psycho Boost": {
+    "Exists in": ["Showdown"]
+  },
+  "Psycho Cut": {
+    "Exists in": ["Showdown"]
+  },
+  "Psycho Shift": {
+    "Exists in": ["Showdown"]
+  },
+  "Psyshock": {
+    "Exists in": ["Showdown"]
+  },
+  "Psystrike": {
+    "Exists in": ["Showdown"]
+  },
+  "Psywave": {
+    "Exists in": ["Showdown"]
+  },
+  "Pulverizing Pancake": {
+    "Exists in": ["Showdown"]
+  },
+  "Punishment": {
+    "Exists in": ["Showdown"]
+  },
+  "Purify": {
+    "Exists in": ["Showdown"]
+  },
+  "Pursuit": {
+    "Exists in": ["Showdown"]
+  },
+  "Pyro Ball": {
+    "Exists in": ["Showdown"]
+  },
+  "Quash": {
+    "Exists in": ["Showdown"]
+  },
+  "Quick Attack": {
+    "Exists in": ["Showdown"]
+  },
+  "Quick Guard": {
+    "Exists in": ["Showdown"]
+  },
+  "Quiver Dance": {
+    "Exists in": ["Showdown"]
+  },
+  "Rage": {
+    "Exists in": ["Showdown"]
+  },
+  "Rage Powder": {
+    "Exists in": ["Showdown"]
+  },
+  "Rain Dance": {
+    "Exists in": ["Showdown"]
+  },
+  "Rapid Spin": {
+    "Exists in": ["Showdown"]
+  },
+  "Razor Leaf": {
+    "Exists in": ["Showdown"]
+  },
+  "Razor Shell": {
+    "Exists in": ["Showdown"]
+  },
+  "Razor Wind": {
+    "Exists in": ["Showdown"]
+  },
+  "Recover": {
+    "Exists in": ["Showdown"]
+  },
+  "Recycle": {
+    "Exists in": ["Showdown"]
+  },
+  "Reflect": {
+    "Exists in": ["Showdown"]
+  },
+  "Reflect Type": {
+    "Exists in": ["Showdown"]
+  },
+  "Refresh": {
+    "Exists in": ["Showdown"]
+  },
+  "Relic Song": {
+    "Exists in": ["Showdown"]
+  },
+  "Rest": {
+    "Exists in": ["Showdown"]
+  },
+  "Retaliate": {
+    "Exists in": ["Showdown"]
+  },
+  "Return": {
+    "Exists in": ["Showdown"]
+  },
+  "Revelation Dance": {
+    "Exists in": ["Showdown"]
+  },
+  "Revenge": {
+    "Exists in": ["Showdown"]
+  },
+  "Reversal": {
+    "Exists in": ["Showdown"]
+  },
+  "Rising Voltage": {
+    "Exists in": ["Showdown"]
+  },
+  "Roar": {
+    "Exists in": ["Showdown"]
+  },
+  "Roar of Time": {
+    "Exists in": ["Showdown"]
+  },
+  "Rock Blast": {
+    "Exists in": ["Showdown"]
+  },
+  "Rock Climb": {
+    "Exists in": ["Showdown"]
+  },
+  "Rock Polish": {
+    "Exists in": ["Showdown"]
+  },
+  "Rock Slide": {
+    "Exists in": ["Showdown"]
+  },
+  "Rock Smash": {
+    "Exists in": ["Showdown"]
+  },
+  "Rock Throw": {
+    "Exists in": ["Showdown"]
+  },
+  "Rock Tomb": {
+    "Exists in": ["Showdown"]
+  },
+  "Rock Wrecker": {
+    "Exists in": ["Showdown"]
+  },
+  "Role Play": {
+    "Exists in": ["Showdown"]
+  },
+  "Rolling Kick": {
+    "Exists in": ["Showdown"]
+  },
+  "Rollout": {
+    "Exists in": ["Showdown"]
+  },
+  "Roost": {
+    "Exists in": ["Showdown"]
+  },
+  "Rototiller": {
+    "Exists in": ["Showdown"]
+  },
+  "Round": {
+    "Exists in": ["Showdown"]
+  },
+  "Sacred Fire": {
+    "Exists in": ["Showdown"]
+  },
+  "Sacred Sword": {
+    "Exists in": ["Showdown"]
+  },
+  "Safeguard": {
+    "Exists in": ["Showdown"]
+  },
+  "Sand Attack": {
+    "Exists in": ["Showdown"]
+  },
+  "Sandstorm": {
+    "Exists in": ["Showdown"]
+  },
+  "Sand Tomb": {
+    "Exists in": ["Showdown"]
+  },
+  "Sappy Seed": {
+    "Exists in": ["Showdown"]
+  },
+  "Savage Spin-Out": {
+    "Exists in": ["Showdown"]
+  },
+  "Scald": {
+    "Exists in": ["Showdown"]
+  },
+  "Scale Shot": {
+    "Exists in": ["Showdown"]
+  },
+  "Scary Face": {
+    "Exists in": ["Showdown"]
+  },
+  "Scorching Sands": {
+    "Exists in": ["Showdown"]
+  },
+  "Scratch": {
+    "Exists in": ["Showdown"]
+  },
+  "Screech": {
+    "Exists in": ["Showdown"]
+  },
+  "Searing Shot": {
+    "Exists in": ["Showdown"]
+  },
+  "Searing Sunraze Smash": {
+    "Exists in": ["Showdown"]
+  },
+  "Secret Power": {
+    "Exists in": ["Showdown"]
+  },
+  "Secret Sword": {
+    "Exists in": ["Showdown"]
+  },
+  "Seed Bomb": {
+    "Exists in": ["Showdown"]
+  },
+  "Seed Flare": {
+    "Exists in": ["Showdown"]
+  },
+  "Seismic Toss": {
+    "Exists in": ["Showdown"]
+  },
+  "Self-Destruct": {
+    "Exists in": ["Showdown"]
+  },
+  "Shadow Ball": {
+    "Exists in": ["Showdown"]
+  },
+  "Shadow Bone": {
+    "Exists in": ["Showdown"]
+  },
+  "Shadow Claw": {
+    "Exists in": ["Showdown"]
+  },
+  "Shadow Force": {
+    "Exists in": ["Showdown"]
+  },
+  "Shadow Punch": {
+    "Exists in": ["Showdown"]
+  },
+  "Shadow Sneak": {
+    "Exists in": ["Showdown"]
+  },
+  "Shadow Strike": {
+    "Exists in": ["Showdown"]
+  },
+  "Sharpen": {
+    "Exists in": ["Showdown"]
+  },
+  "Shattered Psyche": {
+    "Exists in": ["Showdown"]
+  },
+  "Sheer Cold": {
+    "Exists in": ["Showdown"]
+  },
+  "Shell Side Arm": {
+    "Exists in": ["Showdown"]
+  },
+  "Shell Smash": {
+    "Exists in": ["Showdown"]
+  },
+  "Shell Trap": {
+    "Exists in": ["Showdown"]
+  },
+  "Shift Gear": {
+    "Exists in": ["Showdown"]
+  },
+  "Shock Wave": {
+    "Exists in": ["Showdown"]
+  },
+  "Shore Up": {
+    "Exists in": ["Showdown"]
+  },
+  "Signal Beam": {
+    "Exists in": ["Showdown"]
+  },
+  "Silver Wind": {
+    "Exists in": ["Showdown"]
+  },
+  "Simple Beam": {
+    "Exists in": ["Showdown"]
+  },
+  "Sing": {
+    "Exists in": ["Showdown"]
+  },
+  "Sinister Arrow Raid": {
+    "Exists in": ["Showdown"]
+  },
+  "Sizzly Slide": {
+    "Exists in": ["Showdown"]
+  },
+  "Sketch": {
+    "Exists in": ["Showdown"]
+  },
+  "Skill Swap": {
+    "Exists in": ["Showdown"]
+  },
+  "Skitter Smack": {
+    "Exists in": ["Showdown"]
+  },
+  "Skull Bash": {
+    "Exists in": ["Showdown"]
+  },
+  "Sky Attack": {
+    "Exists in": ["Showdown"]
+  },
+  "Sky Drop": {
+    "Exists in": ["Showdown"]
+  },
+  "Sky Uppercut": {
+    "Exists in": ["Showdown"]
+  },
+  "Slack Off": {
+    "Exists in": ["Showdown"]
+  },
+  "Slam": {
+    "Exists in": ["Showdown"]
+  },
+  "Slash": {
+    "Exists in": ["Showdown"]
+  },
+  "Sleep Powder": {
+    "Exists in": ["Showdown"]
+  },
+  "Sleep Talk": {
+    "Exists in": ["Showdown"]
+  },
+  "Sludge": {
+    "Exists in": ["Showdown"]
+  },
+  "Sludge Bomb": {
+    "Exists in": ["Showdown"]
+  },
+  "Sludge Wave": {
+    "Exists in": ["Showdown"]
+  },
+  "Smack Down": {
+    "Exists in": ["Showdown"]
+  },
+  "Smart Strike": {
+    "Exists in": ["Showdown"]
+  },
+  "Smelling Salts": {
+    "Exists in": ["Showdown"]
+  },
+  "Smog": {
+    "Exists in": ["Showdown"]
+  },
+  "Smokescreen": {
+    "Exists in": ["Showdown"]
+  },
+  "Snap Trap": {
+    "Exists in": ["Showdown"]
+  },
+  "Snarl": {
+    "Exists in": ["Showdown"]
+  },
+  "Snatch": {
+    "Exists in": ["Showdown"]
+  },
+  "Snipe Shot": {
+    "Exists in": ["Showdown"]
+  },
+  "Snore": {
+    "Exists in": ["Showdown"]
+  },
+  "Soak": {
+    "Exists in": ["Showdown"]
+  },
+  "Soft-Boiled": {
+    "Exists in": ["Showdown"]
+  },
+  "Solar Beam": {
+    "Exists in": ["Showdown"]
+  },
+  "Solar Blade": {
+    "Exists in": ["Showdown"]
+  },
+  "Sonic Boom": {
+    "Exists in": ["Showdown"]
+  },
+  "Soul-Stealing 7-Star Strike": {
+    "Exists in": ["Showdown"]
+  },
+  "Spacial Rend": {
+    "Exists in": ["Showdown"]
+  },
+  "Spark": {
+    "Exists in": ["Showdown"]
+  },
+  "Sparkling Aria": {
+    "Exists in": ["Showdown"]
+  },
+  "Sparkly Swirl": {
+    "Exists in": ["Showdown"]
+  },
+  "Spectral Thief": {
+    "Exists in": ["Showdown"]
+  },
+  "Speed Swap": {
+    "Exists in": ["Showdown"]
+  },
+  "Spider Web": {
+    "Exists in": ["Showdown"]
+  },
+  "Spike Cannon": {
+    "Exists in": ["Showdown"]
+  },
+  "Spikes": {
+    "Exists in": ["Showdown"]
+  },
+  "Spiky Shield": {
+    "Exists in": ["Showdown"]
+  },
+  "Spirit Break": {
+    "Exists in": ["Showdown"]
+  },
+  "Spirit Shackle": {
+    "Exists in": ["Showdown"]
+  },
+  "Spit Up": {
+    "Exists in": ["Showdown"]
+  },
+  "Spite": {
+    "Exists in": ["Showdown"]
+  },
+  "Splash": {
+    "Exists in": ["Showdown"]
+  },
+  "Splintered Stormshards": {
+    "Exists in": ["Showdown"]
+  },
+  "Splishy Splash": {
+    "Exists in": ["Showdown"]
+  },
+  "Spore": {
+    "Exists in": ["Showdown"]
+  },
+  "Spotlight": {
+    "Exists in": ["Showdown"]
+  },
+  "Stealth Rock": {
+    "Exists in": ["Showdown"]
+  },
+  "Steam Eruption": {
+    "Exists in": ["Showdown"]
+  },
+  "Steamroller": {
+    "Exists in": ["Showdown"]
+  },
+  "Steel Beam": {
+    "Exists in": ["Showdown"]
+  },
+  "Steel Roller": {
+    "Exists in": ["Showdown"]
+  },
+  "Steel Wing": {
+    "Exists in": ["Showdown"]
+  },
+  "Sticky Web": {
+    "Exists in": ["Showdown"]
+  },
+  "Stockpile": {
+    "Exists in": ["Showdown"]
+  },
+  "Stoked Sparksurfer": {
+    "Exists in": ["Showdown"]
+  },
+  "Stomp": {
+    "Exists in": ["Showdown"]
+  },
+  "Stomping Tantrum": {
+    "Exists in": ["Showdown"]
+  },
+  "Stone Edge": {
+    "Exists in": ["Showdown"]
+  },
+  "Stored Power": {
+    "Exists in": ["Showdown"]
+  },
+  "Storm Throw": {
+    "Exists in": ["Showdown"]
+  },
+  "Strange Steam": {
+    "Exists in": ["Showdown"]
+  },
+  "Strength": {
+    "Exists in": ["Showdown"]
+  },
+  "Strength Sap": {
+    "Exists in": ["Showdown"]
+  },
+  "String Shot": {
+    "Exists in": ["Showdown"]
+  },
+  "Struggle": {
+    "Exists in": ["Showdown"]
+  },
+  "Struggle Bug": {
+    "Exists in": ["Showdown"]
+  },
+  "Stuff Cheeks": {
+    "Exists in": ["Showdown"]
+  },
+  "Stun Spore": {
+    "Exists in": ["Showdown"]
+  },
+  "Submission": {
+    "Exists in": ["Showdown"]
+  },
+  "Substitute": {
+    "Exists in": ["Showdown"]
+  },
+  "Subzero Slammer": {
+    "Exists in": ["Showdown"]
+  },
+  "Sucker Punch": {
+    "Exists in": ["Showdown"]
+  },
+  "Sunny Day": {
+    "Exists in": ["Showdown"]
+  },
+  "Sunsteel Strike": {
+    "Exists in": ["Showdown"]
+  },
+  "Super Fang": {
+    "Exists in": ["Showdown"]
+  },
+  "Superpower": {
+    "Exists in": ["Showdown"]
+  },
+  "Supersonic": {
+    "Exists in": ["Showdown"]
+  },
+  "Supersonic Skystrike": {
+    "Exists in": ["Showdown"]
+  },
+  "Surf": {
+    "Exists in": ["Showdown"]
+  },
+  "Surging Strikes": {
+    "Exists in": ["Showdown"]
+  },
+  "Swagger": {
+    "Exists in": ["Showdown"]
+  },
+  "Swallow": {
+    "Exists in": ["Showdown"]
+  },
+  "Sweet Kiss": {
+    "Exists in": ["Showdown"]
+  },
+  "Sweet Scent": {
+    "Exists in": ["Showdown"]
+  },
+  "Swift": {
+    "Exists in": ["Showdown"]
+  },
+  "Switcheroo": {
+    "Exists in": ["Showdown"]
+  },
+  "Swords Dance": {
+    "Exists in": ["Showdown"]
+  },
+  "Synchronoise": {
+    "Exists in": ["Showdown"]
+  },
+  "Synthesis": {
+    "Exists in": ["Showdown"]
+  },
+  "Tackle": {
+    "Exists in": ["Showdown"]
+  },
+  "Tail Glow": {
+    "Exists in": ["Showdown"]
+  },
+  "Tail Slap": {
+    "Exists in": ["Showdown"]
+  },
+  "Tail Whip": {
+    "Exists in": ["Showdown"]
+  },
+  "Tailwind": {
+    "Exists in": ["Showdown"]
+  },
+  "Take Down": {
+    "Exists in": ["Showdown"]
+  },
+  "Tar Shot": {
+    "Exists in": ["Showdown"]
+  },
+  "Taunt": {
+    "Exists in": ["Showdown"]
+  },
+  "Tearful Look": {
+    "Exists in": ["Showdown"]
+  },
+  "Teatime": {
+    "Exists in": ["Showdown"]
+  },
+  "Techno Blast": {
+    "Exists in": ["Showdown"]
+  },
+  "Tectonic Rage": {
+    "Exists in": ["Showdown"]
+  },
+  "Teeter Dance": {
+    "Exists in": ["Showdown"]
+  },
+  "Telekinesis": {
+    "Exists in": ["Showdown"]
+  },
+  "Teleport": {
+    "Exists in": ["Showdown"]
+  },
+  "Terrain Pulse": {
+    "Exists in": ["Showdown"]
+  },
+  "Thief": {
+    "Exists in": ["Showdown"]
+  },
+  "Thousand Arrows": {
+    "Exists in": ["Showdown"]
+  },
+  "Thousand Waves": {
+    "Exists in": ["Showdown"]
+  },
+  "Thrash": {
+    "Exists in": ["Showdown"]
+  },
+  "Throat Chop": {
+    "Exists in": ["Showdown"]
+  },
+  "Thunder": {
+    "Exists in": ["Showdown"]
+  },
+  "Thunderbolt": {
+    "Exists in": ["Showdown"]
+  },
+  "Thunder Cage": {
+    "Exists in": ["Showdown"]
+  },
+  "Thunder Fang": {
+    "Exists in": ["Showdown"]
+  },
+  "Thunderous Kick": {
+    "Exists in": ["Showdown"]
+  },
+  "Thunder Punch": {
+    "Exists in": ["Showdown"]
+  },
+  "Thunder Shock": {
+    "Exists in": ["Showdown"]
+  },
+  "Thunder Wave": {
+    "Exists in": ["Showdown"]
+  },
+  "Tickle": {
+    "Exists in": ["Showdown"]
+  },
+  "Topsy-Turvy": {
+    "Exists in": ["Showdown"]
+  },
+  "Torment": {
+    "Exists in": ["Showdown"]
+  },
+  "Toxic": {
+    "Exists in": ["Showdown"]
+  },
+  "Toxic Spikes": {
+    "Exists in": ["Showdown"]
+  },
+  "Toxic Thread": {
+    "Exists in": ["Showdown"]
+  },
+  "Transform": {
+    "Exists in": ["Showdown"]
+  },
+  "Tri Attack": {
+    "Exists in": ["Showdown"]
+  },
+  "Trick": {
+    "Exists in": ["Showdown"]
+  },
+  "Trick-or-Treat": {
+    "Exists in": ["Showdown"]
+  },
+  "Trick Room": {
+    "Exists in": ["Showdown"]
+  },
+  "Triple Axel": {
+    "Exists in": ["Showdown"]
+  },
+  "Triple Kick": {
+    "Exists in": ["Showdown"]
+  },
+  "Trop Kick": {
+    "Exists in": ["Showdown"]
+  },
+  "Trump Card": {
+    "Exists in": ["Showdown"]
+  },
+  "Twineedle": {
+    "Exists in": ["Showdown"]
+  },
+  "Twinkle Tackle": {
+    "Exists in": ["Showdown"]
+  },
+  "Twister": {
+    "Exists in": ["Showdown"]
+  },
+  "U-turn": {
+    "Exists in": ["Showdown"]
+  },
+  "Uproar": {
+    "Exists in": ["Showdown"]
+  },
+  "Vacuum Wave": {
+    "Exists in": ["Showdown"]
+  },
+  "V-create": {
+    "Exists in": ["Showdown"]
+  },
+  "Veevee Volley": {
+    "Exists in": ["Showdown"]
+  },
+  "Venom Drench": {
+    "Exists in": ["Showdown"]
+  },
+  "Venoshock": {
+    "Exists in": ["Showdown"]
+  },
+  "Vine Whip": {
+    "Exists in": ["Showdown"]
+  },
+  "Vise Grip": {
+    "Exists in": ["Showdown"]
+  },
+  "Vital Throw": {
+    "Exists in": ["Showdown"]
+  },
+  "Volt Switch": {
+    "Exists in": ["Showdown"]
+  },
+  "Volt Tackle": {
+    "Exists in": ["Showdown"]
+  },
+  "Wake-Up Slap": {
+    "Exists in": ["Showdown"]
+  },
+  "Waterfall": {
+    "Exists in": ["Showdown"]
+  },
+  "Water Gun": {
+    "Exists in": ["Showdown"]
+  },
+  "Water Pledge": {
+    "Exists in": ["Showdown"]
+  },
+  "Water Pulse": {
+    "Exists in": ["Showdown"]
+  },
+  "Water Shuriken": {
+    "Exists in": ["Showdown"]
+  },
+  "Water Sport": {
+    "Exists in": ["Showdown"]
+  },
+  "Water Spout": {
+    "Exists in": ["Showdown"]
+  },
+  "Weather Ball": {
+    "Exists in": ["Showdown"]
+  },
+  "Whirlpool": {
+    "Exists in": ["Showdown"]
+  },
+  "Whirlwind": {
+    "Exists in": ["Showdown"]
+  },
+  "Wicked Blow": {
+    "Exists in": ["Showdown"]
+  },
+  "Wide Guard": {
+    "Exists in": ["Showdown"]
+  },
+  "Wild Charge": {
+    "Exists in": ["Showdown"]
+  },
+  "Will-O-Wisp": {
+    "Exists in": ["Showdown"]
+  },
+  "Wing Attack": {
+    "Exists in": ["Showdown"]
+  },
+  "Wish": {
+    "Exists in": ["Showdown"]
+  },
+  "Withdraw": {
+    "Exists in": ["Showdown"]
+  },
+  "Wonder Room": {
+    "Exists in": ["Showdown"]
+  },
+  "Wood Hammer": {
+    "Exists in": ["Showdown"]
+  },
+  "Work Up": {
+    "Exists in": ["Showdown"]
+  },
+  "Worry Seed": {
+    "Exists in": ["Showdown"]
+  },
+  "Wrap": {
+    "Exists in": ["Showdown"]
+  },
+  "Wring Out": {
+    "Exists in": ["Showdown"]
+  },
+  "X-Scissor": {
+    "Exists in": ["Showdown"]
+  },
+  "Yawn": {
+    "Exists in": ["Showdown"]
+  },
+  "Zap Cannon": {
+    "Exists in": ["Showdown"]
+  },
+  "Zen Headbutt": {
+    "Exists in": ["Showdown"]
+  },
+  "Zing Zap": {
+    "Exists in": ["Showdown"]
+  },
+  "Zippy Zap": {
+    "Exists in": ["Showdown"]
+  }
+}

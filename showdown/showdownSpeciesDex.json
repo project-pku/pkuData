@@ -31,6 +31,9 @@
       },
       "Mega": {
         "Showdown Name": "Venusaur-Mega"
+      },
+      "Gigantamax": {
+        "Showdown Name": "Venusaur-Gmax"
       }
     }
   },
@@ -58,6 +61,9 @@
       },
       "Mega Y": {
         "Showdown Name": "Charizard-Mega-Y"
+      },
+      "Gigantamax": {
+        "Showdown Name": "Charizard-Gmax"
       }
     }
   },
@@ -82,6 +88,9 @@
       },
       "Mega": {
         "Showdown Name": "Blastoise-Mega"
+      },
+      "Gigantamax": {
+        "Showdown Name": "Blastoise-Gmax"
       }
     }
   },
@@ -103,6 +112,9 @@
     "Forms": {
       "": {
         "Showdown Name": "Butterfree"
+      },
+      "Gigantamax": {
+        "Showdown Name": "Butterfree-Gmax"
       }
     }
   },
@@ -258,6 +270,9 @@
       },
       "Partner": {
         "Showdown Name": "Pikachu-Starter"
+      },
+      "Gigantamax": {
+        "Showdown Name": "Pikachu-Gmax"
       }
     }
   },
@@ -474,6 +489,9 @@
       },
       "Galarian": {
         "Showdown Name": "Meowth-Glalar"
+      },
+      "Gigantamax": {
+        "Showdown Name": "Meowth-Gmax"
       }
     }
   },
@@ -592,6 +610,9 @@
     "Forms": {
       "": {
         "Showdown Name": "Machamp"
+      },
+      "Gigantamax": {
+        "Showdown Name": "Machamp-Gmax"
       }
     }
   },
@@ -807,6 +828,9 @@
       },
       "Mega": {
         "Showdown Name": "Gengar-Mega"
+      },
+      "Gigantamax": {
+        "Showdown Name": "Gengar-Gmax"
       }
     }
   },
@@ -842,6 +866,9 @@
     "Forms": {
       "": {
         "Showdown Name": "Kingler"
+      },
+      "Gigantamax": {
+        "Showdown Name": "Kingler-Gmax"
       }
     }
   },
@@ -1090,6 +1117,9 @@
     "Forms": {
       "": {
         "Showdown Name": "Lapras"
+      },
+      "Gigantamax": {
+        "Showdown Name": "Lapras-Gmax"
       }
     }
   },
@@ -1107,6 +1137,9 @@
       },
       "Partner": {
         "Showdown Name": "Eevee-Starter"
+      },
+      "Gigantamax": {
+        "Showdown Name": "Eevee-Gmax"
       }
     }
   },
@@ -1180,6 +1213,9 @@
     "Forms": {
       "": {
         "Showdown Name": "Snorlax"
+      },
+      "Gigantamax": {
+        "Showdown Name": "Snorlax-Gmax"
       }
     }
   },
@@ -4529,6 +4565,9 @@
     "Forms": {
       "": {
         "Showdown Name": "Garbodor"
+      },
+      "Gigantamax": {
+        "Showdown Name": "Garbodor-Gmax"
       }
     }
   },
@@ -6597,6 +6636,9 @@
     "Forms": {
       "": {
         "Showdown Name": "Melmetal"
+      },
+      "Gigantamax": {
+        "Showdown Name": "Melmetal-Gmax"
       }
     }
   },
@@ -6623,6 +6665,9 @@
     "Forms": {
       "": {
         "Showdown Name": "Rillaboom"
+      },
+      "Gigantamax": {
+        "Showdown Name": "Rillaboom-Gmax"
       }
     }
   },
@@ -6644,6 +6689,9 @@
     "Forms": {
       "": {
         "Showdown Name": "Cinderace"
+      },
+      "Gigantamax": {
+        "Showdown Name": "Cinderace-Gmax"
       }
     }
   },
@@ -6665,6 +6713,9 @@
     "Forms": {
       "": {
         "Showdown Name": "Inteleon"
+      },
+      "Gigantamax": {
+        "Showdown Name": "Inteleon-Gmax"
       }
     }
   },
@@ -6700,6 +6751,9 @@
     "Forms": {
       "": {
         "Showdown Name": "Corviknight"
+      },
+      "Gigantamax": {
+        "Showdown Name": "Corviknight-Gmax"
       }
     }
   },
@@ -6721,6 +6775,9 @@
     "Forms": {
       "": {
         "Showdown Name": "Orbeetle"
+      },
+      "Gigantamax": {
+        "Showdown Name": "Orbeetle-Gmax"
       }
     }
   },
@@ -6826,6 +6883,9 @@
     "Forms": {
       "": {
         "Showdown Name": "Flapple"
+      },
+      "Gigantamax": {
+        "Showdown Name": "Flapple-Gmax"
       }
     }
   },
@@ -6833,6 +6893,9 @@
     "Forms": {
       "": {
         "Showdown Name": "Appletun"
+      },
+      "Gigantamax": {
+        "Showdown Name": "Appletun-Gmax"
       }
     }
   },
@@ -6847,6 +6910,9 @@
     "Forms": {
       "": {
         "Showdown Name": "Sandaconda"
+      },
+      "Gigantamax": {
+        "Showdown Name": "Sandaconda-Gmax"
       }
     }
   },
@@ -6891,6 +6957,9 @@
       },
       "Low Key": {
         "Showdown Name": "Toxtricity-Low-Key"
+      },
+      "Gigantamax": {
+        "Showdown Name": "Toxtricity-Gmax" //Showdown has a Toxtricity-Low-Key-Gmax form, seems unused though.
       }
     }
   },
@@ -6905,6 +6974,9 @@
     "Forms": {
       "": {
         "Showdown Name": "Centiskorch"
+      },
+      "Gigantamax": {
+        "Showdown Name": "Centiskorch-Gmax"
       }
     }
   },
@@ -6960,6 +7032,9 @@
     "Forms": {
       "": {
         "Showdown Name": "Hatterene"
+      },
+      "Gigantamax": {
+        "Showdown Name": "Hatterene-Gmax"
       }
     }
   },
@@ -6981,6 +7056,9 @@
     "Forms": {
       "": {
         "Showdown Name": "Grimmsnarl"
+      },
+      "Gigantamax": {
+        "Showdown Name": "Grimmsnarl-Gmax"
       }
     }
   },
@@ -7061,6 +7139,9 @@
       },
       "Rainbow Swirl": {
         "Showdown Name": "Alcremie-Rainbow-Swirl"
+      },
+      "Gigantamax": {
+        "Showdown Name": "Alcremie-Gmax"
       }
     }
   },
@@ -7139,6 +7220,9 @@
     "Forms": {
       "": {
         "Showdown Name": "Copperajah"
+      },
+      "Gigantamax": {
+        "Showdown Name": "Copperajah-Gmax"
       }
     }
   },
@@ -7174,6 +7258,9 @@
     "Forms": {
       "": {
         "Showdown Name": "Duraludon"
+      },
+      "Gigantamax": {
+        "Showdown Name": "Duraludon-Gmax"
       }
     }
   },
@@ -7242,6 +7329,12 @@
       },
       "Rapid Strike Style": {
         "Showdown Name": "Urshifu-Rapid-Strike"
+      },
+      "Gigantamax|Single Strike Style": {
+        "Showdown Name": "Urshifu-Gmax"
+      },
+      "Gigantamax|Rapid Strike Style": {
+        "Showdown Name": "Urshifu-Rapid-Strike-Gmax"
       }
     }
   },
