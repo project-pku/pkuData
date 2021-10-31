@@ -43,7 +43,8 @@ def to_json(o, level=0):
 
 # initialize
 root = os.path.join(os.path.dirname(os.path.abspath(__file__)))
-profiles = commentjson.load(open(os.path.join(root, 'rom_profiles.json')))
+profiles = commentjson.load(open(os.path.join(root, 'rom_profiles.json'), encoding="utf8"))
+char_enc = commentjson.load(open(os.path.join(root, "../../main-series/gen-3/pk3FormatDex.json"), encoding="utf8"))["pk3"]["Character Encoding"]["English"]
 profile_name = input("Enter the ROM profile to be used:\n")
 
 # read rom
@@ -66,7 +67,12 @@ name_offset = profiles[profile_name]["Species Names Offset"]
 table_offset = profiles[profile_name]["Species Table Offset"]
 for id in valid_indices:
     species = {}
-    species["name"] = list(rom[name_offset + id*11: name_offset + (id+1)*11])
+    species["name"] = ""
+    for x in range(11):
+        char = char_enc[str(rom[name_offset + id*11 + x])]
+        if(char == '\u0000'):
+            break
+        species["name"] += char_enc[str(rom[name_offset + id*11 + x])]
     species["slot 1"] = rom[table_offset + id*28 + 22]
     species["slot 2"] = rom[table_offset + id*28 + 23]
     output[id] = species
