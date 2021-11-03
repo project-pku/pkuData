@@ -1,3 +1,5 @@
 {
-  "pk3 Format": "https://raw.githubusercontent.com/project-pku/pkuData/main/main-series/gen-3/pk3FormatDex.json"
+  "pk3 Format": "https://raw.githubusercontent.com/project-pku/pkuData/main/main-series/gen-3/pk3FormatDex.json",
+  "ck3 Format": "https://raw.githubusercontent.com/project-pku/pkuData/main/main-series/gen-3/gcn/ck3FormatDex.json",
+  "xk3 Format": "https://raw.githubusercontent.com/project-pku/pkuData/main/main-series/gen-3/gcn/xk3FormatDex.json"
 }

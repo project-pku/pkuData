@@ -1,0 +1,14 @@
+// Includes data on:
+//  Games
+//    - Includes all the games that use this format.
+{
+  "xk3": {
+    "Games": {
+      "XD": {
+        "Generation": 3,
+        "Game ID": 15,
+        "Main Series": true
+      }
+    }
+  }
+}

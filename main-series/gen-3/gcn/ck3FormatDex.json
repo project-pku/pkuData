@@ -1,0 +1,14 @@
+// Includes data on:
+//  Games
+//    - Includes all the games that use this format.
+{
+  "ck3": {
+    "Games": {
+      "Colosseum": {
+        "Generation": 3,
+        "Game ID": 15,
+        "Main Series": true
+      }
+    }
+  }
+}

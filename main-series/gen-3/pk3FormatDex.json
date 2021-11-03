@@ -1,7 +1,9 @@
 // Includes data on:
 //  Character encodings
-//    - Based off of https://bulbapedia.bulbagarden.net/wiki/Character_encoding_(Generation_III).
-//    - The phrase "Unicode used in Gen 5" means that the unicode character used is the same one used by the Gen 5 games. These are the what chars become when transferred from gens 3-> 4-> 5, thus maintaining consistency.
+//  - Based off of https://bulbapedia.bulbagarden.net/wiki/Character_encoding_(Generation_III).
+//  - The phrase "Unicode used in Gen 5" means that the unicode character used is the same one used by the Gen 5 games. These are the what chars become when transferred from gens 3-> 4-> 5, thus maintaining consistency.
+//  Games
+//  - Includes all the games that use this format.
 {
   "pk3": {
     "Character Encoding": {
@@ -444,6 +446,33 @@
       },
       "Spanish": {
         "$override": ["pk3", "Character Encoding", "English"]
+      }
+    },
+    "Games": {
+      "Sapphire": {
+        "Generation": 3,
+        "Game ID": 1,
+        "Main Series": true
+      },
+      "Ruby": {
+        "Generation": 3,
+        "Game ID": 2,
+        "Main Series": true
+      },
+      "Emerald": {
+        "Generation": 3,
+        "Game ID": 3,
+        "Main Series": true
+      },
+      "FireRed": {
+        "Generation": 3,
+        "Game ID": 4,
+        "Main Series": true
+      },
+      "LeafGreen": {
+        "Generation": 3,
+        "Game ID": 5,
+        "Main Series": true
       }
     }
   }
