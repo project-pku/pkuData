@@ -7,6 +7,7 @@
 //    - The location names for each game.
 {
   "pk3": {
+    "Parent Indices": ["main-series"],
     "Character Encoding": {
       "Language Dependent": true,
       "Japanese": {
@@ -456,9 +457,10 @@
         "255": "(fateful encounter)" //not the same as fateful encounter in later gens, think of it as "Received in an Event".    
       },
       "Sapphire": {
-        "Generation": 3,
-        "Game ID": 1,
-        "Main Series": true,
+        "Indices": {
+          "main-series": 1
+        },
+        "Exists in": ["pk3"],
         "Locations": {
           "$override": ["pk3", "Games", "$var:LocationBase"],
           "0": "Littleroot Town",
@@ -552,17 +554,19 @@
         }
       },
       "Ruby": {
-        "Generation": 3,
-        "Game ID": 2,
-        "Main Series": true,
+        "Indices": {
+          "main-series": 2
+        },
+        "Exists in": ["pk3"],
         "Locations": {
           "$override": ["pk3", "Games", "Sapphire", "Locations"]
         }
       },
       "Emerald": {
-        "Generation": 3,
-        "Game ID": 3,
-        "Main Series": true,
+        "Indices": {
+          "main-series": 3
+        },
+        "Exists in": ["pk3"],
         "Locations": {
           "$override": ["pk3", "Games", "Sapphire", "Locations"],
           "58": "Battle Frontier", //"Battle Tower" in RS
@@ -586,9 +590,10 @@
         }
       },
       "FireRed": {
-        "Generation": 3,
-        "Game ID": 4,
-        "Main Series": true,
+        "Indices": {
+          "main-series": 4
+        },
+        "Exists in": ["pk3"],
         "Locations": {
           "$override": ["pk3", "Games", "$var:LocationBase"],
           "88": "Pallet Town",
@@ -703,9 +708,10 @@
         }
       },
       "LeafGreen": {
-        "Generation": 3,
-        "Game ID": 5,
-        "Main Series": true,
+        "Indices": {
+          "main-series": 5
+        },
+        "Exists in": ["pk3"],
         "Locations": {
           "$override": ["pk3", "Games", "FireRed", "Locations"]
         }

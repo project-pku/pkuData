@@ -4,11 +4,13 @@
 //  - The location names for each game.
 {
   "ck3": {
+    "Parent Indices": ["main-series"],
     "Games": {
       "Colosseum": {
-        "Generation": 3,
-        "Game ID": 15,
-        "Main Series": true,
+        "Indices": {
+          "main-series": 15
+        },
+        "Exists in": ["pk3"],
         "Locations": {
           "$override": ["pk3", "Games", "$var:LocationBase"],
           "1": "Outskirt Stand",

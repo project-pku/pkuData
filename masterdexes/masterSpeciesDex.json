@@ -1,5 +1,5 @@
 {
-  "National Dex": "https://raw.githubusercontent.com/project-pku/pkuData/main/main-series/nationalSpeciesDex.json",
+  "Main Series Dex": "https://raw.githubusercontent.com/project-pku/pkuData/main/main-series/main-seriesSpeciesDex.json",
   "pk3 Species": "https://raw.githubusercontent.com/project-pku/pkuData/main/main-series/gen-3/pk3SpeciesDex.json",
   "Pokéstar Species": "https://raw.githubusercontent.com/project-pku/pkuData/main/main-series/gen-5/pokestarSpeciesDex.json",
   "Showdown Species": "https://raw.githubusercontent.com/project-pku/pkuData/main/showdown/showdownSpeciesDex.json"

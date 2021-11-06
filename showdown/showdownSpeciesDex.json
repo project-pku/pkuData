@@ -2,7 +2,7 @@
 // Tags:
 //   Showdown Names
 //     - Associates a canonical species/form/appearance with a Showdown name.
-//   CAP Dex
+//   CAP index
 //     - The official Smogon CAP Dex number for CAP species.
 //
 // This file is updated as of 9/23/21. Check against https://github.com/smogon/pokemon-showdown/blob/master/data/pokedex.ts
@@ -7550,7 +7550,9 @@
   // CAP
   //-----------
   "Syclar": {
-    "CAP Dex": 1,
+    "Indices": {
+      "CAP": 1
+    },
     "Forms": {
       "": {
         "Showdown Name": "Syclar"
@@ -7558,7 +7560,9 @@
     }
   },
   "Syclant": {
-    "CAP Dex": 2,
+    "Indices": {
+      "CAP": 2
+    },
     "Forms": {
       "": {
         "Showdown Name": "Syclant"
@@ -7566,7 +7570,9 @@
     }
   },
   "Revenankh": {
-    "CAP Dex": 3,
+    "Indices": {
+      "CAP": 3
+    },
     "Forms": {
       "": {
         "Showdown Name": "Revenankh"
@@ -7574,7 +7580,9 @@
     }
   },
   "Embirch": {
-    "CAP Dex": 4,
+    "Indices": {
+      "CAP": 4
+    },
     "Forms": {
       "": {
         "Showdown Name": "Embirch"
@@ -7582,7 +7590,9 @@
     }
   },
   "Flarelm": {
-    "CAP Dex": 5,
+    "Indices": {
+      "CAP": 5
+    },
     "Forms": {
       "": {
         "Showdown Name": "Flarelm"
@@ -7590,7 +7600,9 @@
     }
   },
   "Pyroak": {
-    "CAP Dex": 6,
+    "Indices": {
+      "CAP": 6
+    },
     "Forms": {
       "": {
         "Showdown Name": "Pyroak"
@@ -7598,7 +7610,9 @@
     }
   },
   "Breezi": {
-    "CAP Dex": 7,
+    "Indices": {
+      "CAP": 7
+    },
     "Forms": {
       "": {
         "Showdown Name": "Breezi"
@@ -7606,7 +7620,9 @@
     }
   },
   "Fidgit": {
-    "CAP Dex": 8,
+    "Indices": {
+      "CAP": 8
+    },
     "Forms": {
       "": {
         "Showdown Name": "Fidgit"
@@ -7614,7 +7630,9 @@
     }
   },
   "Rebble": {
-    "CAP Dex": 9,
+    "Indices": {
+      "CAP": 9
+    },
     "Forms": {
       "": {
         "Showdown Name": "Rebble"
@@ -7622,7 +7640,9 @@
     }
   },
   "Tactite": {
-    "CAP Dex": 10,
+    "Indices": {
+      "CAP": 10
+    },
     "Forms": {
       "": {
         "Showdown Name": "Tactite"
@@ -7630,7 +7650,9 @@
     }
   },
   "Stratagem": {
-    "CAP Dex": 11,
+    "Indices": {
+      "CAP": 11
+    },
     "Forms": {
       "": {
         "Showdown Name": "Stratagem"
@@ -7638,7 +7660,9 @@
     }
   },
   "Privatyke": {
-    "CAP Dex": 12,
+    "Indices": {
+      "CAP": 12
+    },
     "Forms": {
       "": {
         "Showdown Name": "Privatyke"
@@ -7646,7 +7670,9 @@
     }
   },
   "Arghonaut": {
-    "CAP Dex": 13,
+    "Indices": {
+      "CAP": 13
+    },
     "Forms": {
       "": {
         "Showdown Name": "Arghonaut"
@@ -7654,7 +7680,9 @@
     }
   },
   "Kitsunoh": {
-    "CAP Dex": 14,
+    "Indices": {
+      "CAP": 14
+    },
     "Forms": {
       "": {
         "Showdown Name": "Kitsunoh"
@@ -7662,7 +7690,9 @@
     }
   },
   "Cyclohm": {
-    "CAP Dex": 15,
+    "Indices": {
+      "CAP": 15
+    },
     "Forms": {
       "": {
         "Showdown Name": "Cyclohm"
@@ -7670,7 +7700,9 @@
     }
   },
   "Colossoil": {
-    "CAP Dex": 16,
+    "Indices": {
+      "CAP": 16
+    },
     "Forms": {
       "": {
         "Showdown Name": "Colossoil"
@@ -7678,7 +7710,9 @@
     }
   },
   "Krilowatt": {
-    "CAP Dex": 17,
+    "Indices": {
+      "CAP": 17
+    },
     "Forms": {
       "": {
         "Showdown Name": "Krilowatt"
@@ -7686,7 +7720,9 @@
     }
   },
   "Voodoll": {
-    "CAP Dex": 18,
+    "Indices": {
+      "CAP": 18
+    },
     "Forms": {
       "": {
         "Showdown Name": "Voodoll"
@@ -7694,7 +7730,9 @@
     }
   },
   "Voodoom": {
-    "CAP Dex": 19,
+    "Indices": {
+      "CAP": 19
+    },
     "Forms": {
       "": {
         "Showdown Name": "Voodoom"
@@ -7702,7 +7740,9 @@
     }
   },
   "Scratchet": {
-    "CAP Dex": 20,
+    "Indices": {
+      "CAP": 20
+    },
     "Forms": {
       "": {
         "Showdown Name": "Scratchet"
@@ -7710,7 +7750,9 @@
     }
   },
   "Tomohawk": {
-    "CAP Dex": 21,
+    "Indices": {
+      "CAP": 21
+    },
     "Forms": {
       "": {
         "Showdown Name": "Tomohawk"
@@ -7718,7 +7760,9 @@
     }
   },
   "Necturine": {
-    "CAP Dex": 22,
+    "Indices": {
+      "CAP": 22
+    },
     "Forms": {
       "": {
         "Showdown Name": "Necturine"
@@ -7726,7 +7770,9 @@
     }
   },
   "Necturna": {
-    "CAP Dex": 23,
+    "Indices": {
+      "CAP": 23
+    },
     "Forms": {
       "": {
         "Showdown Name": "Necturna"
@@ -7734,7 +7780,9 @@
     }
   },
   "Mollux": {
-    "CAP Dex": 24,
+    "Indices": {
+      "CAP": 24
+    },
     "Forms": {
       "": {
         "Showdown Name": "Mollux"
@@ -7742,7 +7790,9 @@
     }
   },
   "Cupra": {
-    "CAP Dex": 25,
+    "Indices": {
+      "CAP": 25
+    },
     "Forms": {
       "": {
         "Showdown Name": "Cupra"
@@ -7750,7 +7800,9 @@
     }
   },
   "Argalis": {
-    "CAP Dex": 26,
+    "Indices": {
+      "CAP": 26
+    },
     "Forms": {
       "": {
         "Showdown Name": "Argalis"
@@ -7758,7 +7810,9 @@
     }
   },
   "Aurumoth": {
-    "CAP Dex": 27,
+    "Indices": {
+      "CAP": 27
+    },
     "Forms": {
       "": {
         "Showdown Name": "Aurumoth"
@@ -7766,7 +7820,9 @@
     }
   },
   "Brattler": {
-    "CAP Dex": 28,
+    "Indices": {
+      "CAP": 28
+    },
     "Forms": {
       "": {
         "Showdown Name": "Brattler"
@@ -7774,7 +7830,9 @@
     }
   },
   "Malaconda": {
-    "CAP Dex": 29,
+    "Indices": {
+      "CAP": 29
+    },
     "Forms": {
       "": {
         "Showdown Name": "Malaconda"
@@ -7782,7 +7840,9 @@
     }
   },
   "Cawdet": {
-    "CAP Dex": 30,
+    "Indices": {
+      "CAP": 30
+    },
     "Forms": {
       "": {
         "Showdown Name": "Cawdet"
@@ -7790,7 +7850,9 @@
     }
   },
   "Cawmodore": {
-    "CAP Dex": 31,
+    "Indices": {
+      "CAP": 31
+    },
     "Forms": {
       "": {
         "Showdown Name": "Cawmodore"
@@ -7798,7 +7860,9 @@
     }
   },
   "Volkritter": {
-    "CAP Dex": 32,
+    "Indices": {
+      "CAP": 32
+    },
     "Forms": {
       "": {
         "Showdown Name": "Volkritter"
@@ -7806,7 +7870,9 @@
     }
   },
   "Volkraken": {
-    "CAP Dex": 33,
+    "Indices": {
+      "CAP": 33
+    },
     "Forms": {
       "": {
         "Showdown Name": "Volkraken"
@@ -7814,7 +7880,9 @@
     }
   },
   "Snugglow": {
-    "CAP Dex": 34,
+    "Indices": {
+      "CAP": 34
+    },
     "Forms": {
       "": {
         "Showdown Name": "Snugglow"
@@ -7822,7 +7890,9 @@
     }
   },
   "Plasmanta": {
-    "CAP Dex": 35,
+    "Indices": {
+      "CAP": 35
+    },
     "Forms": {
       "": {
         "Showdown Name": "Plasmanta"
@@ -7830,7 +7900,9 @@
     }
   },
   "Floatoy": {
-    "CAP Dex": 36,
+    "Indices": {
+      "CAP": 36
+    },
     "Forms": {
       "": {
         "Showdown Name": "Floatoy"
@@ -7838,7 +7910,9 @@
     }
   },
   "Caimanoe": {
-    "CAP Dex": 37,
+    "Indices": {
+      "CAP": 37
+    },
     "Forms": {
       "": {
         "Showdown Name": "Caimanoe"
@@ -7846,7 +7920,9 @@
     }
   },
   "Naviathan": {
-    "CAP Dex": 38,
+    "Indices": {
+      "CAP": 38
+    },
     "Forms": {
       "": {
         "Showdown Name": "Naviathan"
@@ -7854,7 +7930,9 @@
     }
   },
   "Crucibelle": {
-    "CAP Dex": 39,
+    "Indices": {
+      "CAP": 39
+    },
     "Forms": {
       "": {
         "Showdown Name": "Crucibelle"
@@ -7865,7 +7943,9 @@
     }
   },
   "Pluffle": {
-    "CAP Dex": 40,
+    "Indices": {
+      "CAP": 40
+    },
     "Forms": {
       "": {
         "Showdown Name": "Pluffle"
@@ -7873,7 +7953,9 @@
     }
   },
   "Kerfluffle": {
-    "CAP Dex": 41,
+    "Indices": {
+      "CAP": 41
+    },
     "Forms": {
       "": {
         "Showdown Name": "Kerfluffle"
@@ -7881,7 +7963,9 @@
     }
   },
   "Pajantom": {
-    "CAP Dex": 42,
+    "Indices": {
+      "CAP": 42
+    },
     "Forms": {
       "": {
         "Showdown Name": "Pajantom"
@@ -7889,7 +7973,9 @@
     }
   },
   "Mumbao": {
-    "CAP Dex": 43,
+    "Indices": {
+      "CAP": 43
+    },
     "Forms": {
       "": {
         "Showdown Name": "Mumbao"
@@ -7897,7 +7983,9 @@
     }
   },
   "Jumbao": {
-    "CAP Dex": 44,
+    "Indices": {
+      "CAP": 44
+    },
     "Forms": {
       "": {
         "Showdown Name": "Jumbao"
@@ -7905,7 +7993,9 @@
     }
   },
   "Fawnifer": {
-    "CAP Dex": 45,
+    "Indices": {
+      "CAP": 45
+    },
     "Forms": {
       "": {
         "Showdown Name": "Fawnifer"
@@ -7913,7 +8003,9 @@
     }
   },
   "Electrelk": {
-    "CAP Dex": 46,
+    "Indices": {
+      "CAP": 46
+    },
     "Forms": {
       "": {
         "Showdown Name": "Electrelk"
@@ -7921,7 +8013,9 @@
     }
   },
   "Caribolt": {
-    "CAP Dex": 47,
+    "Indices": {
+      "CAP": 47
+    },
     "Forms": {
       "": {
         "Showdown Name": "Caribolt"
@@ -7929,7 +8023,9 @@
     }
   },
   "Smogecko": {
-    "CAP Dex": 48,
+    "Indices": {
+      "CAP": 48
+    },
     "Forms": {
       "": {
         "Showdown Name": "Smogecko"
@@ -7937,7 +8033,9 @@
     }
   },
   "Smoguana": {
-    "CAP Dex": 49,
+    "Indices": {
+      "CAP": 49
+    },
     "Forms": {
       "": {
         "Showdown Name": "Smoguana"
@@ -7945,7 +8043,9 @@
     }
   },
   "Smokomodo": {
-    "CAP Dex": 50,
+    "Indices": {
+      "CAP": 50
+    },
     "Forms": {
       "": {
         "Showdown Name": "Smokomodo"
@@ -7953,7 +8053,9 @@
     }
   },
   "Swirlpool": {
-    "CAP Dex": 51,
+    "Indices": {
+      "CAP": 51
+    },
     "Forms": {
       "": {
         "Showdown Name": "Swirlpool"
@@ -7961,7 +8063,9 @@
     }
   },
   "Coribalis": {
-    "CAP Dex": 52,
+    "Indices": {
+      "CAP": 52
+    },
     "Forms": {
       "": {
         "Showdown Name": "Coribalis"
@@ -7969,7 +8073,9 @@
     }
   },
   "Snaelstrom": {
-    "CAP Dex": 53,
+    "Indices": {
+      "CAP": 53
+    },
     "Forms": {
       "": {
         "Showdown Name": "Snaelstrom"
@@ -7977,7 +8083,9 @@
     }
   },
   "Justyke": {
-    "CAP Dex": 54,
+    "Indices": {
+      "CAP": 54
+    },
     "Forms": {
       "": {
         "Showdown Name": "Justyke"
@@ -7985,7 +8093,9 @@
     }
   },
   "Equilibra": {
-    "CAP Dex": 55,
+    "Indices": {
+      "CAP": 55
+    },
     "Forms": {
       "": {
         "Showdown Name": "Equilibra"
@@ -7993,7 +8103,9 @@
     }
   },
   "Solotl": {
-    "CAP Dex": 56,
+    "Indices": {
+      "CAP": 56
+    },
     "Forms": {
       "": {
         "Showdown Name": "Solotl"
@@ -8001,7 +8113,9 @@
     }
   },
   "Astrolotl": {
-    "CAP Dex": 57,
+    "Indices": {
+      "CAP": 57
+    },
     "Forms": {
       "": {
         "Showdown Name": "Astrolotl"
@@ -8009,7 +8123,9 @@
     }
   },
   "Miasmite": {
-    "CAP Dex": 58,
+    "Indices": {
+      "CAP": 58
+    },
     "Forms": {
       "": {
         "Showdown Name": "Miasmite"
@@ -8017,7 +8133,9 @@
     }
   },
   "Miasmaw": {
-    "CAP Dex": 59,
+    "Indices": {
+      "CAP": 59
+    },
     "Forms": {
       "": {
         "Showdown Name": "Miasmaw"
@@ -8025,7 +8143,9 @@
     }
   },
   "Chromera": {
-    "CAP Dex": 60,
+    "Indices": {
+      "CAP": 60
+    },
     "Forms": {
       "": {
         "Showdown Name": "Chromera"
@@ -8033,7 +8153,9 @@
     }
   },
   "Nohface": {
-    "CAP Dex": 61,
+    "Indices": {
+      "CAP": 61
+    },
     "Forms": {
       "": {
         "Showdown Name": "Nohface"
@@ -8041,7 +8163,9 @@
     }
   },
   "Monohm": {
-    "CAP Dex": 62,
+    "Indices": {
+      "CAP": 62
+    },
     "Forms": {
       "": {
         "Showdown Name": "Monohm"
@@ -8049,7 +8173,9 @@
     }
   },
   "Duohm": {
-    "CAP Dex": 63,
+    "Indices": {
+      "CAP": 63
+    },
     "Forms": {
       "": {
         "Showdown Name": "Duohm"
@@ -8057,7 +8183,9 @@
     }
   },
   "Dorsoil": {
-    "CAP Dex": 64,
+    "Indices": {
+      "CAP": 64
+    },
     "Forms": {
       "": {
         "Showdown Name": "Dorsoil"
@@ -8065,7 +8193,9 @@
     }
   },
   "Protowatt": {
-    "CAP Dex": 65,
+    "Indices": {
+      "CAP": 65
+    },
     "Forms": {
       "": {
         "Showdown Name": "Protowatt"

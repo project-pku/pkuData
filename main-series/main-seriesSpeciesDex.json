@@ -1,7 +1,7 @@
 // Groups: Gens 1-8
 // Tags:
-//   National Dex
-//     - Official National Dex number of species.
+//   Main series index
+//     - i.e. National Dex number of species.
 //   Default Form
 //     - e.g. Shaymin Land form is default, but Giratina's Origin form isn't.
 //     - Only explicitly listed when it's not "".
@@ -11,13 +11,19 @@
 {
   // Gen 1
   "Bulbasaur": {
-    "National Dex": 1
+    "Indices": {
+      "main-series": 1
+    }
   },
   "Ivysaur": {
-    "National Dex": 2
+    "Indices": {
+      "main-series": 2
+    }
   },
   "Venusaur": {
-    "National Dex": 3,
+    "Indices": {
+      "main-series": 3
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -33,13 +39,19 @@
     }
   },
   "Charmander": {
-    "National Dex": 4
+    "Indices": {
+      "main-series": 4
+    }
   },
   "Charmeleon": {
-    "National Dex": 5
+    "Indices": {
+      "main-series": 5
+    }
   },
   "Charizard": {
-    "National Dex": 6,
+    "Indices": {
+      "main-series": 6
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -59,13 +71,19 @@
     }
   },
   "Squirtle": {
-    "National Dex": 7
+    "Indices": {
+      "main-series": 7
+    }
   },
   "Wartortle": {
-    "National Dex": 8
+    "Indices": {
+      "main-series": 8
+    }
   },
   "Blastoise": {
-    "National Dex": 9,
+    "Indices": {
+      "main-series": 9
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -81,13 +99,19 @@
     }
   },
   "Caterpie": {
-    "National Dex": 10
+    "Indices": {
+      "main-series": 10
+    }
   },
   "Metapod": {
-    "National Dex": 11
+    "Indices": {
+      "main-series": 11
+    }
   },
   "Butterfree": {
-    "National Dex": 12,
+    "Indices": {
+      "main-series": 12
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -99,13 +123,19 @@
     }
   },
   "Weedle": {
-    "National Dex": 13
+    "Indices": {
+      "main-series": 13
+    }
   },
   "Kakuna": {
-    "National Dex": 14
+    "Indices": {
+      "main-series": 14
+    }
   },
   "Beedrill": {
-    "National Dex": 15,
+    "Indices": {
+      "main-series": 15
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -118,13 +148,19 @@
     }
   },
   "Pidgey": {
-    "National Dex": 16
+    "Indices": {
+      "main-series": 16
+    }
   },
   "Pidgeotto": {
-    "National Dex": 17
+    "Indices": {
+      "main-series": 17
+    }
   },
   "Pidgeot": {
-    "National Dex": 18,
+    "Indices": {
+      "main-series": 18
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -137,10 +173,14 @@
     }
   },
   "Rattata": {
-    "National Dex": 19
+    "Indices": {
+      "main-series": 19
+    }
   },
   "Raticate": {
-    "National Dex": 20,
+    "Indices": {
+      "main-series": 20
+    },
     "Forms": {
       "Alolan|Totem": {
         "Castable to": ["Alolan"]
@@ -148,19 +188,29 @@
     }
   },
   "Spearow": {
-    "National Dex": 21
+    "Indices": {
+      "main-series": 21
+    }
   },
   "Fearow": {
-    "National Dex": 22
+    "Indices": {
+      "main-series": 22
+    }
   },
   "Ekans": {
-    "National Dex": 23
+    "Indices": {
+      "main-series": 23
+    }
   },
   "Arbok": {
-    "National Dex": 24
+    "Indices": {
+      "main-series": 24
+    }
   },
   "Pikachu": {
-    "National Dex": 25,
+    "Indices": {
+      "main-series": 25
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -178,85 +228,139 @@
     }
   },
   "Raichu": {
-    "National Dex": 26
+    "Indices": {
+      "main-series": 26
+    }
   },
   "Sandshrew": {
-    "National Dex": 27
+    "Indices": {
+      "main-series": 27
+    }
   },
   "Sandslash": {
-    "National Dex": 28
+    "Indices": {
+      "main-series": 28
+    }
   },
   "Nidoran♀": {
-    "National Dex": 29
+    "Indices": {
+      "main-series": 29
+    }
   },
   "Nidorina": {
-    "National Dex": 30
+    "Indices": {
+      "main-series": 30
+    }
   },
   "Nidoqueen": {
-    "National Dex": 31
+    "Indices": {
+      "main-series": 31
+    }
   },
   "Nidoran♂": {
-    "National Dex": 32
+    "Indices": {
+      "main-series": 32
+    }
   },
   "Nidorino": {
-    "National Dex": 33
+    "Indices": {
+      "main-series": 33
+    }
   },
   "Nidoking": {
-    "National Dex": 34
+    "Indices": {
+      "main-series": 34
+    }
   },
   "Clefairy": {
-    "National Dex": 35
+    "Indices": {
+      "main-series": 35
+    }
   },
   "Clefable": {
-    "National Dex": 36
+    "Indices": {
+      "main-series": 36
+    }
   },
   "Vulpix": {
-    "National Dex": 37
+    "Indices": {
+      "main-series": 37
+    }
   },
   "Ninetales": {
-    "National Dex": 38
+    "Indices": {
+      "main-series": 38
+    }
   },
   "Jigglypuff": {
-    "National Dex": 39
+    "Indices": {
+      "main-series": 39
+    }
   },
   "Wigglytuff": {
-    "National Dex": 40
+    "Indices": {
+      "main-series": 40
+    }
   },
   "Zubat": {
-    "National Dex": 41
+    "Indices": {
+      "main-series": 41
+    }
   },
   "Golbat": {
-    "National Dex": 42
+    "Indices": {
+      "main-series": 42
+    }
   },
   "Oddish": {
-    "National Dex": 43
+    "Indices": {
+      "main-series": 43
+    }
   },
   "Gloom": {
-    "National Dex": 44
+    "Indices": {
+      "main-series": 44
+    }
   },
   "Vileplume": {
-    "National Dex": 45
+    "Indices": {
+      "main-series": 45
+    }
   },
   "Paras": {
-    "National Dex": 46
+    "Indices": {
+      "main-series": 46
+    }
   },
   "Parasect": {
-    "National Dex": 47
+    "Indices": {
+      "main-series": 47
+    }
   },
   "Venonat": {
-    "National Dex": 48
+    "Indices": {
+      "main-series": 48
+    }
   },
   "Venomoth": {
-    "National Dex": 49
+    "Indices": {
+      "main-series": 49
+    }
   },
   "Diglett": {
-    "National Dex": 50
+    "Indices": {
+      "main-series": 50
+    }
   },
   "Dugtrio": {
-    "National Dex": 51
+    "Indices": {
+      "main-series": 51
+    }
   },
   "Meowth": {
-    "National Dex": 52,
+    "Indices": {
+      "main-series": 52
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -268,43 +372,69 @@
     }
   },
   "Persian": {
-    "National Dex": 53
+    "Indices": {
+      "main-series": 53
+    }
   },
   "Psyduck": {
-    "National Dex": 54
+    "Indices": {
+      "main-series": 54
+    }
   },
   "Golduck": {
-    "National Dex": 55
+    "Indices": {
+      "main-series": 55
+    }
   },
   "Mankey": {
-    "National Dex": 56
+    "Indices": {
+      "main-series": 56
+    }
   },
   "Primeape": {
-    "National Dex": 57
+    "Indices": {
+      "main-series": 57
+    }
   },
   "Growlithe": {
-    "National Dex": 58
+    "Indices": {
+      "main-series": 58
+    }
   },
   "Arcanine": {
-    "National Dex": 59
+    "Indices": {
+      "main-series": 59
+    }
   },
   "Poliwag": {
-    "National Dex": 60
+    "Indices": {
+      "main-series": 60
+    }
   },
   "Poliwhirl": {
-    "National Dex": 61
+    "Indices": {
+      "main-series": 61
+    }
   },
   "Poliwrath": {
-    "National Dex": 62
+    "Indices": {
+      "main-series": 62
+    }
   },
   "Abra": {
-    "National Dex": 63
+    "Indices": {
+      "main-series": 63
+    }
   },
   "Kadabra": {
-    "National Dex": 64
+    "Indices": {
+      "main-series": 64
+    }
   },
   "Alakazam": {
-    "National Dex": 65,
+    "Indices": {
+      "main-series": 65
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -317,13 +447,19 @@
     }
   },
   "Machop": {
-    "National Dex": 66
+    "Indices": {
+      "main-series": 66
+    }
   },
   "Machoke": {
-    "National Dex": 67
+    "Indices": {
+      "main-series": 67
+    }
   },
   "Machamp": {
-    "National Dex": 68,
+    "Indices": {
+      "main-series": 68
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -335,40 +471,64 @@
     }
   },
   "Bellsprout": {
-    "National Dex": 69
+    "Indices": {
+      "main-series": 69
+    }
   },
   "Weepinbell": {
-    "National Dex": 70
+    "Indices": {
+      "main-series": 70
+    }
   },
   "Victreebel": {
-    "National Dex": 71
+    "Indices": {
+      "main-series": 71
+    }
   },
   "Tentacool": {
-    "National Dex": 72
+    "Indices": {
+      "main-series": 72
+    }
   },
   "Tentacruel": {
-    "National Dex": 73
+    "Indices": {
+      "main-series": 73
+    }
   },
   "Geodude": {
-    "National Dex": 74
+    "Indices": {
+      "main-series": 74
+    }
   },
   "Graveler": {
-    "National Dex": 75
+    "Indices": {
+      "main-series": 75
+    }
   },
   "Golem": {
-    "National Dex": 76
+    "Indices": {
+      "main-series": 76
+    }
   },
   "Ponyta": {
-    "National Dex": 77
+    "Indices": {
+      "main-series": 77
+    }
   },
   "Rapidash": {
-    "National Dex": 78
+    "Indices": {
+      "main-series": 78
+    }
   },
   "Slowpoke": {
-    "National Dex": 79
+    "Indices": {
+      "main-series": 79
+    }
   },
   "Slowbro": {
-    "National Dex": 80,
+    "Indices": {
+      "main-series": 80
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -381,46 +541,74 @@
     }
   },
   "Magnemite": {
-    "National Dex": 81
+    "Indices": {
+      "main-series": 81
+    }
   },
   "Magneton": {
-    "National Dex": 82
+    "Indices": {
+      "main-series": 82
+    }
   },
   "Farfetch’d": {
-    "National Dex": 83
+    "Indices": {
+      "main-series": 83
+    }
   }, // note ' vs ’ in name (latter is correct)
   "Doduo": {
-    "National Dex": 84
+    "Indices": {
+      "main-series": 84
+    }
   },
   "Dodrio": {
-    "National Dex": 85
+    "Indices": {
+      "main-series": 85
+    }
   },
   "Seel": {
-    "National Dex": 86
+    "Indices": {
+      "main-series": 86
+    }
   },
   "Dewgong": {
-    "National Dex": 87
+    "Indices": {
+      "main-series": 87
+    }
   },
   "Grimer": {
-    "National Dex": 88
+    "Indices": {
+      "main-series": 88
+    }
   },
   "Muk": {
-    "National Dex": 89
+    "Indices": {
+      "main-series": 89
+    }
   },
   "Shellder": {
-    "National Dex": 90
+    "Indices": {
+      "main-series": 90
+    }
   },
   "Cloyster": {
-    "National Dex": 91
+    "Indices": {
+      "main-series": 91
+    }
   },
   "Gastly": {
-    "National Dex": 92
+    "Indices": {
+      "main-series": 92
+    }
   },
   "Haunter": {
-    "National Dex": 93
+    "Indices": {
+      "main-series": 93
+    }
   },
   "Gengar": {
-    "National Dex": 94,
+    "Indices": {
+      "main-series": 94
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -436,19 +624,29 @@
     }
   },
   "Onix": {
-    "National Dex": 95
+    "Indices": {
+      "main-series": 95
+    }
   },
   "Drowzee": {
-    "National Dex": 96
+    "Indices": {
+      "main-series": 96
+    }
   },
   "Hypno": {
-    "National Dex": 97
+    "Indices": {
+      "main-series": 97
+    }
   },
   "Krabby": {
-    "National Dex": 98
+    "Indices": {
+      "main-series": 98
+    }
   },
   "Kingler": {
-    "National Dex": 99,
+    "Indices": {
+      "main-series": 99
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -460,22 +658,34 @@
     }
   },
   "Voltorb": {
-    "National Dex": 100
+    "Indices": {
+      "main-series": 100
+    }
   },
   "Electrode": {
-    "National Dex": 101
+    "Indices": {
+      "main-series": 101
+    }
   },
   "Exeggcute": {
-    "National Dex": 102
+    "Indices": {
+      "main-series": 102
+    }
   },
   "Exeggutor": {
-    "National Dex": 103
+    "Indices": {
+      "main-series": 103
+    }
   },
   "Cubone": {
-    "National Dex": 104
+    "Indices": {
+      "main-series": 104
+    }
   },
   "Marowak": {
-    "National Dex": 105,
+    "Indices": {
+      "main-series": 105
+    },
     "Forms": {
       "Alolan|Totem": {
         "Castable to": [ "Alolan" ]
@@ -483,34 +693,54 @@
     }
   },
   "Hitmonlee": {
-    "National Dex": 106
+    "Indices": {
+      "main-series": 106
+    }
   },
   "Hitmonchan": {
-    "National Dex": 107
+    "Indices": {
+      "main-series": 107
+    }
   },
   "Lickitung": {
-    "National Dex": 108
+    "Indices": {
+      "main-series": 108
+    }
   },
   "Koffing": {
-    "National Dex": 109
+    "Indices": {
+      "main-series": 109
+    }
   },
   "Weezing": {
-    "National Dex": 110
+    "Indices": {
+      "main-series": 110
+    }
   },
   "Rhyhorn": {
-    "National Dex": 111
+    "Indices": {
+      "main-series": 111
+    }
   },
   "Rhydon": {
-    "National Dex": 112
+    "Indices": {
+      "main-series": 112
+    }
   },
   "Chansey": {
-    "National Dex": 113
+    "Indices": {
+      "main-series": 113
+    }
   },
   "Tangela": {
-    "National Dex": 114
+    "Indices": {
+      "main-series": 114
+    }
   },
   "Kangaskhan": {
-    "National Dex": 115,
+    "Indices": {
+      "main-series": 115
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -523,40 +753,64 @@
     }
   },
   "Horsea": {
-    "National Dex": 116
+    "Indices": {
+      "main-series": 116
+    }
   },
   "Seadra": {
-    "National Dex": 117
+    "Indices": {
+      "main-series": 117
+    }
   },
   "Goldeen": {
-    "National Dex": 118
+    "Indices": {
+      "main-series": 118
+    }
   },
   "Seaking": {
-    "National Dex": 119
+    "Indices": {
+      "main-series": 119
+    }
   },
   "Staryu": {
-    "National Dex": 120
+    "Indices": {
+      "main-series": 120
+    }
   },
   "Starmie": {
-    "National Dex": 121
+    "Indices": {
+      "main-series": 121
+    }
   },
   "Mr. Mime": {
-    "National Dex": 122
+    "Indices": {
+      "main-series": 122
+    }
   },
   "Scyther": {
-    "National Dex": 123
+    "Indices": {
+      "main-series": 123
+    }
   },
   "Jynx": {
-    "National Dex": 124
+    "Indices": {
+      "main-series": 124
+    }
   },
   "Electabuzz": {
-    "National Dex": 125
+    "Indices": {
+      "main-series": 125
+    }
   },
   "Magmar": {
-    "National Dex": 126
+    "Indices": {
+      "main-series": 126
+    }
   },
   "Pinsir": {
-    "National Dex": 127,
+    "Indices": {
+      "main-series": 127
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -569,13 +823,19 @@
     }
   },
   "Tauros": {
-    "National Dex": 128
+    "Indices": {
+      "main-series": 128
+    }
   },
   "Magikarp": {
-    "National Dex": 129
+    "Indices": {
+      "main-series": 129
+    }
   },
   "Gyarados": {
-    "National Dex": 130,
+    "Indices": {
+      "main-series": 130
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -588,7 +848,9 @@
     }
   },
   "Lapras": {
-    "National Dex": 131,
+    "Indices": {
+      "main-series": 131
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -600,10 +862,14 @@
     }
   },
   "Ditto": {
-    "National Dex": 132
+    "Indices": {
+      "main-series": 132
+    }
   },
   "Eevee": {
-    "National Dex": 133,
+    "Indices": {
+      "main-series": 133
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -615,31 +881,49 @@
     }
   },
   "Vaporeon": {
-    "National Dex": 134
+    "Indices": {
+      "main-series": 134
+    }
   },
   "Jolteon": {
-    "National Dex": 135
+    "Indices": {
+      "main-series": 135
+    }
   },
   "Flareon": {
-    "National Dex": 136
+    "Indices": {
+      "main-series": 136
+    }
   },
   "Porygon": {
-    "National Dex": 137
+    "Indices": {
+      "main-series": 137
+    }
   },
   "Omanyte": {
-    "National Dex": 138
+    "Indices": {
+      "main-series": 138
+    }
   },
   "Omastar": {
-    "National Dex": 139
+    "Indices": {
+      "main-series": 139
+    }
   },
   "Kabuto": {
-    "National Dex": 140
+    "Indices": {
+      "main-series": 140
+    }
   },
   "Kabutops": {
-    "National Dex": 141
+    "Indices": {
+      "main-series": 141
+    }
   },
   "Aerodactyl": {
-    "National Dex": 142,
+    "Indices": {
+      "main-series": 142
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -652,7 +936,9 @@
     }
   },
   "Snorlax": {
-    "National Dex": 143,
+    "Indices": {
+      "main-series": 143
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -664,25 +950,39 @@
     }
   },
   "Articuno": {
-    "National Dex": 144
+    "Indices": {
+      "main-series": 144
+    }
   },
   "Zapdos": {
-    "National Dex": 145
+    "Indices": {
+      "main-series": 145
+    }
   },
   "Moltres": {
-    "National Dex": 146
+    "Indices": {
+      "main-series": 146
+    }
   },
   "Dratini": {
-    "National Dex": 147
+    "Indices": {
+      "main-series": 147
+    }
   },
   "Dragonair": {
-    "National Dex": 148
+    "Indices": {
+      "main-series": 148
+    }
   },
   "Dragonite": {
-    "National Dex": 149
+    "Indices": {
+      "main-series": 149
+    }
   },
   "Mewtwo": {
-    "National Dex": 150,
+    "Indices": {
+      "main-series": 150
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -699,99 +999,161 @@
     }
   },
   "Mew": {
-    "National Dex": 151
+    "Indices": {
+      "main-series": 151
+    }
   },
 
   // Gen 2
   "Chikorita": {
-    "National Dex": 152
+    "Indices": {
+      "main-series": 152
+    }
   },
   "Bayleef": {
-    "National Dex": 153
+    "Indices": {
+      "main-series": 153
+    }
   },
   "Meganium": {
-    "National Dex": 154
+    "Indices": {
+      "main-series": 154
+    }
   },
   "Cyndaquil": {
-    "National Dex": 155
+    "Indices": {
+      "main-series": 155
+    }
   },
   "Quilava": {
-    "National Dex": 156
+    "Indices": {
+      "main-series": 156
+    }
   },
   "Typhlosion": {
-    "National Dex": 157
+    "Indices": {
+      "main-series": 157
+    }
   },
   "Totodile": {
-    "National Dex": 158
+    "Indices": {
+      "main-series": 158
+    }
   },
   "Croconaw": {
-    "National Dex": 159
+    "Indices": {
+      "main-series": 159
+    }
   },
   "Feraligatr": {
-    "National Dex": 160
+    "Indices": {
+      "main-series": 160
+    }
   },
   "Sentret": {
-    "National Dex": 161
+    "Indices": {
+      "main-series": 161
+    }
   },
   "Furret": {
-    "National Dex": 162
+    "Indices": {
+      "main-series": 162
+    }
   },
   "Hoothoot": {
-    "National Dex": 163
+    "Indices": {
+      "main-series": 163
+    }
   },
   "Noctowl": {
-    "National Dex": 164
+    "Indices": {
+      "main-series": 164
+    }
   },
   "Ledyba": {
-    "National Dex": 165
+    "Indices": {
+      "main-series": 165
+    }
   },
   "Ledian": {
-    "National Dex": 166
+    "Indices": {
+      "main-series": 166
+    }
   },
   "Spinarak": {
-    "National Dex": 167
+    "Indices": {
+      "main-series": 167
+    }
   },
   "Ariados": {
-    "National Dex": 168
+    "Indices": {
+      "main-series": 168
+    }
   },
   "Crobat": {
-    "National Dex": 169
+    "Indices": {
+      "main-series": 169
+    }
   },
   "Chinchou": {
-    "National Dex": 170
+    "Indices": {
+      "main-series": 170
+    }
   },
   "Lanturn": {
-    "National Dex": 171
+    "Indices": {
+      "main-series": 171
+    }
   },
   "Pichu": {
-    "National Dex": 172
+    "Indices": {
+      "main-series": 172
+    }
   },
   "Cleffa": {
-    "National Dex": 173
+    "Indices": {
+      "main-series": 173
+    }
   },
   "Igglybuff": {
-    "National Dex": 174
+    "Indices": {
+      "main-series": 174
+    }
   },
   "Togepi": {
-    "National Dex": 175
+    "Indices": {
+      "main-series": 175
+    }
   },
   "Togetic": {
-    "National Dex": 176
+    "Indices": {
+      "main-series": 176
+    }
   },
   "Natu": {
-    "National Dex": 177
+    "Indices": {
+      "main-series": 177
+    }
   },
   "Xatu": {
-    "National Dex": 178
+    "Indices": {
+      "main-series": 178
+    }
   },
   "Mareep": {
-    "National Dex": 179
+    "Indices": {
+      "main-series": 179
+    }
   },
   "Flaaffy": {
-    "National Dex": 180
+    "Indices": {
+      "main-series": 180
+    }
   },
   "Ampharos": {
-    "National Dex": 181,
+    "Indices": {
+      "main-series": 181
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -804,64 +1166,104 @@
     }
   },
   "Bellossom": {
-    "National Dex": 182
+    "Indices": {
+      "main-series": 182
+    }
   },
   "Marill": {
-    "National Dex": 183
+    "Indices": {
+      "main-series": 183
+    }
   },
   "Azumarill": {
-    "National Dex": 184
+    "Indices": {
+      "main-series": 184
+    }
   },
   "Sudowoodo": {
-    "National Dex": 185
+    "Indices": {
+      "main-series": 185
+    }
   },
   "Politoed": {
-    "National Dex": 186
+    "Indices": {
+      "main-series": 186
+    }
   },
   "Hoppip": {
-    "National Dex": 187
+    "Indices": {
+      "main-series": 187
+    }
   },
   "Skiploom": {
-    "National Dex": 188
+    "Indices": {
+      "main-series": 188
+    }
   },
   "Jumpluff": {
-    "National Dex": 189
+    "Indices": {
+      "main-series": 189
+    }
   },
   "Aipom": {
-    "National Dex": 190
+    "Indices": {
+      "main-series": 190
+    }
   },
   "Sunkern": {
-    "National Dex": 191
+    "Indices": {
+      "main-series": 191
+    }
   },
   "Sunflora": {
-    "National Dex": 192
+    "Indices": {
+      "main-series": 192
+    }
   },
   "Yanma": {
-    "National Dex": 193
+    "Indices": {
+      "main-series": 193
+    }
   },
   "Wooper": {
-    "National Dex": 194
+    "Indices": {
+      "main-series": 194
+    }
   },
   "Quagsire": {
-    "National Dex": 195
+    "Indices": {
+      "main-series": 195
+    }
   },
   "Espeon": {
-    "National Dex": 196
+    "Indices": {
+      "main-series": 196
+    }
   },
   "Umbreon": {
-    "National Dex": 197
+    "Indices": {
+      "main-series": 197
+    }
   },
   "Murkrow": {
-    "National Dex": 198
+    "Indices": {
+      "main-series": 198
+    }
   },
   "Slowking": {
-    "National Dex": 199
+    "Indices": {
+      "main-series": 199
+    }
   },
   "Misdreavus": {
-    "National Dex": 200
+    "Indices": {
+      "main-series": 200
+    }
   },
   "Unown": {
-    "National Dex": 201,
+    "Indices": {
+      "main-series": 201
+    },
     "Forms": {
       "A": {
         "Default": true
@@ -869,25 +1271,39 @@
     }
   },
   "Wobbuffet": {
-    "National Dex": 202
+    "Indices": {
+      "main-series": 202
+    }
   },
   "Girafarig": {
-    "National Dex": 203
+    "Indices": {
+      "main-series": 203
+    }
   },
   "Pineco": {
-    "National Dex": 204
+    "Indices": {
+      "main-series": 204
+    }
   },
   "Forretress": {
-    "National Dex": 205
+    "Indices": {
+      "main-series": 205
+    }
   },
   "Dunsparce": {
-    "National Dex": 206
+    "Indices": {
+      "main-series": 206
+    }
   },
   "Gligar": {
-    "National Dex": 207
+    "Indices": {
+      "main-series": 207
+    }
   },
   "Steelix": {
-    "National Dex": 208,
+    "Indices": {
+      "main-series": 208
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -900,16 +1316,24 @@
     }
   },
   "Snubbull": {
-    "National Dex": 209
+    "Indices": {
+      "main-series": 209
+    }
   },
   "Granbull": {
-    "National Dex": 210
+    "Indices": {
+      "main-series": 210
+    }
   },
   "Qwilfish": {
-    "National Dex": 211
+    "Indices": {
+      "main-series": 211
+    }
   },
   "Scizor": {
-    "National Dex": 212,
+    "Indices": {
+      "main-series": 212
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -922,10 +1346,14 @@
     }
   },
   "Shuckle": {
-    "National Dex": 213
+    "Indices": {
+      "main-series": 213
+    }
   },
   "Heracross": {
-    "National Dex": 214,
+    "Indices": {
+      "main-series": 214
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -938,49 +1366,79 @@
     }
   },
   "Sneasel": {
-    "National Dex": 215
+    "Indices": {
+      "main-series": 215
+    }
   },
   "Teddiursa": {
-    "National Dex": 216
+    "Indices": {
+      "main-series": 216
+    }
   },
   "Ursaring": {
-    "National Dex": 217
+    "Indices": {
+      "main-series": 217
+    }
   },
   "Slugma": {
-    "National Dex": 218
+    "Indices": {
+      "main-series": 218
+    }
   },
   "Magcargo": {
-    "National Dex": 219
+    "Indices": {
+      "main-series": 219
+    }
   },
   "Swinub": {
-    "National Dex": 220
+    "Indices": {
+      "main-series": 220
+    }
   },
   "Piloswine": {
-    "National Dex": 221
+    "Indices": {
+      "main-series": 221
+    }
   },
   "Corsola": {
-    "National Dex": 222
+    "Indices": {
+      "main-series": 222
+    }
   },
   "Remoraid": {
-    "National Dex": 223
+    "Indices": {
+      "main-series": 223
+    }
   },
   "Octillery": {
-    "National Dex": 224
+    "Indices": {
+      "main-series": 224
+    }
   },
   "Delibird": {
-    "National Dex": 225
+    "Indices": {
+      "main-series": 225
+    }
   },
   "Mantine": {
-    "National Dex": 226
+    "Indices": {
+      "main-series": 226
+    }
   },
   "Skarmory": {
-    "National Dex": 227
+    "Indices": {
+      "main-series": 227
+    }
   },
   "Houndour": {
-    "National Dex": 228
+    "Indices": {
+      "main-series": 228
+    }
   },
   "Houndoom": {
-    "National Dex": 229,
+    "Indices": {
+      "main-series": 229
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -993,61 +1451,99 @@
     }
   },
   "Kingdra": {
-    "National Dex": 230
+    "Indices": {
+      "main-series": 230
+    }
   },
   "Phanpy": {
-    "National Dex": 231
+    "Indices": {
+      "main-series": 231
+    }
   },
   "Donphan": {
-    "National Dex": 232
+    "Indices": {
+      "main-series": 232
+    }
   },
   "Porygon2": {
-    "National Dex": 233
+    "Indices": {
+      "main-series": 233
+    }
   },
   "Stantler": {
-    "National Dex": 234
+    "Indices": {
+      "main-series": 234
+    }
   },
   "Smeargle": {
-    "National Dex": 235
+    "Indices": {
+      "main-series": 235
+    }
   },
   "Tyrogue": {
-    "National Dex": 236
+    "Indices": {
+      "main-series": 236
+    }
   },
   "Hitmontop": {
-    "National Dex": 237
+    "Indices": {
+      "main-series": 237
+    }
   },
   "Smoochum": {
-    "National Dex": 238
+    "Indices": {
+      "main-series": 238
+    }
   },
   "Elekid": {
-    "National Dex": 239
+    "Indices": {
+      "main-series": 239
+    }
   },
   "Magby": {
-    "National Dex": 240
+    "Indices": {
+      "main-series": 240
+    }
   },
   "Miltank": {
-    "National Dex": 241
+    "Indices": {
+      "main-series": 241
+    }
   },
   "Blissey": {
-    "National Dex": 242
+    "Indices": {
+      "main-series": 242
+    }
   },
   "Raikou": {
-    "National Dex": 243
+    "Indices": {
+      "main-series": 243
+    }
   },
   "Entei": {
-    "National Dex": 244
+    "Indices": {
+      "main-series": 244
+    }
   },
   "Suicune": {
-    "National Dex": 245
+    "Indices": {
+      "main-series": 245
+    }
   },
   "Larvitar": {
-    "National Dex": 246
+    "Indices": {
+      "main-series": 246
+    }
   },
   "Pupitar": {
-    "National Dex": 247
+    "Indices": {
+      "main-series": 247
+    }
   },
   "Tyranitar": {
-    "National Dex": 248,
+    "Indices": {
+      "main-series": 248
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -1060,24 +1556,36 @@
     }
   },
   "Lugia": {
-    "National Dex": 249
+    "Indices": {
+      "main-series": 249
+    }
   },
   "Ho-Oh": {
-    "National Dex": 250
+    "Indices": {
+      "main-series": 250
+    }
   },
   "Celebi": {
-    "National Dex": 251
+    "Indices": {
+      "main-series": 251
+    }
   },
 
   // Gen 3
   "Treecko": {
-    "National Dex": 252
+    "Indices": {
+      "main-series": 252
+    }
   },
   "Grovyle": {
-    "National Dex": 253
+    "Indices": {
+      "main-series": 253
+    }
   },
   "Sceptile": {
-    "National Dex": 254,
+    "Indices": {
+      "main-series": 254
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -1090,13 +1598,19 @@
     }
   },
   "Torchic": {
-    "National Dex": 255
+    "Indices": {
+      "main-series": 255
+    }
   },
   "Combusken": {
-    "National Dex": 256
+    "Indices": {
+      "main-series": 256
+    }
   },
   "Blaziken": {
-    "National Dex": 257,
+    "Indices": {
+      "main-series": 257
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -1109,13 +1623,19 @@
     }
   },
   "Mudkip": {
-    "National Dex": 258
+    "Indices": {
+      "main-series": 258
+    }
   },
   "Marshtomp": {
-    "National Dex": 259
+    "Indices": {
+      "main-series": 259
+    }
   },
   "Swampert": {
-    "National Dex": 260,
+    "Indices": {
+      "main-series": 260
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -1128,70 +1648,114 @@
     }
   },
   "Poochyena": {
-    "National Dex": 261
+    "Indices": {
+      "main-series": 261
+    }
   },
   "Mightyena": {
-    "National Dex": 262
+    "Indices": {
+      "main-series": 262
+    }
   },
   "Zigzagoon": {
-    "National Dex": 263
+    "Indices": {
+      "main-series": 263
+    }
   },
   "Linoone": {
-    "National Dex": 264
+    "Indices": {
+      "main-series": 264
+    }
   },
   "Wurmple": {
-    "National Dex": 265
+    "Indices": {
+      "main-series": 265
+    }
   },
   "Silcoon": {
-    "National Dex": 266
+    "Indices": {
+      "main-series": 266
+    }
   },
   "Beautifly": {
-    "National Dex": 267
+    "Indices": {
+      "main-series": 267
+    }
   },
   "Cascoon": {
-    "National Dex": 268
+    "Indices": {
+      "main-series": 268
+    }
   },
   "Dustox": {
-    "National Dex": 269
+    "Indices": {
+      "main-series": 269
+    }
   },
   "Lotad": {
-    "National Dex": 270
+    "Indices": {
+      "main-series": 270
+    }
   },
   "Lombre": {
-    "National Dex": 271
+    "Indices": {
+      "main-series": 271
+    }
   },
   "Ludicolo": {
-    "National Dex": 272
+    "Indices": {
+      "main-series": 272
+    }
   },
   "Seedot": {
-    "National Dex": 273
+    "Indices": {
+      "main-series": 273
+    }
   },
   "Nuzleaf": {
-    "National Dex": 274
+    "Indices": {
+      "main-series": 274
+    }
   },
   "Shiftry": {
-    "National Dex": 275
+    "Indices": {
+      "main-series": 275
+    }
   },
   "Taillow": {
-    "National Dex": 276
+    "Indices": {
+      "main-series": 276
+    }
   },
   "Swellow": {
-    "National Dex": 277
+    "Indices": {
+      "main-series": 277
+    }
   },
   "Wingull": {
-    "National Dex": 278
+    "Indices": {
+      "main-series": 278
+    }
   },
   "Pelipper": {
-    "National Dex": 279
+    "Indices": {
+      "main-series": 279
+    }
   },
   "Ralts": {
-    "National Dex": 280
+    "Indices": {
+      "main-series": 280
+    }
   },
   "Kirlia": {
-    "National Dex": 281
+    "Indices": {
+      "main-series": 281
+    }
   },
   "Gardevoir": {
-    "National Dex": 282,
+    "Indices": {
+      "main-series": 282
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -1204,64 +1768,104 @@
     }
   },
   "Surskit": {
-    "National Dex": 283
+    "Indices": {
+      "main-series": 283
+    }
   },
   "Masquerain": {
-    "National Dex": 284
+    "Indices": {
+      "main-series": 284
+    }
   },
   "Shroomish": {
-    "National Dex": 285
+    "Indices": {
+      "main-series": 285
+    }
   },
   "Breloom": {
-    "National Dex": 286
+    "Indices": {
+      "main-series": 286
+    }
   },
   "Slakoth": {
-    "National Dex": 287
+    "Indices": {
+      "main-series": 287
+    }
   },
   "Vigoroth": {
-    "National Dex": 288
+    "Indices": {
+      "main-series": 288
+    }
   },
   "Slaking": {
-    "National Dex": 289
+    "Indices": {
+      "main-series": 289
+    }
   },
   "Nincada": {
-    "National Dex": 290
+    "Indices": {
+      "main-series": 290
+    }
   },
   "Ninjask": {
-    "National Dex": 291
+    "Indices": {
+      "main-series": 291
+    }
   },
   "Shedinja": {
-    "National Dex": 292
+    "Indices": {
+      "main-series": 292
+    }
   },
   "Whismur": {
-    "National Dex": 293
+    "Indices": {
+      "main-series": 293
+    }
   },
   "Loudred": {
-    "National Dex": 294
+    "Indices": {
+      "main-series": 294
+    }
   },
   "Exploud": {
-    "National Dex": 295
+    "Indices": {
+      "main-series": 295
+    }
   },
   "Makuhita": {
-    "National Dex": 296
+    "Indices": {
+      "main-series": 296
+    }
   },
   "Hariyama": {
-    "National Dex": 297
+    "Indices": {
+      "main-series": 297
+    }
   },
   "Azurill": {
-    "National Dex": 298
+    "Indices": {
+      "main-series": 298
+    }
   },
   "Nosepass": {
-    "National Dex": 299
+    "Indices": {
+      "main-series": 299
+    }
   },
   "Skitty": {
-    "National Dex": 300
+    "Indices": {
+      "main-series": 300
+    }
   },
   "Delcatty": {
-    "National Dex": 301
+    "Indices": {
+      "main-series": 301
+    }
   },
   "Sableye": {
-    "National Dex": 302,
+    "Indices": {
+      "main-series": 302
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -1274,7 +1878,9 @@
     }
   },
   "Mawile": {
-    "National Dex": 303,
+    "Indices": {
+      "main-series": 303
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -1287,13 +1893,19 @@
     }
   },
   "Aron": {
-    "National Dex": 304
+    "Indices": {
+      "main-series": 304
+    }
   },
   "Lairon": {
-    "National Dex": 305
+    "Indices": {
+      "main-series": 305
+    }
   },
   "Aggron": {
-    "National Dex": 306,
+    "Indices": {
+      "main-series": 306
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -1306,10 +1918,14 @@
     }
   },
   "Meditite": {
-    "National Dex": 307
+    "Indices": {
+      "main-series": 307
+    }
   },
   "Medicham": {
-    "National Dex": 308,
+    "Indices": {
+      "main-series": 308
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -1322,10 +1938,14 @@
     }
   },
   "Electrike": {
-    "National Dex": 309
+    "Indices": {
+      "main-series": 309
+    }
   },
   "Manectric": {
-    "National Dex": 310,
+    "Indices": {
+      "main-series": 310
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -1338,31 +1958,49 @@
     }
   },
   "Plusle": {
-    "National Dex": 311
+    "Indices": {
+      "main-series": 311
+    }
   },
   "Minun": {
-    "National Dex": 312
+    "Indices": {
+      "main-series": 312
+    }
   },
   "Volbeat": {
-    "National Dex": 313
+    "Indices": {
+      "main-series": 313
+    }
   },
   "Illumise": {
-    "National Dex": 314
+    "Indices": {
+      "main-series": 314
+    }
   },
   "Roselia": {
-    "National Dex": 315
+    "Indices": {
+      "main-series": 315
+    }
   },
   "Gulpin": {
-    "National Dex": 316
+    "Indices": {
+      "main-series": 316
+    }
   },
   "Swalot": {
-    "National Dex": 317
+    "Indices": {
+      "main-series": 317
+    }
   },
   "Carvanha": {
-    "National Dex": 318
+    "Indices": {
+      "main-series": 318
+    }
   },
   "Sharpedo": {
-    "National Dex": 319,
+    "Indices": {
+      "main-series": 319
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -1375,16 +2013,24 @@
     }
   },
   "Wailmer": {
-    "National Dex": 320
+    "Indices": {
+      "main-series": 320
+    }
   },
   "Wailord": {
-    "National Dex": 321
+    "Indices": {
+      "main-series": 321
+    }
   },
   "Numel": {
-    "National Dex": 322
+    "Indices": {
+      "main-series": 322
+    }
   },
   "Camerupt": {
-    "National Dex": 323,
+    "Indices": {
+      "main-series": 323
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -1397,37 +2043,59 @@
     }
   },
   "Torkoal": {
-    "National Dex": 324
+    "Indices": {
+      "main-series": 324
+    }
   },
   "Spoink": {
-    "National Dex": 325
+    "Indices": {
+      "main-series": 325
+    }
   },
   "Grumpig": {
-    "National Dex": 326
+    "Indices": {
+      "main-series": 326
+    }
   },
   "Spinda": {
-    "National Dex": 327
+    "Indices": {
+      "main-series": 327
+    }
   },
   "Trapinch": {
-    "National Dex": 328
+    "Indices": {
+      "main-series": 328
+    }
   },
   "Vibrava": {
-    "National Dex": 329
+    "Indices": {
+      "main-series": 329
+    }
   },
   "Flygon": {
-    "National Dex": 330
+    "Indices": {
+      "main-series": 330
+    }
   },
   "Cacnea": {
-    "National Dex": 331
+    "Indices": {
+      "main-series": 331
+    }
   },
   "Cacturne": {
-    "National Dex": 332
+    "Indices": {
+      "main-series": 332
+    }
   },
   "Swablu": {
-    "National Dex": 333
+    "Indices": {
+      "main-series": 333
+    }
   },
   "Altaria": {
-    "National Dex": 334,
+    "Indices": {
+      "main-series": 334
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -1440,55 +2108,89 @@
     }
   },
   "Zangoose": {
-    "National Dex": 335
+    "Indices": {
+      "main-series": 335
+    }
   },
   "Seviper": {
-    "National Dex": 336
+    "Indices": {
+      "main-series": 336
+    }
   },
   "Lunatone": {
-    "National Dex": 337
+    "Indices": {
+      "main-series": 337
+    }
   },
   "Solrock": {
-    "National Dex": 338
+    "Indices": {
+      "main-series": 338
+    }
   },
   "Barboach": {
-    "National Dex": 339
+    "Indices": {
+      "main-series": 339
+    }
   },
   "Whiscash": {
-    "National Dex": 340
+    "Indices": {
+      "main-series": 340
+    }
   },
   "Corphish": {
-    "National Dex": 341
+    "Indices": {
+      "main-series": 341
+    }
   },
   "Crawdaunt": {
-    "National Dex": 342
+    "Indices": {
+      "main-series": 342
+    }
   },
   "Baltoy": {
-    "National Dex": 343
+    "Indices": {
+      "main-series": 343
+    }
   },
   "Claydol": {
-    "National Dex": 344
+    "Indices": {
+      "main-series": 344
+    }
   },
   "Lileep": {
-    "National Dex": 345
+    "Indices": {
+      "main-series": 345
+    }
   },
   "Cradily": {
-    "National Dex": 346
+    "Indices": {
+      "main-series": 346
+    }
   },
   "Anorith": {
-    "National Dex": 347
+    "Indices": {
+      "main-series": 347
+    }
   },
   "Armaldo": {
-    "National Dex": 348
+    "Indices": {
+      "main-series": 348
+    }
   },
   "Feebas": {
-    "National Dex": 349
+    "Indices": {
+      "main-series": 349
+    }
   },
   "Milotic": {
-    "National Dex": 350
+    "Indices": {
+      "main-series": 350
+    }
   },
   "Castform": {
-    "National Dex": 351,
+    "Indices": {
+      "main-series": 351
+    },
     "Forms": {
       "Normal": {
         "Default": true,
@@ -1546,13 +2248,19 @@
     }
   },
   "Kecleon": {
-    "National Dex": 352
+    "Indices": {
+      "main-series": 352
+    }
   },
   "Shuppet": {
-    "National Dex": 353
+    "Indices": {
+      "main-series": 353
+    }
   },
   "Banette": {
-    "National Dex": 354,
+    "Indices": {
+      "main-series": 354
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -1565,19 +2273,29 @@
     }
   },
   "Duskull": {
-    "National Dex": 355
+    "Indices": {
+      "main-series": 355
+    }
   },
   "Dusclops": {
-    "National Dex": 356
+    "Indices": {
+      "main-series": 356
+    }
   },
   "Tropius": {
-    "National Dex": 357
+    "Indices": {
+      "main-series": 357
+    }
   },
   "Chimecho": {
-    "National Dex": 358
+    "Indices": {
+      "main-series": 358
+    }
   },
   "Absol": {
-    "National Dex": 359,
+    "Indices": {
+      "main-series": 359
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -1590,13 +2308,19 @@
     }
   },
   "Wynaut": {
-    "National Dex": 360
+    "Indices": {
+      "main-series": 360
+    }
   },
   "Snorunt": {
-    "National Dex": 361
+    "Indices": {
+      "main-series": 361
+    }
   },
   "Glalie": {
-    "National Dex": 362,
+    "Indices": {
+      "main-series": 362
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -1609,37 +2333,59 @@
     }
   },
   "Spheal": {
-    "National Dex": 363
+    "Indices": {
+      "main-series": 363
+    }
   },
   "Sealeo": {
-    "National Dex": 364
+    "Indices": {
+      "main-series": 364
+    }
   },
   "Walrein": {
-    "National Dex": 365
+    "Indices": {
+      "main-series": 365
+    }
   },
   "Clamperl": {
-    "National Dex": 366
+    "Indices": {
+      "main-series": 366
+    }
   },
   "Huntail": {
-    "National Dex": 367
+    "Indices": {
+      "main-series": 367
+    }
   },
   "Gorebyss": {
-    "National Dex": 368
+    "Indices": {
+      "main-series": 368
+    }
   },
   "Relicanth": {
-    "National Dex": 369
+    "Indices": {
+      "main-series": 369
+    }
   },
   "Luvdisc": {
-    "National Dex": 370
+    "Indices": {
+      "main-series": 370
+    }
   },
   "Bagon": {
-    "National Dex": 371
+    "Indices": {
+      "main-series": 371
+    }
   },
   "Shelgon": {
-    "National Dex": 372
+    "Indices": {
+      "main-series": 372
+    }
   },
   "Salamence": {
-    "National Dex": 373,
+    "Indices": {
+      "main-series": 373
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -1652,13 +2398,19 @@
     }
   },
   "Beldum": {
-    "National Dex": 374
+    "Indices": {
+      "main-series": 374
+    }
   },
   "Metang": {
-    "National Dex": 375
+    "Indices": {
+      "main-series": 375
+    }
   },
   "Metagross": {
-    "National Dex": 376,
+    "Indices": {
+      "main-series": 376
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -1671,16 +2423,24 @@
     }
   },
   "Regirock": {
-    "National Dex": 377
+    "Indices": {
+      "main-series": 377
+    }
   },
   "Regice": {
-    "National Dex": 378
+    "Indices": {
+      "main-series": 378
+    }
   },
   "Registeel": {
-    "National Dex": 379
+    "Indices": {
+      "main-series": 379
+    }
   },
   "Latias": {
-    "National Dex": 380,
+    "Indices": {
+      "main-series": 380
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -1693,7 +2453,9 @@
     }
   },
   "Latios": {
-    "National Dex": 381,
+    "Indices": {
+      "main-series": 381
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -1706,7 +2468,9 @@
     }
   },
   "Kyogre": {
-    "National Dex": 382,
+    "Indices": {
+      "main-series": 382
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -1719,7 +2483,9 @@
     }
   },
   "Groudon": {
-    "National Dex": 383,
+    "Indices": {
+      "main-series": 383
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -1732,7 +2498,9 @@
     }
   },
   "Rayquaza": {
-    "National Dex": 384,
+    "Indices": {
+      "main-series": 384
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -1744,10 +2512,14 @@
     }
   },
   "Jirachi": {
-    "National Dex": 385
+    "Indices": {
+      "main-series": 385
+    }
   },
   "Deoxys": {
-    "National Dex": 386,
+    "Indices": {
+      "main-series": 386
+    },
     "Forms": {
       "Normal": {
         "Default": true
@@ -1757,82 +2529,134 @@
 
   // Gen 4
   "Turtwig": {
-    "National Dex": 387
+    "Indices": {
+      "main-series": 387
+    }
   },
   "Grotle": {
-    "National Dex": 388
+    "Indices": {
+      "main-series": 388
+    }
   },
   "Torterra": {
-    "National Dex": 389
+    "Indices": {
+      "main-series": 389
+    }
   },
   "Chimchar": {
-    "National Dex": 390
+    "Indices": {
+      "main-series": 390
+    }
   },
   "Monferno": {
-    "National Dex": 391
+    "Indices": {
+      "main-series": 391
+    }
   },
   "Infernape": {
-    "National Dex": 392
+    "Indices": {
+      "main-series": 392
+    }
   },
   "Piplup": {
-    "National Dex": 393
+    "Indices": {
+      "main-series": 393
+    }
   },
   "Prinplup": {
-    "National Dex": 394
+    "Indices": {
+      "main-series": 394
+    }
   },
   "Empoleon": {
-    "National Dex": 395
+    "Indices": {
+      "main-series": 395
+    }
   },
   "Starly": {
-    "National Dex": 396
+    "Indices": {
+      "main-series": 396
+    }
   },
   "Staravia": {
-    "National Dex": 397
+    "Indices": {
+      "main-series": 397
+    }
   },
   "Staraptor": {
-    "National Dex": 398
+    "Indices": {
+      "main-series": 398
+    }
   },
   "Bidoof": {
-    "National Dex": 399
+    "Indices": {
+      "main-series": 399
+    }
   },
   "Bibarel": {
-    "National Dex": 400
+    "Indices": {
+      "main-series": 400
+    }
   },
   "Kricketot": {
-    "National Dex": 401
+    "Indices": {
+      "main-series": 401
+    }
   },
   "Kricketune": {
-    "National Dex": 402
+    "Indices": {
+      "main-series": 402
+    }
   },
   "Shinx": {
-    "National Dex": 403
+    "Indices": {
+      "main-series": 403
+    }
   },
   "Luxio": {
-    "National Dex": 404
+    "Indices": {
+      "main-series": 404
+    }
   },
   "Luxray": {
-    "National Dex": 405
+    "Indices": {
+      "main-series": 405
+    }
   },
   "Budew": {
-    "National Dex": 406
+    "Indices": {
+      "main-series": 406
+    }
   },
   "Roserade": {
-    "National Dex": 407
+    "Indices": {
+      "main-series": 407
+    }
   },
   "Cranidos": {
-    "National Dex": 408
+    "Indices": {
+      "main-series": 408
+    }
   },
   "Rampardos": {
-    "National Dex": 409
+    "Indices": {
+      "main-series": 409
+    }
   },
   "Shieldon": {
-    "National Dex": 410
+    "Indices": {
+      "main-series": 410
+    }
   },
   "Bastiodon": {
-    "National Dex": 411
+    "Indices": {
+      "main-series": 411
+    }
   },
   "Burmy": {
-    "National Dex": 412,
+    "Indices": {
+      "main-series": 412
+    },
     "Forms": {
       "Plant Cloak": {
         "Default": true
@@ -1840,7 +2664,9 @@
     }
   },
   "Wormadam": {
-    "National Dex": 413,
+    "Indices": {
+      "main-series": 413
+    },
     "Forms": {
       "Plant Cloak": {
         "Default": true
@@ -1848,28 +2674,44 @@
     }
   },
   "Mothim": {
-    "National Dex": 414
+    "Indices": {
+      "main-series": 414
+    }
   },
   "Combee": {
-    "National Dex": 415
+    "Indices": {
+      "main-series": 415
+    }
   },
   "Vespiquen": {
-    "National Dex": 416
+    "Indices": {
+      "main-series": 416
+    }
   },
   "Pachirisu": {
-    "National Dex": 417
+    "Indices": {
+      "main-series": 417
+    }
   },
   "Buizel": {
-    "National Dex": 418
+    "Indices": {
+      "main-series": 418
+    }
   },
   "Floatzel": {
-    "National Dex": 419
+    "Indices": {
+      "main-series": 419
+    }
   },
   "Cherubi": {
-    "National Dex": 420
+    "Indices": {
+      "main-series": 420
+    }
   },
   "Cherrim": {
-    "National Dex": 421,
+    "Indices": {
+      "main-series": 421
+    },
     "Forms": {
       "Overcast": {
         "Default": true,
@@ -1889,7 +2731,9 @@
     }
   },
   "Shellos": {
-    "National Dex": 422,
+    "Indices": {
+      "main-series": 422
+    },
     "Forms": {
       "West Sea": {
         "Default": true
@@ -1897,7 +2741,9 @@
     }
   },
   "Gastrodon": {
-    "National Dex": 423,
+    "Indices": {
+      "main-series": 423
+    },
     "Forms": {
       "West Sea": {
         "Default": true
@@ -1905,19 +2751,29 @@
     }
   },
   "Ambipom": {
-    "National Dex": 424
+    "Indices": {
+      "main-series": 424
+    }
   },
   "Drifloon": {
-    "National Dex": 425
+    "Indices": {
+      "main-series": 425
+    }
   },
   "Drifblim": {
-    "National Dex": 426
+    "Indices": {
+      "main-series": 426
+    }
   },
   "Buneary": {
-    "National Dex": 427
+    "Indices": {
+      "main-series": 427
+    }
   },
   "Lopunny": {
-    "National Dex": 428,
+    "Indices": {
+      "main-series": 428
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -1930,55 +2786,89 @@
     }
   },
   "Mismagius": {
-    "National Dex": 429
+    "Indices": {
+      "main-series": 429
+    }
   },
   "Honchkrow": {
-    "National Dex": 430
+    "Indices": {
+      "main-series": 430
+    }
   },
   "Glameow": {
-    "National Dex": 431
+    "Indices": {
+      "main-series": 431
+    }
   },
   "Purugly": {
-    "National Dex": 432
+    "Indices": {
+      "main-series": 432
+    }
   },
   "Chingling": {
-    "National Dex": 433
+    "Indices": {
+      "main-series": 433
+    }
   },
   "Stunky": {
-    "National Dex": 434
+    "Indices": {
+      "main-series": 434
+    }
   },
   "Skuntank": {
-    "National Dex": 435
+    "Indices": {
+      "main-series": 435
+    }
   },
   "Bronzor": {
-    "National Dex": 436
+    "Indices": {
+      "main-series": 436
+    }
   },
   "Bronzong": {
-    "National Dex": 437
+    "Indices": {
+      "main-series": 437
+    }
   },
   "Bonsly": {
-    "National Dex": 438
+    "Indices": {
+      "main-series": 438
+    }
   },
   "Mime Jr.": {
-    "National Dex": 439
+    "Indices": {
+      "main-series": 439
+    }
   },
   "Happiny": {
-    "National Dex": 440
+    "Indices": {
+      "main-series": 440
+    }
   },
   "Chatot": {
-    "National Dex": 441
+    "Indices": {
+      "main-series": 441
+    }
   },
   "Spiritomb": {
-    "National Dex": 442
+    "Indices": {
+      "main-series": 442
+    }
   },
   "Gible": {
-    "National Dex": 443
+    "Indices": {
+      "main-series": 443
+    }
   },
   "Gabite": {
-    "National Dex": 444
+    "Indices": {
+      "main-series": 444
+    }
   },
   "Garchomp": {
-    "National Dex": 445,
+    "Indices": {
+      "main-series": 445
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -1991,13 +2881,19 @@
     }
   },
   "Munchlax": {
-    "National Dex": 446
+    "Indices": {
+      "main-series": 446
+    }
   },
   "Riolu": {
-    "National Dex": 447
+    "Indices": {
+      "main-series": 447
+    }
   },
   "Lucario": {
-    "National Dex": 448,
+    "Indices": {
+      "main-series": 448
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -2010,40 +2906,64 @@
     }
   },
   "Hippopotas": {
-    "National Dex": 449
+    "Indices": {
+      "main-series": 449
+    }
   },
   "Hippowdon": {
-    "National Dex": 450
+    "Indices": {
+      "main-series": 450
+    }
   },
   "Skorupi": {
-    "National Dex": 451
+    "Indices": {
+      "main-series": 451
+    }
   },
   "Drapion": {
-    "National Dex": 452
+    "Indices": {
+      "main-series": 452
+    }
   },
   "Croagunk": {
-    "National Dex": 453
+    "Indices": {
+      "main-series": 453
+    }
   },
   "Toxicroak": {
-    "National Dex": 454
+    "Indices": {
+      "main-series": 454
+    }
   },
   "Carnivine": {
-    "National Dex": 455
+    "Indices": {
+      "main-series": 455
+    }
   },
   "Finneon": {
-    "National Dex": 456
+    "Indices": {
+      "main-series": 456
+    }
   },
   "Lumineon": {
-    "National Dex": 457
+    "Indices": {
+      "main-series": 457
+    }
   },
   "Mantyke": {
-    "National Dex": 458
+    "Indices": {
+      "main-series": 458
+    }
   },
   "Snover": {
-    "National Dex": 459
+    "Indices": {
+      "main-series": 459
+    }
   },
   "Abomasnow": {
-    "National Dex": 460,
+    "Indices": {
+      "main-series": 460
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -2056,49 +2976,79 @@
     }
   },
   "Weavile": {
-    "National Dex": 461
+    "Indices": {
+      "main-series": 461
+    }
   },
   "Magnezone": {
-    "National Dex": 462
+    "Indices": {
+      "main-series": 462
+    }
   },
   "Lickilicky": {
-    "National Dex": 463
+    "Indices": {
+      "main-series": 463
+    }
   },
   "Rhyperior": {
-    "National Dex": 464
+    "Indices": {
+      "main-series": 464
+    }
   },
   "Tangrowth": {
-    "National Dex": 465
+    "Indices": {
+      "main-series": 465
+    }
   },
   "Electivire": {
-    "National Dex": 466
+    "Indices": {
+      "main-series": 466
+    }
   },
   "Magmortar": {
-    "National Dex": 467
+    "Indices": {
+      "main-series": 467
+    }
   },
   "Togekiss": {
-    "National Dex": 468
+    "Indices": {
+      "main-series": 468
+    }
   },
   "Yanmega": {
-    "National Dex": 469
+    "Indices": {
+      "main-series": 469
+    }
   },
   "Leafeon": {
-    "National Dex": 470
+    "Indices": {
+      "main-series": 470
+    }
   },
   "Glaceon": {
-    "National Dex": 471
+    "Indices": {
+      "main-series": 471
+    }
   },
   "Gliscor": {
-    "National Dex": 472
+    "Indices": {
+      "main-series": 472
+    }
   },
   "Mamoswine": {
-    "National Dex": 473
+    "Indices": {
+      "main-series": 473
+    }
   },
   "Porygon-Z": {
-    "National Dex": 474
+    "Indices": {
+      "main-series": 474
+    }
   },
   "Gallade": {
-    "National Dex": 475,
+    "Indices": {
+      "main-series": 475
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -2111,40 +3061,64 @@
     }
   },
   "Probopass": {
-    "National Dex": 476
+    "Indices": {
+      "main-series": 476
+    }
   },
   "Dusknoir": {
-    "National Dex": 477
+    "Indices": {
+      "main-series": 477
+    }
   },
   "Froslass": {
-    "National Dex": 478
+    "Indices": {
+      "main-series": 478
+    }
   },
   "Rotom": {
-    "National Dex": 479
+    "Indices": {
+      "main-series": 479
+    }
   },
   "Uxie": {
-    "National Dex": 480
+    "Indices": {
+      "main-series": 480
+    }
   },
   "Mesprit": {
-    "National Dex": 481
+    "Indices": {
+      "main-series": 481
+    }
   },
   "Azelf": {
-    "National Dex": 482
+    "Indices": {
+      "main-series": 482
+    }
   },
   "Dialga": {
-    "National Dex": 483
+    "Indices": {
+      "main-series": 483
+    }
   },
   "Palkia": {
-    "National Dex": 484
+    "Indices": {
+      "main-series": 484
+    }
   },
   "Heatran": {
-    "National Dex": 485
+    "Indices": {
+      "main-series": 485
+    }
   },
   "Regigigas": {
-    "National Dex": 486
+    "Indices": {
+      "main-series": 486
+    }
   },
   "Giratina": {
-    "National Dex": 487,
+    "Indices": {
+      "main-series": 487
+    },
     "Forms": {
       "Altered": {
         "Default": true
@@ -2152,19 +3126,29 @@
     }
   },
   "Cresselia": {
-    "National Dex": 488
+    "Indices": {
+      "main-series": 488
+    }
   },
   "Phione": {
-    "National Dex": 489
+    "Indices": {
+      "main-series": 489
+    }
   },
   "Manaphy": {
-    "National Dex": 490
+    "Indices": {
+      "main-series": 490
+    }
   },
   "Darkrai": {
-    "National Dex": 491
+    "Indices": {
+      "main-series": 491
+    }
   },
   "Shaymin": {
-    "National Dex": 492,
+    "Indices": {
+      "main-series": 492
+    },
     "Forms": {
       "Land": {
         "Default": true
@@ -2172,7 +3156,9 @@
     }
   },
   "Arceus": {
-    "National Dex": 493,
+    "Indices": {
+      "main-series": 493
+    },
     "Forms": {
       "Normal": {
         "Default": true
@@ -2182,118 +3168,194 @@
 
   // Gen 5
   "Victini": {
-    "National Dex": 494
+    "Indices": {
+      "main-series": 494
+    }
   },
   "Snivy": {
-    "National Dex": 495
+    "Indices": {
+      "main-series": 495
+    }
   },
   "Servine": {
-    "National Dex": 496
+    "Indices": {
+      "main-series": 496
+    }
   },
   "Serperior": {
-    "National Dex": 497
+    "Indices": {
+      "main-series": 497
+    }
   },
   "Tepig": {
-    "National Dex": 498
+    "Indices": {
+      "main-series": 498
+    }
   },
   "Pignite": {
-    "National Dex": 499
+    "Indices": {
+      "main-series": 499
+    }
   },
   "Emboar": {
-    "National Dex": 500
+    "Indices": {
+      "main-series": 500
+    }
   },
   "Oshawott": {
-    "National Dex": 501
+    "Indices": {
+      "main-series": 501
+    }
   },
   "Dewott": {
-    "National Dex": 502
+    "Indices": {
+      "main-series": 502
+    }
   },
   "Samurott": {
-    "National Dex": 503
+    "Indices": {
+      "main-series": 503
+    }
   },
   "Patrat": {
-    "National Dex": 504
+    "Indices": {
+      "main-series": 504
+    }
   },
   "Watchog": {
-    "National Dex": 505
+    "Indices": {
+      "main-series": 505
+    }
   },
   "Lillipup": {
-    "National Dex": 506
+    "Indices": {
+      "main-series": 506
+    }
   },
   "Herdier": {
-    "National Dex": 507
+    "Indices": {
+      "main-series": 507
+    }
   },
   "Stoutland": {
-    "National Dex": 508
+    "Indices": {
+      "main-series": 508
+    }
   },
   "Purrloin": {
-    "National Dex": 509
+    "Indices": {
+      "main-series": 509
+    }
   },
   "Liepard": {
-    "National Dex": 510
+    "Indices": {
+      "main-series": 510
+    }
   },
   "Pansage": {
-    "National Dex": 511
+    "Indices": {
+      "main-series": 511
+    }
   },
   "Simisage": {
-    "National Dex": 512
+    "Indices": {
+      "main-series": 512
+    }
   },
   "Pansear": {
-    "National Dex": 513
+    "Indices": {
+      "main-series": 513
+    }
   },
   "Simisear": {
-    "National Dex": 514
+    "Indices": {
+      "main-series": 514
+    }
   },
   "Panpour": {
-    "National Dex": 515
+    "Indices": {
+      "main-series": 515
+    }
   },
   "Simipour": {
-    "National Dex": 516
+    "Indices": {
+      "main-series": 516
+    }
   },
   "Munna": {
-    "National Dex": 517
+    "Indices": {
+      "main-series": 517
+    }
   },
   "Musharna": {
-    "National Dex": 518
+    "Indices": {
+      "main-series": 518
+    }
   },
   "Pidove": {
-    "National Dex": 519
+    "Indices": {
+      "main-series": 519
+    }
   },
   "Tranquill": {
-    "National Dex": 520
+    "Indices": {
+      "main-series": 520
+    }
   },
   "Unfezant": {
-    "National Dex": 521
+    "Indices": {
+      "main-series": 521
+    }
   },
   "Blitzle": {
-    "National Dex": 522
+    "Indices": {
+      "main-series": 522
+    }
   },
   "Zebstrika": {
-    "National Dex": 523
+    "Indices": {
+      "main-series": 523
+    }
   },
   "Roggenrola": {
-    "National Dex": 524
+    "Indices": {
+      "main-series": 524
+    }
   },
   "Boldore": {
-    "National Dex": 525
+    "Indices": {
+      "main-series": 525
+    }
   },
   "Gigalith": {
-    "National Dex": 526
+    "Indices": {
+      "main-series": 526
+    }
   },
   "Woobat": {
-    "National Dex": 527
+    "Indices": {
+      "main-series": 527
+    }
   },
   "Swoobat": {
-    "National Dex": 528
+    "Indices": {
+      "main-series": 528
+    }
   },
   "Drilbur": {
-    "National Dex": 529
+    "Indices": {
+      "main-series": 529
+    }
   },
   "Excadrill": {
-    "National Dex": 530
+    "Indices": {
+      "main-series": 530
+    }
   },
   "Audino": {
-    "National Dex": 531,
+    "Indices": {
+      "main-series": 531
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -2306,61 +3368,99 @@
     }
   },
   "Timburr": {
-    "National Dex": 532
+    "Indices": {
+      "main-series": 532
+    }
   },
   "Gurdurr": {
-    "National Dex": 533
+    "Indices": {
+      "main-series": 533
+    }
   },
   "Conkeldurr": {
-    "National Dex": 534
+    "Indices": {
+      "main-series": 534
+    }
   },
   "Tympole": {
-    "National Dex": 535
+    "Indices": {
+      "main-series": 535
+    }
   },
   "Palpitoad": {
-    "National Dex": 536
+    "Indices": {
+      "main-series": 536
+    }
   },
   "Seismitoad": {
-    "National Dex": 537
+    "Indices": {
+      "main-series": 537
+    }
   },
   "Throh": {
-    "National Dex": 538
+    "Indices": {
+      "main-series": 538
+    }
   },
   "Sawk": {
-    "National Dex": 539
+    "Indices": {
+      "main-series": 539
+    }
   },
   "Sewaddle": {
-    "National Dex": 540
+    "Indices": {
+      "main-series": 540
+    }
   },
   "Swadloon": {
-    "National Dex": 541
+    "Indices": {
+      "main-series": 541
+    }
   },
   "Leavanny": {
-    "National Dex": 542
+    "Indices": {
+      "main-series": 542
+    }
   },
   "Venipede": {
-    "National Dex": 543
+    "Indices": {
+      "main-series": 543
+    }
   },
   "Whirlipede": {
-    "National Dex": 544
+    "Indices": {
+      "main-series": 544
+    }
   },
   "Scolipede": {
-    "National Dex": 545
+    "Indices": {
+      "main-series": 545
+    }
   },
   "Cottonee": {
-    "National Dex": 546
+    "Indices": {
+      "main-series": 546
+    }
   },
   "Whimsicott": {
-    "National Dex": 547
+    "Indices": {
+      "main-series": 547
+    }
   },
   "Petilil": {
-    "National Dex": 548
+    "Indices": {
+      "main-series": 548
+    }
   },
   "Lilligant": {
-    "National Dex": 549
+    "Indices": {
+      "main-series": 549
+    }
   },
   "Basculin": {
-    "National Dex": 550,
+    "Indices": {
+      "main-series": 550
+    },
     "Forms": {
       "Red-Striped": {
         "Default": true
@@ -2368,19 +3468,29 @@
     }
   },
   "Sandile": {
-    "National Dex": 551
+    "Indices": {
+      "main-series": 551
+    }
   },
   "Krokorok": {
-    "National Dex": 552
+    "Indices": {
+      "main-series": 552
+    }
   },
   "Krookodile": {
-    "National Dex": 553
+    "Indices": {
+      "main-series": 553
+    }
   },
   "Darumaka": {
-    "National Dex": 554
+    "Indices": {
+      "main-series": 554
+    }
   },
   "Darmanitan": {
-    "National Dex": 555,
+    "Indices": {
+      "main-series": 555
+    },
     "Forms": {
       "Standard Mode": {
         "Default": true,
@@ -2414,46 +3524,74 @@
     }
   },
   "Maractus": {
-    "National Dex": 556
+    "Indices": {
+      "main-series": 556
+    }
   },
   "Dwebble": {
-    "National Dex": 557
+    "Indices": {
+      "main-series": 557
+    }
   },
   "Crustle": {
-    "National Dex": 558
+    "Indices": {
+      "main-series": 558
+    }
   },
   "Scraggy": {
-    "National Dex": 559
+    "Indices": {
+      "main-series": 559
+    }
   },
   "Scrafty": {
-    "National Dex": 560
+    "Indices": {
+      "main-series": 560
+    }
   },
   "Sigilyph": {
-    "National Dex": 561
+    "Indices": {
+      "main-series": 561
+    }
   },
   "Yamask": {
-    "National Dex": 562
+    "Indices": {
+      "main-series": 562
+    }
   },
   "Cofagrigus": {
-    "National Dex": 563
+    "Indices": {
+      "main-series": 563
+    }
   },
   "Tirtouga": {
-    "National Dex": 564
+    "Indices": {
+      "main-series": 564
+    }
   },
   "Carracosta": {
-    "National Dex": 565
+    "Indices": {
+      "main-series": 565
+    }
   },
   "Archen": {
-    "National Dex": 566
+    "Indices": {
+      "main-series": 566
+    }
   },
   "Archeops": {
-    "National Dex": 567
+    "Indices": {
+      "main-series": 567
+    }
   },
   "Trubbish": {
-    "National Dex": 568
+    "Indices": {
+      "main-series": 568
+    }
   },
   "Garbodor": {
-    "National Dex": 569,
+    "Indices": {
+      "main-series": 569
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -2465,52 +3603,84 @@
     }
   },
   "Zorua": {
-    "National Dex": 570
+    "Indices": {
+      "main-series": 570
+    }
   },
   "Zoroark": {
-    "National Dex": 571
+    "Indices": {
+      "main-series": 571
+    }
   },
   "Minccino": {
-    "National Dex": 572
+    "Indices": {
+      "main-series": 572
+    }
   },
   "Cinccino": {
-    "National Dex": 573
+    "Indices": {
+      "main-series": 573
+    }
   },
   "Gothita": {
-    "National Dex": 574
+    "Indices": {
+      "main-series": 574
+    }
   },
   "Gothorita": {
-    "National Dex": 575
+    "Indices": {
+      "main-series": 575
+    }
   },
   "Gothitelle": {
-    "National Dex": 576
+    "Indices": {
+      "main-series": 576
+    }
   },
   "Solosis": {
-    "National Dex": 577
+    "Indices": {
+      "main-series": 577
+    }
   },
   "Duosion": {
-    "National Dex": 578
+    "Indices": {
+      "main-series": 578
+    }
   },
   "Reuniclus": {
-    "National Dex": 579
+    "Indices": {
+      "main-series": 579
+    }
   },
   "Ducklett": {
-    "National Dex": 580
+    "Indices": {
+      "main-series": 580
+    }
   },
   "Swanna": {
-    "National Dex": 581
+    "Indices": {
+      "main-series": 581
+    }
   },
   "Vanillite": {
-    "National Dex": 582
+    "Indices": {
+      "main-series": 582
+    }
   },
   "Vanillish": {
-    "National Dex": 583
+    "Indices": {
+      "main-series": 583
+    }
   },
   "Vanilluxe": {
-    "National Dex": 584
+    "Indices": {
+      "main-series": 584
+    }
   },
   "Deerling": {
-    "National Dex": 585,
+    "Indices": {
+      "main-series": 585
+    },
     "Forms": {
       "Spring": {
         "Default": true
@@ -2518,7 +3688,9 @@
     }
   },
   "Sawsbuck": {
-    "National Dex": 586,
+    "Indices": {
+      "main-series": 586
+    },
     "Forms": {
       "Spring": {
         "Default": true
@@ -2526,169 +3698,279 @@
     }
   },
   "Emolga": {
-    "National Dex": 587
+    "Indices": {
+      "main-series": 587
+    }
   },
   "Karrablast": {
-    "National Dex": 588
+    "Indices": {
+      "main-series": 588
+    }
   },
   "Escavalier": {
-    "National Dex": 589
+    "Indices": {
+      "main-series": 589
+    }
   },
   "Foongus": {
-    "National Dex": 590
+    "Indices": {
+      "main-series": 590
+    }
   },
   "Amoonguss": {
-    "National Dex": 591
+    "Indices": {
+      "main-series": 591
+    }
   },
   "Frillish": {
-    "National Dex": 592
+    "Indices": {
+      "main-series": 592
+    }
   },
   "Jellicent": {
-    "National Dex": 593
+    "Indices": {
+      "main-series": 593
+    }
   },
   "Alomomola": {
-    "National Dex": 594
+    "Indices": {
+      "main-series": 594
+    }
   },
   "Joltik": {
-    "National Dex": 595
+    "Indices": {
+      "main-series": 595
+    }
   },
   "Galvantula": {
-    "National Dex": 596
+    "Indices": {
+      "main-series": 596
+    }
   },
   "Ferroseed": {
-    "National Dex": 597
+    "Indices": {
+      "main-series": 597
+    }
   },
   "Ferrothorn": {
-    "National Dex": 598
+    "Indices": {
+      "main-series": 598
+    }
   },
   "Klink": {
-    "National Dex": 599
+    "Indices": {
+      "main-series": 599
+    }
   },
   "Klang": {
-    "National Dex": 600
+    "Indices": {
+      "main-series": 600
+    }
   },
   "Klinklang": {
-    "National Dex": 601
+    "Indices": {
+      "main-series": 601
+    }
   },
   "Tynamo": {
-    "National Dex": 602
+    "Indices": {
+      "main-series": 602
+    }
   },
   "Eelektrik": {
-    "National Dex": 603
+    "Indices": {
+      "main-series": 603
+    }
   },
   "Eelektross": {
-    "National Dex": 604
+    "Indices": {
+      "main-series": 604
+    }
   },
   "Elgyem": {
-    "National Dex": 605
+    "Indices": {
+      "main-series": 605
+    }
   },
   "Beheeyem": {
-    "National Dex": 606
+    "Indices": {
+      "main-series": 606
+    }
   },
   "Litwick": {
-    "National Dex": 607
+    "Indices": {
+      "main-series": 607
+    }
   },
   "Lampent": {
-    "National Dex": 608
+    "Indices": {
+      "main-series": 608
+    }
   },
   "Chandelure": {
-    "National Dex": 609
+    "Indices": {
+      "main-series": 609
+    }
   },
   "Axew": {
-    "National Dex": 610
+    "Indices": {
+      "main-series": 610
+    }
   },
   "Fraxure": {
-    "National Dex": 611
+    "Indices": {
+      "main-series": 611
+    }
   },
   "Haxorus": {
-    "National Dex": 612
+    "Indices": {
+      "main-series": 612
+    }
   },
   "Cubchoo": {
-    "National Dex": 613
+    "Indices": {
+      "main-series": 613
+    }
   },
   "Beartic": {
-    "National Dex": 614
+    "Indices": {
+      "main-series": 614
+    }
   },
   "Cryogonal": {
-    "National Dex": 615
+    "Indices": {
+      "main-series": 615
+    }
   },
   "Shelmet": {
-    "National Dex": 616
+    "Indices": {
+      "main-series": 616
+    }
   },
   "Accelgor": {
-    "National Dex": 617
+    "Indices": {
+      "main-series": 617
+    }
   },
   "Stunfisk": {
-    "National Dex": 618
+    "Indices": {
+      "main-series": 618
+    }
   },
   "Mienfoo": {
-    "National Dex": 619
+    "Indices": {
+      "main-series": 619
+    }
   },
   "Mienshao": {
-    "National Dex": 620
+    "Indices": {
+      "main-series": 620
+    }
   },
   "Druddigon": {
-    "National Dex": 621
+    "Indices": {
+      "main-series": 621
+    }
   },
   "Golett": {
-    "National Dex": 622
+    "Indices": {
+      "main-series": 622
+    }
   },
   "Golurk": {
-    "National Dex": 623
+    "Indices": {
+      "main-series": 623
+    }
   },
   "Pawniard": {
-    "National Dex": 624
+    "Indices": {
+      "main-series": 624
+    }
   },
   "Bisharp": {
-    "National Dex": 625
+    "Indices": {
+      "main-series": 625
+    }
   },
   "Bouffalant": {
-    "National Dex": 626
+    "Indices": {
+      "main-series": 626
+    }
   },
   "Rufflet": {
-    "National Dex": 627
+    "Indices": {
+      "main-series": 627
+    }
   },
   "Braviary": {
-    "National Dex": 628
+    "Indices": {
+      "main-series": 628
+    }
   },
   "Vullaby": {
-    "National Dex": 629
+    "Indices": {
+      "main-series": 629
+    }
   },
   "Mandibuzz": {
-    "National Dex": 630
+    "Indices": {
+      "main-series": 630
+    }
   },
   "Heatmor": {
-    "National Dex": 631
+    "Indices": {
+      "main-series": 631
+    }
   },
   "Durant": {
-    "National Dex": 632
+    "Indices": {
+      "main-series": 632
+    }
   },
   "Deino": {
-    "National Dex": 633
+    "Indices": {
+      "main-series": 633
+    }
   },
   "Zweilous": {
-    "National Dex": 634
+    "Indices": {
+      "main-series": 634
+    }
   },
   "Hydreigon": {
-    "National Dex": 635
+    "Indices": {
+      "main-series": 635
+    }
   },
   "Larvesta": {
-    "National Dex": 636
+    "Indices": {
+      "main-series": 636
+    }
   },
   "Volcarona": {
-    "National Dex": 637
+    "Indices": {
+      "main-series": 637
+    }
   },
   "Cobalion": {
-    "National Dex": 638
+    "Indices": {
+      "main-series": 638
+    }
   },
   "Terrakion": {
-    "National Dex": 639
+    "Indices": {
+      "main-series": 639
+    }
   },
   "Virizion": {
-    "National Dex": 640
+    "Indices": {
+      "main-series": 640
+    }
   },
   "Tornadus": {
-    "National Dex": 641,
+    "Indices": {
+      "main-series": 641
+    },
     "Forms": {
       "Incarnate": {
         "Default": true
@@ -2696,7 +3978,9 @@
     }
   },
   "Thundurus": {
-    "National Dex": 642,
+    "Indices": {
+      "main-series": 642
+    },
     "Forms": {
       "Incarnate": {
         "Default": true
@@ -2704,13 +3988,19 @@
     }
   },
   "Reshiram": {
-    "National Dex": 643
+    "Indices": {
+      "main-series": 643
+    }
   },
   "Zekrom": {
-    "National Dex": 644
+    "Indices": {
+      "main-series": 644
+    }
   },
   "Landorus": {
-    "National Dex": 645,
+    "Indices": {
+      "main-series": 645
+    },
     "Forms": {
       "Incarnate": {
         "Default": true
@@ -2718,10 +4008,14 @@
     }
   },
   "Kyurem": {
-    "National Dex": 646
+    "Indices": {
+      "main-series": 646
+    }
   },
   "Keldeo": {
-    "National Dex": 647,
+    "Indices": {
+      "main-series": 647
+    },
     "Forms": {
       "Ordinary": {
         "Default": true
@@ -2729,7 +4023,9 @@
     }
   },
   "Meloetta": {
-    "National Dex": 648,
+    "Indices": {
+      "main-series": 648
+    },
     "Forms": {
       "Aria": {
         "Default": true,
@@ -2749,36 +4045,56 @@
     }
   },
   "Genesect": {
-    "National Dex": 649
+    "Indices": {
+      "main-series": 649
+    }
   },
 
   // Gen 6
   "Chespin": {
-    "National Dex": 650
+    "Indices": {
+      "main-series": 650
+    }
   },
   "Quilladin": {
-    "National Dex": 651
+    "Indices": {
+      "main-series": 651
+    }
   },
   "Chesnaught": {
-    "National Dex": 652
+    "Indices": {
+      "main-series": 652
+    }
   },
   "Fennekin": {
-    "National Dex": 653
+    "Indices": {
+      "main-series": 653
+    }
   },
   "Braixen": {
-    "National Dex": 654
+    "Indices": {
+      "main-series": 654
+    }
   },
   "Delphox": {
-    "National Dex": 655
+    "Indices": {
+      "main-series": 655
+    }
   },
   "Froakie": {
-    "National Dex": 656
+    "Indices": {
+      "main-series": 656
+    }
   },
   "Frogadier": {
-    "National Dex": 657
+    "Indices": {
+      "main-series": 657
+    }
   },
   "Greninja": {
-    "National Dex": 658,
+    "Indices": {
+      "main-series": 658
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -2790,28 +4106,44 @@
     }
   },
   "Bunnelby": {
-    "National Dex": 659
+    "Indices": {
+      "main-series": 659
+    }
   },
   "Diggersby": {
-    "National Dex": 660
+    "Indices": {
+      "main-series": 660
+    }
   },
   "Fletchling": {
-    "National Dex": 661
+    "Indices": {
+      "main-series": 661
+    }
   },
   "Fletchinder": {
-    "National Dex": 662
+    "Indices": {
+      "main-series": 662
+    }
   },
   "Talonflame": {
-    "National Dex": 663
+    "Indices": {
+      "main-series": 663
+    }
   },
   "Scatterbug": {
-    "National Dex": 664
+    "Indices": {
+      "main-series": 664
+    }
   },
   "Spewpa": {
-    "National Dex": 665
+    "Indices": {
+      "main-series": 665
+    }
   },
   "Vivillon": {
-    "National Dex": 666,
+    "Indices": {
+      "main-series": 666
+    },
     "Forms": {
       "Meadow": {
         "Default": true
@@ -2819,13 +4151,19 @@
     }
   },
   "Litleo": {
-    "National Dex": 667
+    "Indices": {
+      "main-series": 667
+    }
   },
   "Pyroar": {
-    "National Dex": 668
+    "Indices": {
+      "main-series": 668
+    }
   },
   "Flabébé": {
-    "National Dex": 669,
+    "Indices": {
+      "main-series": 669
+    },
     "Forms": {
       "Red Flower": {
         "Default": true
@@ -2833,7 +4171,9 @@
     }
   },
   "Floette": {
-    "National Dex": 670,
+    "Indices": {
+      "main-series": 670
+    },
     "Forms": {
       "Red Flower": {
         "Default": true
@@ -2841,7 +4181,9 @@
     }
   },
   "Florges": {
-    "National Dex": 671,
+    "Indices": {
+      "main-series": 671
+    },
     "Forms": {
       "Red Flower": {
         "Default": true
@@ -2849,19 +4191,29 @@
     }
   },
   "Skiddo": {
-    "National Dex": 672
+    "Indices": {
+      "main-series": 672
+    }
   },
   "Gogoat": {
-    "National Dex": 673
+    "Indices": {
+      "main-series": 673
+    }
   },
   "Pancham": {
-    "National Dex": 674
+    "Indices": {
+      "main-series": 674
+    }
   },
   "Pangoro": {
-    "National Dex": 675
+    "Indices": {
+      "main-series": 675
+    }
   },
   "Furfrou": {
-    "National Dex": 676,
+    "Indices": {
+      "main-series": 676
+    },
     "Forms": {
       "Natural": {
         "Default": true
@@ -2869,19 +4221,29 @@
     }
   },
   "Espurr": {
-    "National Dex": 677
+    "Indices": {
+      "main-series": 677
+    }
   },
   "Meowstic": {
-    "National Dex": 678
+    "Indices": {
+      "main-series": 678
+    }
   },
   "Honedge": {
-    "National Dex": 679
+    "Indices": {
+      "main-series": 679
+    }
   },
   "Doublade": {
-    "National Dex": 680
+    "Indices": {
+      "main-series": 680
+    }
   },
   "Aegislash": {
-    "National Dex": 681,
+    "Indices": {
+      "main-series": 681
+    },
     "Forms": {
       "Shield": {
         "Default": true,
@@ -2901,115 +4263,189 @@
     }
   },
   "Spritzee": {
-    "National Dex": 682
+    "Indices": {
+      "main-series": 682
+    }
   },
   "Aromatisse": {
-    "National Dex": 683
+    "Indices": {
+      "main-series": 683
+    }
   },
   "Swirlix": {
-    "National Dex": 684
+    "Indices": {
+      "main-series": 684
+    }
   },
   "Slurpuff": {
-    "National Dex": 685
+    "Indices": {
+      "main-series": 685
+    }
   },
   "Inkay": {
-    "National Dex": 686
+    "Indices": {
+      "main-series": 686
+    }
   },
   "Malamar": {
-    "National Dex": 687
+    "Indices": {
+      "main-series": 687
+    }
   },
   "Binacle": {
-    "National Dex": 688
+    "Indices": {
+      "main-series": 688
+    }
   },
   "Barbaracle": {
-    "National Dex": 689
+    "Indices": {
+      "main-series": 689
+    }
   },
   "Skrelp": {
-    "National Dex": 690
+    "Indices": {
+      "main-series": 690
+    }
   },
   "Dragalge": {
-    "National Dex": 691
+    "Indices": {
+      "main-series": 691
+    }
   },
   "Clauncher": {
-    "National Dex": 692
+    "Indices": {
+      "main-series": 692
+    }
   },
   "Clawitzer": {
-    "National Dex": 693
+    "Indices": {
+      "main-series": 693
+    }
   },
   "Helioptile": {
-    "National Dex": 694
+    "Indices": {
+      "main-series": 694
+    }
   },
   "Heliolisk": {
-    "National Dex": 695
+    "Indices": {
+      "main-series": 695
+    }
   },
   "Tyrunt": {
-    "National Dex": 696
+    "Indices": {
+      "main-series": 696
+    }
   },
   "Tyrantrum": {
-    "National Dex": 697
+    "Indices": {
+      "main-series": 697
+    }
   },
   "Amaura": {
-    "National Dex": 698
+    "Indices": {
+      "main-series": 698
+    }
   },
   "Aurorus": {
-    "National Dex": 699
+    "Indices": {
+      "main-series": 699
+    }
   },
   "Sylveon": {
-    "National Dex": 700
+    "Indices": {
+      "main-series": 700
+    }
   },
   "Hawlucha": {
-    "National Dex": 701
+    "Indices": {
+      "main-series": 701
+    }
   },
   "Dedenne": {
-    "National Dex": 702
+    "Indices": {
+      "main-series": 702
+    }
   },
   "Carbink": {
-    "National Dex": 703
+    "Indices": {
+      "main-series": 703
+    }
   },
   "Goomy": {
-    "National Dex": 704
+    "Indices": {
+      "main-series": 704
+    }
   },
   "Sliggoo": {
-    "National Dex": 705
+    "Indices": {
+      "main-series": 705
+    }
   },
   "Goodra": {
-    "National Dex": 706
+    "Indices": {
+      "main-series": 706
+    }
   },
   "Klefki": {
-    "National Dex": 707
+    "Indices": {
+      "main-series": 707
+    }
   },
   "Phantump": {
-    "National Dex": 708
+    "Indices": {
+      "main-series": 708
+    }
   },
   "Trevenant": {
-    "National Dex": 709
+    "Indices": {
+      "main-series": 709
+    }
   },
   "Pumpkaboo": {
-    "National Dex": 710
+    "Indices": {
+      "main-series": 710
+    }
   },
   "Gourgeist": {
-    "National Dex": 711
+    "Indices": {
+      "main-series": 711
+    }
   },
   "Bergmite": {
-    "National Dex": 712
+    "Indices": {
+      "main-series": 712
+    }
   },
   "Avalugg": {
-    "National Dex": 713
+    "Indices": {
+      "main-series": 713
+    }
   },
   "Noibat": {
-    "National Dex": 714
+    "Indices": {
+      "main-series": 714
+    }
   },
   "Noivern": {
-    "National Dex": 715
+    "Indices": {
+      "main-series": 715
+    }
   },
   "Xerneas": {
-    "National Dex": 716
+    "Indices": {
+      "main-series": 716
+    }
   },
   "Yveltal": {
-    "National Dex": 717
+    "Indices": {
+      "main-series": 717
+    }
   },
   "Zygarde": {
-    "National Dex": 718,
+    "Indices": {
+      "main-series": 718
+    },
     "Forms": {
       "50%": {
         "Default": true,
@@ -3029,7 +4465,9 @@
     }
   },
   "Diancie": {
-    "National Dex": 719,
+    "Indices": {
+      "main-series": 719
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -3042,7 +4480,9 @@
     }
   },
   "Hoopa": {
-    "National Dex": 720,
+    "Indices": {
+      "main-series": 720
+    },
     "Forms": {
       "Confined": {
         "Default": true
@@ -3050,51 +4490,81 @@
     }
   },
   "Volcanion": {
-    "National Dex": 721
+    "Indices": {
+      "main-series": 721
+    }
   },
 
   // Gen 7
   "Rowlet": {
-    "National Dex": 722
+    "Indices": {
+      "main-series": 722
+    }
   },
   "Dartrix": {
-    "National Dex": 723
+    "Indices": {
+      "main-series": 723
+    }
   },
   "Decidueye": {
-    "National Dex": 724
+    "Indices": {
+      "main-series": 724
+    }
   },
   "Litten": {
-    "National Dex": 725
+    "Indices": {
+      "main-series": 725
+    }
   },
   "Torracat": {
-    "National Dex": 726
+    "Indices": {
+      "main-series": 726
+    }
   },
   "Incineroar": {
-    "National Dex": 727
+    "Indices": {
+      "main-series": 727
+    }
   },
   "Popplio": {
-    "National Dex": 728
+    "Indices": {
+      "main-series": 728
+    }
   },
   "Brionne": {
-    "National Dex": 729
+    "Indices": {
+      "main-series": 729
+    }
   },
   "Primarina": {
-    "National Dex": 730
+    "Indices": {
+      "main-series": 730
+    }
   },
   "Pikipek": {
-    "National Dex": 731
+    "Indices": {
+      "main-series": 731
+    }
   },
   "Trumbeak": {
-    "National Dex": 732
+    "Indices": {
+      "main-series": 732
+    }
   },
   "Toucannon": {
-    "National Dex": 733
+    "Indices": {
+      "main-series": 733
+    }
   },
   "Yungoos": {
-    "National Dex": 734
+    "Indices": {
+      "main-series": 734
+    }
   },
   "Gumshoos": {
-    "National Dex": 735,
+    "Indices": {
+      "main-series": 735
+    },
     "Forms": {
       "Totem": {
         "Castable to": [ "" ]
@@ -3102,13 +4572,19 @@
     }
   },
   "Grubbin": {
-    "National Dex": 736
+    "Indices": {
+      "main-series": 736
+    }
   },
   "Charjabug": {
-    "National Dex": 737
+    "Indices": {
+      "main-series": 737
+    }
   },
   "Vikavolt": {
-    "National Dex": 738,
+    "Indices": {
+      "main-series": 738
+    },
     "Forms": {
       "Totem": {
         "Castable to": [ "" ]
@@ -3116,13 +4592,19 @@
     }
   },
   "Crabrawler": {
-    "National Dex": 739
+    "Indices": {
+      "main-series": 739
+    }
   },
   "Crabominable": {
-    "National Dex": 740
+    "Indices": {
+      "main-series": 740
+    }
   },
   "Oricorio": {
-    "National Dex": 741,
+    "Indices": {
+      "main-series": 741
+    },
     "Forms": {
       "Baile Style": {
         "Default": true
@@ -3130,10 +4612,14 @@
     }
   },
   "Cutiefly": {
-    "National Dex": 742
+    "Indices": {
+      "main-series": 742
+    }
   },
   "Ribombee": {
-    "National Dex": 743,
+    "Indices": {
+      "main-series": 743
+    },
     "Forms": {
       "Totem": {
         "Castable to": [ "" ]
@@ -3141,10 +4627,14 @@
     }
   },
   "Rockruff": {
-    "National Dex": 744
+    "Indices": {
+      "main-series": 744
+    }
   },
   "Lycanroc": {
-    "National Dex": 745,
+    "Indices": {
+      "main-series": 745
+    },
     "Forms": {
       "Midday": {
         "Default": true
@@ -3152,7 +4642,9 @@
     }
   },
   "Wishiwashi": {
-    "National Dex": 746,
+    "Indices": {
+      "main-series": 746
+    },
     "Forms": {
       "Solo": {
         "Default": true,
@@ -3172,22 +4664,34 @@
     }
   },
   "Mareanie": {
-    "National Dex": 747
+    "Indices": {
+      "main-series": 747
+    }
   },
   "Toxapex": {
-    "National Dex": 748
+    "Indices": {
+      "main-series": 748
+    }
   },
   "Mudbray": {
-    "National Dex": 749
+    "Indices": {
+      "main-series": 749
+    }
   },
   "Mudsdale": {
-    "National Dex": 750
+    "Indices": {
+      "main-series": 750
+    }
   },
   "Dewpider": {
-    "National Dex": 751
+    "Indices": {
+      "main-series": 751
+    }
   },
   "Araquanid": {
-    "National Dex": 752,
+    "Indices": {
+      "main-series": 752
+    },
     "Forms": {
       "Totem": {
         "Castable to": [ "" ]
@@ -3195,10 +4699,14 @@
     }
   },
   "Fomantis": {
-    "National Dex": 753
+    "Indices": {
+      "main-series": 753
+    }
   },
   "Lurantis": {
-    "National Dex": 754,
+    "Indices": {
+      "main-series": 754
+    },
     "Forms": {
       "Totem": {
         "Castable to": [ "" ]
@@ -3206,16 +4714,24 @@
     }
   },
   "Morelull": {
-    "National Dex": 755
+    "Indices": {
+      "main-series": 755
+    }
   },
   "Shiinotic": {
-    "National Dex": 756
+    "Indices": {
+      "main-series": 756
+    }
   },
   "Salandit": {
-    "National Dex": 757
+    "Indices": {
+      "main-series": 757
+    }
   },
   "Salazzle": {
-    "National Dex": 758,
+    "Indices": {
+      "main-series": 758
+    },
     "Forms": {
       "Totem": {
         "Castable to": [ "" ]
@@ -3223,49 +4739,79 @@
     }
   },
   "Stufful": {
-    "National Dex": 759
+    "Indices": {
+      "main-series": 759
+    }
   },
   "Bewear": {
-    "National Dex": 760
+    "Indices": {
+      "main-series": 760
+    }
   },
   "Bounsweet": {
-    "National Dex": 761
+    "Indices": {
+      "main-series": 761
+    }
   },
   "Steenee": {
-    "National Dex": 762
+    "Indices": {
+      "main-series": 762
+    }
   },
   "Tsareena": {
-    "National Dex": 763
+    "Indices": {
+      "main-series": 763
+    }
   },
   "Comfey": {
-    "National Dex": 764
+    "Indices": {
+      "main-series": 764
+    }
   },
   "Oranguru": {
-    "National Dex": 765
+    "Indices": {
+      "main-series": 765
+    }
   },
   "Passimian": {
-    "National Dex": 766
+    "Indices": {
+      "main-series": 766
+    }
   },
   "Wimpod": {
-    "National Dex": 767
+    "Indices": {
+      "main-series": 767
+    }
   },
   "Golisopod": {
-    "National Dex": 768
+    "Indices": {
+      "main-series": 768
+    }
   },
   "Sandygast": {
-    "National Dex": 769
+    "Indices": {
+      "main-series": 769
+    }
   },
   "Palossand": {
-    "National Dex": 770
+    "Indices": {
+      "main-series": 770
+    }
   },
   "Pyukumuku": {
-    "National Dex": 771
+    "Indices": {
+      "main-series": 771
+    }
   },
   "Type: Null": {
-    "National Dex": 772
+    "Indices": {
+      "main-series": 772
+    }
   },
   "Silvally": {
-    "National Dex": 773,
+    "Indices": {
+      "main-series": 773
+    },
     "Forms": {
       "Normal": {
         "Default": true
@@ -3273,7 +4819,9 @@
     }
   },
   "Minior": {
-    "National Dex": 774,
+    "Indices": {
+      "main-series": 774
+    },
     "Forms": {
       "Red": {
         "Default": true,
@@ -3377,13 +4925,19 @@
     }
   },
   "Komala": {
-    "National Dex": 775
+    "Indices": {
+      "main-series": 775
+    }
   },
   "Turtonator": {
-    "National Dex": 776
+    "Indices": {
+      "main-series": 776
+    }
   },
   "Togedemaru": {
-    "National Dex": 777,
+    "Indices": {
+      "main-series": 777
+    },
     "Forms": {
       "Totem": {
         "Castable to": [ "" ]
@@ -3391,7 +4945,9 @@
     }
   },
   "Mimikyu": {
-    "National Dex": 778,
+    "Indices": {
+      "main-series": 778
+    },
     "Forms": {
       "Disguised": {
         "Default": true,
@@ -3415,22 +4971,34 @@
     }
   },
   "Bruxish": {
-    "National Dex": 779
+    "Indices": {
+      "main-series": 779
+    }
   },
   "Drampa": {
-    "National Dex": 780
+    "Indices": {
+      "main-series": 780
+    }
   },
   "Dhelmise": {
-    "National Dex": 781
+    "Indices": {
+      "main-series": 781
+    }
   },
   "Jangmo-o": {
-    "National Dex": 782
+    "Indices": {
+      "main-series": 782
+    }
   },
   "Hakamo-o": {
-    "National Dex": 783
+    "Indices": {
+      "main-series": 783
+    }
   },
   "Kommo-o": {
-    "National Dex": 784,
+    "Indices": {
+      "main-series": 784
+    },
     "Forms": {
       "Totem": {
         "Castable to": [ "" ]
@@ -3438,52 +5006,84 @@
     }
   },
   "Tapu Koko": {
-    "National Dex": 785
+    "Indices": {
+      "main-series": 785
+    }
   },
   "Tapu Lele": {
-    "National Dex": 786
+    "Indices": {
+      "main-series": 786
+    }
   },
   "Tapu Bulu": {
-    "National Dex": 787
+    "Indices": {
+      "main-series": 787
+    }
   },
   "Tapu Fini": {
-    "National Dex": 788
+    "Indices": {
+      "main-series": 788
+    }
   },
   "Cosmog": {
-    "National Dex": 789
+    "Indices": {
+      "main-series": 789
+    }
   },
   "Cosmoem": {
-    "National Dex": 790
+    "Indices": {
+      "main-series": 790
+    }
   },
   "Solgaleo": {
-    "National Dex": 791
+    "Indices": {
+      "main-series": 791
+    }
   },
   "Lunala": {
-    "National Dex": 792
+    "Indices": {
+      "main-series": 792
+    }
   },
   "Nihilego": {
-    "National Dex": 793
+    "Indices": {
+      "main-series": 793
+    }
   },
   "Buzzwole": {
-    "National Dex": 794
+    "Indices": {
+      "main-series": 794
+    }
   },
   "Pheromosa": {
-    "National Dex": 795
+    "Indices": {
+      "main-series": 795
+    }
   },
   "Xurkitree": {
-    "National Dex": 796
+    "Indices": {
+      "main-series": 796
+    }
   },
   "Celesteela": {
-    "National Dex": 797
+    "Indices": {
+      "main-series": 797
+    }
   },
   "Kartana": {
-    "National Dex": 798
+    "Indices": {
+      "main-series": 798
+    }
   },
   "Guzzlord": {
-    "National Dex": 799
+    "Indices": {
+      "main-series": 799
+    }
   },
   "Necrozma": {
-    "National Dex": 800,
+    "Indices": {
+      "main-series": 800
+    },
     "Forms": {
       "Dusk Mane": {
         "In-Battle Form Changes": {
@@ -3502,31 +5102,49 @@
     }
   },
   "Magearna": {
-    "National Dex": 801
+    "Indices": {
+      "main-series": 801
+    }
   },
   "Marshadow": {
-    "National Dex": 802
+    "Indices": {
+      "main-series": 802
+    }
   },
   "Poipole": {
-    "National Dex": 803
+    "Indices": {
+      "main-series": 803
+    }
   },
   "Naganadel": {
-    "National Dex": 804
+    "Indices": {
+      "main-series": 804
+    }
   },
   "Stakataka": {
-    "National Dex": 805
+    "Indices": {
+      "main-series": 805
+    }
   },
   "Blacephalon": {
-    "National Dex": 806
+    "Indices": {
+      "main-series": 806
+    }
   },
   "Zeraora": {
-    "National Dex": 807
+    "Indices": {
+      "main-series": 807
+    }
   },
   "Meltan": {
-    "National Dex": 808
+    "Indices": {
+      "main-series": 808
+    }
   },
   "Melmetal": {
-    "National Dex": 809,
+    "Indices": {
+      "main-series": 809
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -3540,13 +5158,19 @@
 
   // Gen 8
   "Grookey": {
-    "National Dex": 810
+    "Indices": {
+      "main-series": 810
+    }
   },
   "Thwackey": {
-    "National Dex": 811
+    "Indices": {
+      "main-series": 811
+    }
   },
   "Rillaboom": {
-    "National Dex": 812,
+    "Indices": {
+      "main-series": 812
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -3558,13 +5182,19 @@
     }
   },
   "Scorbunny": {
-    "National Dex": 813
+    "Indices": {
+      "main-series": 813
+    }
   },
   "Raboot": {
-    "National Dex": 814
+    "Indices": {
+      "main-series": 814
+    }
   },
   "Cinderace": {
-    "National Dex": 815,
+    "Indices": {
+      "main-series": 815
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -3576,13 +5206,19 @@
     }
   },
   "Sobble": {
-    "National Dex": 816
+    "Indices": {
+      "main-series": 816
+    }
   },
   "Drizzile": {
-    "National Dex": 817
+    "Indices": {
+      "main-series": 817
+    }
   },
   "Inteleon": {
-    "National Dex": 818,
+    "Indices": {
+      "main-series": 818
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -3594,19 +5230,29 @@
     }
   },
   "Skwovet": {
-    "National Dex": 819
+    "Indices": {
+      "main-series": 819
+    }
   },
   "Greedent": {
-    "National Dex": 820
+    "Indices": {
+      "main-series": 820
+    }
   },
   "Rookidee": {
-    "National Dex": 821
+    "Indices": {
+      "main-series": 821
+    }
   },
   "Corvisquire": {
-    "National Dex": 822
+    "Indices": {
+      "main-series": 822
+    }
   },
   "Corviknight": {
-    "National Dex": 823,
+    "Indices": {
+      "main-series": 823
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -3618,13 +5264,19 @@
     }
   },
   "Blipbug": {
-    "National Dex": 824
+    "Indices": {
+      "main-series": 824
+    }
   },
   "Dottler": {
-    "National Dex": 825
+    "Indices": {
+      "main-series": 825
+    }
   },
   "Orbeetle": {
-    "National Dex": 826,
+    "Indices": {
+      "main-series": 826
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -3636,28 +5288,44 @@
     }
   },
   "Nickit": {
-    "National Dex": 827
+    "Indices": {
+      "main-series": 827
+    }
   },
   "Thievul": {
-    "National Dex": 828
+    "Indices": {
+      "main-series": 828
+    }
   },
   "Gossifleur": {
-    "National Dex": 829
+    "Indices": {
+      "main-series": 829
+    }
   },
   "Eldegoss": {
-    "National Dex": 830
+    "Indices": {
+      "main-series": 830
+    }
   },
   "Wooloo": {
-    "National Dex": 831
+    "Indices": {
+      "main-series": 831
+    }
   },
   "Dubwool": {
-    "National Dex": 832
+    "Indices": {
+      "main-series": 832
+    }
   },
   "Chewtle": {
-    "National Dex": 833
+    "Indices": {
+      "main-series": 833
+    }
   },
   "Drednaw": {
-    "National Dex": 834,
+    "Indices": {
+      "main-series": 834
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -3669,19 +5337,29 @@
     }
   },
   "Yamper": {
-    "National Dex": 835
+    "Indices": {
+      "main-series": 835
+    }
   },
   "Boltund": {
-    "National Dex": 836
+    "Indices": {
+      "main-series": 836
+    }
   },
   "Rolycoly": {
-    "National Dex": 837
+    "Indices": {
+      "main-series": 837
+    }
   },
   "Carkol": {
-    "National Dex": 838
+    "Indices": {
+      "main-series": 838
+    }
   },
   "Coalossal": {
-    "National Dex": 839,
+    "Indices": {
+      "main-series": 839
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -3693,10 +5371,14 @@
     }
   },
   "Applin": {
-    "National Dex": 840
+    "Indices": {
+      "main-series": 840
+    }
   },
   "Flapple": {
-    "National Dex": 841,
+    "Indices": {
+      "main-series": 841
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -3708,7 +5390,9 @@
     }
   },
   "Appletun": {
-    "National Dex": 842,
+    "Indices": {
+      "main-series": 842
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -3720,10 +5404,14 @@
     }
   },
   "Silicobra": {
-    "National Dex": 843
+    "Indices": {
+      "main-series": 843
+    }
   },
   "Sandaconda": {
-    "National Dex": 844,
+    "Indices": {
+      "main-series": 844
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -3735,7 +5423,9 @@
     }
   },
   "Cramorant": {
-    "National Dex": 845,
+    "Indices": {
+      "main-series": 845
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -3767,19 +5457,27 @@
           }
         }
       }
-    }
+      }
   },
   "Arrokuda": {
-    "National Dex": 846
+    "Indices": {
+      "main-series": 846
+    }
   },
   "Barraskewda": {
-    "National Dex": 847
+    "Indices": {
+      "main-series": 847
+    }
   },
   "Toxel": {
-    "National Dex": 848
+    "Indices": {
+      "main-series": 848
+    }
   },
   "Toxtricity": {
-    "National Dex": 849,
+    "Indices": {
+      "main-series": 849
+    },
     "Forms": {
       "Amped": {
         "Default": true,
@@ -3799,10 +5497,14 @@
     }
   },
   "Sizzlipede": {
-    "National Dex": 850
+    "Indices": {
+      "main-series": 850
+    }
   },
   "Centiskorch": {
-    "National Dex": 851,
+    "Indices": {
+      "main-series": 851
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -3814,13 +5516,19 @@
     }
   },
   "Clobbopus": {
-    "National Dex": 852
+    "Indices": {
+      "main-series": 852
+    }
   },
   "Grapploct": {
-    "National Dex": 853
+    "Indices": {
+      "main-series": 853
+    }
   },
   "Sinistea": {
-    "National Dex": 854,
+    "Indices": {
+      "main-series": 854
+    },
     "Forms": {
       "Phony": {
         "Default": true
@@ -3828,7 +5536,9 @@
     }
   },
   "Polteageist": {
-    "National Dex": 855,
+    "Indices": {
+      "main-series": 855
+    },
     "Forms": {
       "Phony": {
         "Default": true
@@ -3836,13 +5546,19 @@
     }
   },
   "Hatenna": {
-    "National Dex": 856
+    "Indices": {
+      "main-series": 856
+    }
   },
   "Hattrem": {
-    "National Dex": 857
+    "Indices": {
+      "main-series": 857
+    }
   },
   "Hatterene": {
-    "National Dex": 858,
+    "Indices": {
+      "main-series": 858
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -3854,13 +5570,19 @@
     }
   },
   "Impidimp": {
-    "National Dex": 859
+    "Indices": {
+      "main-series": 859
+    }
   },
   "Morgrem": {
-    "National Dex": 860
+    "Indices": {
+      "main-series": 860
+    }
   },
   "Grimmsnarl": {
-    "National Dex": 861,
+    "Indices": {
+      "main-series": 861
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -3872,28 +5594,44 @@
     }
   },
   "Obstagoon": {
-    "National Dex": 862
+    "Indices": {
+      "main-series": 862
+    }
   },
   "Perrserker": {
-    "National Dex": 863
+    "Indices": {
+      "main-series": 863
+    }
   },
   "Cursola": {
-    "National Dex": 864
+    "Indices": {
+      "main-series": 864
+    }
   },
   "Sirfetch’d": {
-    "National Dex": 865
+    "Indices": {
+      "main-series": 865
+    }
   }, //note ' vs ’ in name (latter is correct)
   "Mr. Rime": {
-    "National Dex": 866
+    "Indices": {
+      "main-series": 866
+    }
   },
   "Runerigus": {
-    "National Dex": 867
+    "Indices": {
+      "main-series": 867
+    }
   },
   "Milcery": {
-    "National Dex": 868
+    "Indices": {
+      "main-series": 868
+    }
   },
   "Alcremie": {
-    "National Dex": 869,
+    "Indices": {
+      "main-series": 869
+    },
     "Forms": {
       "Vanilla Cream": {
         "Default": true,
@@ -3962,22 +5700,34 @@
     }
   },
   "Falinks": {
-    "National Dex": 870
+    "Indices": {
+      "main-series": 870
+    }
   },
   "Pincurchin": {
-    "National Dex": 871
+    "Indices": {
+      "main-series": 871
+    }
   },
   "Snom": {
-    "National Dex": 872
+    "Indices": {
+      "main-series": 872
+    }
   },
   "Frosmoth": {
-    "National Dex": 873
+    "Indices": {
+      "main-series": 873
+    }
   },
   "Stonjourner": {
-    "National Dex": 874
+    "Indices": {
+      "main-series": 874
+    }
   },
   "Eiscue": {
-    "National Dex": 875,
+    "Indices": {
+      "main-series": 875
+    },
     "Forms": {
       "Ice Face": {
         "Default": true,
@@ -3997,10 +5747,14 @@
     }
   },
   "Indeedee": {
-    "National Dex": 876
+    "Indices": {
+      "main-series": 876
+    }
   },
   "Morpeko": {
-    "National Dex": 877,
+    "Indices": {
+      "main-series": 877
+    },
     "Forms": {
       "Full Belly Mode": {
         "Default": true,
@@ -4020,10 +5774,14 @@
     }
   },
   "Cufant": {
-    "National Dex": 878
+    "Indices": {
+      "main-series": 878
+    }
   },
   "Copperajah": {
-    "National Dex": 879,
+    "Indices": {
+      "main-series": 879
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -4035,19 +5793,29 @@
     }
   },
   "Dracozolt": {
-    "National Dex": 880
+    "Indices": {
+      "main-series": 880
+    }
   },
   "Arctozolt": {
-    "National Dex": 881
+    "Indices": {
+      "main-series": 881
+    }
   },
   "Dracovish": {
-    "National Dex": 882
+    "Indices": {
+      "main-series": 882
+    }
   },
   "Arctovish": {
-    "National Dex": 883
+    "Indices": {
+      "main-series": 883
+    }
   },
   "Duraludon": {
-    "National Dex": 884,
+    "Indices": {
+      "main-series": 884
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -4059,16 +5827,24 @@
     }
   },
   "Dreepy": {
-    "National Dex": 885
+    "Indices": {
+      "main-series": 885
+    }
   },
   "Drakloak": {
-    "National Dex": 886
+    "Indices": {
+      "main-series": 886
+    }
   },
   "Dragapult": {
-    "National Dex": 887
+    "Indices": {
+      "main-series": 887
+    }
   },
   "Zacian": {
-    "National Dex": 888,
+    "Indices": {
+      "main-series": 888
+    },
     "Forms": {
       "Hero of Many Battles": {
         "Default": true,
@@ -4081,7 +5857,9 @@
     }
   },
   "Zamazenta": {
-    "National Dex": 889,
+    "Indices": {
+      "main-series": 889
+    },
     "Forms": {
       "Hero of Many Battles": {
         "Default": true,
@@ -4094,7 +5872,9 @@
     }
   },
   "Eternatus": {
-    "National Dex": 890,
+    "Indices": {
+      "main-series": 890
+    },
     "Forms": {
       "": {
         "In-Battle Form Changes": {
@@ -4106,10 +5886,14 @@
     }
   },
   "Kubfu": {
-    "National Dex": 891
+    "Indices": {
+      "main-series": 891
+    }
   },
   "Urshifu": {
-    "National Dex": 892,
+    "Indices": {
+      "main-series": 892
+    },
     "Forms": {
       "Single Strike Style": {
         "Default": true,
@@ -4129,21 +5913,33 @@
     }
   },
   "Zarude": {
-    "National Dex": 893
+    "Indices": {
+      "main-series": 893
+    }
   },
   "Regieleki": {
-    "National Dex": 894
+    "Indices": {
+      "main-series": 894
+    }
   },
   "Regidrago": {
-    "National Dex": 895
+    "Indices": {
+      "main-series": 895
+    }
   },
   "Glastrier": {
-    "National Dex": 896
+    "Indices": {
+      "main-series": 896
+    }
   },
   "Spectrier": {
-    "National Dex": 897
+    "Indices": {
+      "main-series": 897
+    }
   },
   "Calyrex": {
-    "National Dex": 898
+    "Indices": {
+      "main-series": 898
+    }
   }
 }
