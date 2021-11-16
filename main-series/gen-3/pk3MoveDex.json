@@ -1,0 +1,127 @@
+{
+  "Swords Dance": {
+    "Base PP": {
+      "pk3": 30
+    }
+  },
+  "Vine Whip": {
+    "Base PP": {
+      "pk3": 10
+    }
+  },
+  "Jump Kick": {
+    "Base PP": {
+      "pk3": 25
+    }
+  },
+  "Thrash": {
+    "Base PP": {
+      "pk3": 20
+    }
+  },
+  "Submission": {
+    "Base PP": {
+      "pk3": 25
+    }
+  },
+  "Absorb": {
+    "Base PP": {
+      "pk3": 20
+    }
+  },
+  "Mega Drain": {
+    "Base PP": {
+      "pk3": 10
+    }
+  },
+  "Growth": {
+    "Base PP": {
+      "pk3": 40
+    }
+  },
+  "Petal Dance": {
+    "Base PP": {
+      "pk3": 20
+    }
+  },
+  "Recover": {
+    "Base PP": {
+      "pk3": 20
+    }
+  },
+  "Minimize": {
+    "Base PP": {
+      "pk3": 20
+    }
+  },
+  "Barrier": {
+    "Base PP": {
+      "pk3": 30
+    }
+  },
+  "Clamp": {
+    "Base PP": {
+      "pk3": 10
+    }
+  },
+  "Skull Bash": {
+    "Base PP": {
+      "pk3": 15
+    }
+  },
+  "High Jump Kick": {
+    "Base PP": {
+      "pk3": 20
+    }
+  },
+  "Leech Life": {
+    "Base PP": {
+      "pk3": 15
+    }
+  },
+  "Acid Armor": {
+    "Base PP": {
+      "pk3": 40
+    }
+  },
+  "Thief": {
+    "Base PP": {
+      "pk3": 10
+    }
+  },
+  "Outrage": {
+    "Base PP": {
+      "pk3": 15
+    }
+  },
+  "Giga Drain": {
+    "Base PP": {
+      "pk3": 5
+    }
+  },
+  "Future Sight": {
+    "Base PP": {
+      "pk3": 15
+    }
+  },
+  "Stockpile": {
+    "Base PP": {
+      "pk3": 10
+    }
+  },
+  "Rock Tomb": {
+    "Base PP": {
+      "pk3": 10
+    }
+  },
+  "Extrasensory": {
+    "Base PP": {
+      "pk3": 30
+    }
+  },
+  "Covet": {
+    "Base PP": {
+      "pk3": 40
+    }
+  }
+}

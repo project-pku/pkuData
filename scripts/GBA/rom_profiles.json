@@ -1,8 +1,15 @@
 {
   "Emerald": {
     "ROM": "Emerald [U].gba",
-    "Species Table Offset": 3277772,
-    "Species Names Offset": 3245512,
-    "Valid Indices": "1-251, 278-411"
+    "Species Data": {
+      "Table Offset": 3277772,
+      "Names Offset": 3245512,
+      "Valid Indices": "1-251, 278-411"
+    },
+    "Move Data": {
+      "Table Offset": 3262616,
+      "Names Offset": 3250044,
+      "Valid Indices": "1-354"
+    }
   }
 }

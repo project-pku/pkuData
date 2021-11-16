@@ -1,0 +1,1772 @@
+{
+  "Pound": {
+    "Base PP": {
+      "main-series": 35
+    }
+  },
+  "Karate Chop": {
+    "Base PP": {
+      "main-series": 25
+    }
+  },
+  "Double Slap": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Comet Punch": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Mega Punch": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Pay Day": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Fire Punch": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Ice Punch": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Thunder Punch": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Scratch": {
+    "Base PP": {
+      "main-series": 35
+    }
+  },
+  "Vise Grip": {
+    "Base PP": {
+      "main-series": 30
+    }
+  },
+  "Guillotine": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Razor Wind": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Swords Dance": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Cut": {
+    "Base PP": {
+      "main-series": 30
+    }
+  },
+  "Gust": {
+    "Base PP": {
+      "main-series": 35
+    }
+  },
+  "Wing Attack": {
+    "Base PP": {
+      "main-series": 35
+    }
+  },
+  "Whirlwind": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Fly": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Bind": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Slam": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Vine Whip": {
+    "Base PP": {
+      "main-series": 25
+    }
+  },
+  "Stomp": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Double Kick": {
+    "Base PP": {
+      "main-series": 30
+    }
+  },
+  "Mega Kick": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Jump Kick": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Rolling Kick": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Sand Attack": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Headbutt": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Horn Attack": {
+    "Base PP": {
+      "main-series": 25
+    }
+  },
+  "Fury Attack": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Horn Drill": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Tackle": {
+    "Base PP": {
+      "main-series": 35
+    }
+  },
+  "Body Slam": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Wrap": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Take Down": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Thrash": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Double-Edge": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Tail Whip": {
+    "Base PP": {
+      "main-series": 30
+    }
+  },
+  "Poison Sting": {
+    "Base PP": {
+      "main-series": 35
+    }
+  },
+  "Twineedle": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Pin Missile": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Leer": {
+    "Base PP": {
+      "main-series": 30
+    }
+  },
+  "Bite": {
+    "Base PP": {
+      "main-series": 25
+    }
+  },
+  "Growl": {
+    "Base PP": {
+      "main-series": 40
+    }
+  },
+  "Roar": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Sing": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Supersonic": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Sonic Boom": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Disable": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Acid": {
+    "Base PP": {
+      "main-series": 30
+    }
+  },
+  "Ember": {
+    "Base PP": {
+      "main-series": 25
+    }
+  },
+  "Flamethrower": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Mist": {
+    "Base PP": {
+      "main-series": 30
+    }
+  },
+  "Water Gun": {
+    "Base PP": {
+      "main-series": 25
+    }
+  },
+  "Hydro Pump": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Surf": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Ice Beam": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Blizzard": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Psybeam": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Bubble Beam": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Aurora Beam": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Hyper Beam": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Peck": {
+    "Base PP": {
+      "main-series": 35
+    }
+  },
+  "Drill Peck": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Submission": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Low Kick": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Counter": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Seismic Toss": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Strength": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Absorb": {
+    "Base PP": {
+      "main-series": 25
+    }
+  },
+  "Mega Drain": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Leech Seed": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Growth": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Razor Leaf": {
+    "Base PP": {
+      "main-series": 25
+    }
+  },
+  "Solar Beam": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Poison Powder": {
+    "Base PP": {
+      "main-series": 35
+    }
+  },
+  "Stun Spore": {
+    "Base PP": {
+      "main-series": 30
+    }
+  },
+  "Sleep Powder": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Petal Dance": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "String Shot": {
+    "Base PP": {
+      "main-series": 40
+    }
+  },
+  "Dragon Rage": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Fire Spin": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Thunder Shock": {
+    "Base PP": {
+      "main-series": 30
+    }
+  },
+  "Thunderbolt": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Thunder Wave": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Thunder": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Rock Throw": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Earthquake": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Fissure": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Dig": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Toxic": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Confusion": {
+    "Base PP": {
+      "main-series": 25
+    }
+  },
+  "Psychic": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Hypnosis": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Meditate": {
+    "Base PP": {
+      "main-series": 40
+    }
+  },
+  "Agility": {
+    "Base PP": {
+      "main-series": 30
+    }
+  },
+  "Quick Attack": {
+    "Base PP": {
+      "main-series": 30
+    }
+  },
+  "Rage": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Teleport": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Night Shade": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Mimic": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Screech": {
+    "Base PP": {
+      "main-series": 40
+    }
+  },
+  "Double Team": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Recover": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Harden": {
+    "Base PP": {
+      "main-series": 30
+    }
+  },
+  "Minimize": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Smokescreen": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Confuse Ray": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Withdraw": {
+    "Base PP": {
+      "main-series": 40
+    }
+  },
+  "Defense Curl": {
+    "Base PP": {
+      "main-series": 40
+    }
+  },
+  "Barrier": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Light Screen": {
+    "Base PP": {
+      "main-series": 30
+    }
+  },
+  "Haze": {
+    "Base PP": {
+      "main-series": 30
+    }
+  },
+  "Reflect": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Focus Energy": {
+    "Base PP": {
+      "main-series": 30
+    }
+  },
+  "Bide": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Metronome": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Mirror Move": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Self-Destruct": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Egg Bomb": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Lick": {
+    "Base PP": {
+      "main-series": 30
+    }
+  },
+  "Smog": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Sludge": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Bone Club": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Fire Blast": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Waterfall": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Clamp": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Swift": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Skull Bash": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Spike Cannon": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Constrict": {
+    "Base PP": {
+      "main-series": 35
+    }
+  },
+  "Amnesia": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Kinesis": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Soft-Boiled": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "High Jump Kick": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Glare": {
+    "Base PP": {
+      "main-series": 30
+    }
+  },
+  "Dream Eater": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Poison Gas": {
+    "Base PP": {
+      "main-series": 40
+    }
+  },
+  "Barrage": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Leech Life": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Lovely Kiss": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Sky Attack": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Transform": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Bubble": {
+    "Base PP": {
+      "main-series": 30
+    }
+  },
+  "Dizzy Punch": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Spore": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Flash": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Psywave": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Splash": {
+    "Base PP": {
+      "main-series": 40
+    }
+  },
+  "Acid Armor": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Crabhammer": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Explosion": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Fury Swipes": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Bonemerang": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Rest": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Rock Slide": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Hyper Fang": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Sharpen": {
+    "Base PP": {
+      "main-series": 30
+    }
+  },
+  "Conversion": {
+    "Base PP": {
+      "main-series": 30
+    }
+  },
+  "Tri Attack": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Super Fang": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Slash": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Substitute": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Struggle": {
+    "Base PP": {
+      "main-series": 1
+    }
+  },
+  "Sketch": {
+    "Base PP": {
+      "main-series": 1
+    }
+  },
+  "Triple Kick": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Thief": {
+    "Base PP": {
+      "main-series": 25
+    }
+  },
+  "Spider Web": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Mind Reader": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Nightmare": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Flame Wheel": {
+    "Base PP": {
+      "main-series": 25
+    }
+  },
+  "Snore": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Curse": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Flail": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Conversion 2": {
+    "Base PP": {
+      "main-series": 30
+    }
+  },
+  "Aeroblast": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Cotton Spore": {
+    "Base PP": {
+      "main-series": 40
+    }
+  },
+  "Reversal": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Spite": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Powder Snow": {
+    "Base PP": {
+      "main-series": 25
+    }
+  },
+  "Protect": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Mach Punch": {
+    "Base PP": {
+      "main-series": 30
+    }
+  },
+  "Scary Face": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Feint Attack": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Sweet Kiss": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Belly Drum": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Sludge Bomb": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Mud-Slap": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Octazooka": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Spikes": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Zap Cannon": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Foresight": {
+    "Base PP": {
+      "main-series": 40
+    }
+  },
+  "Destiny Bond": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Perish Song": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Icy Wind": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Detect": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Bone Rush": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Lock-On": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Outrage": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Sandstorm": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Giga Drain": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Endure": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Charm": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Rollout": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "False Swipe": {
+    "Base PP": {
+      "main-series": 40
+    }
+  },
+  "Swagger": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Milk Drink": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Spark": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Fury Cutter": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Steel Wing": {
+    "Base PP": {
+      "main-series": 25
+    }
+  },
+  "Mean Look": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Attract": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Sleep Talk": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Heal Bell": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Return": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Present": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Frustration": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Safeguard": {
+    "Base PP": {
+      "main-series": 25
+    }
+  },
+  "Pain Split": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Sacred Fire": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Magnitude": {
+    "Base PP": {
+      "main-series": 30
+    }
+  },
+  "Dynamic Punch": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Megahorn": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Dragon Breath": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Baton Pass": {
+    "Base PP": {
+      "main-series": 40
+    }
+  },
+  "Encore": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Pursuit": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Rapid Spin": {
+    "Base PP": {
+      "main-series": 40
+    }
+  },
+  "Sweet Scent": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Iron Tail": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Metal Claw": {
+    "Base PP": {
+      "main-series": 35
+    }
+  },
+  "Vital Throw": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Morning Sun": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Synthesis": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Moonlight": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Hidden Power": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Cross Chop": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Twister": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Rain Dance": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Sunny Day": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Crunch": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Mirror Coat": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Psych Up": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Extreme Speed": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Ancient Power": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Shadow Ball": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Future Sight": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Rock Smash": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Whirlpool": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Beat Up": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Fake Out": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Uproar": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Stockpile": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Spit Up": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Swallow": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Heat Wave": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Hail": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Torment": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Flatter": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Will-O-Wisp": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Memento": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Facade": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Focus Punch": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Smelling Salts": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Follow Me": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Nature Power": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Charge": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Taunt": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Helping Hand": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Trick": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Role Play": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Wish": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Assist": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Ingrain": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Superpower": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Magic Coat": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Recycle": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Revenge": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Brick Break": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Yawn": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Knock Off": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Endeavor": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Eruption": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Skill Swap": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Imprison": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Refresh": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Grudge": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Snatch": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Secret Power": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Dive": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Arm Thrust": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Camouflage": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Tail Glow": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Luster Purge": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Mist Ball": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Feather Dance": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Teeter Dance": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Blaze Kick": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Mud Sport": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Ice Ball": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Needle Arm": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Slack Off": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Hyper Voice": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Poison Fang": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Crush Claw": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Blast Burn": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Hydro Cannon": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Meteor Mash": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Astonish": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Weather Ball": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Aromatherapy": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Fake Tears": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Air Cutter": {
+    "Base PP": {
+      "main-series": 25
+    }
+  },
+  "Overheat": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Odor Sleuth": {
+    "Base PP": {
+      "main-series": 40
+    }
+  },
+  "Rock Tomb": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Silver Wind": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Metal Sound": {
+    "Base PP": {
+      "main-series": 40
+    }
+  },
+  "Grass Whistle": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Tickle": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Cosmic Power": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Water Spout": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Signal Beam": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Shadow Punch": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Extrasensory": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Sky Uppercut": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Sand Tomb": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Sheer Cold": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Muddy Water": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Bullet Seed": {
+    "Base PP": {
+      "main-series": 30
+    }
+  },
+  "Aerial Ace": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Icicle Spear": {
+    "Base PP": {
+      "main-series": 30
+    }
+  },
+  "Iron Defense": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Block": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Howl": {
+    "Base PP": {
+      "main-series": 40
+    }
+  },
+  "Dragon Claw": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Frenzy Plant": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Bulk Up": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Bounce": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Mud Shot": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Poison Tail": {
+    "Base PP": {
+      "main-series": 25
+    }
+  },
+  "Covet": {
+    "Base PP": {
+      "main-series": 25
+    }
+  },
+  "Volt Tackle": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Magical Leaf": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Water Sport": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Calm Mind": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Leaf Blade": {
+    "Base PP": {
+      "main-series": 15
+    }
+  },
+  "Dragon Dance": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Rock Blast": {
+    "Base PP": {
+      "main-series": 10
+    }
+  },
+  "Shock Wave": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Water Pulse": {
+    "Base PP": {
+      "main-series": 20
+    }
+  },
+  "Doom Desire": {
+    "Base PP": {
+      "main-series": 5
+    }
+  },
+  "Psycho Boost": {
+    "Base PP": {
+      "main-series": 5
+    }
+  }
+}

@@ -1,3 +1,5 @@
 {
+  "Main Series Moves": "https://raw.githubusercontent.com/project-pku/pkuData/main/main-series/main-seriesMoveDex.json",
+  "pk3 Moves": "https://raw.githubusercontent.com/project-pku/pkuData/main/main-series/gen-3/pk3MoveDex.json",
   "Showdown Moves": "https://raw.githubusercontent.com/project-pku/pkuData/main/showdown/showdownMoveDex.json"
 }
