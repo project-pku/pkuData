@@ -1,127 +1,1139 @@
 {
+  "Pound": {
+    "Exists in": ["pk3"]
+  },
+  "Karate Chop": {
+    "Exists in": ["pk3"]
+  },
+  "Double Slap": {
+    "Exists in": ["pk3"]
+  },
+  "Comet Punch": {
+    "Exists in": ["pk3"]
+  },
+  "Mega Punch": {
+    "Exists in": ["pk3"]
+  },
+  "Pay Day": {
+    "Exists in": ["pk3"]
+  },
+  "Fire Punch": {
+    "Exists in": ["pk3"]
+  },
+  "Ice Punch": {
+    "Exists in": ["pk3"]
+  },
+  "Thunder Punch": {
+    "Exists in": ["pk3"]
+  },
+  "Scratch": {
+    "Exists in": ["pk3"]
+  },
+  "Vise Grip": {
+    "Exists in": ["pk3"]
+  },
+  "Guillotine": {
+    "Exists in": ["pk3"]
+  },
+  "Razor Wind": {
+    "Exists in": ["pk3"]
+  },
   "Swords Dance": {
+    "Exists in": ["pk3"],
     "Base PP": {
       "pk3": 30
     }
   },
+  "Cut": {
+    "Exists in": ["pk3"]
+  },
+  "Gust": {
+    "Exists in": ["pk3"]
+  },
+  "Wing Attack": {
+    "Exists in": ["pk3"]
+  },
+  "Whirlwind": {
+    "Exists in": ["pk3"]
+  },
+  "Fly": {
+    "Exists in": ["pk3"]
+  },
+  "Bind": {
+    "Exists in": ["pk3"]
+  },
+  "Slam": {
+    "Exists in": ["pk3"]
+  },
   "Vine Whip": {
+    "Exists in": ["pk3"],
     "Base PP": {
       "pk3": 10
     }
   },
+  "Stomp": {
+    "Exists in": ["pk3"]
+  },
+  "Double Kick": {
+    "Exists in": ["pk3"]
+  },
+  "Mega Kick": {
+    "Exists in": ["pk3"]
+  },
   "Jump Kick": {
+    "Exists in": ["pk3"],
     "Base PP": {
       "pk3": 25
     }
   },
+  "Rolling Kick": {
+    "Exists in": ["pk3"]
+  },
+  "Sand Attack": {
+    "Exists in": ["pk3"]
+  },
+  "Headbutt": {
+    "Exists in": ["pk3"]
+  },
+  "Horn Attack": {
+    "Exists in": ["pk3"]
+  },
+  "Fury Attack": {
+    "Exists in": ["pk3"]
+  },
+  "Horn Drill": {
+    "Exists in": ["pk3"]
+  },
+  "Tackle": {
+    "Exists in": ["pk3"]
+  },
+  "Body Slam": {
+    "Exists in": ["pk3"]
+  },
+  "Wrap": {
+    "Exists in": ["pk3"]
+  },
+  "Take Down": {
+    "Exists in": ["pk3"]
+  },
   "Thrash": {
+    "Exists in": ["pk3"],
     "Base PP": {
       "pk3": 20
     }
   },
+  "Double-Edge": {
+    "Exists in": ["pk3"]
+  },
+  "Tail Whip": {
+    "Exists in": ["pk3"]
+  },
+  "Poison Sting": {
+    "Exists in": ["pk3"]
+  },
+  "Twineedle": {
+    "Exists in": ["pk3"]
+  },
+  "Pin Missile": {
+    "Exists in": ["pk3"]
+  },
+  "Leer": {
+    "Exists in": ["pk3"]
+  },
+  "Bite": {
+    "Exists in": ["pk3"]
+  },
+  "Growl": {
+    "Exists in": ["pk3"]
+  },
+  "Roar": {
+    "Exists in": ["pk3"]
+  },
+  "Sing": {
+    "Exists in": ["pk3"]
+  },
+  "Supersonic": {
+    "Exists in": ["pk3"]
+  },
+  "Sonic Boom": {
+    "Exists in": ["pk3"]
+  },
+  "Disable": {
+    "Exists in": ["pk3"]
+  },
+  "Acid": {
+    "Exists in": ["pk3"]
+  },
+  "Ember": {
+    "Exists in": ["pk3"]
+  },
+  "Flamethrower": {
+    "Exists in": ["pk3"]
+  },
+  "Mist": {
+    "Exists in": ["pk3"]
+  },
+  "Water Gun": {
+    "Exists in": ["pk3"]
+  },
+  "Hydro Pump": {
+    "Exists in": ["pk3"]
+  },
+  "Surf": {
+    "Exists in": ["pk3"]
+  },
+  "Ice Beam": {
+    "Exists in": ["pk3"]
+  },
+  "Blizzard": {
+    "Exists in": ["pk3"]
+  },
+  "Psybeam": {
+    "Exists in": ["pk3"]
+  },
+  "Bubble Beam": {
+    "Exists in": ["pk3"]
+  },
+  "Aurora Beam": {
+    "Exists in": ["pk3"]
+  },
+  "Hyper Beam": {
+    "Exists in": ["pk3"]
+  },
+  "Peck": {
+    "Exists in": ["pk3"]
+  },
+  "Drill Peck": {
+    "Exists in": ["pk3"]
+  },
   "Submission": {
+    "Exists in": ["pk3"],
     "Base PP": {
       "pk3": 25
     }
   },
+  "Low Kick": {
+    "Exists in": ["pk3"]
+  },
+  "Counter": {
+    "Exists in": ["pk3"]
+  },
+  "Seismic Toss": {
+    "Exists in": ["pk3"]
+  },
+  "Strength": {
+    "Exists in": ["pk3"]
+  },
   "Absorb": {
+    "Exists in": ["pk3"],
     "Base PP": {
       "pk3": 20
     }
   },
   "Mega Drain": {
+    "Exists in": ["pk3"],
     "Base PP": {
       "pk3": 10
     }
   },
+  "Leech Seed": {
+    "Exists in": ["pk3"]
+  },
   "Growth": {
+    "Exists in": ["pk3"],
     "Base PP": {
       "pk3": 40
     }
   },
+  "Razor Leaf": {
+    "Exists in": ["pk3"]
+  },
+  "Solar Beam": {
+    "Exists in": ["pk3"]
+  },
+  "Poison Powder": {
+    "Exists in": ["pk3"]
+  },
+  "Stun Spore": {
+    "Exists in": ["pk3"]
+  },
+  "Sleep Powder": {
+    "Exists in": ["pk3"]
+  },
   "Petal Dance": {
+    "Exists in": ["pk3"],
     "Base PP": {
       "pk3": 20
     }
+  },
+  "String Shot": {
+    "Exists in": ["pk3"]
+  },
+  "Dragon Rage": {
+    "Exists in": ["pk3"]
+  },
+  "Fire Spin": {
+    "Exists in": ["pk3"]
+  },
+  "Thunder Shock": {
+    "Exists in": ["pk3"]
+  },
+  "Thunderbolt": {
+    "Exists in": ["pk3"]
+  },
+  "Thunder Wave": {
+    "Exists in": ["pk3"]
+  },
+  "Thunder": {
+    "Exists in": ["pk3"]
+  },
+  "Rock Throw": {
+    "Exists in": ["pk3"]
+  },
+  "Earthquake": {
+    "Exists in": ["pk3"]
+  },
+  "Fissure": {
+    "Exists in": ["pk3"]
+  },
+  "Dig": {
+    "Exists in": ["pk3"]
+  },
+  "Toxic": {
+    "Exists in": ["pk3"]
+  },
+  "Confusion": {
+    "Exists in": ["pk3"]
+  },
+  "Psychic": {
+    "Exists in": ["pk3"]
+  },
+  "Hypnosis": {
+    "Exists in": ["pk3"]
+  },
+  "Meditate": {
+    "Exists in": ["pk3"]
+  },
+  "Agility": {
+    "Exists in": ["pk3"]
+  },
+  "Quick Attack": {
+    "Exists in": ["pk3"]
+  },
+  "Rage": {
+    "Exists in": ["pk3"]
+  },
+  "Teleport": {
+    "Exists in": ["pk3"]
+  },
+  "Night Shade": {
+    "Exists in": ["pk3"]
+  },
+  "Mimic": {
+    "Exists in": ["pk3"]
+  },
+  "Screech": {
+    "Exists in": ["pk3"]
+  },
+  "Double Team": {
+    "Exists in": ["pk3"]
   },
   "Recover": {
+    "Exists in": ["pk3"],
     "Base PP": {
       "pk3": 20
     }
+  },
+  "Harden": {
+    "Exists in": ["pk3"]
   },
   "Minimize": {
+    "Exists in": ["pk3"],
     "Base PP": {
       "pk3": 20
     }
   },
+  "Smokescreen": {
+    "Exists in": ["pk3"]
+  },
+  "Confuse Ray": {
+    "Exists in": ["pk3"]
+  },
+  "Withdraw": {
+    "Exists in": ["pk3"]
+  },
+  "Defense Curl": {
+    "Exists in": ["pk3"]
+  },
   "Barrier": {
+    "Exists in": ["pk3"],
     "Base PP": {
       "pk3": 30
     }
   },
+  "Light Screen": {
+    "Exists in": ["pk3"]
+  },
+  "Haze": {
+    "Exists in": ["pk3"]
+  },
+  "Reflect": {
+    "Exists in": ["pk3"]
+  },
+  "Focus Energy": {
+    "Exists in": ["pk3"]
+  },
+  "Bide": {
+    "Exists in": ["pk3"]
+  },
+  "Metronome": {
+    "Exists in": ["pk3"]
+  },
+  "Mirror Move": {
+    "Exists in": ["pk3"]
+  },
+  "Self-Destruct": {
+    "Exists in": ["pk3"]
+  },
+  "Egg Bomb": {
+    "Exists in": ["pk3"]
+  },
+  "Lick": {
+    "Exists in": ["pk3"]
+  },
+  "Smog": {
+    "Exists in": ["pk3"]
+  },
+  "Sludge": {
+    "Exists in": ["pk3"]
+  },
+  "Bone Club": {
+    "Exists in": ["pk3"]
+  },
+  "Fire Blast": {
+    "Exists in": ["pk3"]
+  },
+  "Waterfall": {
+    "Exists in": ["pk3"]
+  },
   "Clamp": {
+    "Exists in": ["pk3"],
     "Base PP": {
       "pk3": 10
     }
   },
+  "Swift": {
+    "Exists in": ["pk3"]
+  },
   "Skull Bash": {
+    "Exists in": ["pk3"],
     "Base PP": {
       "pk3": 15
     }
   },
+  "Spike Cannon": {
+    "Exists in": ["pk3"]
+  },
+  "Constrict": {
+    "Exists in": ["pk3"]
+  },
+  "Amnesia": {
+    "Exists in": ["pk3"]
+  },
+  "Kinesis": {
+    "Exists in": ["pk3"]
+  },
+  "Soft-Boiled": {
+    "Exists in": ["pk3"]
+  },
   "High Jump Kick": {
+    "Exists in": ["pk3"],
     "Base PP": {
       "pk3": 20
     }
   },
+  "Glare": {
+    "Exists in": ["pk3"]
+  },
+  "Dream Eater": {
+    "Exists in": ["pk3"]
+  },
+  "Poison Gas": {
+    "Exists in": ["pk3"]
+  },
+  "Barrage": {
+    "Exists in": ["pk3"]
+  },
   "Leech Life": {
+    "Exists in": ["pk3"],
     "Base PP": {
       "pk3": 15
     }
   },
+  "Lovely Kiss": {
+    "Exists in": ["pk3"]
+  },
+  "Sky Attack": {
+    "Exists in": ["pk3"]
+  },
+  "Transform": {
+    "Exists in": ["pk3"]
+  },
+  "Bubble": {
+    "Exists in": ["pk3"]
+  },
+  "Dizzy Punch": {
+    "Exists in": ["pk3"]
+  },
+  "Spore": {
+    "Exists in": ["pk3"]
+  },
+  "Flash": {
+    "Exists in": ["pk3"]
+  },
+  "Psywave": {
+    "Exists in": ["pk3"]
+  },
+  "Splash": {
+    "Exists in": ["pk3"]
+  },
   "Acid Armor": {
+    "Exists in": ["pk3"],
     "Base PP": {
       "pk3": 40
     }
   },
+  "Crabhammer": {
+    "Exists in": ["pk3"]
+  },
+  "Explosion": {
+    "Exists in": ["pk3"]
+  },
+  "Fury Swipes": {
+    "Exists in": ["pk3"]
+  },
+  "Bonemerang": {
+    "Exists in": ["pk3"]
+  },
+  "Rest": {
+    "Exists in": ["pk3"]
+  },
+  "Rock Slide": {
+    "Exists in": ["pk3"]
+  },
+  "Hyper Fang": {
+    "Exists in": ["pk3"]
+  },
+  "Sharpen": {
+    "Exists in": ["pk3"]
+  },
+  "Conversion": {
+    "Exists in": ["pk3"]
+  },
+  "Tri Attack": {
+    "Exists in": ["pk3"]
+  },
+  "Super Fang": {
+    "Exists in": ["pk3"]
+  },
+  "Slash": {
+    "Exists in": ["pk3"]
+  },
+  "Substitute": {
+    "Exists in": ["pk3"]
+  },
+  "Struggle": {
+    "Exists in": ["pk3"]
+  },
+  "Sketch": {
+    "Exists in": ["pk3"]
+  },
+  "Triple Kick": {
+    "Exists in": ["pk3"]
+  },
   "Thief": {
+    "Exists in": ["pk3"],
     "Base PP": {
       "pk3": 10
     }
   },
+  "Spider Web": {
+    "Exists in": ["pk3"]
+  },
+  "Mind Reader": {
+    "Exists in": ["pk3"]
+  },
+  "Nightmare": {
+    "Exists in": ["pk3"]
+  },
+  "Flame Wheel": {
+    "Exists in": ["pk3"]
+  },
+  "Snore": {
+    "Exists in": ["pk3"]
+  },
+  "Curse": {
+    "Exists in": ["pk3"]
+  },
+  "Flail": {
+    "Exists in": ["pk3"]
+  },
+  "Conversion 2": {
+    "Exists in": ["pk3"]
+  },
+  "Aeroblast": {
+    "Exists in": ["pk3"]
+  },
+  "Cotton Spore": {
+    "Exists in": ["pk3"]
+  },
+  "Reversal": {
+    "Exists in": ["pk3"]
+  },
+  "Spite": {
+    "Exists in": ["pk3"]
+  },
+  "Powder Snow": {
+    "Exists in": ["pk3"]
+  },
+  "Protect": {
+    "Exists in": ["pk3"]
+  },
+  "Mach Punch": {
+    "Exists in": ["pk3"]
+  },
+  "Scary Face": {
+    "Exists in": ["pk3"]
+  },
+  "Feint Attack": {
+    "Exists in": ["pk3"]
+  },
+  "Sweet Kiss": {
+    "Exists in": ["pk3"]
+  },
+  "Belly Drum": {
+    "Exists in": ["pk3"]
+  },
+  "Sludge Bomb": {
+    "Exists in": ["pk3"]
+  },
+  "Mud-Slap": {
+    "Exists in": ["pk3"]
+  },
+  "Octazooka": {
+    "Exists in": ["pk3"]
+  },
+  "Spikes": {
+    "Exists in": ["pk3"]
+  },
+  "Zap Cannon": {
+    "Exists in": ["pk3"]
+  },
+  "Foresight": {
+    "Exists in": ["pk3"]
+  },
+  "Destiny Bond": {
+    "Exists in": ["pk3"]
+  },
+  "Perish Song": {
+    "Exists in": ["pk3"]
+  },
+  "Icy Wind": {
+    "Exists in": ["pk3"]
+  },
+  "Detect": {
+    "Exists in": ["pk3"]
+  },
+  "Bone Rush": {
+    "Exists in": ["pk3"]
+  },
+  "Lock-On": {
+    "Exists in": ["pk3"]
+  },
   "Outrage": {
+    "Exists in": ["pk3"],
     "Base PP": {
       "pk3": 15
     }
   },
+  "Sandstorm": {
+    "Exists in": ["pk3"]
+  },
   "Giga Drain": {
+    "Exists in": ["pk3"],
     "Base PP": {
       "pk3": 5
     }
   },
+  "Endure": {
+    "Exists in": ["pk3"]
+  },
+  "Charm": {
+    "Exists in": ["pk3"]
+  },
+  "Rollout": {
+    "Exists in": ["pk3"]
+  },
+  "False Swipe": {
+    "Exists in": ["pk3"]
+  },
+  "Swagger": {
+    "Exists in": ["pk3"]
+  },
+  "Milk Drink": {
+    "Exists in": ["pk3"]
+  },
+  "Spark": {
+    "Exists in": ["pk3"]
+  },
+  "Fury Cutter": {
+    "Exists in": ["pk3"]
+  },
+  "Steel Wing": {
+    "Exists in": ["pk3"]
+  },
+  "Mean Look": {
+    "Exists in": ["pk3"]
+  },
+  "Attract": {
+    "Exists in": ["pk3"]
+  },
+  "Sleep Talk": {
+    "Exists in": ["pk3"]
+  },
+  "Heal Bell": {
+    "Exists in": ["pk3"]
+  },
+  "Return": {
+    "Exists in": ["pk3"]
+  },
+  "Present": {
+    "Exists in": ["pk3"]
+  },
+  "Frustration": {
+    "Exists in": ["pk3"]
+  },
+  "Safeguard": {
+    "Exists in": ["pk3"]
+  },
+  "Pain Split": {
+    "Exists in": ["pk3"]
+  },
+  "Sacred Fire": {
+    "Exists in": ["pk3"]
+  },
+  "Magnitude": {
+    "Exists in": ["pk3"]
+  },
+  "Dynamic Punch": {
+    "Exists in": ["pk3"]
+  },
+  "Megahorn": {
+    "Exists in": ["pk3"]
+  },
+  "Dragon Breath": {
+    "Exists in": ["pk3"]
+  },
+  "Baton Pass": {
+    "Exists in": ["pk3"]
+  },
+  "Encore": {
+    "Exists in": ["pk3"]
+  },
+  "Pursuit": {
+    "Exists in": ["pk3"]
+  },
+  "Rapid Spin": {
+    "Exists in": ["pk3"]
+  },
+  "Sweet Scent": {
+    "Exists in": ["pk3"]
+  },
+  "Iron Tail": {
+    "Exists in": ["pk3"]
+  },
+  "Metal Claw": {
+    "Exists in": ["pk3"]
+  },
+  "Vital Throw": {
+    "Exists in": ["pk3"]
+  },
+  "Morning Sun": {
+    "Exists in": ["pk3"]
+  },
+  "Synthesis": {
+    "Exists in": ["pk3"]
+  },
+  "Moonlight": {
+    "Exists in": ["pk3"]
+  },
+  "Hidden Power": {
+    "Exists in": ["pk3"]
+  },
+  "Cross Chop": {
+    "Exists in": ["pk3"]
+  },
+  "Twister": {
+    "Exists in": ["pk3"]
+  },
+  "Rain Dance": {
+    "Exists in": ["pk3"]
+  },
+  "Sunny Day": {
+    "Exists in": ["pk3"]
+  },
+  "Crunch": {
+    "Exists in": ["pk3"]
+  },
+  "Mirror Coat": {
+    "Exists in": ["pk3"]
+  },
+  "Psych Up": {
+    "Exists in": ["pk3"]
+  },
+  "Extreme Speed": {
+    "Exists in": ["pk3"]
+  },
+  "Ancient Power": {
+    "Exists in": ["pk3"]
+  },
+  "Shadow Ball": {
+    "Exists in": ["pk3"]
+  },
   "Future Sight": {
+    "Exists in": ["pk3"],
     "Base PP": {
       "pk3": 15
     }
   },
+  "Rock Smash": {
+    "Exists in": ["pk3"]
+  },
+  "Whirlpool": {
+    "Exists in": ["pk3"]
+  },
+  "Beat Up": {
+    "Exists in": ["pk3"]
+  },
+  "Fake Out": {
+    "Exists in": ["pk3"]
+  },
+  "Uproar": {
+    "Exists in": ["pk3"]
+  },
   "Stockpile": {
+    "Exists in": ["pk3"],
     "Base PP": {
       "pk3": 10
     }
+  },
+  "Spit Up": {
+    "Exists in": ["pk3"]
+  },
+  "Swallow": {
+    "Exists in": ["pk3"]
+  },
+  "Heat Wave": {
+    "Exists in": ["pk3"]
+  },
+  "Hail": {
+    "Exists in": ["pk3"]
+  },
+  "Torment": {
+    "Exists in": ["pk3"]
+  },
+  "Flatter": {
+    "Exists in": ["pk3"]
+  },
+  "Will-O-Wisp": {
+    "Exists in": ["pk3"]
+  },
+  "Memento": {
+    "Exists in": ["pk3"]
+  },
+  "Facade": {
+    "Exists in": ["pk3"]
+  },
+  "Focus Punch": {
+    "Exists in": ["pk3"]
+  },
+  "Smelling Salts": {
+    "Exists in": ["pk3"]
+  },
+  "Follow Me": {
+    "Exists in": ["pk3"]
+  },
+  "Nature Power": {
+    "Exists in": ["pk3"]
+  },
+  "Charge": {
+    "Exists in": ["pk3"]
+  },
+  "Taunt": {
+    "Exists in": ["pk3"]
+  },
+  "Helping Hand": {
+    "Exists in": ["pk3"]
+  },
+  "Trick": {
+    "Exists in": ["pk3"]
+  },
+  "Role Play": {
+    "Exists in": ["pk3"]
+  },
+  "Wish": {
+    "Exists in": ["pk3"]
+  },
+  "Assist": {
+    "Exists in": ["pk3"]
+  },
+  "Ingrain": {
+    "Exists in": ["pk3"]
+  },
+  "Superpower": {
+    "Exists in": ["pk3"]
+  },
+  "Magic Coat": {
+    "Exists in": ["pk3"]
+  },
+  "Recycle": {
+    "Exists in": ["pk3"]
+  },
+  "Revenge": {
+    "Exists in": ["pk3"]
+  },
+  "Brick Break": {
+    "Exists in": ["pk3"]
+  },
+  "Yawn": {
+    "Exists in": ["pk3"]
+  },
+  "Knock Off": {
+    "Exists in": ["pk3"]
+  },
+  "Endeavor": {
+    "Exists in": ["pk3"]
+  },
+  "Eruption": {
+    "Exists in": ["pk3"]
+  },
+  "Skill Swap": {
+    "Exists in": ["pk3"]
+  },
+  "Imprison": {
+    "Exists in": ["pk3"]
+  },
+  "Refresh": {
+    "Exists in": ["pk3"]
+  },
+  "Grudge": {
+    "Exists in": ["pk3"]
+  },
+  "Snatch": {
+    "Exists in": ["pk3"]
+  },
+  "Secret Power": {
+    "Exists in": ["pk3"]
+  },
+  "Dive": {
+    "Exists in": ["pk3"]
+  },
+  "Arm Thrust": {
+    "Exists in": ["pk3"]
+  },
+  "Camouflage": {
+    "Exists in": ["pk3"]
+  },
+  "Tail Glow": {
+    "Exists in": ["pk3"]
+  },
+  "Luster Purge": {
+    "Exists in": ["pk3"]
+  },
+  "Mist Ball": {
+    "Exists in": ["pk3"]
+  },
+  "Feather Dance": {
+    "Exists in": ["pk3"]
+  },
+  "Teeter Dance": {
+    "Exists in": ["pk3"]
+  },
+  "Blaze Kick": {
+    "Exists in": ["pk3"]
+  },
+  "Mud Sport": {
+    "Exists in": ["pk3"]
+  },
+  "Ice Ball": {
+    "Exists in": ["pk3"]
+  },
+  "Needle Arm": {
+    "Exists in": ["pk3"]
+  },
+  "Slack Off": {
+    "Exists in": ["pk3"]
+  },
+  "Hyper Voice": {
+    "Exists in": ["pk3"]
+  },
+  "Poison Fang": {
+    "Exists in": ["pk3"]
+  },
+  "Crush Claw": {
+    "Exists in": ["pk3"]
+  },
+  "Blast Burn": {
+    "Exists in": ["pk3"]
+  },
+  "Hydro Cannon": {
+    "Exists in": ["pk3"]
+  },
+  "Meteor Mash": {
+    "Exists in": ["pk3"]
+  },
+  "Astonish": {
+    "Exists in": ["pk3"]
+  },
+  "Weather Ball": {
+    "Exists in": ["pk3"]
+  },
+  "Aromatherapy": {
+    "Exists in": ["pk3"]
+  },
+  "Fake Tears": {
+    "Exists in": ["pk3"]
+  },
+  "Air Cutter": {
+    "Exists in": ["pk3"]
+  },
+  "Overheat": {
+    "Exists in": ["pk3"]
+  },
+  "Odor Sleuth": {
+    "Exists in": ["pk3"]
   },
   "Rock Tomb": {
+    "Exists in": ["pk3"],
     "Base PP": {
       "pk3": 10
     }
   },
+  "Silver Wind": {
+    "Exists in": ["pk3"]
+  },
+  "Metal Sound": {
+    "Exists in": ["pk3"]
+  },
+  "Grass Whistle": {
+    "Exists in": ["pk3"]
+  },
+  "Tickle": {
+    "Exists in": ["pk3"]
+  },
+  "Cosmic Power": {
+    "Exists in": ["pk3"]
+  },
+  "Water Spout": {
+    "Exists in": ["pk3"]
+  },
+  "Signal Beam": {
+    "Exists in": ["pk3"]
+  },
+  "Shadow Punch": {
+    "Exists in": ["pk3"]
+  },
   "Extrasensory": {
+    "Exists in": ["pk3"],
     "Base PP": {
       "pk3": 30
     }
   },
+  "Sky Uppercut": {
+    "Exists in": ["pk3"]
+  },
+  "Sand Tomb": {
+    "Exists in": ["pk3"]
+  },
+  "Sheer Cold": {
+    "Exists in": ["pk3"]
+  },
+  "Muddy Water": {
+    "Exists in": ["pk3"]
+  },
+  "Bullet Seed": {
+    "Exists in": ["pk3"]
+  },
+  "Aerial Ace": {
+    "Exists in": ["pk3"]
+  },
+  "Icicle Spear": {
+    "Exists in": ["pk3"]
+  },
+  "Iron Defense": {
+    "Exists in": ["pk3"]
+  },
+  "Block": {
+    "Exists in": ["pk3"]
+  },
+  "Howl": {
+    "Exists in": ["pk3"]
+  },
+  "Dragon Claw": {
+    "Exists in": ["pk3"]
+  },
+  "Frenzy Plant": {
+    "Exists in": ["pk3"]
+  },
+  "Bulk Up": {
+    "Exists in": ["pk3"]
+  },
+  "Bounce": {
+    "Exists in": ["pk3"]
+  },
+  "Mud Shot": {
+    "Exists in": ["pk3"]
+  },
+  "Poison Tail": {
+    "Exists in": ["pk3"]
+  },
   "Covet": {
+    "Exists in": ["pk3"],
     "Base PP": {
       "pk3": 40
     }
+  },
+  "Volt Tackle": {
+    "Exists in": ["pk3"]
+  },
+  "Magical Leaf": {
+    "Exists in": ["pk3"]
+  },
+  "Water Sport": {
+    "Exists in": ["pk3"]
+  },
+  "Calm Mind": {
+    "Exists in": ["pk3"]
+  },
+  "Leaf Blade": {
+    "Exists in": ["pk3"]
+  },
+  "Dragon Dance": {
+    "Exists in": ["pk3"]
+  },
+  "Rock Blast": {
+    "Exists in": ["pk3"]
+  },
+  "Shock Wave": {
+    "Exists in": ["pk3"]
+  },
+  "Water Pulse": {
+    "Exists in": ["pk3"]
+  },
+  "Doom Desire": {
+    "Exists in": ["pk3"]
+  },
+  "Psycho Boost": {
+    "Exists in": ["pk3"]
   }
 }

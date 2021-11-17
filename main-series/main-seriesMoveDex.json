@@ -1,1770 +1,2832 @@
 {
   "Pound": {
+    "Indices": {
+      "main-series": 1
+    },
     "Base PP": {
       "main-series": 35
     }
   },
   "Karate Chop": {
+    "Indices": {
+      "main-series": 2
+    },
     "Base PP": {
       "main-series": 25
     }
   },
   "Double Slap": {
+    "Indices": {
+      "main-series": 3
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Comet Punch": {
+    "Indices": {
+      "main-series": 4
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Mega Punch": {
+    "Indices": {
+      "main-series": 5
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Pay Day": {
+    "Indices": {
+      "main-series": 6
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Fire Punch": {
+    "Indices": {
+      "main-series": 7
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Ice Punch": {
+    "Indices": {
+      "main-series": 8
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Thunder Punch": {
+    "Indices": {
+      "main-series": 9
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Scratch": {
+    "Indices": {
+      "main-series": 10
+    },
     "Base PP": {
       "main-series": 35
     }
   },
   "Vise Grip": {
+    "Indices": {
+      "main-series": 11
+    },
     "Base PP": {
       "main-series": 30
     }
   },
   "Guillotine": {
+    "Indices": {
+      "main-series": 12
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Razor Wind": {
+    "Indices": {
+      "main-series": 13
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Swords Dance": {
+    "Indices": {
+      "main-series": 14
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Cut": {
+    "Indices": {
+      "main-series": 15
+    },
     "Base PP": {
       "main-series": 30
     }
   },
   "Gust": {
+    "Indices": {
+      "main-series": 16
+    },
     "Base PP": {
       "main-series": 35
     }
   },
   "Wing Attack": {
+    "Indices": {
+      "main-series": 17
+    },
     "Base PP": {
       "main-series": 35
     }
   },
   "Whirlwind": {
+    "Indices": {
+      "main-series": 18
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Fly": {
+    "Indices": {
+      "main-series": 19
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Bind": {
+    "Indices": {
+      "main-series": 20
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Slam": {
+    "Indices": {
+      "main-series": 21
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Vine Whip": {
+    "Indices": {
+      "main-series": 22
+    },
     "Base PP": {
       "main-series": 25
     }
   },
   "Stomp": {
+    "Indices": {
+      "main-series": 23
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Double Kick": {
+    "Indices": {
+      "main-series": 24
+    },
     "Base PP": {
       "main-series": 30
     }
   },
   "Mega Kick": {
+    "Indices": {
+      "main-series": 25
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Jump Kick": {
+    "Indices": {
+      "main-series": 26
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Rolling Kick": {
+    "Indices": {
+      "main-series": 27
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Sand Attack": {
+    "Indices": {
+      "main-series": 28
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Headbutt": {
+    "Indices": {
+      "main-series": 29
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Horn Attack": {
+    "Indices": {
+      "main-series": 30
+    },
     "Base PP": {
       "main-series": 25
     }
   },
   "Fury Attack": {
+    "Indices": {
+      "main-series": 31
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Horn Drill": {
+    "Indices": {
+      "main-series": 32
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Tackle": {
+    "Indices": {
+      "main-series": 33
+    },
     "Base PP": {
       "main-series": 35
     }
   },
   "Body Slam": {
+    "Indices": {
+      "main-series": 34
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Wrap": {
+    "Indices": {
+      "main-series": 35
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Take Down": {
+    "Indices": {
+      "main-series": 36
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Thrash": {
+    "Indices": {
+      "main-series": 37
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Double-Edge": {
+    "Indices": {
+      "main-series": 38
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Tail Whip": {
+    "Indices": {
+      "main-series": 39
+    },
     "Base PP": {
       "main-series": 30
     }
   },
   "Poison Sting": {
+    "Indices": {
+      "main-series": 40
+    },
     "Base PP": {
       "main-series": 35
     }
   },
   "Twineedle": {
+    "Indices": {
+      "main-series": 41
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Pin Missile": {
+    "Indices": {
+      "main-series": 42
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Leer": {
+    "Indices": {
+      "main-series": 43
+    },
     "Base PP": {
       "main-series": 30
     }
   },
   "Bite": {
+    "Indices": {
+      "main-series": 44
+    },
     "Base PP": {
       "main-series": 25
     }
   },
   "Growl": {
+    "Indices": {
+      "main-series": 45
+    },
     "Base PP": {
       "main-series": 40
     }
   },
   "Roar": {
+    "Indices": {
+      "main-series": 46
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Sing": {
+    "Indices": {
+      "main-series": 47
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Supersonic": {
+    "Indices": {
+      "main-series": 48
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Sonic Boom": {
+    "Indices": {
+      "main-series": 49
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Disable": {
+    "Indices": {
+      "main-series": 50
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Acid": {
+    "Indices": {
+      "main-series": 51
+    },
     "Base PP": {
       "main-series": 30
     }
   },
   "Ember": {
+    "Indices": {
+      "main-series": 52
+    },
     "Base PP": {
       "main-series": 25
     }
   },
   "Flamethrower": {
+    "Indices": {
+      "main-series": 53
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Mist": {
+    "Indices": {
+      "main-series": 54
+    },
     "Base PP": {
       "main-series": 30
     }
   },
   "Water Gun": {
+    "Indices": {
+      "main-series": 55
+    },
     "Base PP": {
       "main-series": 25
     }
   },
   "Hydro Pump": {
+    "Indices": {
+      "main-series": 56
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Surf": {
+    "Indices": {
+      "main-series": 57
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Ice Beam": {
+    "Indices": {
+      "main-series": 58
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Blizzard": {
+    "Indices": {
+      "main-series": 59
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Psybeam": {
+    "Indices": {
+      "main-series": 60
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Bubble Beam": {
+    "Indices": {
+      "main-series": 61
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Aurora Beam": {
+    "Indices": {
+      "main-series": 62
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Hyper Beam": {
+    "Indices": {
+      "main-series": 63
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Peck": {
+    "Indices": {
+      "main-series": 64
+    },
     "Base PP": {
       "main-series": 35
     }
   },
   "Drill Peck": {
+    "Indices": {
+      "main-series": 65
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Submission": {
+    "Indices": {
+      "main-series": 66
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Low Kick": {
+    "Indices": {
+      "main-series": 67
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Counter": {
+    "Indices": {
+      "main-series": 68
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Seismic Toss": {
+    "Indices": {
+      "main-series": 69
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Strength": {
+    "Indices": {
+      "main-series": 70
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Absorb": {
+    "Indices": {
+      "main-series": 71
+    },
     "Base PP": {
       "main-series": 25
     }
   },
   "Mega Drain": {
+    "Indices": {
+      "main-series": 72
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Leech Seed": {
+    "Indices": {
+      "main-series": 73
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Growth": {
+    "Indices": {
+      "main-series": 74
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Razor Leaf": {
+    "Indices": {
+      "main-series": 75
+    },
     "Base PP": {
       "main-series": 25
     }
   },
   "Solar Beam": {
+    "Indices": {
+      "main-series": 76
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Poison Powder": {
+    "Indices": {
+      "main-series": 77
+    },
     "Base PP": {
       "main-series": 35
     }
   },
   "Stun Spore": {
+    "Indices": {
+      "main-series": 78
+    },
     "Base PP": {
       "main-series": 30
     }
   },
   "Sleep Powder": {
+    "Indices": {
+      "main-series": 79
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Petal Dance": {
+    "Indices": {
+      "main-series": 80
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "String Shot": {
+    "Indices": {
+      "main-series": 81
+    },
     "Base PP": {
       "main-series": 40
     }
   },
   "Dragon Rage": {
+    "Indices": {
+      "main-series": 82
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Fire Spin": {
+    "Indices": {
+      "main-series": 83
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Thunder Shock": {
+    "Indices": {
+      "main-series": 84
+    },
     "Base PP": {
       "main-series": 30
     }
   },
   "Thunderbolt": {
+    "Indices": {
+      "main-series": 85
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Thunder Wave": {
+    "Indices": {
+      "main-series": 86
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Thunder": {
+    "Indices": {
+      "main-series": 87
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Rock Throw": {
+    "Indices": {
+      "main-series": 88
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Earthquake": {
+    "Indices": {
+      "main-series": 89
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Fissure": {
+    "Indices": {
+      "main-series": 90
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Dig": {
+    "Indices": {
+      "main-series": 91
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Toxic": {
+    "Indices": {
+      "main-series": 92
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Confusion": {
+    "Indices": {
+      "main-series": 93
+    },
     "Base PP": {
       "main-series": 25
     }
   },
   "Psychic": {
+    "Indices": {
+      "main-series": 94
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Hypnosis": {
+    "Indices": {
+      "main-series": 95
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Meditate": {
+    "Indices": {
+      "main-series": 96
+    },
     "Base PP": {
       "main-series": 40
     }
   },
   "Agility": {
+    "Indices": {
+      "main-series": 97
+    },
     "Base PP": {
       "main-series": 30
     }
   },
   "Quick Attack": {
+    "Indices": {
+      "main-series": 98
+    },
     "Base PP": {
       "main-series": 30
     }
   },
   "Rage": {
+    "Indices": {
+      "main-series": 99
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Teleport": {
+    "Indices": {
+      "main-series": 100
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Night Shade": {
+    "Indices": {
+      "main-series": 101
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Mimic": {
+    "Indices": {
+      "main-series": 102
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Screech": {
+    "Indices": {
+      "main-series": 103
+    },
     "Base PP": {
       "main-series": 40
     }
   },
   "Double Team": {
+    "Indices": {
+      "main-series": 104
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Recover": {
+    "Indices": {
+      "main-series": 105
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Harden": {
+    "Indices": {
+      "main-series": 106
+    },
     "Base PP": {
       "main-series": 30
     }
   },
   "Minimize": {
+    "Indices": {
+      "main-series": 107
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Smokescreen": {
+    "Indices": {
+      "main-series": 108
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Confuse Ray": {
+    "Indices": {
+      "main-series": 109
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Withdraw": {
+    "Indices": {
+      "main-series": 110
+    },
     "Base PP": {
       "main-series": 40
     }
   },
   "Defense Curl": {
+    "Indices": {
+      "main-series": 111
+    },
     "Base PP": {
       "main-series": 40
     }
   },
   "Barrier": {
+    "Indices": {
+      "main-series": 112
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Light Screen": {
+    "Indices": {
+      "main-series": 113
+    },
     "Base PP": {
       "main-series": 30
     }
   },
   "Haze": {
+    "Indices": {
+      "main-series": 114
+    },
     "Base PP": {
       "main-series": 30
     }
   },
   "Reflect": {
+    "Indices": {
+      "main-series": 115
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Focus Energy": {
+    "Indices": {
+      "main-series": 116
+    },
     "Base PP": {
       "main-series": 30
     }
   },
   "Bide": {
+    "Indices": {
+      "main-series": 117
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Metronome": {
+    "Indices": {
+      "main-series": 118
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Mirror Move": {
+    "Indices": {
+      "main-series": 119
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Self-Destruct": {
+    "Indices": {
+      "main-series": 120
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Egg Bomb": {
+    "Indices": {
+      "main-series": 121
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Lick": {
+    "Indices": {
+      "main-series": 122
+    },
     "Base PP": {
       "main-series": 30
     }
   },
   "Smog": {
+    "Indices": {
+      "main-series": 123
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Sludge": {
+    "Indices": {
+      "main-series": 124
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Bone Club": {
+    "Indices": {
+      "main-series": 125
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Fire Blast": {
+    "Indices": {
+      "main-series": 126
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Waterfall": {
+    "Indices": {
+      "main-series": 127
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Clamp": {
+    "Indices": {
+      "main-series": 128
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Swift": {
+    "Indices": {
+      "main-series": 129
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Skull Bash": {
+    "Indices": {
+      "main-series": 130
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Spike Cannon": {
+    "Indices": {
+      "main-series": 131
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Constrict": {
+    "Indices": {
+      "main-series": 132
+    },
     "Base PP": {
       "main-series": 35
     }
   },
   "Amnesia": {
+    "Indices": {
+      "main-series": 133
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Kinesis": {
+    "Indices": {
+      "main-series": 134
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Soft-Boiled": {
+    "Indices": {
+      "main-series": 135
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "High Jump Kick": {
+    "Indices": {
+      "main-series": 136
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Glare": {
+    "Indices": {
+      "main-series": 137
+    },
     "Base PP": {
       "main-series": 30
     }
   },
   "Dream Eater": {
+    "Indices": {
+      "main-series": 138
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Poison Gas": {
+    "Indices": {
+      "main-series": 139
+    },
     "Base PP": {
       "main-series": 40
     }
   },
   "Barrage": {
+    "Indices": {
+      "main-series": 140
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Leech Life": {
+    "Indices": {
+      "main-series": 141
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Lovely Kiss": {
+    "Indices": {
+      "main-series": 142
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Sky Attack": {
+    "Indices": {
+      "main-series": 143
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Transform": {
+    "Indices": {
+      "main-series": 144
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Bubble": {
+    "Indices": {
+      "main-series": 145
+    },
     "Base PP": {
       "main-series": 30
     }
   },
   "Dizzy Punch": {
+    "Indices": {
+      "main-series": 146
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Spore": {
+    "Indices": {
+      "main-series": 147
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Flash": {
+    "Indices": {
+      "main-series": 148
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Psywave": {
+    "Indices": {
+      "main-series": 149
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Splash": {
+    "Indices": {
+      "main-series": 150
+    },
     "Base PP": {
       "main-series": 40
     }
   },
   "Acid Armor": {
+    "Indices": {
+      "main-series": 151
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Crabhammer": {
+    "Indices": {
+      "main-series": 152
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Explosion": {
+    "Indices": {
+      "main-series": 153
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Fury Swipes": {
+    "Indices": {
+      "main-series": 154
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Bonemerang": {
+    "Indices": {
+      "main-series": 155
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Rest": {
+    "Indices": {
+      "main-series": 156
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Rock Slide": {
+    "Indices": {
+      "main-series": 157
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Hyper Fang": {
+    "Indices": {
+      "main-series": 158
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Sharpen": {
+    "Indices": {
+      "main-series": 159
+    },
     "Base PP": {
       "main-series": 30
     }
   },
   "Conversion": {
+    "Indices": {
+      "main-series": 160
+    },
     "Base PP": {
       "main-series": 30
     }
   },
   "Tri Attack": {
+    "Indices": {
+      "main-series": 161
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Super Fang": {
+    "Indices": {
+      "main-series": 162
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Slash": {
+    "Indices": {
+      "main-series": 163
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Substitute": {
+    "Indices": {
+      "main-series": 164
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Struggle": {
+    "Indices": {
+      "main-series": 165
+    },
     "Base PP": {
       "main-series": 1
     }
   },
   "Sketch": {
+    "Indices": {
+      "main-series": 166
+    },
     "Base PP": {
       "main-series": 1
     }
   },
   "Triple Kick": {
+    "Indices": {
+      "main-series": 167
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Thief": {
+    "Indices": {
+      "main-series": 168
+    },
     "Base PP": {
       "main-series": 25
     }
   },
   "Spider Web": {
+    "Indices": {
+      "main-series": 169
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Mind Reader": {
+    "Indices": {
+      "main-series": 170
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Nightmare": {
+    "Indices": {
+      "main-series": 171
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Flame Wheel": {
+    "Indices": {
+      "main-series": 172
+    },
     "Base PP": {
       "main-series": 25
     }
   },
   "Snore": {
+    "Indices": {
+      "main-series": 173
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Curse": {
+    "Indices": {
+      "main-series": 174
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Flail": {
+    "Indices": {
+      "main-series": 175
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Conversion 2": {
+    "Indices": {
+      "main-series": 176
+    },
     "Base PP": {
       "main-series": 30
     }
   },
   "Aeroblast": {
+    "Indices": {
+      "main-series": 177
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Cotton Spore": {
+    "Indices": {
+      "main-series": 178
+    },
     "Base PP": {
       "main-series": 40
     }
   },
   "Reversal": {
+    "Indices": {
+      "main-series": 179
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Spite": {
+    "Indices": {
+      "main-series": 180
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Powder Snow": {
+    "Indices": {
+      "main-series": 181
+    },
     "Base PP": {
       "main-series": 25
     }
   },
   "Protect": {
+    "Indices": {
+      "main-series": 182
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Mach Punch": {
+    "Indices": {
+      "main-series": 183
+    },
     "Base PP": {
       "main-series": 30
     }
   },
   "Scary Face": {
+    "Indices": {
+      "main-series": 184
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Feint Attack": {
+    "Indices": {
+      "main-series": 185
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Sweet Kiss": {
+    "Indices": {
+      "main-series": 186
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Belly Drum": {
+    "Indices": {
+      "main-series": 187
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Sludge Bomb": {
+    "Indices": {
+      "main-series": 188
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Mud-Slap": {
+    "Indices": {
+      "main-series": 189
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Octazooka": {
+    "Indices": {
+      "main-series": 190
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Spikes": {
+    "Indices": {
+      "main-series": 191
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Zap Cannon": {
+    "Indices": {
+      "main-series": 192
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Foresight": {
+    "Indices": {
+      "main-series": 193
+    },
     "Base PP": {
       "main-series": 40
     }
   },
   "Destiny Bond": {
+    "Indices": {
+      "main-series": 194
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Perish Song": {
+    "Indices": {
+      "main-series": 195
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Icy Wind": {
+    "Indices": {
+      "main-series": 196
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Detect": {
+    "Indices": {
+      "main-series": 197
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Bone Rush": {
+    "Indices": {
+      "main-series": 198
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Lock-On": {
+    "Indices": {
+      "main-series": 199
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Outrage": {
+    "Indices": {
+      "main-series": 200
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Sandstorm": {
+    "Indices": {
+      "main-series": 201
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Giga Drain": {
+    "Indices": {
+      "main-series": 202
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Endure": {
+    "Indices": {
+      "main-series": 203
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Charm": {
+    "Indices": {
+      "main-series": 204
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Rollout": {
+    "Indices": {
+      "main-series": 205
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "False Swipe": {
+    "Indices": {
+      "main-series": 206
+    },
     "Base PP": {
       "main-series": 40
     }
   },
   "Swagger": {
+    "Indices": {
+      "main-series": 207
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Milk Drink": {
+    "Indices": {
+      "main-series": 208
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Spark": {
+    "Indices": {
+      "main-series": 209
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Fury Cutter": {
+    "Indices": {
+      "main-series": 210
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Steel Wing": {
+    "Indices": {
+      "main-series": 211
+    },
     "Base PP": {
       "main-series": 25
     }
   },
   "Mean Look": {
+    "Indices": {
+      "main-series": 212
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Attract": {
+    "Indices": {
+      "main-series": 213
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Sleep Talk": {
+    "Indices": {
+      "main-series": 214
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Heal Bell": {
+    "Indices": {
+      "main-series": 215
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Return": {
+    "Indices": {
+      "main-series": 216
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Present": {
+    "Indices": {
+      "main-series": 217
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Frustration": {
+    "Indices": {
+      "main-series": 218
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Safeguard": {
+    "Indices": {
+      "main-series": 219
+    },
     "Base PP": {
       "main-series": 25
     }
   },
   "Pain Split": {
+    "Indices": {
+      "main-series": 220
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Sacred Fire": {
+    "Indices": {
+      "main-series": 221
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Magnitude": {
+    "Indices": {
+      "main-series": 222
+    },
     "Base PP": {
       "main-series": 30
     }
   },
   "Dynamic Punch": {
+    "Indices": {
+      "main-series": 223
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Megahorn": {
+    "Indices": {
+      "main-series": 224
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Dragon Breath": {
+    "Indices": {
+      "main-series": 225
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Baton Pass": {
+    "Indices": {
+      "main-series": 226
+    },
     "Base PP": {
       "main-series": 40
     }
   },
   "Encore": {
+    "Indices": {
+      "main-series": 227
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Pursuit": {
+    "Indices": {
+      "main-series": 228
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Rapid Spin": {
+    "Indices": {
+      "main-series": 229
+    },
     "Base PP": {
       "main-series": 40
     }
   },
   "Sweet Scent": {
+    "Indices": {
+      "main-series": 230
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Iron Tail": {
+    "Indices": {
+      "main-series": 231
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Metal Claw": {
+    "Indices": {
+      "main-series": 232
+    },
     "Base PP": {
       "main-series": 35
     }
   },
   "Vital Throw": {
+    "Indices": {
+      "main-series": 233
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Morning Sun": {
+    "Indices": {
+      "main-series": 234
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Synthesis": {
+    "Indices": {
+      "main-series": 235
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Moonlight": {
+    "Indices": {
+      "main-series": 236
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Hidden Power": {
+    "Indices": {
+      "main-series": 237
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Cross Chop": {
+    "Indices": {
+      "main-series": 238
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Twister": {
+    "Indices": {
+      "main-series": 239
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Rain Dance": {
+    "Indices": {
+      "main-series": 240
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Sunny Day": {
+    "Indices": {
+      "main-series": 241
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Crunch": {
+    "Indices": {
+      "main-series": 242
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Mirror Coat": {
+    "Indices": {
+      "main-series": 243
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Psych Up": {
+    "Indices": {
+      "main-series": 244
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Extreme Speed": {
+    "Indices": {
+      "main-series": 245
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Ancient Power": {
+    "Indices": {
+      "main-series": 246
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Shadow Ball": {
+    "Indices": {
+      "main-series": 247
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Future Sight": {
+    "Indices": {
+      "main-series": 248
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Rock Smash": {
+    "Indices": {
+      "main-series": 249
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Whirlpool": {
+    "Indices": {
+      "main-series": 250
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Beat Up": {
+    "Indices": {
+      "main-series": 251
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Fake Out": {
+    "Indices": {
+      "main-series": 252
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Uproar": {
+    "Indices": {
+      "main-series": 253
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Stockpile": {
+    "Indices": {
+      "main-series": 254
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Spit Up": {
+    "Indices": {
+      "main-series": 255
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Swallow": {
+    "Indices": {
+      "main-series": 256
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Heat Wave": {
+    "Indices": {
+      "main-series": 257
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Hail": {
+    "Indices": {
+      "main-series": 258
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Torment": {
+    "Indices": {
+      "main-series": 259
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Flatter": {
+    "Indices": {
+      "main-series": 260
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Will-O-Wisp": {
+    "Indices": {
+      "main-series": 261
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Memento": {
+    "Indices": {
+      "main-series": 262
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Facade": {
+    "Indices": {
+      "main-series": 263
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Focus Punch": {
+    "Indices": {
+      "main-series": 264
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Smelling Salts": {
+    "Indices": {
+      "main-series": 265
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Follow Me": {
+    "Indices": {
+      "main-series": 266
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Nature Power": {
+    "Indices": {
+      "main-series": 267
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Charge": {
+    "Indices": {
+      "main-series": 268
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Taunt": {
+    "Indices": {
+      "main-series": 269
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Helping Hand": {
+    "Indices": {
+      "main-series": 270
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Trick": {
+    "Indices": {
+      "main-series": 271
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Role Play": {
+    "Indices": {
+      "main-series": 272
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Wish": {
+    "Indices": {
+      "main-series": 273
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Assist": {
+    "Indices": {
+      "main-series": 274
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Ingrain": {
+    "Indices": {
+      "main-series": 275
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Superpower": {
+    "Indices": {
+      "main-series": 276
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Magic Coat": {
+    "Indices": {
+      "main-series": 277
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Recycle": {
+    "Indices": {
+      "main-series": 278
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Revenge": {
+    "Indices": {
+      "main-series": 279
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Brick Break": {
+    "Indices": {
+      "main-series": 280
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Yawn": {
+    "Indices": {
+      "main-series": 281
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Knock Off": {
+    "Indices": {
+      "main-series": 282
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Endeavor": {
+    "Indices": {
+      "main-series": 283
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Eruption": {
+    "Indices": {
+      "main-series": 284
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Skill Swap": {
+    "Indices": {
+      "main-series": 285
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Imprison": {
+    "Indices": {
+      "main-series": 286
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Refresh": {
+    "Indices": {
+      "main-series": 287
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Grudge": {
+    "Indices": {
+      "main-series": 288
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Snatch": {
+    "Indices": {
+      "main-series": 289
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Secret Power": {
+    "Indices": {
+      "main-series": 290
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Dive": {
+    "Indices": {
+      "main-series": 291
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Arm Thrust": {
+    "Indices": {
+      "main-series": 292
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Camouflage": {
+    "Indices": {
+      "main-series": 293
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Tail Glow": {
+    "Indices": {
+      "main-series": 294
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Luster Purge": {
+    "Indices": {
+      "main-series": 295
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Mist Ball": {
+    "Indices": {
+      "main-series": 296
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Feather Dance": {
+    "Indices": {
+      "main-series": 297
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Teeter Dance": {
+    "Indices": {
+      "main-series": 298
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Blaze Kick": {
+    "Indices": {
+      "main-series": 299
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Mud Sport": {
+    "Indices": {
+      "main-series": 300
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Ice Ball": {
+    "Indices": {
+      "main-series": 301
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Needle Arm": {
+    "Indices": {
+      "main-series": 302
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Slack Off": {
+    "Indices": {
+      "main-series": 303
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Hyper Voice": {
+    "Indices": {
+      "main-series": 304
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Poison Fang": {
+    "Indices": {
+      "main-series": 305
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Crush Claw": {
+    "Indices": {
+      "main-series": 306
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Blast Burn": {
+    "Indices": {
+      "main-series": 307
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Hydro Cannon": {
+    "Indices": {
+      "main-series": 308
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Meteor Mash": {
+    "Indices": {
+      "main-series": 309
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Astonish": {
+    "Indices": {
+      "main-series": 310
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Weather Ball": {
+    "Indices": {
+      "main-series": 311
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Aromatherapy": {
+    "Indices": {
+      "main-series": 312
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Fake Tears": {
+    "Indices": {
+      "main-series": 313
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Air Cutter": {
+    "Indices": {
+      "main-series": 314
+    },
     "Base PP": {
       "main-series": 25
     }
   },
   "Overheat": {
+    "Indices": {
+      "main-series": 315
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Odor Sleuth": {
+    "Indices": {
+      "main-series": 316
+    },
     "Base PP": {
       "main-series": 40
     }
   },
   "Rock Tomb": {
+    "Indices": {
+      "main-series": 317
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Silver Wind": {
+    "Indices": {
+      "main-series": 318
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Metal Sound": {
+    "Indices": {
+      "main-series": 319
+    },
     "Base PP": {
       "main-series": 40
     }
   },
   "Grass Whistle": {
+    "Indices": {
+      "main-series": 320
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Tickle": {
+    "Indices": {
+      "main-series": 321
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Cosmic Power": {
+    "Indices": {
+      "main-series": 322
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Water Spout": {
+    "Indices": {
+      "main-series": 323
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Signal Beam": {
+    "Indices": {
+      "main-series": 324
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Shadow Punch": {
+    "Indices": {
+      "main-series": 325
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Extrasensory": {
+    "Indices": {
+      "main-series": 326
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Sky Uppercut": {
+    "Indices": {
+      "main-series": 327
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Sand Tomb": {
+    "Indices": {
+      "main-series": 328
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Sheer Cold": {
+    "Indices": {
+      "main-series": 329
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Muddy Water": {
+    "Indices": {
+      "main-series": 330
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Bullet Seed": {
+    "Indices": {
+      "main-series": 331
+    },
     "Base PP": {
       "main-series": 30
     }
   },
   "Aerial Ace": {
+    "Indices": {
+      "main-series": 332
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Icicle Spear": {
+    "Indices": {
+      "main-series": 333
+    },
     "Base PP": {
       "main-series": 30
     }
   },
   "Iron Defense": {
+    "Indices": {
+      "main-series": 334
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Block": {
+    "Indices": {
+      "main-series": 335
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Howl": {
+    "Indices": {
+      "main-series": 336
+    },
     "Base PP": {
       "main-series": 40
     }
   },
   "Dragon Claw": {
+    "Indices": {
+      "main-series": 337
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Frenzy Plant": {
+    "Indices": {
+      "main-series": 338
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Bulk Up": {
+    "Indices": {
+      "main-series": 339
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Bounce": {
+    "Indices": {
+      "main-series": 340
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Mud Shot": {
+    "Indices": {
+      "main-series": 341
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Poison Tail": {
+    "Indices": {
+      "main-series": 342
+    },
     "Base PP": {
       "main-series": 25
     }
   },
   "Covet": {
+    "Indices": {
+      "main-series": 343
+    },
     "Base PP": {
       "main-series": 25
     }
   },
   "Volt Tackle": {
+    "Indices": {
+      "main-series": 344
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Magical Leaf": {
+    "Indices": {
+      "main-series": 345
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Water Sport": {
+    "Indices": {
+      "main-series": 346
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Calm Mind": {
+    "Indices": {
+      "main-series": 347
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Leaf Blade": {
+    "Indices": {
+      "main-series": 348
+    },
     "Base PP": {
       "main-series": 15
     }
   },
   "Dragon Dance": {
+    "Indices": {
+      "main-series": 349
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Rock Blast": {
+    "Indices": {
+      "main-series": 350
+    },
     "Base PP": {
       "main-series": 10
     }
   },
   "Shock Wave": {
+    "Indices": {
+      "main-series": 351
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Water Pulse": {
+    "Indices": {
+      "main-series": 352
+    },
     "Base PP": {
       "main-series": 20
     }
   },
   "Doom Desire": {
+    "Indices": {
+      "main-series": 353
+    },
     "Base PP": {
       "main-series": 5
     }
   },
   "Psycho Boost": {
+    "Indices": {
+      "main-series": 354
+    },
     "Base PP": {
       "main-series": 5
     }
