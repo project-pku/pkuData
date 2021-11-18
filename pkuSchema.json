@@ -1,0 +1,403 @@
+// pkuSchema v1.0 - Updated as of 2021-11-18
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "title": "pkuObject",
+  "additionalProperties": true,
+  "type": "object",
+
+  // pku Canonical Tags
+  "properties": {
+    "Species": {
+      "type": ["string", "null"]
+    },
+    "Nickname": {
+      "type": ["string", "null"]
+    },
+    "Nickname Flag": {
+      "type": ["boolean", "null"]
+    },
+    "True OT": {
+      "type": ["string", "null"]
+    },
+    "Forms": {
+      "type": ["array", "null"],
+      "items": {"type": "string"}
+    },
+    "Appearance": {
+      "type": ["array", "null"],
+      "items": {"type": "string"}
+    },
+    "Gender": {
+      "type": ["string", "null"]
+    },
+    "Level": {
+      "type": ["integer", "null"]
+    },
+    "EXP": {
+      "type": ["integer", "null"]
+    },
+    "Item": {
+      "type": ["string", "null"]
+    },
+    "Moves": {
+      "type": ["array", "null"],
+      "items": {"$ref": "#/definitions/Move"}
+    },
+    "PID": {
+      "type": ["integer", "null"]
+    },
+    "Shiny": {
+      "type": ["boolean", "null"]
+    },
+    "Nature": {
+      "type": ["string", "null"]
+    },
+    "Stat Nature": {
+      "type": ["string", "null"]
+    },
+    "Ability": {
+      "type": ["string", "null"]
+    },
+    "Gigantamax Factor": {
+      "type": ["boolean", "null"]
+    },
+    "Friendship": {
+      "type": ["integer", "null"]
+    },
+    "Affection": {
+      "type": ["integer", "null"]
+    },
+    "Game Info": {
+      "oneOf": [
+        {"$ref": "#/definitions/Game_Info_Class"},
+        {"type": "null"}
+      ]
+    },
+    "Catch Info": {
+      "oneOf": [
+        {"$ref": "#/definitions/Catch_Info_Class"},
+        {"type": "null"}
+      ]
+    },
+    "Egg Info": {
+      "oneOf": [
+        {"$ref": "#/definitions/Egg_Info_Class"},
+        {"type": "null"}
+      ]
+    },
+    "IVs": {
+      "oneOf": [
+        {"$ref": "#/definitions/IVs_Class"},
+        {"type": "null"}
+      ]
+    },
+    "Hyper Training": {
+      "oneOf": [
+        {"$ref": "#/definitions/Hyper_Training_Class"},
+        {"type": "null"}
+      ]
+    },
+    "EVs": {
+      "oneOf": [
+        {"$ref": "#/definitions/EVs_Class"},
+        {"type": "null"}
+      ]
+    },
+    "Contest Stats": {
+      "oneOf": [
+        {"$ref": "#/definitions/Contest_Stats_Class"},
+        {"type": "null"}
+      ]
+    },
+    "Ribbons": {
+      "type": ["array", "null"],
+      "items": {"type": "string"}
+    },
+    "Markings": {
+      "type": ["array", "null"],
+      "items": {"type": "string"}
+    },
+    "Pokérus": {
+      "oneOf": [
+        {"$ref": "#/definitions/Pokerus_Class"},
+        {"type": "null"}
+      ]
+    },
+    "Shadow Info": {
+      "oneOf": [
+        {"$ref": "#/definitions/Shadow_Info_Class"},
+        {"type": "null"}
+      ]
+    },
+    "Shiny Leaf": {
+      "type": ["array", "null"],
+      "items": {"type": "string"}
+    },
+    "Trash Bytes": {
+      "oneOf": [
+        {"$ref": "#/definitions/Trash_Bytes_Class"},
+        {"type": "null"}
+      ]
+    },
+    "Byte Override": {
+      "oneOf": [
+        {"$ref": "#/definitions/Byte_Override_Class"},
+        {"type": "null"}
+      ]
+    },
+    "Format Overrides": {
+      "type": ["object", "null"],
+      "additionalProperties": {"$ref": "#"}
+    }
+  },
+
+  // Object Definitions
+  "definitions": {
+    "Move": {
+      "type": "object",
+      "properties": {
+        "Name": {
+          "type": ["string", "null"]
+        },
+        "PP Ups": {
+          "type": ["integer", "null"]
+        }
+      }
+    },
+    "Game_Info_Class": {
+      "type": "object",
+      "properties": {
+        "Origin Game": {
+          "type": ["string", "null"]
+        },
+        "Official Origin Game": {
+          "type": ["string", "null"]
+        },
+        "OT": {
+          "type": ["string", "null"]
+        },
+        "Gender": {
+          "type": ["string", "null"]
+        },
+        "TID": {
+          "type": ["integer", "null"]
+        },
+        "Language": {
+          "type": ["string", "null"]
+        }
+      }
+    },
+    "Met_Info_Base": {
+      "type": "object",
+      "properties": {
+        "Met Location": {
+          "type": ["string", "null"]
+        },
+        "Met Game Override": {
+          "type": ["string", "null"]
+        },
+        "Met Date": {
+          "type": ["string", "null"],
+          "format": "date-time"
+        }
+      }
+    },
+    "Catch_Info_Class": {
+      "allOf": [{"$ref": "#/definitions/Met_Info_Base"}],
+      "properties": {
+        "Ball": {
+          "type": ["string", "null"]
+        },
+        "Met Level": {
+          "type": ["integer", "null"]
+        },
+        "Fateful Encounter": {
+          "type": ["boolean", "null"]
+        },
+        "Encounter Type": {
+          "type": ["string", "null"]
+        }
+      }
+    },
+    "Egg_Info_Class": {
+      "allOf": [{"$ref": "#/definitions/Met_Info_Base"}],
+      "properties": {
+        "Egg": {
+          "type": ["boolean", "null"]
+        }
+      }
+    },
+    "IVs_Class": {
+      "type": "object",
+      "properties": {
+        "HP": {
+          "type": ["integer", "null"]
+        },
+        "Attack": {
+          "type": ["integer", "null"]
+        },
+        "Defense": {
+          "type": ["integer", "null"]
+        },
+        "Sp. Attack": {
+          "type": ["integer", "null"]
+        },
+        "Sp. Defense": {
+          "type": ["integer", "null"]
+        },
+        "Speed": {
+          "type": ["integer", "null"]
+        }
+      }
+    },
+    "Hyper_Training_Class": {
+      "type": "object",
+      "properties": {
+        "HP": {
+          "type": ["boolean", "null"]
+        },
+        "Attack": {
+          "type": ["boolean", "null"]
+        },
+        "Defense": {
+          "type": ["boolean", "null"]
+        },
+        "Sp. Attack": {
+          "type": ["boolean", "null"]
+        },
+        "Sp. Defense": {
+          "type": ["boolean", "null"]
+        },
+        "Speed": {
+          "type": ["boolean", "null"]
+        }
+      }
+    },
+    "EVs_Class": {
+      "type": "object",
+      "properties": {
+        "HP": {
+          "type": ["integer", "null"]
+        },
+        "Attack": {
+          "type": ["integer", "null"]
+        },
+        "Defense": {
+          "type": ["integer", "null"]
+        },
+        "Sp. Attack": {
+          "type": ["integer", "null"]
+        },
+        "Sp. Defense": {
+          "type": ["integer", "null"]
+        },
+        "Speed": {
+          "type": ["integer", "null"]
+        }
+      }
+    },
+    "Contest_Stats_Class": {
+      "type": "object",
+      "properties": {
+        "Cool": {
+          "type": ["integer", "null"]
+        },
+        "Beauty": {
+          "type": ["integer", "null"]
+        },
+        "Cute": {
+          "type": ["integer", "null"]
+        },
+        "Clever": {
+          "type": ["integer", "null"]
+        },
+        "Tough": {
+          "type": ["integer", "null"]
+        },
+        "Sheen": {
+          "type": ["integer", "null"]
+        }
+      }
+    },
+    "Pokerus_Class": {
+      "type": "object",
+      "properties": {
+        "Strain": {
+          "type": ["integer", "null"]
+        },
+        "Days": {
+          "type": ["integer", "null"]
+        }
+      }
+    },
+    "Shadow_Info_Class": {
+      "type": "object",
+      "properties": {
+        "Shadow": {
+          "type": ["boolean", "null"]
+        },
+        "Purified": {
+          "type": ["boolean", "null"]
+        },
+        "Heart Gauge": {
+          "type": ["integer", "null"]
+        }
+      }
+    },
+    "Trash_Bytes_Class": {
+      "type": "object",
+      "properties": {
+        "Nickname": {
+          "type": ["array", "null"],
+          "items": {"type": "integer"}
+        },
+        "OT": {
+          "type": ["array", "null"],
+          "items": {"type": "integer"}
+        }
+      }
+    },
+    "Byte_Override_Dict":{
+      "type": "object",
+      "additionalProperties": {
+        "type": ["integer", "array", "null"],
+        "items": {"type": "integer"}
+      }
+    },
+    "Byte_Override_Class": {
+      "type": "object",
+      "properties": {
+        "Main Data": {
+          "oneOf": [
+            {"$ref": "#/definitions/Byte_Override_Dict"},
+            {"type": "null"}
+          ]
+        },
+        "A": {
+          "oneOf": [
+            {"$ref": "#/definitions/Byte_Override_Dict"},
+            {"type": "null"}
+          ]
+        },
+        "B": {
+          "oneOf": [
+            {"$ref": "#/definitions/Byte_Override_Dict"},
+            {"type": "null"}
+          ]
+        },
+        "C": {
+          "oneOf": [
+            {"$ref": "#/definitions/Byte_Override_Dict"},
+            {"type": "null"}
+          ]
+        },
+        "D": {
+          "oneOf": [
+            {"$ref": "#/definitions/Byte_Override_Dict"},
+            {"type": "null"}
+          ]
+        }
+      }
+    }
+  }
+}
