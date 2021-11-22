@@ -13,12 +13,14 @@
   "Bulbasaur": {
     "Indices": {
       "main-series": 1
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Ivysaur": {
     "Indices": {
       "main-series": 2
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Venusaur": {
     "Indices": {
@@ -36,17 +38,20 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Charmander": {
     "Indices": {
       "main-series": 4
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Charmeleon": {
     "Indices": {
       "main-series": 5
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Charizard": {
     "Indices": {
@@ -68,17 +73,20 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Squirtle": {
     "Indices": {
       "main-series": 7
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Wartortle": {
     "Indices": {
       "main-series": 8
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Blastoise": {
     "Indices": {
@@ -96,17 +104,20 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Caterpie": {
     "Indices": {
       "main-series": 10
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Metapod": {
     "Indices": {
       "main-series": 11
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Butterfree": {
     "Indices": {
@@ -120,17 +131,20 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Weedle": {
     "Indices": {
       "main-series": 13
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Kakuna": {
     "Indices": {
       "main-series": 14
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Beedrill": {
     "Indices": {
@@ -145,17 +159,20 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Pidgey": {
     "Indices": {
       "main-series": 16
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Pidgeotto": {
     "Indices": {
       "main-series": 17
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Pidgeot": {
     "Indices": {
@@ -170,12 +187,14 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Rattata": {
     "Indices": {
       "main-series": 19
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Raticate": {
     "Indices": {
@@ -183,29 +202,36 @@
     },
     "Forms": {
       "Alolan|Totem": {
-        "Castable to": ["Alolan"]
+        "Castable to": [
+          "Alolan"
+        ]
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Spearow": {
     "Indices": {
       "main-series": 21
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Fearow": {
     "Indices": {
       "main-series": 22
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Ekans": {
     "Indices": {
       "main-series": 23
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Arbok": {
     "Indices": {
       "main-series": 24
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Pikachu": {
     "Indices": {
@@ -220,142 +246,173 @@
         }
       },
       "Cosplay": {
-        "Castable to": [ "" ]
+        "Castable to": [
+          ""
+        ]
       },
       "Partner": {
-        "Castable to": [ "" ]
+        "Castable to": [
+          ""
+        ]
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Raichu": {
     "Indices": {
       "main-series": 26
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Sandshrew": {
     "Indices": {
       "main-series": 27
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Sandslash": {
     "Indices": {
       "main-series": 28
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Nidoran♀": {
     "Indices": {
       "main-series": 29
-    }
+    },
+    "Gender Ratio": "All Female"
   },
   "Nidorina": {
     "Indices": {
       "main-series": 30
-    }
+    },
+    "Gender Ratio": "All Female"
   },
   "Nidoqueen": {
     "Indices": {
       "main-series": 31
-    }
+    },
+    "Gender Ratio": "All Female"
   },
   "Nidoran♂": {
     "Indices": {
       "main-series": 32
-    }
+    },
+    "Gender Ratio": "All Male"
   },
   "Nidorino": {
     "Indices": {
       "main-series": 33
-    }
+    },
+    "Gender Ratio": "All Male"
   },
   "Nidoking": {
     "Indices": {
       "main-series": 34
-    }
+    },
+    "Gender Ratio": "All Male"
   },
   "Clefairy": {
     "Indices": {
       "main-series": 35
-    }
+    },
+    "Gender Ratio": "Male 1 Female 3"
   },
   "Clefable": {
     "Indices": {
       "main-series": 36
-    }
+    },
+    "Gender Ratio": "Male 1 Female 3"
   },
   "Vulpix": {
     "Indices": {
       "main-series": 37
-    }
+    },
+    "Gender Ratio": "Male 1 Female 3"
   },
   "Ninetales": {
     "Indices": {
       "main-series": 38
-    }
+    },
+    "Gender Ratio": "Male 1 Female 3"
   },
   "Jigglypuff": {
     "Indices": {
       "main-series": 39
-    }
+    },
+    "Gender Ratio": "Male 1 Female 3"
   },
   "Wigglytuff": {
     "Indices": {
       "main-series": 40
-    }
+    },
+    "Gender Ratio": "Male 1 Female 3"
   },
   "Zubat": {
     "Indices": {
       "main-series": 41
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Golbat": {
     "Indices": {
       "main-series": 42
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Oddish": {
     "Indices": {
       "main-series": 43
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Gloom": {
     "Indices": {
       "main-series": 44
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Vileplume": {
     "Indices": {
       "main-series": 45
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Paras": {
     "Indices": {
       "main-series": 46
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Parasect": {
     "Indices": {
       "main-series": 47
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Venonat": {
     "Indices": {
       "main-series": 48
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Venomoth": {
     "Indices": {
       "main-series": 49
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Diglett": {
     "Indices": {
       "main-series": 50
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Dugtrio": {
     "Indices": {
       "main-series": 51
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Meowth": {
     "Indices": {
@@ -369,67 +426,80 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Persian": {
     "Indices": {
       "main-series": 53
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Psyduck": {
     "Indices": {
       "main-series": 54
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Golduck": {
     "Indices": {
       "main-series": 55
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Mankey": {
     "Indices": {
       "main-series": 56
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Primeape": {
     "Indices": {
       "main-series": 57
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Growlithe": {
     "Indices": {
       "main-series": 58
-    }
+    },
+    "Gender Ratio": "Male 3 Female 1"
   },
   "Arcanine": {
     "Indices": {
       "main-series": 59
-    }
+    },
+    "Gender Ratio": "Male 3 Female 1"
   },
   "Poliwag": {
     "Indices": {
       "main-series": 60
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Poliwhirl": {
     "Indices": {
       "main-series": 61
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Poliwrath": {
     "Indices": {
       "main-series": 62
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Abra": {
     "Indices": {
       "main-series": 63
-    }
+    },
+    "Gender Ratio": "Male 3 Female 1"
   },
   "Kadabra": {
     "Indices": {
       "main-series": 64
-    }
+    },
+    "Gender Ratio": "Male 3 Female 1"
   },
   "Alakazam": {
     "Indices": {
@@ -444,17 +514,20 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 3 Female 1"
   },
   "Machop": {
     "Indices": {
       "main-series": 66
-    }
+    },
+    "Gender Ratio": "Male 3 Female 1"
   },
   "Machoke": {
     "Indices": {
       "main-series": 67
-    }
+    },
+    "Gender Ratio": "Male 3 Female 1"
   },
   "Machamp": {
     "Indices": {
@@ -468,62 +541,74 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 3 Female 1"
   },
   "Bellsprout": {
     "Indices": {
       "main-series": 69
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Weepinbell": {
     "Indices": {
       "main-series": 70
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Victreebel": {
     "Indices": {
       "main-series": 71
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Tentacool": {
     "Indices": {
       "main-series": 72
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Tentacruel": {
     "Indices": {
       "main-series": 73
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Geodude": {
     "Indices": {
       "main-series": 74
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Graveler": {
     "Indices": {
       "main-series": 75
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Golem": {
     "Indices": {
       "main-series": 76
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Ponyta": {
     "Indices": {
       "main-series": 77
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Rapidash": {
     "Indices": {
       "main-series": 78
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Slowpoke": {
     "Indices": {
       "main-series": 79
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Slowbro": {
     "Indices": {
@@ -538,72 +623,86 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Magnemite": {
     "Indices": {
       "main-series": 81
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Magneton": {
     "Indices": {
       "main-series": 82
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Farfetch’d": {
     "Indices": {
       "main-series": 83
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   }, // note ' vs ’ in name (latter is correct)
   "Doduo": {
     "Indices": {
       "main-series": 84
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Dodrio": {
     "Indices": {
       "main-series": 85
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Seel": {
     "Indices": {
       "main-series": 86
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Dewgong": {
     "Indices": {
       "main-series": 87
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Grimer": {
     "Indices": {
       "main-series": 88
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Muk": {
     "Indices": {
       "main-series": 89
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Shellder": {
     "Indices": {
       "main-series": 90
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Cloyster": {
     "Indices": {
       "main-series": 91
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Gastly": {
     "Indices": {
       "main-series": 92
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Haunter": {
     "Indices": {
       "main-series": 93
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Gengar": {
     "Indices": {
@@ -621,27 +720,32 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Onix": {
     "Indices": {
       "main-series": 95
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Drowzee": {
     "Indices": {
       "main-series": 96
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Hypno": {
     "Indices": {
       "main-series": 97
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Krabby": {
     "Indices": {
       "main-series": 98
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Kingler": {
     "Indices": {
@@ -655,32 +759,38 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Voltorb": {
     "Indices": {
       "main-series": 100
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Electrode": {
     "Indices": {
       "main-series": 101
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Exeggcute": {
     "Indices": {
       "main-series": 102
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Exeggutor": {
     "Indices": {
       "main-series": 103
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Cubone": {
     "Indices": {
       "main-series": 104
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Marowak": {
     "Indices": {
@@ -688,54 +798,66 @@
     },
     "Forms": {
       "Alolan|Totem": {
-        "Castable to": [ "Alolan" ]
+        "Castable to": [
+          "Alolan"
+        ]
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Hitmonlee": {
     "Indices": {
       "main-series": 106
-    }
+    },
+    "Gender Ratio": "All Male"
   },
   "Hitmonchan": {
     "Indices": {
       "main-series": 107
-    }
+    },
+    "Gender Ratio": "All Male"
   },
   "Lickitung": {
     "Indices": {
       "main-series": 108
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Koffing": {
     "Indices": {
       "main-series": 109
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Weezing": {
     "Indices": {
       "main-series": 110
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Rhyhorn": {
     "Indices": {
       "main-series": 111
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Rhydon": {
     "Indices": {
       "main-series": 112
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Chansey": {
     "Indices": {
       "main-series": 113
-    }
+    },
+    "Gender Ratio": "All Female"
   },
   "Tangela": {
     "Indices": {
       "main-series": 114
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Kangaskhan": {
     "Indices": {
@@ -750,62 +872,74 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "All Female"
   },
   "Horsea": {
     "Indices": {
       "main-series": 116
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Seadra": {
     "Indices": {
       "main-series": 117
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Goldeen": {
     "Indices": {
       "main-series": 118
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Seaking": {
     "Indices": {
       "main-series": 119
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Staryu": {
     "Indices": {
       "main-series": 120
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Starmie": {
     "Indices": {
       "main-series": 121
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Mr. Mime": {
     "Indices": {
       "main-series": 122
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Scyther": {
     "Indices": {
       "main-series": 123
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Jynx": {
     "Indices": {
       "main-series": 124
-    }
+    },
+    "Gender Ratio": "All Female"
   },
   "Electabuzz": {
     "Indices": {
       "main-series": 125
-    }
+    },
+    "Gender Ratio": "Male 3 Female 1"
   },
   "Magmar": {
     "Indices": {
       "main-series": 126
-    }
+    },
+    "Gender Ratio": "Male 3 Female 1"
   },
   "Pinsir": {
     "Indices": {
@@ -820,17 +954,20 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Tauros": {
     "Indices": {
       "main-series": 128
-    }
+    },
+    "Gender Ratio": "All Male"
   },
   "Magikarp": {
     "Indices": {
       "main-series": 129
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Gyarados": {
     "Indices": {
@@ -845,7 +982,8 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Lapras": {
     "Indices": {
@@ -859,12 +997,14 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Ditto": {
     "Indices": {
       "main-series": 132
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Eevee": {
     "Indices": {
@@ -878,47 +1018,56 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Vaporeon": {
     "Indices": {
       "main-series": 134
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Jolteon": {
     "Indices": {
       "main-series": 135
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Flareon": {
     "Indices": {
       "main-series": 136
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Porygon": {
     "Indices": {
       "main-series": 137
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Omanyte": {
     "Indices": {
       "main-series": 138
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Omastar": {
     "Indices": {
       "main-series": 139
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Kabuto": {
     "Indices": {
       "main-series": 140
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Kabutops": {
     "Indices": {
       "main-series": 141
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Aerodactyl": {
     "Indices": {
@@ -933,7 +1082,8 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Snorlax": {
     "Indices": {
@@ -947,37 +1097,44 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Articuno": {
     "Indices": {
       "main-series": 144
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Zapdos": {
     "Indices": {
       "main-series": 145
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Moltres": {
     "Indices": {
       "main-series": 146
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Dratini": {
     "Indices": {
       "main-series": 147
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Dragonair": {
     "Indices": {
       "main-series": 148
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Dragonite": {
     "Indices": {
       "main-series": 149
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Mewtwo": {
     "Indices": {
@@ -996,159 +1153,189 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Mew": {
     "Indices": {
       "main-series": 151
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
-
   // Gen 2
   "Chikorita": {
     "Indices": {
       "main-series": 152
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Bayleef": {
     "Indices": {
       "main-series": 153
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Meganium": {
     "Indices": {
       "main-series": 154
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Cyndaquil": {
     "Indices": {
       "main-series": 155
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Quilava": {
     "Indices": {
       "main-series": 156
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Typhlosion": {
     "Indices": {
       "main-series": 157
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Totodile": {
     "Indices": {
       "main-series": 158
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Croconaw": {
     "Indices": {
       "main-series": 159
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Feraligatr": {
     "Indices": {
       "main-series": 160
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Sentret": {
     "Indices": {
       "main-series": 161
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Furret": {
     "Indices": {
       "main-series": 162
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Hoothoot": {
     "Indices": {
       "main-series": 163
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Noctowl": {
     "Indices": {
       "main-series": 164
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Ledyba": {
     "Indices": {
       "main-series": 165
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Ledian": {
     "Indices": {
       "main-series": 166
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Spinarak": {
     "Indices": {
       "main-series": 167
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Ariados": {
     "Indices": {
       "main-series": 168
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Crobat": {
     "Indices": {
       "main-series": 169
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Chinchou": {
     "Indices": {
       "main-series": 170
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Lanturn": {
     "Indices": {
       "main-series": 171
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Pichu": {
     "Indices": {
       "main-series": 172
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Cleffa": {
     "Indices": {
       "main-series": 173
-    }
+    },
+    "Gender Ratio": "Male 1 Female 3"
   },
   "Igglybuff": {
     "Indices": {
       "main-series": 174
-    }
+    },
+    "Gender Ratio": "Male 1 Female 3"
   },
   "Togepi": {
     "Indices": {
       "main-series": 175
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Togetic": {
     "Indices": {
       "main-series": 176
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Natu": {
     "Indices": {
       "main-series": 177
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Xatu": {
     "Indices": {
       "main-series": 178
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Mareep": {
     "Indices": {
       "main-series": 179
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Flaaffy": {
     "Indices": {
       "main-series": 180
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Ampharos": {
     "Indices": {
@@ -1163,102 +1350,122 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Bellossom": {
     "Indices": {
       "main-series": 182
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Marill": {
     "Indices": {
       "main-series": 183
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Azumarill": {
     "Indices": {
       "main-series": 184
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Sudowoodo": {
     "Indices": {
       "main-series": 185
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Politoed": {
     "Indices": {
       "main-series": 186
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Hoppip": {
     "Indices": {
       "main-series": 187
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Skiploom": {
     "Indices": {
       "main-series": 188
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Jumpluff": {
     "Indices": {
       "main-series": 189
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Aipom": {
     "Indices": {
       "main-series": 190
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Sunkern": {
     "Indices": {
       "main-series": 191
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Sunflora": {
     "Indices": {
       "main-series": 192
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Yanma": {
     "Indices": {
       "main-series": 193
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Wooper": {
     "Indices": {
       "main-series": 194
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Quagsire": {
     "Indices": {
       "main-series": 195
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Espeon": {
     "Indices": {
       "main-series": 196
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Umbreon": {
     "Indices": {
       "main-series": 197
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Murkrow": {
     "Indices": {
       "main-series": 198
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Slowking": {
     "Indices": {
       "main-series": 199
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Misdreavus": {
     "Indices": {
       "main-series": 200
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Unown": {
     "Indices": {
@@ -1268,37 +1475,44 @@
       "A": {
         "Default": true
       }
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Wobbuffet": {
     "Indices": {
       "main-series": 202
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Girafarig": {
     "Indices": {
       "main-series": 203
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Pineco": {
     "Indices": {
       "main-series": 204
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Forretress": {
     "Indices": {
       "main-series": 205
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Dunsparce": {
     "Indices": {
       "main-series": 206
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Gligar": {
     "Indices": {
       "main-series": 207
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Steelix": {
     "Indices": {
@@ -1313,22 +1527,26 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Snubbull": {
     "Indices": {
       "main-series": 209
-    }
+    },
+    "Gender Ratio": "Male 1 Female 3"
   },
   "Granbull": {
     "Indices": {
       "main-series": 210
-    }
+    },
+    "Gender Ratio": "Male 1 Female 3"
   },
   "Qwilfish": {
     "Indices": {
       "main-series": 211
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Scizor": {
     "Indices": {
@@ -1343,12 +1561,14 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Shuckle": {
     "Indices": {
       "main-series": 213
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Heracross": {
     "Indices": {
@@ -1363,77 +1583,92 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Sneasel": {
     "Indices": {
       "main-series": 215
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Teddiursa": {
     "Indices": {
       "main-series": 216
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Ursaring": {
     "Indices": {
       "main-series": 217
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Slugma": {
     "Indices": {
       "main-series": 218
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Magcargo": {
     "Indices": {
       "main-series": 219
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Swinub": {
     "Indices": {
       "main-series": 220
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Piloswine": {
     "Indices": {
       "main-series": 221
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Corsola": {
     "Indices": {
       "main-series": 222
-    }
+    },
+    "Gender Ratio": "Male 1 Female 3"
   },
   "Remoraid": {
     "Indices": {
       "main-series": 223
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Octillery": {
     "Indices": {
       "main-series": 224
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Delibird": {
     "Indices": {
       "main-series": 225
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Mantine": {
     "Indices": {
       "main-series": 226
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Skarmory": {
     "Indices": {
       "main-series": 227
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Houndour": {
     "Indices": {
       "main-series": 228
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Houndoom": {
     "Indices": {
@@ -1448,97 +1683,116 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Kingdra": {
     "Indices": {
       "main-series": 230
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Phanpy": {
     "Indices": {
       "main-series": 231
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Donphan": {
     "Indices": {
       "main-series": 232
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Porygon2": {
     "Indices": {
       "main-series": 233
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Stantler": {
     "Indices": {
       "main-series": 234
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Smeargle": {
     "Indices": {
       "main-series": 235
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Tyrogue": {
     "Indices": {
       "main-series": 236
-    }
+    },
+    "Gender Ratio": "All Male"
   },
   "Hitmontop": {
     "Indices": {
       "main-series": 237
-    }
+    },
+    "Gender Ratio": "All Male"
   },
   "Smoochum": {
     "Indices": {
       "main-series": 238
-    }
+    },
+    "Gender Ratio": "All Female"
   },
   "Elekid": {
     "Indices": {
       "main-series": 239
-    }
+    },
+    "Gender Ratio": "Male 3 Female 1"
   },
   "Magby": {
     "Indices": {
       "main-series": 240
-    }
+    },
+    "Gender Ratio": "Male 3 Female 1"
   },
   "Miltank": {
     "Indices": {
       "main-series": 241
-    }
+    },
+    "Gender Ratio": "All Female"
   },
   "Blissey": {
     "Indices": {
       "main-series": 242
-    }
+    },
+    "Gender Ratio": "All Female"
   },
   "Raikou": {
     "Indices": {
       "main-series": 243
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Entei": {
     "Indices": {
       "main-series": 244
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Suicune": {
     "Indices": {
       "main-series": 245
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Larvitar": {
     "Indices": {
       "main-series": 246
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Pupitar": {
     "Indices": {
       "main-series": 247
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Tyranitar": {
     "Indices": {
@@ -1553,34 +1807,39 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Lugia": {
     "Indices": {
       "main-series": 249
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Ho-Oh": {
     "Indices": {
       "main-series": 250
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Celebi": {
     "Indices": {
       "main-series": 251
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
-
   // Gen 3
   "Treecko": {
     "Indices": {
       "main-series": 252
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Grovyle": {
     "Indices": {
       "main-series": 253
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Sceptile": {
     "Indices": {
@@ -1595,17 +1854,20 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Torchic": {
     "Indices": {
       "main-series": 255
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Combusken": {
     "Indices": {
       "main-series": 256
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Blaziken": {
     "Indices": {
@@ -1620,17 +1882,20 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Mudkip": {
     "Indices": {
       "main-series": 258
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Marshtomp": {
     "Indices": {
       "main-series": 259
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Swampert": {
     "Indices": {
@@ -1645,112 +1910,134 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Poochyena": {
     "Indices": {
       "main-series": 261
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Mightyena": {
     "Indices": {
       "main-series": 262
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Zigzagoon": {
     "Indices": {
       "main-series": 263
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Linoone": {
     "Indices": {
       "main-series": 264
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Wurmple": {
     "Indices": {
       "main-series": 265
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Silcoon": {
     "Indices": {
       "main-series": 266
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Beautifly": {
     "Indices": {
       "main-series": 267
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Cascoon": {
     "Indices": {
       "main-series": 268
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Dustox": {
     "Indices": {
       "main-series": 269
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Lotad": {
     "Indices": {
       "main-series": 270
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Lombre": {
     "Indices": {
       "main-series": 271
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Ludicolo": {
     "Indices": {
       "main-series": 272
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Seedot": {
     "Indices": {
       "main-series": 273
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Nuzleaf": {
     "Indices": {
       "main-series": 274
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Shiftry": {
     "Indices": {
       "main-series": 275
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Taillow": {
     "Indices": {
       "main-series": 276
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Swellow": {
     "Indices": {
       "main-series": 277
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Wingull": {
     "Indices": {
       "main-series": 278
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Pelipper": {
     "Indices": {
       "main-series": 279
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Ralts": {
     "Indices": {
       "main-series": 280
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Kirlia": {
     "Indices": {
       "main-series": 281
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Gardevoir": {
     "Indices": {
@@ -1765,102 +2052,122 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Surskit": {
     "Indices": {
       "main-series": 283
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Masquerain": {
     "Indices": {
       "main-series": 284
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Shroomish": {
     "Indices": {
       "main-series": 285
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Breloom": {
     "Indices": {
       "main-series": 286
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Slakoth": {
     "Indices": {
       "main-series": 287
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Vigoroth": {
     "Indices": {
       "main-series": 288
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Slaking": {
     "Indices": {
       "main-series": 289
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Nincada": {
     "Indices": {
       "main-series": 290
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Ninjask": {
     "Indices": {
       "main-series": 291
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Shedinja": {
     "Indices": {
       "main-series": 292
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Whismur": {
     "Indices": {
       "main-series": 293
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Loudred": {
     "Indices": {
       "main-series": 294
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Exploud": {
     "Indices": {
       "main-series": 295
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Makuhita": {
     "Indices": {
       "main-series": 296
-    }
+    },
+    "Gender Ratio": "Male 3 Female 1"
   },
   "Hariyama": {
     "Indices": {
       "main-series": 297
-    }
+    },
+    "Gender Ratio": "Male 3 Female 1"
   },
   "Azurill": {
     "Indices": {
       "main-series": 298
-    }
+    },
+    "Gender Ratio": "Male 1 Female 3"
   },
   "Nosepass": {
     "Indices": {
       "main-series": 299
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Skitty": {
     "Indices": {
       "main-series": 300
-    }
+    },
+    "Gender Ratio": "Male 1 Female 3"
   },
   "Delcatty": {
     "Indices": {
       "main-series": 301
-    }
+    },
+    "Gender Ratio": "Male 1 Female 3"
   },
   "Sableye": {
     "Indices": {
@@ -1875,7 +2182,8 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Mawile": {
     "Indices": {
@@ -1890,17 +2198,20 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Aron": {
     "Indices": {
       "main-series": 304
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Lairon": {
     "Indices": {
       "main-series": 305
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Aggron": {
     "Indices": {
@@ -1915,12 +2226,14 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Meditite": {
     "Indices": {
       "main-series": 307
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Medicham": {
     "Indices": {
@@ -1935,12 +2248,14 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Electrike": {
     "Indices": {
       "main-series": 309
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Manectric": {
     "Indices": {
@@ -1955,47 +2270,56 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Plusle": {
     "Indices": {
       "main-series": 311
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Minun": {
     "Indices": {
       "main-series": 312
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Volbeat": {
     "Indices": {
       "main-series": 313
-    }
+    },
+    "Gender Ratio": "All Male"
   },
   "Illumise": {
     "Indices": {
       "main-series": 314
-    }
+    },
+    "Gender Ratio": "All Female"
   },
   "Roselia": {
     "Indices": {
       "main-series": 315
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Gulpin": {
     "Indices": {
       "main-series": 316
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Swalot": {
     "Indices": {
       "main-series": 317
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Carvanha": {
     "Indices": {
       "main-series": 318
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Sharpedo": {
     "Indices": {
@@ -2010,22 +2334,26 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Wailmer": {
     "Indices": {
       "main-series": 320
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Wailord": {
     "Indices": {
       "main-series": 321
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Numel": {
     "Indices": {
       "main-series": 322
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Camerupt": {
     "Indices": {
@@ -2040,57 +2368,68 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Torkoal": {
     "Indices": {
       "main-series": 324
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Spoink": {
     "Indices": {
       "main-series": 325
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Grumpig": {
     "Indices": {
       "main-series": 326
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Spinda": {
     "Indices": {
       "main-series": 327
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Trapinch": {
     "Indices": {
       "main-series": 328
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Vibrava": {
     "Indices": {
       "main-series": 329
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Flygon": {
     "Indices": {
       "main-series": 330
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Cacnea": {
     "Indices": {
       "main-series": 331
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Cacturne": {
     "Indices": {
       "main-series": 332
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Swablu": {
     "Indices": {
       "main-series": 333
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Altaria": {
     "Indices": {
@@ -2105,87 +2444,104 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Zangoose": {
     "Indices": {
       "main-series": 335
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Seviper": {
     "Indices": {
       "main-series": 336
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Lunatone": {
     "Indices": {
       "main-series": 337
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Solrock": {
     "Indices": {
       "main-series": 338
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Barboach": {
     "Indices": {
       "main-series": 339
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Whiscash": {
     "Indices": {
       "main-series": 340
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Corphish": {
     "Indices": {
       "main-series": 341
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Crawdaunt": {
     "Indices": {
       "main-series": 342
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Baltoy": {
     "Indices": {
       "main-series": 343
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Claydol": {
     "Indices": {
       "main-series": 344
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Lileep": {
     "Indices": {
       "main-series": 345
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Cradily": {
     "Indices": {
       "main-series": 346
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Anorith": {
     "Indices": {
       "main-series": 347
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Armaldo": {
     "Indices": {
       "main-series": 348
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Feebas": {
     "Indices": {
       "main-series": 349
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Milotic": {
     "Indices": {
       "main-series": 350
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Castform": {
     "Indices": {
@@ -2245,17 +2601,20 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Kecleon": {
     "Indices": {
       "main-series": 352
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Shuppet": {
     "Indices": {
       "main-series": 353
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Banette": {
     "Indices": {
@@ -2270,27 +2629,32 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Duskull": {
     "Indices": {
       "main-series": 355
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Dusclops": {
     "Indices": {
       "main-series": 356
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Tropius": {
     "Indices": {
       "main-series": 357
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Chimecho": {
     "Indices": {
       "main-series": 358
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Absol": {
     "Indices": {
@@ -2305,17 +2669,20 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Wynaut": {
     "Indices": {
       "main-series": 360
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Snorunt": {
     "Indices": {
       "main-series": 361
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Glalie": {
     "Indices": {
@@ -2330,57 +2697,68 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Spheal": {
     "Indices": {
       "main-series": 363
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Sealeo": {
     "Indices": {
       "main-series": 364
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Walrein": {
     "Indices": {
       "main-series": 365
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Clamperl": {
     "Indices": {
       "main-series": 366
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Huntail": {
     "Indices": {
       "main-series": 367
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Gorebyss": {
     "Indices": {
       "main-series": 368
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Relicanth": {
     "Indices": {
       "main-series": 369
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Luvdisc": {
     "Indices": {
       "main-series": 370
-    }
+    },
+    "Gender Ratio": "Male 1 Female 3"
   },
   "Bagon": {
     "Indices": {
       "main-series": 371
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Shelgon": {
     "Indices": {
       "main-series": 372
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Salamence": {
     "Indices": {
@@ -2395,17 +2773,20 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Beldum": {
     "Indices": {
       "main-series": 374
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Metang": {
     "Indices": {
       "main-series": 375
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Metagross": {
     "Indices": {
@@ -2420,22 +2801,26 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Regirock": {
     "Indices": {
       "main-series": 377
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Regice": {
     "Indices": {
       "main-series": 378
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Registeel": {
     "Indices": {
       "main-series": 379
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Latias": {
     "Indices": {
@@ -2450,7 +2835,8 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "All Female"
   },
   "Latios": {
     "Indices": {
@@ -2465,7 +2851,8 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "All Male"
   },
   "Kyogre": {
     "Indices": {
@@ -2480,7 +2867,8 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Groudon": {
     "Indices": {
@@ -2495,7 +2883,8 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Rayquaza": {
     "Indices": {
@@ -2509,12 +2898,14 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Jirachi": {
     "Indices": {
       "main-series": 385
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Deoxys": {
     "Indices": {
@@ -2524,134 +2915,159 @@
       "Normal": {
         "Default": true
       }
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
-
   // Gen 4
   "Turtwig": {
     "Indices": {
       "main-series": 387
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Grotle": {
     "Indices": {
       "main-series": 388
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Torterra": {
     "Indices": {
       "main-series": 389
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Chimchar": {
     "Indices": {
       "main-series": 390
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Monferno": {
     "Indices": {
       "main-series": 391
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Infernape": {
     "Indices": {
       "main-series": 392
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Piplup": {
     "Indices": {
       "main-series": 393
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Prinplup": {
     "Indices": {
       "main-series": 394
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Empoleon": {
     "Indices": {
       "main-series": 395
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Starly": {
     "Indices": {
       "main-series": 396
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Staravia": {
     "Indices": {
       "main-series": 397
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Staraptor": {
     "Indices": {
       "main-series": 398
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Bidoof": {
     "Indices": {
       "main-series": 399
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Bibarel": {
     "Indices": {
       "main-series": 400
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Kricketot": {
     "Indices": {
       "main-series": 401
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Kricketune": {
     "Indices": {
       "main-series": 402
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Shinx": {
     "Indices": {
       "main-series": 403
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Luxio": {
     "Indices": {
       "main-series": 404
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Luxray": {
     "Indices": {
       "main-series": 405
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Budew": {
     "Indices": {
       "main-series": 406
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Roserade": {
     "Indices": {
       "main-series": 407
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Cranidos": {
     "Indices": {
       "main-series": 408
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Rampardos": {
     "Indices": {
       "main-series": 409
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Shieldon": {
     "Indices": {
       "main-series": 410
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Bastiodon": {
     "Indices": {
       "main-series": 411
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Burmy": {
     "Indices": {
@@ -2661,7 +3077,8 @@
       "Plant Cloak": {
         "Default": true
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Wormadam": {
     "Indices": {
@@ -2671,42 +3088,50 @@
       "Plant Cloak": {
         "Default": true
       }
-    }
+    },
+    "Gender Ratio": "All Female"
   },
   "Mothim": {
     "Indices": {
       "main-series": 414
-    }
+    },
+    "Gender Ratio": "All Male"
   },
   "Combee": {
     "Indices": {
       "main-series": 415
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Vespiquen": {
     "Indices": {
       "main-series": 416
-    }
+    },
+    "Gender Ratio": "All Female"
   },
   "Pachirisu": {
     "Indices": {
       "main-series": 417
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Buizel": {
     "Indices": {
       "main-series": 418
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Floatzel": {
     "Indices": {
       "main-series": 419
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Cherubi": {
     "Indices": {
       "main-series": 420
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Cherrim": {
     "Indices": {
@@ -2728,7 +3153,8 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Shellos": {
     "Indices": {
@@ -2738,7 +3164,8 @@
       "West Sea": {
         "Default": true
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Gastrodon": {
     "Indices": {
@@ -2748,27 +3175,32 @@
       "West Sea": {
         "Default": true
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Ambipom": {
     "Indices": {
       "main-series": 424
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Drifloon": {
     "Indices": {
       "main-series": 425
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Drifblim": {
     "Indices": {
       "main-series": 426
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Buneary": {
     "Indices": {
       "main-series": 427
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Lopunny": {
     "Indices": {
@@ -2783,87 +3215,104 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Mismagius": {
     "Indices": {
       "main-series": 429
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Honchkrow": {
     "Indices": {
       "main-series": 430
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Glameow": {
     "Indices": {
       "main-series": 431
-    }
+    },
+    "Gender Ratio": "Male 1 Female 3"
   },
   "Purugly": {
     "Indices": {
       "main-series": 432
-    }
+    },
+    "Gender Ratio": "Male 1 Female 3"
   },
   "Chingling": {
     "Indices": {
       "main-series": 433
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Stunky": {
     "Indices": {
       "main-series": 434
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Skuntank": {
     "Indices": {
       "main-series": 435
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Bronzor": {
     "Indices": {
       "main-series": 436
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Bronzong": {
     "Indices": {
       "main-series": 437
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Bonsly": {
     "Indices": {
       "main-series": 438
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Mime Jr.": {
     "Indices": {
       "main-series": 439
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Happiny": {
     "Indices": {
       "main-series": 440
-    }
+    },
+    "Gender Ratio": "All Female"
   },
   "Chatot": {
     "Indices": {
       "main-series": 441
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Spiritomb": {
     "Indices": {
       "main-series": 442
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Gible": {
     "Indices": {
       "main-series": 443
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Gabite": {
     "Indices": {
       "main-series": 444
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Garchomp": {
     "Indices": {
@@ -2878,17 +3327,20 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Munchlax": {
     "Indices": {
       "main-series": 446
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Riolu": {
     "Indices": {
       "main-series": 447
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Lucario": {
     "Indices": {
@@ -2903,62 +3355,74 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Hippopotas": {
     "Indices": {
       "main-series": 449
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Hippowdon": {
     "Indices": {
       "main-series": 450
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Skorupi": {
     "Indices": {
       "main-series": 451
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Drapion": {
     "Indices": {
       "main-series": 452
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Croagunk": {
     "Indices": {
       "main-series": 453
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Toxicroak": {
     "Indices": {
       "main-series": 454
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Carnivine": {
     "Indices": {
       "main-series": 455
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Finneon": {
     "Indices": {
       "main-series": 456
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Lumineon": {
     "Indices": {
       "main-series": 457
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Mantyke": {
     "Indices": {
       "main-series": 458
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Snover": {
     "Indices": {
       "main-series": 459
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Abomasnow": {
     "Indices": {
@@ -2973,77 +3437,92 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Weavile": {
     "Indices": {
       "main-series": 461
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Magnezone": {
     "Indices": {
       "main-series": 462
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Lickilicky": {
     "Indices": {
       "main-series": 463
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Rhyperior": {
     "Indices": {
       "main-series": 464
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Tangrowth": {
     "Indices": {
       "main-series": 465
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Electivire": {
     "Indices": {
       "main-series": 466
-    }
+    },
+    "Gender Ratio": "Male 3 Female 1"
   },
   "Magmortar": {
     "Indices": {
       "main-series": 467
-    }
+    },
+    "Gender Ratio": "Male 3 Female 1"
   },
   "Togekiss": {
     "Indices": {
       "main-series": 468
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Yanmega": {
     "Indices": {
       "main-series": 469
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Leafeon": {
     "Indices": {
       "main-series": 470
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Glaceon": {
     "Indices": {
       "main-series": 471
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Gliscor": {
     "Indices": {
       "main-series": 472
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Mamoswine": {
     "Indices": {
       "main-series": 473
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Porygon-Z": {
     "Indices": {
       "main-series": 474
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Gallade": {
     "Indices": {
@@ -3058,62 +3537,74 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "All Male"
   },
   "Probopass": {
     "Indices": {
       "main-series": 476
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Dusknoir": {
     "Indices": {
       "main-series": 477
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Froslass": {
     "Indices": {
       "main-series": 478
-    }
+    },
+    "Gender Ratio": "All Female"
   },
   "Rotom": {
     "Indices": {
       "main-series": 479
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Uxie": {
     "Indices": {
       "main-series": 480
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Mesprit": {
     "Indices": {
       "main-series": 481
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Azelf": {
     "Indices": {
       "main-series": 482
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Dialga": {
     "Indices": {
       "main-series": 483
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Palkia": {
     "Indices": {
       "main-series": 484
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Heatran": {
     "Indices": {
       "main-series": 485
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Regigigas": {
     "Indices": {
       "main-series": 486
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Giratina": {
     "Indices": {
@@ -3123,27 +3614,32 @@
       "Altered": {
         "Default": true
       }
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Cresselia": {
     "Indices": {
       "main-series": 488
-    }
+    },
+    "Gender Ratio": "All Female"
   },
   "Phione": {
     "Indices": {
       "main-series": 489
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Manaphy": {
     "Indices": {
       "main-series": 490
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Darkrai": {
     "Indices": {
       "main-series": 491
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Shaymin": {
     "Indices": {
@@ -3153,7 +3649,8 @@
       "Land": {
         "Default": true
       }
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Arceus": {
     "Indices": {
@@ -3163,194 +3660,231 @@
       "Normal": {
         "Default": true
       }
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
-
   // Gen 5
   "Victini": {
     "Indices": {
       "main-series": 494
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Snivy": {
     "Indices": {
       "main-series": 495
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Servine": {
     "Indices": {
       "main-series": 496
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Serperior": {
     "Indices": {
       "main-series": 497
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Tepig": {
     "Indices": {
       "main-series": 498
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Pignite": {
     "Indices": {
       "main-series": 499
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Emboar": {
     "Indices": {
       "main-series": 500
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Oshawott": {
     "Indices": {
       "main-series": 501
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Dewott": {
     "Indices": {
       "main-series": 502
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Samurott": {
     "Indices": {
       "main-series": 503
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Patrat": {
     "Indices": {
       "main-series": 504
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Watchog": {
     "Indices": {
       "main-series": 505
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Lillipup": {
     "Indices": {
       "main-series": 506
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Herdier": {
     "Indices": {
       "main-series": 507
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Stoutland": {
     "Indices": {
       "main-series": 508
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Purrloin": {
     "Indices": {
       "main-series": 509
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Liepard": {
     "Indices": {
       "main-series": 510
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Pansage": {
     "Indices": {
       "main-series": 511
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Simisage": {
     "Indices": {
       "main-series": 512
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Pansear": {
     "Indices": {
       "main-series": 513
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Simisear": {
     "Indices": {
       "main-series": 514
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Panpour": {
     "Indices": {
       "main-series": 515
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Simipour": {
     "Indices": {
       "main-series": 516
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Munna": {
     "Indices": {
       "main-series": 517
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Musharna": {
     "Indices": {
       "main-series": 518
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Pidove": {
     "Indices": {
       "main-series": 519
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Tranquill": {
     "Indices": {
       "main-series": 520
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Unfezant": {
     "Indices": {
       "main-series": 521
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Blitzle": {
     "Indices": {
       "main-series": 522
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Zebstrika": {
     "Indices": {
       "main-series": 523
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Roggenrola": {
     "Indices": {
       "main-series": 524
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Boldore": {
     "Indices": {
       "main-series": 525
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Gigalith": {
     "Indices": {
       "main-series": 526
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Woobat": {
     "Indices": {
       "main-series": 527
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Swoobat": {
     "Indices": {
       "main-series": 528
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Drilbur": {
     "Indices": {
       "main-series": 529
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Excadrill": {
     "Indices": {
       "main-series": 530
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Audino": {
     "Indices": {
@@ -3365,97 +3899,116 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Timburr": {
     "Indices": {
       "main-series": 532
-    }
+    },
+    "Gender Ratio": "Male 3 Female 1"
   },
   "Gurdurr": {
     "Indices": {
       "main-series": 533
-    }
+    },
+    "Gender Ratio": "Male 3 Female 1"
   },
   "Conkeldurr": {
     "Indices": {
       "main-series": 534
-    }
+    },
+    "Gender Ratio": "Male 3 Female 1"
   },
   "Tympole": {
     "Indices": {
       "main-series": 535
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Palpitoad": {
     "Indices": {
       "main-series": 536
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Seismitoad": {
     "Indices": {
       "main-series": 537
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Throh": {
     "Indices": {
       "main-series": 538
-    }
+    },
+    "Gender Ratio": "All Male"
   },
   "Sawk": {
     "Indices": {
       "main-series": 539
-    }
+    },
+    "Gender Ratio": "All Male"
   },
   "Sewaddle": {
     "Indices": {
       "main-series": 540
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Swadloon": {
     "Indices": {
       "main-series": 541
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Leavanny": {
     "Indices": {
       "main-series": 542
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Venipede": {
     "Indices": {
       "main-series": 543
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Whirlipede": {
     "Indices": {
       "main-series": 544
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Scolipede": {
     "Indices": {
       "main-series": 545
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Cottonee": {
     "Indices": {
       "main-series": 546
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Whimsicott": {
     "Indices": {
       "main-series": 547
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Petilil": {
     "Indices": {
       "main-series": 548
-    }
+    },
+    "Gender Ratio": "All Female"
   },
   "Lilligant": {
     "Indices": {
       "main-series": 549
-    }
+    },
+    "Gender Ratio": "All Female"
   },
   "Basculin": {
     "Indices": {
@@ -3465,27 +4018,32 @@
       "Red-Striped": {
         "Default": true
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Sandile": {
     "Indices": {
       "main-series": 551
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Krokorok": {
     "Indices": {
       "main-series": 552
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Krookodile": {
     "Indices": {
       "main-series": 553
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Darumaka": {
     "Indices": {
       "main-series": 554
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Darmanitan": {
     "Indices": {
@@ -3521,72 +4079,86 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Maractus": {
     "Indices": {
       "main-series": 556
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Dwebble": {
     "Indices": {
       "main-series": 557
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Crustle": {
     "Indices": {
       "main-series": 558
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Scraggy": {
     "Indices": {
       "main-series": 559
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Scrafty": {
     "Indices": {
       "main-series": 560
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Sigilyph": {
     "Indices": {
       "main-series": 561
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Yamask": {
     "Indices": {
       "main-series": 562
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Cofagrigus": {
     "Indices": {
       "main-series": 563
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Tirtouga": {
     "Indices": {
       "main-series": 564
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Carracosta": {
     "Indices": {
       "main-series": 565
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Archen": {
     "Indices": {
       "main-series": 566
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Archeops": {
     "Indices": {
       "main-series": 567
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Trubbish": {
     "Indices": {
       "main-series": 568
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Garbodor": {
     "Indices": {
@@ -3600,82 +4172,98 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Zorua": {
     "Indices": {
       "main-series": 570
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Zoroark": {
     "Indices": {
       "main-series": 571
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Minccino": {
     "Indices": {
       "main-series": 572
-    }
+    },
+    "Gender Ratio": "Male 1 Female 3"
   },
   "Cinccino": {
     "Indices": {
       "main-series": 573
-    }
+    },
+    "Gender Ratio": "Male 1 Female 3"
   },
   "Gothita": {
     "Indices": {
       "main-series": 574
-    }
+    },
+    "Gender Ratio": "Male 1 Female 3"
   },
   "Gothorita": {
     "Indices": {
       "main-series": 575
-    }
+    },
+    "Gender Ratio": "Male 1 Female 3"
   },
   "Gothitelle": {
     "Indices": {
       "main-series": 576
-    }
+    },
+    "Gender Ratio": "Male 1 Female 3"
   },
   "Solosis": {
     "Indices": {
       "main-series": 577
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Duosion": {
     "Indices": {
       "main-series": 578
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Reuniclus": {
     "Indices": {
       "main-series": 579
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Ducklett": {
     "Indices": {
       "main-series": 580
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Swanna": {
     "Indices": {
       "main-series": 581
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Vanillite": {
     "Indices": {
       "main-series": 582
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Vanillish": {
     "Indices": {
       "main-series": 583
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Vanilluxe": {
     "Indices": {
       "main-series": 584
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Deerling": {
     "Indices": {
@@ -3685,7 +4273,8 @@
       "Spring": {
         "Default": true
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Sawsbuck": {
     "Indices": {
@@ -3695,277 +4284,332 @@
       "Spring": {
         "Default": true
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Emolga": {
     "Indices": {
       "main-series": 587
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Karrablast": {
     "Indices": {
       "main-series": 588
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Escavalier": {
     "Indices": {
       "main-series": 589
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Foongus": {
     "Indices": {
       "main-series": 590
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Amoonguss": {
     "Indices": {
       "main-series": 591
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Frillish": {
     "Indices": {
       "main-series": 592
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Jellicent": {
     "Indices": {
       "main-series": 593
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Alomomola": {
     "Indices": {
       "main-series": 594
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Joltik": {
     "Indices": {
       "main-series": 595
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Galvantula": {
     "Indices": {
       "main-series": 596
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Ferroseed": {
     "Indices": {
       "main-series": 597
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Ferrothorn": {
     "Indices": {
       "main-series": 598
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Klink": {
     "Indices": {
       "main-series": 599
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Klang": {
     "Indices": {
       "main-series": 600
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Klinklang": {
     "Indices": {
       "main-series": 601
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Tynamo": {
     "Indices": {
       "main-series": 602
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Eelektrik": {
     "Indices": {
       "main-series": 603
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Eelektross": {
     "Indices": {
       "main-series": 604
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Elgyem": {
     "Indices": {
       "main-series": 605
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Beheeyem": {
     "Indices": {
       "main-series": 606
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Litwick": {
     "Indices": {
       "main-series": 607
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Lampent": {
     "Indices": {
       "main-series": 608
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Chandelure": {
     "Indices": {
       "main-series": 609
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Axew": {
     "Indices": {
       "main-series": 610
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Fraxure": {
     "Indices": {
       "main-series": 611
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Haxorus": {
     "Indices": {
       "main-series": 612
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Cubchoo": {
     "Indices": {
       "main-series": 613
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Beartic": {
     "Indices": {
       "main-series": 614
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Cryogonal": {
     "Indices": {
       "main-series": 615
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Shelmet": {
     "Indices": {
       "main-series": 616
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Accelgor": {
     "Indices": {
       "main-series": 617
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Stunfisk": {
     "Indices": {
       "main-series": 618
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Mienfoo": {
     "Indices": {
       "main-series": 619
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Mienshao": {
     "Indices": {
       "main-series": 620
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Druddigon": {
     "Indices": {
       "main-series": 621
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Golett": {
     "Indices": {
       "main-series": 622
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Golurk": {
     "Indices": {
       "main-series": 623
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Pawniard": {
     "Indices": {
       "main-series": 624
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Bisharp": {
     "Indices": {
       "main-series": 625
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Bouffalant": {
     "Indices": {
       "main-series": 626
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Rufflet": {
     "Indices": {
       "main-series": 627
-    }
+    },
+    "Gender Ratio": "All Male"
   },
   "Braviary": {
     "Indices": {
       "main-series": 628
-    }
+    },
+    "Gender Ratio": "All Male"
   },
   "Vullaby": {
     "Indices": {
       "main-series": 629
-    }
+    },
+    "Gender Ratio": "All Female"
   },
   "Mandibuzz": {
     "Indices": {
       "main-series": 630
-    }
+    },
+    "Gender Ratio": "All Female"
   },
   "Heatmor": {
     "Indices": {
       "main-series": 631
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Durant": {
     "Indices": {
       "main-series": 632
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Deino": {
     "Indices": {
       "main-series": 633
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Zweilous": {
     "Indices": {
       "main-series": 634
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Hydreigon": {
     "Indices": {
       "main-series": 635
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Larvesta": {
     "Indices": {
       "main-series": 636
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Volcarona": {
     "Indices": {
       "main-series": 637
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Cobalion": {
     "Indices": {
       "main-series": 638
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Terrakion": {
     "Indices": {
       "main-series": 639
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Virizion": {
     "Indices": {
       "main-series": 640
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Tornadus": {
     "Indices": {
@@ -3975,7 +4619,8 @@
       "Incarnate": {
         "Default": true
       }
-    }
+    },
+    "Gender Ratio": "All Male"
   },
   "Thundurus": {
     "Indices": {
@@ -3985,17 +4630,20 @@
       "Incarnate": {
         "Default": true
       }
-    }
+    },
+    "Gender Ratio": "All Male"
   },
   "Reshiram": {
     "Indices": {
       "main-series": 643
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Zekrom": {
     "Indices": {
       "main-series": 644
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Landorus": {
     "Indices": {
@@ -4005,12 +4653,14 @@
       "Incarnate": {
         "Default": true
       }
-    }
+    },
+    "Gender Ratio": "All Male"
   },
   "Kyurem": {
     "Indices": {
       "main-series": 646
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Keldeo": {
     "Indices": {
@@ -4020,7 +4670,8 @@
       "Ordinary": {
         "Default": true
       }
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Meloetta": {
     "Indices": {
@@ -4042,54 +4693,63 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Genesect": {
     "Indices": {
       "main-series": 649
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
-
   // Gen 6
   "Chespin": {
     "Indices": {
       "main-series": 650
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Quilladin": {
     "Indices": {
       "main-series": 651
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Chesnaught": {
     "Indices": {
       "main-series": 652
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Fennekin": {
     "Indices": {
       "main-series": 653
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Braixen": {
     "Indices": {
       "main-series": 654
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Delphox": {
     "Indices": {
       "main-series": 655
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Froakie": {
     "Indices": {
       "main-series": 656
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Frogadier": {
     "Indices": {
       "main-series": 657
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Greninja": {
     "Indices": {
@@ -4103,42 +4763,50 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Bunnelby": {
     "Indices": {
       "main-series": 659
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Diggersby": {
     "Indices": {
       "main-series": 660
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Fletchling": {
     "Indices": {
       "main-series": 661
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Fletchinder": {
     "Indices": {
       "main-series": 662
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Talonflame": {
     "Indices": {
       "main-series": 663
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Scatterbug": {
     "Indices": {
       "main-series": 664
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Spewpa": {
     "Indices": {
       "main-series": 665
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Vivillon": {
     "Indices": {
@@ -4148,17 +4816,20 @@
       "Meadow": {
         "Default": true
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Litleo": {
     "Indices": {
       "main-series": 667
-    }
+    },
+    "Gender Ratio": "Male 1 Female 7"
   },
   "Pyroar": {
     "Indices": {
       "main-series": 668
-    }
+    },
+    "Gender Ratio": "Male 1 Female 7"
   },
   "Flabébé": {
     "Indices": {
@@ -4168,7 +4839,8 @@
       "Red Flower": {
         "Default": true
       }
-    }
+    },
+    "Gender Ratio": "All Female"
   },
   "Floette": {
     "Indices": {
@@ -4178,7 +4850,8 @@
       "Red Flower": {
         "Default": true
       }
-    }
+    },
+    "Gender Ratio": "All Female"
   },
   "Florges": {
     "Indices": {
@@ -4188,27 +4861,32 @@
       "Red Flower": {
         "Default": true
       }
-    }
+    },
+    "Gender Ratio": "All Female"
   },
   "Skiddo": {
     "Indices": {
       "main-series": 672
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Gogoat": {
     "Indices": {
       "main-series": 673
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Pancham": {
     "Indices": {
       "main-series": 674
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Pangoro": {
     "Indices": {
       "main-series": 675
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Furfrou": {
     "Indices": {
@@ -4218,27 +4896,32 @@
       "Natural": {
         "Default": true
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Espurr": {
     "Indices": {
       "main-series": 677
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Meowstic": {
     "Indices": {
       "main-series": 678
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Honedge": {
     "Indices": {
       "main-series": 679
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Doublade": {
     "Indices": {
       "main-series": 680
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Aegislash": {
     "Indices": {
@@ -4260,187 +4943,224 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Spritzee": {
     "Indices": {
       "main-series": 682
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Aromatisse": {
     "Indices": {
       "main-series": 683
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Swirlix": {
     "Indices": {
       "main-series": 684
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Slurpuff": {
     "Indices": {
       "main-series": 685
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Inkay": {
     "Indices": {
       "main-series": 686
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Malamar": {
     "Indices": {
       "main-series": 687
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Binacle": {
     "Indices": {
       "main-series": 688
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Barbaracle": {
     "Indices": {
       "main-series": 689
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Skrelp": {
     "Indices": {
       "main-series": 690
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Dragalge": {
     "Indices": {
       "main-series": 691
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Clauncher": {
     "Indices": {
       "main-series": 692
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Clawitzer": {
     "Indices": {
       "main-series": 693
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Helioptile": {
     "Indices": {
       "main-series": 694
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Heliolisk": {
     "Indices": {
       "main-series": 695
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Tyrunt": {
     "Indices": {
       "main-series": 696
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Tyrantrum": {
     "Indices": {
       "main-series": 697
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Amaura": {
     "Indices": {
       "main-series": 698
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Aurorus": {
     "Indices": {
       "main-series": 699
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Sylveon": {
     "Indices": {
       "main-series": 700
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Hawlucha": {
     "Indices": {
       "main-series": 701
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Dedenne": {
     "Indices": {
       "main-series": 702
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Carbink": {
     "Indices": {
       "main-series": 703
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Goomy": {
     "Indices": {
       "main-series": 704
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Sliggoo": {
     "Indices": {
       "main-series": 705
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Goodra": {
     "Indices": {
       "main-series": 706
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Klefki": {
     "Indices": {
       "main-series": 707
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Phantump": {
     "Indices": {
       "main-series": 708
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Trevenant": {
     "Indices": {
       "main-series": 709
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Pumpkaboo": {
     "Indices": {
       "main-series": 710
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Gourgeist": {
     "Indices": {
       "main-series": 711
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Bergmite": {
     "Indices": {
       "main-series": 712
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Avalugg": {
     "Indices": {
       "main-series": 713
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Noibat": {
     "Indices": {
       "main-series": 714
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Noivern": {
     "Indices": {
       "main-series": 715
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Xerneas": {
     "Indices": {
       "main-series": 716
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Yveltal": {
     "Indices": {
       "main-series": 717
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Zygarde": {
     "Indices": {
@@ -4462,7 +5182,8 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Diancie": {
     "Indices": {
@@ -4477,7 +5198,8 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Hoopa": {
     "Indices": {
@@ -4487,79 +5209,93 @@
       "Confined": {
         "Default": true
       }
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Volcanion": {
     "Indices": {
       "main-series": 721
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
-
   // Gen 7
   "Rowlet": {
     "Indices": {
       "main-series": 722
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Dartrix": {
     "Indices": {
       "main-series": 723
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Decidueye": {
     "Indices": {
       "main-series": 724
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Litten": {
     "Indices": {
       "main-series": 725
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Torracat": {
     "Indices": {
       "main-series": 726
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Incineroar": {
     "Indices": {
       "main-series": 727
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Popplio": {
     "Indices": {
       "main-series": 728
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Brionne": {
     "Indices": {
       "main-series": 729
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Primarina": {
     "Indices": {
       "main-series": 730
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Pikipek": {
     "Indices": {
       "main-series": 731
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Trumbeak": {
     "Indices": {
       "main-series": 732
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Toucannon": {
     "Indices": {
       "main-series": 733
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Yungoos": {
     "Indices": {
       "main-series": 734
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Gumshoos": {
     "Indices": {
@@ -4567,19 +5303,24 @@
     },
     "Forms": {
       "Totem": {
-        "Castable to": [ "" ]
+        "Castable to": [
+          ""
+        ]
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Grubbin": {
     "Indices": {
       "main-series": 736
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Charjabug": {
     "Indices": {
       "main-series": 737
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Vikavolt": {
     "Indices": {
@@ -4587,19 +5328,24 @@
     },
     "Forms": {
       "Totem": {
-        "Castable to": [ "" ]
+        "Castable to": [
+          ""
+        ]
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Crabrawler": {
     "Indices": {
       "main-series": 739
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Crabominable": {
     "Indices": {
       "main-series": 740
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Oricorio": {
     "Indices": {
@@ -4609,12 +5355,14 @@
       "Baile Style": {
         "Default": true
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 3"
   },
   "Cutiefly": {
     "Indices": {
       "main-series": 742
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Ribombee": {
     "Indices": {
@@ -4622,14 +5370,18 @@
     },
     "Forms": {
       "Totem": {
-        "Castable to": [ "" ]
+        "Castable to": [
+          ""
+        ]
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Rockruff": {
     "Indices": {
       "main-series": 744
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Lycanroc": {
     "Indices": {
@@ -4639,7 +5391,8 @@
       "Midday": {
         "Default": true
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Wishiwashi": {
     "Indices": {
@@ -4661,32 +5414,38 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Mareanie": {
     "Indices": {
       "main-series": 747
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Toxapex": {
     "Indices": {
       "main-series": 748
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Mudbray": {
     "Indices": {
       "main-series": 749
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Mudsdale": {
     "Indices": {
       "main-series": 750
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Dewpider": {
     "Indices": {
       "main-series": 751
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Araquanid": {
     "Indices": {
@@ -4694,14 +5453,18 @@
     },
     "Forms": {
       "Totem": {
-        "Castable to": [ "" ]
+        "Castable to": [
+          ""
+        ]
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Fomantis": {
     "Indices": {
       "main-series": 753
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Lurantis": {
     "Indices": {
@@ -4709,24 +5472,30 @@
     },
     "Forms": {
       "Totem": {
-        "Castable to": [ "" ]
+        "Castable to": [
+          ""
+        ]
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Morelull": {
     "Indices": {
       "main-series": 755
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Shiinotic": {
     "Indices": {
       "main-series": 756
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Salandit": {
     "Indices": {
       "main-series": 757
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Salazzle": {
     "Indices": {
@@ -4734,79 +5503,96 @@
     },
     "Forms": {
       "Totem": {
-        "Castable to": [ "" ]
+        "Castable to": [
+          ""
+        ]
       }
-    }
+    },
+    "Gender Ratio": "All Female"
   },
   "Stufful": {
     "Indices": {
       "main-series": 759
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Bewear": {
     "Indices": {
       "main-series": 760
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Bounsweet": {
     "Indices": {
       "main-series": 761
-    }
+    },
+    "Gender Ratio": "All Female"
   },
   "Steenee": {
     "Indices": {
       "main-series": 762
-    }
+    },
+    "Gender Ratio": "All Female"
   },
   "Tsareena": {
     "Indices": {
       "main-series": 763
-    }
+    },
+    "Gender Ratio": "All Female"
   },
   "Comfey": {
     "Indices": {
       "main-series": 764
-    }
+    },
+    "Gender Ratio": "Male 1 Female 3"
   },
   "Oranguru": {
     "Indices": {
       "main-series": 765
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Passimian": {
     "Indices": {
       "main-series": 766
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Wimpod": {
     "Indices": {
       "main-series": 767
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Golisopod": {
     "Indices": {
       "main-series": 768
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Sandygast": {
     "Indices": {
       "main-series": 769
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Palossand": {
     "Indices": {
       "main-series": 770
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Pyukumuku": {
     "Indices": {
       "main-series": 771
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Type: Null": {
     "Indices": {
       "main-series": 772
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Silvally": {
     "Indices": {
@@ -4816,7 +5602,8 @@
       "Normal": {
         "Default": true
       }
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Minior": {
     "Indices": {
@@ -4922,17 +5709,20 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Komala": {
     "Indices": {
       "main-series": 775
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Turtonator": {
     "Indices": {
       "main-series": 776
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Togedemaru": {
     "Indices": {
@@ -4940,9 +5730,12 @@
     },
     "Forms": {
       "Totem": {
-        "Castable to": [ "" ]
+        "Castable to": [
+          ""
+        ]
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Mimikyu": {
     "Indices": {
@@ -4958,7 +5751,9 @@
         }
       },
       "Disguised|Totem": {
-        "Castable to": [ "Disguised" ],
+        "Castable to": [
+          "Disguised"
+        ],
         "In-Battle Form Changes": {
           "Busted|Totem": {
             "Ability": "Disguise"
@@ -4966,34 +5761,42 @@
         }
       },
       "Busted|Totem": {
-        "Castable to": [ "Busted" ]
+        "Castable to": [
+          "Busted"
+        ]
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Bruxish": {
     "Indices": {
       "main-series": 779
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Drampa": {
     "Indices": {
       "main-series": 780
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Dhelmise": {
     "Indices": {
       "main-series": 781
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Jangmo-o": {
     "Indices": {
       "main-series": 782
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Hakamo-o": {
     "Indices": {
       "main-series": 783
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Kommo-o": {
     "Indices": {
@@ -5001,84 +5804,102 @@
     },
     "Forms": {
       "Totem": {
-        "Castable to": [ "" ]
+        "Castable to": [
+          ""
+        ]
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Tapu Koko": {
     "Indices": {
       "main-series": 785
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Tapu Lele": {
     "Indices": {
       "main-series": 786
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Tapu Bulu": {
     "Indices": {
       "main-series": 787
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Tapu Fini": {
     "Indices": {
       "main-series": 788
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Cosmog": {
     "Indices": {
       "main-series": 789
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Cosmoem": {
     "Indices": {
       "main-series": 790
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Solgaleo": {
     "Indices": {
       "main-series": 791
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Lunala": {
     "Indices": {
       "main-series": 792
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Nihilego": {
     "Indices": {
       "main-series": 793
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Buzzwole": {
     "Indices": {
       "main-series": 794
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Pheromosa": {
     "Indices": {
       "main-series": 795
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Xurkitree": {
     "Indices": {
       "main-series": 796
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Celesteela": {
     "Indices": {
       "main-series": 797
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Kartana": {
     "Indices": {
       "main-series": 798
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Guzzlord": {
     "Indices": {
       "main-series": 799
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Necrozma": {
     "Indices": {
@@ -5099,47 +5920,56 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Magearna": {
     "Indices": {
       "main-series": 801
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Marshadow": {
     "Indices": {
       "main-series": 802
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Poipole": {
     "Indices": {
       "main-series": 803
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Naganadel": {
     "Indices": {
       "main-series": 804
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Stakataka": {
     "Indices": {
       "main-series": 805
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Blacephalon": {
     "Indices": {
       "main-series": 806
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Zeraora": {
     "Indices": {
       "main-series": 807
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Meltan": {
     "Indices": {
       "main-series": 808
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Melmetal": {
     "Indices": {
@@ -5153,19 +5983,21 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
-
   // Gen 8
   "Grookey": {
     "Indices": {
       "main-series": 810
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Thwackey": {
     "Indices": {
       "main-series": 811
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Rillaboom": {
     "Indices": {
@@ -5179,17 +6011,20 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Scorbunny": {
     "Indices": {
       "main-series": 813
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Raboot": {
     "Indices": {
       "main-series": 814
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Cinderace": {
     "Indices": {
@@ -5203,17 +6038,20 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Sobble": {
     "Indices": {
       "main-series": 816
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Drizzile": {
     "Indices": {
       "main-series": 817
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Inteleon": {
     "Indices": {
@@ -5227,27 +6065,32 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Skwovet": {
     "Indices": {
       "main-series": 819
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Greedent": {
     "Indices": {
       "main-series": 820
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Rookidee": {
     "Indices": {
       "main-series": 821
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Corvisquire": {
     "Indices": {
       "main-series": 822
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Corviknight": {
     "Indices": {
@@ -5261,17 +6104,20 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Blipbug": {
     "Indices": {
       "main-series": 824
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Dottler": {
     "Indices": {
       "main-series": 825
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Orbeetle": {
     "Indices": {
@@ -5285,42 +6131,50 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Nickit": {
     "Indices": {
       "main-series": 827
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Thievul": {
     "Indices": {
       "main-series": 828
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Gossifleur": {
     "Indices": {
       "main-series": 829
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Eldegoss": {
     "Indices": {
       "main-series": 830
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Wooloo": {
     "Indices": {
       "main-series": 831
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Dubwool": {
     "Indices": {
       "main-series": 832
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Chewtle": {
     "Indices": {
       "main-series": 833
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Drednaw": {
     "Indices": {
@@ -5334,27 +6188,32 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Yamper": {
     "Indices": {
       "main-series": 835
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Boltund": {
     "Indices": {
       "main-series": 836
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Rolycoly": {
     "Indices": {
       "main-series": 837
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Carkol": {
     "Indices": {
       "main-series": 838
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Coalossal": {
     "Indices": {
@@ -5368,12 +6227,14 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Applin": {
     "Indices": {
       "main-series": 840
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Flapple": {
     "Indices": {
@@ -5387,7 +6248,8 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Appletun": {
     "Indices": {
@@ -5401,12 +6263,14 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Silicobra": {
     "Indices": {
       "main-series": 843
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Sandaconda": {
     "Indices": {
@@ -5420,7 +6284,8 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Cramorant": {
     "Indices": {
@@ -5457,22 +6322,26 @@
           }
         }
       }
-      }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Arrokuda": {
     "Indices": {
       "main-series": 846
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Barraskewda": {
     "Indices": {
       "main-series": 847
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Toxel": {
     "Indices": {
       "main-series": 848
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Toxtricity": {
     "Indices": {
@@ -5494,12 +6363,14 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Sizzlipede": {
     "Indices": {
       "main-series": 850
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Centiskorch": {
     "Indices": {
@@ -5513,17 +6384,20 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Clobbopus": {
     "Indices": {
       "main-series": 852
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Grapploct": {
     "Indices": {
       "main-series": 853
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Sinistea": {
     "Indices": {
@@ -5533,7 +6407,8 @@
       "Phony": {
         "Default": true
       }
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Polteageist": {
     "Indices": {
@@ -5543,17 +6418,20 @@
       "Phony": {
         "Default": true
       }
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Hatenna": {
     "Indices": {
       "main-series": 856
-    }
+    },
+    "Gender Ratio": "All Female"
   },
   "Hattrem": {
     "Indices": {
       "main-series": 857
-    }
+    },
+    "Gender Ratio": "All Female"
   },
   "Hatterene": {
     "Indices": {
@@ -5567,17 +6445,20 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "All Female"
   },
   "Impidimp": {
     "Indices": {
       "main-series": 859
-    }
+    },
+    "Gender Ratio": "All Male"
   },
   "Morgrem": {
     "Indices": {
       "main-series": 860
-    }
+    },
+    "Gender Ratio": "All Male"
   },
   "Grimmsnarl": {
     "Indices": {
@@ -5591,42 +6472,50 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "All Male"
   },
   "Obstagoon": {
     "Indices": {
       "main-series": 862
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Perrserker": {
     "Indices": {
       "main-series": 863
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Cursola": {
     "Indices": {
       "main-series": 864
-    }
+    },
+    "Gender Ratio": "Male 1 Female 3"
   },
   "Sirfetch’d": {
     "Indices": {
       "main-series": 865
-    }
-  }, //note ' vs ’ in name (latter is correct)
+    },
+    "Gender Ratio": "Male 1 Female 1"
+  },
   "Mr. Rime": {
     "Indices": {
       "main-series": 866
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Runerigus": {
     "Indices": {
       "main-series": 867
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Milcery": {
     "Indices": {
       "main-series": 868
-    }
+    },
+    "Gender Ratio": "All Female"
   },
   "Alcremie": {
     "Indices": {
@@ -5697,32 +6586,38 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "All Female"
   },
   "Falinks": {
     "Indices": {
       "main-series": 870
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Pincurchin": {
     "Indices": {
       "main-series": 871
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Snom": {
     "Indices": {
       "main-series": 872
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Frosmoth": {
     "Indices": {
       "main-series": 873
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Stonjourner": {
     "Indices": {
       "main-series": 874
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Eiscue": {
     "Indices": {
@@ -5744,12 +6639,14 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Indeedee": {
     "Indices": {
       "main-series": 876
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Morpeko": {
     "Indices": {
@@ -5771,12 +6668,14 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Cufant": {
     "Indices": {
       "main-series": 878
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Copperajah": {
     "Indices": {
@@ -5790,27 +6689,32 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Dracozolt": {
     "Indices": {
       "main-series": 880
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Arctozolt": {
     "Indices": {
       "main-series": 881
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Dracovish": {
     "Indices": {
       "main-series": 882
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Arctovish": {
     "Indices": {
       "main-series": 883
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Duraludon": {
     "Indices": {
@@ -5824,22 +6728,26 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Dreepy": {
     "Indices": {
       "main-series": 885
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Drakloak": {
     "Indices": {
       "main-series": 886
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Dragapult": {
     "Indices": {
       "main-series": 887
-    }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   },
   "Zacian": {
     "Indices": {
@@ -5854,7 +6762,8 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Zamazenta": {
     "Indices": {
@@ -5869,7 +6778,8 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Eternatus": {
     "Indices": {
@@ -5883,12 +6793,14 @@
           } // Unobtainable
         }
       }
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Kubfu": {
     "Indices": {
       "main-series": 891
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Urshifu": {
     "Indices": {
@@ -5910,36 +6822,43 @@
           }
         }
       }
-    }
+    },
+    "Gender Ratio": "Male 7 Female 1"
   },
   "Zarude": {
     "Indices": {
       "main-series": 893
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Regieleki": {
     "Indices": {
       "main-series": 894
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Regidrago": {
     "Indices": {
       "main-series": 895
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Glastrier": {
     "Indices": {
       "main-series": 896
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Spectrier": {
     "Indices": {
       "main-series": 897
-    }
+    },
+    "Gender Ratio": "All Genderless"
   },
   "Calyrex": {
     "Indices": {
       "main-series": 898
-    }
+    },
+    "Gender Ratio": "All Genderless"
   }
 }
