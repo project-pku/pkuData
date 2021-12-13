@@ -4,7 +4,7 @@
 //   Exists in: Whether species exists in Showdown format.
 //   CAP index: The official Smogon CAP Dex number for CAP species.
 //
-// This file is updated as of 9/23/21. Check against https://github.com/smogon/pokemon-showdown/blob/master/data/pokedex.ts
+// This file is updated as of 12/18/21. Check against https://github.com/smogon/pokemon-showdown/blob/master/data/pokedex.ts
 {
   //-----------
   // Gen 1
@@ -9572,5 +9572,22 @@
       }
     },
     "Gender Ratio": "Male 1 Female 1"
+  },
+  "Venomicon": {
+    "Indices": {
+      "CAP": 66
+    },
+    "Forms": {
+      "Prologue": {
+        "Default": true,
+        "Showdown Name": "Venomicon",
+        "Exists in": ["Showdown"]
+      },
+      "Epilogue": {
+        "Showdown Name": "Venomicon-Epilogue",
+        "Exists in": ["Showdown"]
+      }
+    },
+    "Gender Ratio": "All Genderless"
   }
 }

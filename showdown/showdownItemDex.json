@@ -1,4 +1,4 @@
-// This file is updated as of 9/23/21. Check against https://github.com/smogon/pokemon-showdown/blob/master/data/items.ts
+// This file is updated as of 12/4/21. Check against https://github.com/smogon/pokemon-showdown/blob/master/data/items.ts
 {
   // Main series
   "Abomasite": {
@@ -1548,6 +1548,9 @@
 
   // CAP
   "Crucibellite": {
+    "Exists in": ["Showdown"]
+  },
+  "Vile Vial":{
     "Exists in": ["Showdown"]
   }
 }
