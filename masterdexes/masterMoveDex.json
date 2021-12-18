@@ -1,5 +1,4683 @@
 {
-  "Main Series Moves": "https://raw.githubusercontent.com/project-pku/pkuData/main/main-series/main-seriesMoveDex.json",
-  "pk3 Moves": "https://raw.githubusercontent.com/project-pku/pkuData/main/main-series/gen-3/pk3MoveDex.json",
-  "Showdown Moves": "https://raw.githubusercontent.com/project-pku/pkuData/main/showdown/showdownMoveDex.json"
+  "Pound": {
+    "Indices": {
+      "main-series": 1
+    },
+    "Base PP": {
+      "main-series": 35
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Karate Chop": {
+    "Indices": {
+      "main-series": 2
+    },
+    "Base PP": {
+      "main-series": 25
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Double Slap": {
+    "Indices": {
+      "main-series": 3
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Comet Punch": {
+    "Indices": {
+      "main-series": 4
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Mega Punch": {
+    "Indices": {
+      "main-series": 5
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Pay Day": {
+    "Indices": {
+      "main-series": 6
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Fire Punch": {
+    "Indices": {
+      "main-series": 7
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Ice Punch": {
+    "Indices": {
+      "main-series": 8
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Thunder Punch": {
+    "Indices": {
+      "main-series": 9
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Scratch": {
+    "Indices": {
+      "main-series": 10
+    },
+    "Base PP": {
+      "main-series": 35
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Vise Grip": {
+    "Indices": {
+      "main-series": 11
+    },
+    "Base PP": {
+      "main-series": 30
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Guillotine": {
+    "Indices": {
+      "main-series": 12
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Razor Wind": {
+    "Indices": {
+      "main-series": 13
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Swords Dance": {
+    "Indices": {
+      "main-series": 14
+    },
+    "Base PP": {
+      "main-series": 20,
+      "pk3": 30
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Cut": {
+    "Indices": {
+      "main-series": 15
+    },
+    "Base PP": {
+      "main-series": 30
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Gust": {
+    "Indices": {
+      "main-series": 16
+    },
+    "Base PP": {
+      "main-series": 35
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Wing Attack": {
+    "Indices": {
+      "main-series": 17
+    },
+    "Base PP": {
+      "main-series": 35
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Whirlwind": {
+    "Indices": {
+      "main-series": 18
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Fly": {
+    "Indices": {
+      "main-series": 19
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Bind": {
+    "Indices": {
+      "main-series": 20
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Slam": {
+    "Indices": {
+      "main-series": 21
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Vine Whip": {
+    "Indices": {
+      "main-series": 22
+    },
+    "Base PP": {
+      "main-series": 25,
+      "pk3": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Stomp": {
+    "Indices": {
+      "main-series": 23
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Double Kick": {
+    "Indices": {
+      "main-series": 24
+    },
+    "Base PP": {
+      "main-series": 30
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Mega Kick": {
+    "Indices": {
+      "main-series": 25
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Jump Kick": {
+    "Indices": {
+      "main-series": 26
+    },
+    "Base PP": {
+      "main-series": 10,
+      "pk3": 25
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Rolling Kick": {
+    "Indices": {
+      "main-series": 27
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Sand Attack": {
+    "Indices": {
+      "main-series": 28
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Headbutt": {
+    "Indices": {
+      "main-series": 29
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Horn Attack": {
+    "Indices": {
+      "main-series": 30
+    },
+    "Base PP": {
+      "main-series": 25
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Fury Attack": {
+    "Indices": {
+      "main-series": 31
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Horn Drill": {
+    "Indices": {
+      "main-series": 32
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Tackle": {
+    "Indices": {
+      "main-series": 33
+    },
+    "Base PP": {
+      "main-series": 35
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Body Slam": {
+    "Indices": {
+      "main-series": 34
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Wrap": {
+    "Indices": {
+      "main-series": 35
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Take Down": {
+    "Indices": {
+      "main-series": 36
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Thrash": {
+    "Indices": {
+      "main-series": 37
+    },
+    "Base PP": {
+      "main-series": 10,
+      "pk3": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Double-Edge": {
+    "Indices": {
+      "main-series": 38
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Tail Whip": {
+    "Indices": {
+      "main-series": 39
+    },
+    "Base PP": {
+      "main-series": 30
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Poison Sting": {
+    "Indices": {
+      "main-series": 40
+    },
+    "Base PP": {
+      "main-series": 35
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Twineedle": {
+    "Indices": {
+      "main-series": 41
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Pin Missile": {
+    "Indices": {
+      "main-series": 42
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Leer": {
+    "Indices": {
+      "main-series": 43
+    },
+    "Base PP": {
+      "main-series": 30
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Bite": {
+    "Indices": {
+      "main-series": 44
+    },
+    "Base PP": {
+      "main-series": 25
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Growl": {
+    "Indices": {
+      "main-series": 45
+    },
+    "Base PP": {
+      "main-series": 40
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Roar": {
+    "Indices": {
+      "main-series": 46
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Sing": {
+    "Indices": {
+      "main-series": 47
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Supersonic": {
+    "Indices": {
+      "main-series": 48
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Sonic Boom": {
+    "Indices": {
+      "main-series": 49
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Disable": {
+    "Indices": {
+      "main-series": 50
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Acid": {
+    "Indices": {
+      "main-series": 51
+    },
+    "Base PP": {
+      "main-series": 30
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Ember": {
+    "Indices": {
+      "main-series": 52
+    },
+    "Base PP": {
+      "main-series": 25
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Flamethrower": {
+    "Indices": {
+      "main-series": 53
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Mist": {
+    "Indices": {
+      "main-series": 54
+    },
+    "Base PP": {
+      "main-series": 30
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Water Gun": {
+    "Indices": {
+      "main-series": 55
+    },
+    "Base PP": {
+      "main-series": 25
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Hydro Pump": {
+    "Indices": {
+      "main-series": 56
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Surf": {
+    "Indices": {
+      "main-series": 57
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Ice Beam": {
+    "Indices": {
+      "main-series": 58
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Blizzard": {
+    "Indices": {
+      "main-series": 59
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Psybeam": {
+    "Indices": {
+      "main-series": 60
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Bubble Beam": {
+    "Indices": {
+      "main-series": 61
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Aurora Beam": {
+    "Indices": {
+      "main-series": 62
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Hyper Beam": {
+    "Indices": {
+      "main-series": 63
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Peck": {
+    "Indices": {
+      "main-series": 64
+    },
+    "Base PP": {
+      "main-series": 35
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Drill Peck": {
+    "Indices": {
+      "main-series": 65
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Submission": {
+    "Indices": {
+      "main-series": 66
+    },
+    "Base PP": {
+      "main-series": 20,
+      "pk3": 25
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Low Kick": {
+    "Indices": {
+      "main-series": 67
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Counter": {
+    "Indices": {
+      "main-series": 68
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Seismic Toss": {
+    "Indices": {
+      "main-series": 69
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Strength": {
+    "Indices": {
+      "main-series": 70
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Absorb": {
+    "Indices": {
+      "main-series": 71
+    },
+    "Base PP": {
+      "main-series": 25,
+      "pk3": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Mega Drain": {
+    "Indices": {
+      "main-series": 72
+    },
+    "Base PP": {
+      "main-series": 15,
+      "pk3": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Leech Seed": {
+    "Indices": {
+      "main-series": 73
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Growth": {
+    "Indices": {
+      "main-series": 74
+    },
+    "Base PP": {
+      "main-series": 20,
+      "pk3": 40
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Razor Leaf": {
+    "Indices": {
+      "main-series": 75
+    },
+    "Base PP": {
+      "main-series": 25
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Solar Beam": {
+    "Indices": {
+      "main-series": 76
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Poison Powder": {
+    "Indices": {
+      "main-series": 77
+    },
+    "Base PP": {
+      "main-series": 35
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Stun Spore": {
+    "Indices": {
+      "main-series": 78
+    },
+    "Base PP": {
+      "main-series": 30
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Sleep Powder": {
+    "Indices": {
+      "main-series": 79
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Petal Dance": {
+    "Indices": {
+      "main-series": 80
+    },
+    "Base PP": {
+      "main-series": 10,
+      "pk3": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "String Shot": {
+    "Indices": {
+      "main-series": 81
+    },
+    "Base PP": {
+      "main-series": 40
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Dragon Rage": {
+    "Indices": {
+      "main-series": 82
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Fire Spin": {
+    "Indices": {
+      "main-series": 83
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Thunder Shock": {
+    "Indices": {
+      "main-series": 84
+    },
+    "Base PP": {
+      "main-series": 30
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Thunderbolt": {
+    "Indices": {
+      "main-series": 85
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Thunder Wave": {
+    "Indices": {
+      "main-series": 86
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Thunder": {
+    "Indices": {
+      "main-series": 87
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Rock Throw": {
+    "Indices": {
+      "main-series": 88
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Earthquake": {
+    "Indices": {
+      "main-series": 89
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Fissure": {
+    "Indices": {
+      "main-series": 90
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Dig": {
+    "Indices": {
+      "main-series": 91
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Toxic": {
+    "Indices": {
+      "main-series": 92
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Confusion": {
+    "Indices": {
+      "main-series": 93
+    },
+    "Base PP": {
+      "main-series": 25
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Psychic": {
+    "Indices": {
+      "main-series": 94
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Hypnosis": {
+    "Indices": {
+      "main-series": 95
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Meditate": {
+    "Indices": {
+      "main-series": 96
+    },
+    "Base PP": {
+      "main-series": 40
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Agility": {
+    "Indices": {
+      "main-series": 97
+    },
+    "Base PP": {
+      "main-series": 30
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Quick Attack": {
+    "Indices": {
+      "main-series": 98
+    },
+    "Base PP": {
+      "main-series": 30
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Rage": {
+    "Indices": {
+      "main-series": 99
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Teleport": {
+    "Indices": {
+      "main-series": 100
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Night Shade": {
+    "Indices": {
+      "main-series": 101
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Mimic": {
+    "Indices": {
+      "main-series": 102
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Screech": {
+    "Indices": {
+      "main-series": 103
+    },
+    "Base PP": {
+      "main-series": 40
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Double Team": {
+    "Indices": {
+      "main-series": 104
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Recover": {
+    "Indices": {
+      "main-series": 105
+    },
+    "Base PP": {
+      "main-series": 10,
+      "pk3": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Harden": {
+    "Indices": {
+      "main-series": 106
+    },
+    "Base PP": {
+      "main-series": 30
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Minimize": {
+    "Indices": {
+      "main-series": 107
+    },
+    "Base PP": {
+      "main-series": 10,
+      "pk3": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Smokescreen": {
+    "Indices": {
+      "main-series": 108
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Confuse Ray": {
+    "Indices": {
+      "main-series": 109
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Withdraw": {
+    "Indices": {
+      "main-series": 110
+    },
+    "Base PP": {
+      "main-series": 40
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Defense Curl": {
+    "Indices": {
+      "main-series": 111
+    },
+    "Base PP": {
+      "main-series": 40
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Barrier": {
+    "Indices": {
+      "main-series": 112
+    },
+    "Base PP": {
+      "main-series": 20,
+      "pk3": 30
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Light Screen": {
+    "Indices": {
+      "main-series": 113
+    },
+    "Base PP": {
+      "main-series": 30
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Haze": {
+    "Indices": {
+      "main-series": 114
+    },
+    "Base PP": {
+      "main-series": 30
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Reflect": {
+    "Indices": {
+      "main-series": 115
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Focus Energy": {
+    "Indices": {
+      "main-series": 116
+    },
+    "Base PP": {
+      "main-series": 30
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Bide": {
+    "Indices": {
+      "main-series": 117
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Metronome": {
+    "Indices": {
+      "main-series": 118
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Mirror Move": {
+    "Indices": {
+      "main-series": 119
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Self-Destruct": {
+    "Indices": {
+      "main-series": 120
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Egg Bomb": {
+    "Indices": {
+      "main-series": 121
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Lick": {
+    "Indices": {
+      "main-series": 122
+    },
+    "Base PP": {
+      "main-series": 30
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Smog": {
+    "Indices": {
+      "main-series": 123
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Sludge": {
+    "Indices": {
+      "main-series": 124
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Bone Club": {
+    "Indices": {
+      "main-series": 125
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Fire Blast": {
+    "Indices": {
+      "main-series": 126
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Waterfall": {
+    "Indices": {
+      "main-series": 127
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Clamp": {
+    "Indices": {
+      "main-series": 128
+    },
+    "Base PP": {
+      "main-series": 15,
+      "pk3": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Swift": {
+    "Indices": {
+      "main-series": 129
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Skull Bash": {
+    "Indices": {
+      "main-series": 130
+    },
+    "Base PP": {
+      "main-series": 10,
+      "pk3": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Spike Cannon": {
+    "Indices": {
+      "main-series": 131
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Constrict": {
+    "Indices": {
+      "main-series": 132
+    },
+    "Base PP": {
+      "main-series": 35
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Amnesia": {
+    "Indices": {
+      "main-series": 133
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Kinesis": {
+    "Indices": {
+      "main-series": 134
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Soft-Boiled": {
+    "Indices": {
+      "main-series": 135
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "High Jump Kick": {
+    "Indices": {
+      "main-series": 136
+    },
+    "Base PP": {
+      "main-series": 10,
+      "pk3": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Glare": {
+    "Indices": {
+      "main-series": 137
+    },
+    "Base PP": {
+      "main-series": 30
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Dream Eater": {
+    "Indices": {
+      "main-series": 138
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Poison Gas": {
+    "Indices": {
+      "main-series": 139
+    },
+    "Base PP": {
+      "main-series": 40
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Barrage": {
+    "Indices": {
+      "main-series": 140
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Leech Life": {
+    "Indices": {
+      "main-series": 141
+    },
+    "Base PP": {
+      "main-series": 10,
+      "pk3": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Lovely Kiss": {
+    "Indices": {
+      "main-series": 142
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Sky Attack": {
+    "Indices": {
+      "main-series": 143
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Transform": {
+    "Indices": {
+      "main-series": 144
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Bubble": {
+    "Indices": {
+      "main-series": 145
+    },
+    "Base PP": {
+      "main-series": 30
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Dizzy Punch": {
+    "Indices": {
+      "main-series": 146
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Spore": {
+    "Indices": {
+      "main-series": 147
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Flash": {
+    "Indices": {
+      "main-series": 148
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Psywave": {
+    "Indices": {
+      "main-series": 149
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Splash": {
+    "Indices": {
+      "main-series": 150
+    },
+    "Base PP": {
+      "main-series": 40
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Acid Armor": {
+    "Indices": {
+      "main-series": 151
+    },
+    "Base PP": {
+      "main-series": 20,
+      "pk3": 40
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Crabhammer": {
+    "Indices": {
+      "main-series": 152
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Explosion": {
+    "Indices": {
+      "main-series": 153
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Fury Swipes": {
+    "Indices": {
+      "main-series": 154
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Bonemerang": {
+    "Indices": {
+      "main-series": 155
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Rest": {
+    "Indices": {
+      "main-series": 156
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Rock Slide": {
+    "Indices": {
+      "main-series": 157
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Hyper Fang": {
+    "Indices": {
+      "main-series": 158
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Sharpen": {
+    "Indices": {
+      "main-series": 159
+    },
+    "Base PP": {
+      "main-series": 30
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Conversion": {
+    "Indices": {
+      "main-series": 160
+    },
+    "Base PP": {
+      "main-series": 30
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Tri Attack": {
+    "Indices": {
+      "main-series": 161
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Super Fang": {
+    "Indices": {
+      "main-series": 162
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Slash": {
+    "Indices": {
+      "main-series": 163
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Substitute": {
+    "Indices": {
+      "main-series": 164
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Struggle": {
+    "Indices": {
+      "main-series": 165
+    },
+    "Base PP": {
+      "main-series": 1
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Sketch": {
+    "Indices": {
+      "main-series": 166
+    },
+    "Base PP": {
+      "main-series": 1
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Triple Kick": {
+    "Indices": {
+      "main-series": 167
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Thief": {
+    "Indices": {
+      "main-series": 168
+    },
+    "Base PP": {
+      "main-series": 25,
+      "pk3": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Spider Web": {
+    "Indices": {
+      "main-series": 169
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Mind Reader": {
+    "Indices": {
+      "main-series": 170
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Nightmare": {
+    "Indices": {
+      "main-series": 171
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Flame Wheel": {
+    "Indices": {
+      "main-series": 172
+    },
+    "Base PP": {
+      "main-series": 25
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Snore": {
+    "Indices": {
+      "main-series": 173
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Curse": {
+    "Indices": {
+      "main-series": 174
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Flail": {
+    "Indices": {
+      "main-series": 175
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Conversion 2": {
+    "Indices": {
+      "main-series": 176
+    },
+    "Base PP": {
+      "main-series": 30
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Aeroblast": {
+    "Indices": {
+      "main-series": 177
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Cotton Spore": {
+    "Indices": {
+      "main-series": 178
+    },
+    "Base PP": {
+      "main-series": 40
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Reversal": {
+    "Indices": {
+      "main-series": 179
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Spite": {
+    "Indices": {
+      "main-series": 180
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Powder Snow": {
+    "Indices": {
+      "main-series": 181
+    },
+    "Base PP": {
+      "main-series": 25
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Protect": {
+    "Indices": {
+      "main-series": 182
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Mach Punch": {
+    "Indices": {
+      "main-series": 183
+    },
+    "Base PP": {
+      "main-series": 30
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Scary Face": {
+    "Indices": {
+      "main-series": 184
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Feint Attack": {
+    "Indices": {
+      "main-series": 185
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Sweet Kiss": {
+    "Indices": {
+      "main-series": 186
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Belly Drum": {
+    "Indices": {
+      "main-series": 187
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Sludge Bomb": {
+    "Indices": {
+      "main-series": 188
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Mud-Slap": {
+    "Indices": {
+      "main-series": 189
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Octazooka": {
+    "Indices": {
+      "main-series": 190
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Spikes": {
+    "Indices": {
+      "main-series": 191
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Zap Cannon": {
+    "Indices": {
+      "main-series": 192
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Foresight": {
+    "Indices": {
+      "main-series": 193
+    },
+    "Base PP": {
+      "main-series": 40
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Destiny Bond": {
+    "Indices": {
+      "main-series": 194
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Perish Song": {
+    "Indices": {
+      "main-series": 195
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Icy Wind": {
+    "Indices": {
+      "main-series": 196
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Detect": {
+    "Indices": {
+      "main-series": 197
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Bone Rush": {
+    "Indices": {
+      "main-series": 198
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Lock-On": {
+    "Indices": {
+      "main-series": 199
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Outrage": {
+    "Indices": {
+      "main-series": 200
+    },
+    "Base PP": {
+      "main-series": 10,
+      "pk3": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Sandstorm": {
+    "Indices": {
+      "main-series": 201
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Giga Drain": {
+    "Indices": {
+      "main-series": 202
+    },
+    "Base PP": {
+      "main-series": 10,
+      "pk3": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Endure": {
+    "Indices": {
+      "main-series": 203
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Charm": {
+    "Indices": {
+      "main-series": 204
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Rollout": {
+    "Indices": {
+      "main-series": 205
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "False Swipe": {
+    "Indices": {
+      "main-series": 206
+    },
+    "Base PP": {
+      "main-series": 40
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Swagger": {
+    "Indices": {
+      "main-series": 207
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Milk Drink": {
+    "Indices": {
+      "main-series": 208
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Spark": {
+    "Indices": {
+      "main-series": 209
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Fury Cutter": {
+    "Indices": {
+      "main-series": 210
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Steel Wing": {
+    "Indices": {
+      "main-series": 211
+    },
+    "Base PP": {
+      "main-series": 25
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Mean Look": {
+    "Indices": {
+      "main-series": 212
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Attract": {
+    "Indices": {
+      "main-series": 213
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Sleep Talk": {
+    "Indices": {
+      "main-series": 214
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Heal Bell": {
+    "Indices": {
+      "main-series": 215
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Return": {
+    "Indices": {
+      "main-series": 216
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Present": {
+    "Indices": {
+      "main-series": 217
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Frustration": {
+    "Indices": {
+      "main-series": 218
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Safeguard": {
+    "Indices": {
+      "main-series": 219
+    },
+    "Base PP": {
+      "main-series": 25
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Pain Split": {
+    "Indices": {
+      "main-series": 220
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Sacred Fire": {
+    "Indices": {
+      "main-series": 221
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Magnitude": {
+    "Indices": {
+      "main-series": 222
+    },
+    "Base PP": {
+      "main-series": 30
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Dynamic Punch": {
+    "Indices": {
+      "main-series": 223
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Megahorn": {
+    "Indices": {
+      "main-series": 224
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Dragon Breath": {
+    "Indices": {
+      "main-series": 225
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Baton Pass": {
+    "Indices": {
+      "main-series": 226
+    },
+    "Base PP": {
+      "main-series": 40
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Encore": {
+    "Indices": {
+      "main-series": 227
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Pursuit": {
+    "Indices": {
+      "main-series": 228
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Rapid Spin": {
+    "Indices": {
+      "main-series": 229
+    },
+    "Base PP": {
+      "main-series": 40
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Sweet Scent": {
+    "Indices": {
+      "main-series": 230
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Iron Tail": {
+    "Indices": {
+      "main-series": 231
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Metal Claw": {
+    "Indices": {
+      "main-series": 232
+    },
+    "Base PP": {
+      "main-series": 35
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Vital Throw": {
+    "Indices": {
+      "main-series": 233
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Morning Sun": {
+    "Indices": {
+      "main-series": 234
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Synthesis": {
+    "Indices": {
+      "main-series": 235
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Moonlight": {
+    "Indices": {
+      "main-series": 236
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Hidden Power": {
+    "Indices": {
+      "main-series": 237
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Cross Chop": {
+    "Indices": {
+      "main-series": 238
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Twister": {
+    "Indices": {
+      "main-series": 239
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Rain Dance": {
+    "Indices": {
+      "main-series": 240
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Sunny Day": {
+    "Indices": {
+      "main-series": 241
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Crunch": {
+    "Indices": {
+      "main-series": 242
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Mirror Coat": {
+    "Indices": {
+      "main-series": 243
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Psych Up": {
+    "Indices": {
+      "main-series": 244
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Extreme Speed": {
+    "Indices": {
+      "main-series": 245
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Ancient Power": {
+    "Indices": {
+      "main-series": 246
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Shadow Ball": {
+    "Indices": {
+      "main-series": 247
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Future Sight": {
+    "Indices": {
+      "main-series": 248
+    },
+    "Base PP": {
+      "main-series": 10,
+      "pk3": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Rock Smash": {
+    "Indices": {
+      "main-series": 249
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Whirlpool": {
+    "Indices": {
+      "main-series": 250
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Beat Up": {
+    "Indices": {
+      "main-series": 251
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Fake Out": {
+    "Indices": {
+      "main-series": 252
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Uproar": {
+    "Indices": {
+      "main-series": 253
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Stockpile": {
+    "Indices": {
+      "main-series": 254
+    },
+    "Base PP": {
+      "main-series": 20,
+      "pk3": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Spit Up": {
+    "Indices": {
+      "main-series": 255
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Swallow": {
+    "Indices": {
+      "main-series": 256
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Heat Wave": {
+    "Indices": {
+      "main-series": 257
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Hail": {
+    "Indices": {
+      "main-series": 258
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Torment": {
+    "Indices": {
+      "main-series": 259
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Flatter": {
+    "Indices": {
+      "main-series": 260
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Will-O-Wisp": {
+    "Indices": {
+      "main-series": 261
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Memento": {
+    "Indices": {
+      "main-series": 262
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Facade": {
+    "Indices": {
+      "main-series": 263
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Focus Punch": {
+    "Indices": {
+      "main-series": 264
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Smelling Salts": {
+    "Indices": {
+      "main-series": 265
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Follow Me": {
+    "Indices": {
+      "main-series": 266
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Nature Power": {
+    "Indices": {
+      "main-series": 267
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Charge": {
+    "Indices": {
+      "main-series": 268
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Taunt": {
+    "Indices": {
+      "main-series": 269
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Helping Hand": {
+    "Indices": {
+      "main-series": 270
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Trick": {
+    "Indices": {
+      "main-series": 271
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Role Play": {
+    "Indices": {
+      "main-series": 272
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Wish": {
+    "Indices": {
+      "main-series": 273
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Assist": {
+    "Indices": {
+      "main-series": 274
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Ingrain": {
+    "Indices": {
+      "main-series": 275
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Superpower": {
+    "Indices": {
+      "main-series": 276
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Magic Coat": {
+    "Indices": {
+      "main-series": 277
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Recycle": {
+    "Indices": {
+      "main-series": 278
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Revenge": {
+    "Indices": {
+      "main-series": 279
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Brick Break": {
+    "Indices": {
+      "main-series": 280
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Yawn": {
+    "Indices": {
+      "main-series": 281
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Knock Off": {
+    "Indices": {
+      "main-series": 282
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Endeavor": {
+    "Indices": {
+      "main-series": 283
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Eruption": {
+    "Indices": {
+      "main-series": 284
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Skill Swap": {
+    "Indices": {
+      "main-series": 285
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Imprison": {
+    "Indices": {
+      "main-series": 286
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Refresh": {
+    "Indices": {
+      "main-series": 287
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Grudge": {
+    "Indices": {
+      "main-series": 288
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Snatch": {
+    "Indices": {
+      "main-series": 289
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Secret Power": {
+    "Indices": {
+      "main-series": 290
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Dive": {
+    "Indices": {
+      "main-series": 291
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Arm Thrust": {
+    "Indices": {
+      "main-series": 292
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Camouflage": {
+    "Indices": {
+      "main-series": 293
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Tail Glow": {
+    "Indices": {
+      "main-series": 294
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Luster Purge": {
+    "Indices": {
+      "main-series": 295
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Mist Ball": {
+    "Indices": {
+      "main-series": 296
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Feather Dance": {
+    "Indices": {
+      "main-series": 297
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Teeter Dance": {
+    "Indices": {
+      "main-series": 298
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Blaze Kick": {
+    "Indices": {
+      "main-series": 299
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Mud Sport": {
+    "Indices": {
+      "main-series": 300
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Ice Ball": {
+    "Indices": {
+      "main-series": 301
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Needle Arm": {
+    "Indices": {
+      "main-series": 302
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Slack Off": {
+    "Indices": {
+      "main-series": 303
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Hyper Voice": {
+    "Indices": {
+      "main-series": 304
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Poison Fang": {
+    "Indices": {
+      "main-series": 305
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Crush Claw": {
+    "Indices": {
+      "main-series": 306
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Blast Burn": {
+    "Indices": {
+      "main-series": 307
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Hydro Cannon": {
+    "Indices": {
+      "main-series": 308
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Meteor Mash": {
+    "Indices": {
+      "main-series": 309
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Astonish": {
+    "Indices": {
+      "main-series": 310
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Weather Ball": {
+    "Indices": {
+      "main-series": 311
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Aromatherapy": {
+    "Indices": {
+      "main-series": 312
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Fake Tears": {
+    "Indices": {
+      "main-series": 313
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Air Cutter": {
+    "Indices": {
+      "main-series": 314
+    },
+    "Base PP": {
+      "main-series": 25
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Overheat": {
+    "Indices": {
+      "main-series": 315
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Odor Sleuth": {
+    "Indices": {
+      "main-series": 316
+    },
+    "Base PP": {
+      "main-series": 40
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Rock Tomb": {
+    "Indices": {
+      "main-series": 317
+    },
+    "Base PP": {
+      "main-series": 15,
+      "pk3": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Silver Wind": {
+    "Indices": {
+      "main-series": 318
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Metal Sound": {
+    "Indices": {
+      "main-series": 319
+    },
+    "Base PP": {
+      "main-series": 40
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Grass Whistle": {
+    "Indices": {
+      "main-series": 320
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Tickle": {
+    "Indices": {
+      "main-series": 321
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Cosmic Power": {
+    "Indices": {
+      "main-series": 322
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Water Spout": {
+    "Indices": {
+      "main-series": 323
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Signal Beam": {
+    "Indices": {
+      "main-series": 324
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Shadow Punch": {
+    "Indices": {
+      "main-series": 325
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Extrasensory": {
+    "Indices": {
+      "main-series": 326
+    },
+    "Base PP": {
+      "main-series": 20,
+      "pk3": 30
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Sky Uppercut": {
+    "Indices": {
+      "main-series": 327
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Sand Tomb": {
+    "Indices": {
+      "main-series": 328
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Sheer Cold": {
+    "Indices": {
+      "main-series": 329
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Muddy Water": {
+    "Indices": {
+      "main-series": 330
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Bullet Seed": {
+    "Indices": {
+      "main-series": 331
+    },
+    "Base PP": {
+      "main-series": 30
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Aerial Ace": {
+    "Indices": {
+      "main-series": 332
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Icicle Spear": {
+    "Indices": {
+      "main-series": 333
+    },
+    "Base PP": {
+      "main-series": 30
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Iron Defense": {
+    "Indices": {
+      "main-series": 334
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Block": {
+    "Indices": {
+      "main-series": 335
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Howl": {
+    "Indices": {
+      "main-series": 336
+    },
+    "Base PP": {
+      "main-series": 40
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Dragon Claw": {
+    "Indices": {
+      "main-series": 337
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Frenzy Plant": {
+    "Indices": {
+      "main-series": 338
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Bulk Up": {
+    "Indices": {
+      "main-series": 339
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Bounce": {
+    "Indices": {
+      "main-series": 340
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Mud Shot": {
+    "Indices": {
+      "main-series": 341
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Poison Tail": {
+    "Indices": {
+      "main-series": 342
+    },
+    "Base PP": {
+      "main-series": 25
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Covet": {
+    "Indices": {
+      "main-series": 343
+    },
+    "Base PP": {
+      "main-series": 25,
+      "pk3": 40
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Volt Tackle": {
+    "Indices": {
+      "main-series": 344
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Magical Leaf": {
+    "Indices": {
+      "main-series": 345
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Water Sport": {
+    "Indices": {
+      "main-series": 346
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Calm Mind": {
+    "Indices": {
+      "main-series": 347
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Leaf Blade": {
+    "Indices": {
+      "main-series": 348
+    },
+    "Base PP": {
+      "main-series": 15
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Dragon Dance": {
+    "Indices": {
+      "main-series": 349
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Rock Blast": {
+    "Indices": {
+      "main-series": 350
+    },
+    "Base PP": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Shock Wave": {
+    "Indices": {
+      "main-series": 351
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Water Pulse": {
+    "Indices": {
+      "main-series": 352
+    },
+    "Base PP": {
+      "main-series": 20
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Doom Desire": {
+    "Indices": {
+      "main-series": 353
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "Psycho Boost": {
+    "Indices": {
+      "main-series": 354
+    },
+    "Base PP": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
+  "10,000,000 Volt Thunderbolt": {
+    "Exists in": ["Showdown"]
+  },
+  "Accelerock": {
+    "Exists in": ["Showdown"]
+  },
+  "Acid Downpour": {
+    "Exists in": ["Showdown"]
+  },
+  "Acid Spray": {
+    "Exists in": ["Showdown"]
+  },
+  "Acrobatics": {
+    "Exists in": ["Showdown"]
+  },
+  "Acupressure": {
+    "Exists in": ["Showdown"]
+  },
+  "After You": {
+    "Exists in": ["Showdown"]
+  },
+  "Air Slash": {
+    "Exists in": ["Showdown"]
+  },
+  "All-Out Pummeling": {
+    "Exists in": ["Showdown"]
+  },
+  "Ally Switch": {
+    "Exists in": ["Showdown"]
+  },
+  "Anchor Shot": {
+    "Exists in": ["Showdown"]
+  },
+  "Apple Acid": {
+    "Exists in": ["Showdown"]
+  },
+  "Aqua Jet": {
+    "Exists in": ["Showdown"]
+  },
+  "Aqua Ring": {
+    "Exists in": ["Showdown"]
+  },
+  "Aqua Tail": {
+    "Exists in": ["Showdown"]
+  },
+  "Aromatic Mist": {
+    "Exists in": ["Showdown"]
+  },
+  "Assurance": {
+    "Exists in": ["Showdown"]
+  },
+  "Astral Barrage": {
+    "Exists in": ["Showdown"]
+  },
+  "Attack Order": {
+    "Exists in": ["Showdown"]
+  },
+  "Aura Sphere": {
+    "Exists in": ["Showdown"]
+  },
+  "Aura Wheel": {
+    "Exists in": ["Showdown"]
+  },
+  "Aurora Veil": {
+    "Exists in": ["Showdown"]
+  },
+  "Autotomize": {
+    "Exists in": ["Showdown"]
+  },
+  "Avalanche": {
+    "Exists in": ["Showdown"]
+  },
+  "Baby-Doll Eyes": {
+    "Exists in": ["Showdown"]
+  },
+  "Baddy Bad": {
+    "Exists in": ["Showdown"]
+  },
+  "Baneful Bunker": {
+    "Exists in": ["Showdown"]
+  },
+  "Beak Blast": {
+    "Exists in": ["Showdown"]
+  },
+  "Behemoth Bash": {
+    "Exists in": ["Showdown"]
+  },
+  "Behemoth Blade": {
+    "Exists in": ["Showdown"]
+  },
+  "Belch": {
+    "Exists in": ["Showdown"]
+  },
+  "Bestow": {
+    "Exists in": ["Showdown"]
+  },
+  "Black Hole Eclipse": {
+    "Exists in": ["Showdown"]
+  },
+  "Bloom Doom": {
+    "Exists in": ["Showdown"]
+  },
+  "Blue Flare": {
+    "Exists in": ["Showdown"]
+  },
+  "Body Press": {
+    "Exists in": ["Showdown"]
+  },
+  "Bolt Beak": {
+    "Exists in": ["Showdown"]
+  },
+  "Bolt Strike": {
+    "Exists in": ["Showdown"]
+  },
+  "Boomburst": {
+    "Exists in": ["Showdown"]
+  },
+  "Bouncy Bubble": {
+    "Exists in": ["Showdown"]
+  },
+  "Branch Poke": {
+    "Exists in": ["Showdown"]
+  },
+  "Brave Bird": {
+    "Exists in": ["Showdown"]
+  },
+  "Breaking Swipe": {
+    "Exists in": ["Showdown"]
+  },
+  "Breakneck Blitz": {
+    "Exists in": ["Showdown"]
+  },
+  "Brine": {
+    "Exists in": ["Showdown"]
+  },
+  "Brutal Swing": {
+    "Exists in": ["Showdown"]
+  },
+  "Bug Bite": {
+    "Exists in": ["Showdown"]
+  },
+  "Bug Buzz": {
+    "Exists in": ["Showdown"]
+  },
+  "Bulldoze": {
+    "Exists in": ["Showdown"]
+  },
+  "Bullet Punch": {
+    "Exists in": ["Showdown"]
+  },
+  "Burning Jealousy": {
+    "Exists in": ["Showdown"]
+  },
+  "Burn Up": {
+    "Exists in": ["Showdown"]
+  },
+  "Buzzy Buzz": {
+    "Exists in": ["Showdown"]
+  },
+  "Captivate": {
+    "Exists in": ["Showdown"]
+  },
+  "Catastropika": {
+    "Exists in": ["Showdown"]
+  },
+  "Celebrate": {
+    "Exists in": ["Showdown"]
+  },
+  "Charge Beam": {
+    "Exists in": ["Showdown"]
+  },
+  "Chatter": {
+    "Exists in": ["Showdown"]
+  },
+  "Chip Away": {
+    "Exists in": ["Showdown"]
+  },
+  "Circle Throw": {
+    "Exists in": ["Showdown"]
+  },
+  "Clanging Scales": {
+    "Exists in": ["Showdown"]
+  },
+  "Clangorous Soul": {
+    "Exists in": ["Showdown"]
+  },
+  "Clangorous Soulblaze": {
+    "Exists in": ["Showdown"]
+  },
+  "Clear Smog": {
+    "Exists in": ["Showdown"]
+  },
+  "Close Combat": {
+    "Exists in": ["Showdown"]
+  },
+  "Coaching": {
+    "Exists in": ["Showdown"]
+  },
+  "Coil": {
+    "Exists in": ["Showdown"]
+  },
+  "Confide": {
+    "Exists in": ["Showdown"]
+  },
+  "Continental Crush": {
+    "Exists in": ["Showdown"]
+  },
+  "Copycat": {
+    "Exists in": ["Showdown"]
+  },
+  "Core Enforcer": {
+    "Exists in": ["Showdown"]
+  },
+  "Corkscrew Crash": {
+    "Exists in": ["Showdown"]
+  },
+  "Corrosive Gas": {
+    "Exists in": ["Showdown"]
+  },
+  "Cotton Guard": {
+    "Exists in": ["Showdown"]
+  },
+  "Court Change": {
+    "Exists in": ["Showdown"]
+  },
+  "Crafty Shield": {
+    "Exists in": ["Showdown"]
+  },
+  "Cross Poison": {
+    "Exists in": ["Showdown"]
+  },
+  "Crush Grip": {
+    "Exists in": ["Showdown"]
+  },
+  "Darkest Lariat": {
+    "Exists in": ["Showdown"]
+  },
+  "Dark Pulse": {
+    "Exists in": ["Showdown"]
+  },
+  "Dark Void": {
+    "Exists in": ["Showdown"]
+  },
+  "Dazzling Gleam": {
+    "Exists in": ["Showdown"]
+  },
+  "Decorate": {
+    "Exists in": ["Showdown"]
+  },
+  "Defend Order": {
+    "Exists in": ["Showdown"]
+  },
+  "Defog": {
+    "Exists in": ["Showdown"]
+  },
+  "Devastating Drake": {
+    "Exists in": ["Showdown"]
+  },
+  "Diamond Storm": {
+    "Exists in": ["Showdown"]
+  },
+  "Disarming Voice": {
+    "Exists in": ["Showdown"]
+  },
+  "Discharge": {
+    "Exists in": ["Showdown"]
+  },
+  "Double Hit": {
+    "Exists in": ["Showdown"]
+  },
+  "Double Iron Bash": {
+    "Exists in": ["Showdown"]
+  },
+  "Draco Meteor": {
+    "Exists in": ["Showdown"]
+  },
+  "Dragon Ascent": {
+    "Exists in": ["Showdown"]
+  },
+  "Dragon Darts": {
+    "Exists in": ["Showdown"]
+  },
+  "Dragon Energy": {
+    "Exists in": ["Showdown"]
+  },
+  "Dragon Hammer": {
+    "Exists in": ["Showdown"]
+  },
+  "Dragon Pulse": {
+    "Exists in": ["Showdown"]
+  },
+  "Dragon Rush": {
+    "Exists in": ["Showdown"]
+  },
+  "Dragon Tail": {
+    "Exists in": ["Showdown"]
+  },
+  "Draining Kiss": {
+    "Exists in": ["Showdown"]
+  },
+  "Drain Punch": {
+    "Exists in": ["Showdown"]
+  },
+  "Drill Run": {
+    "Exists in": ["Showdown"]
+  },
+  "Drum Beating": {
+    "Exists in": ["Showdown"]
+  },
+  "Dual Chop": {
+    "Exists in": ["Showdown"]
+  },
+  "Dual Wingbeat": {
+    "Exists in": ["Showdown"]
+  },
+  "Dynamax Cannon": {
+    "Exists in": ["Showdown"]
+  },
+  "Earth Power": {
+    "Exists in": ["Showdown"]
+  },
+  "Echoed Voice": {
+    "Exists in": ["Showdown"]
+  },
+  "Eerie Impulse": {
+    "Exists in": ["Showdown"]
+  },
+  "Eerie Spell": {
+    "Exists in": ["Showdown"]
+  },
+  "Electric Terrain": {
+    "Exists in": ["Showdown"]
+  },
+  "Electrify": {
+    "Exists in": ["Showdown"]
+  },
+  "Electro Ball": {
+    "Exists in": ["Showdown"]
+  },
+  "Electroweb": {
+    "Exists in": ["Showdown"]
+  },
+  "Embargo": {
+    "Exists in": ["Showdown"]
+  },
+  "Energy Ball": {
+    "Exists in": ["Showdown"]
+  },
+  "Entrainment": {
+    "Exists in": ["Showdown"]
+  },
+  "Eternabeam": {
+    "Exists in": ["Showdown"]
+  },
+  "Expanding Force": {
+    "Exists in": ["Showdown"]
+  },
+  "Extreme Evoboost": {
+    "Exists in": ["Showdown"]
+  },
+  "Fairy Lock": {
+    "Exists in": ["Showdown"]
+  },
+  "Fairy Wind": {
+    "Exists in": ["Showdown"]
+  },
+  "False Surrender": {
+    "Exists in": ["Showdown"]
+  },
+  "Feint": {
+    "Exists in": ["Showdown"]
+  },
+  "Fell Stinger": {
+    "Exists in": ["Showdown"]
+  },
+  "Fiery Dance": {
+    "Exists in": ["Showdown"]
+  },
+  "Fiery Wrath": {
+    "Exists in": ["Showdown"]
+  },
+  "Final Gambit": {
+    "Exists in": ["Showdown"]
+  },
+  "Fire Fang": {
+    "Exists in": ["Showdown"]
+  },
+  "Fire Lash": {
+    "Exists in": ["Showdown"]
+  },
+  "Fire Pledge": {
+    "Exists in": ["Showdown"]
+  },
+  "First Impression": {
+    "Exists in": ["Showdown"]
+  },
+  "Fishious Rend": {
+    "Exists in": ["Showdown"]
+  },
+  "Flame Burst": {
+    "Exists in": ["Showdown"]
+  },
+  "Flame Charge": {
+    "Exists in": ["Showdown"]
+  },
+  "Flare Blitz": {
+    "Exists in": ["Showdown"]
+  },
+  "Flash Cannon": {
+    "Exists in": ["Showdown"]
+  },
+  "Fleur Cannon": {
+    "Exists in": ["Showdown"]
+  },
+  "Fling": {
+    "Exists in": ["Showdown"]
+  },
+  "Flip Turn": {
+    "Exists in": ["Showdown"]
+  },
+  "Floaty Fall": {
+    "Exists in": ["Showdown"]
+  },
+  "Floral Healing": {
+    "Exists in": ["Showdown"]
+  },
+  "Flower Shield": {
+    "Exists in": ["Showdown"]
+  },
+  "Flying Press": {
+    "Exists in": ["Showdown"]
+  },
+  "Focus Blast": {
+    "Exists in": ["Showdown"]
+  },
+  "Force Palm": {
+    "Exists in": ["Showdown"]
+  },
+  "Forest's Curse": {
+    "Exists in": ["Showdown"]
+  },
+  "Foul Play": {
+    "Exists in": ["Showdown"]
+  },
+  "Freeze-Dry": {
+    "Exists in": ["Showdown"]
+  },
+  "Freeze Shock": {
+    "Exists in": ["Showdown"]
+  },
+  "Freezing Glare": {
+    "Exists in": ["Showdown"]
+  },
+  "Freezy Frost": {
+    "Exists in": ["Showdown"]
+  },
+  "Frost Breath": {
+    "Exists in": ["Showdown"]
+  },
+  "Fusion Bolt": {
+    "Exists in": ["Showdown"]
+  },
+  "Fusion Flare": {
+    "Exists in": ["Showdown"]
+  },
+  "Gastro Acid": {
+    "Exists in": ["Showdown"]
+  },
+  "Gear Grind": {
+    "Exists in": ["Showdown"]
+  },
+  "Gear Up": {
+    "Exists in": ["Showdown"]
+  },
+  "Genesis Supernova": {
+    "Exists in": ["Showdown"]
+  },
+  "Geomancy": {
+    "Exists in": ["Showdown"]
+  },
+  "Giga Impact": {
+    "Exists in": ["Showdown"]
+  },
+  "Gigavolt Havoc": {
+    "Exists in": ["Showdown"]
+  },
+  "Glacial Lance": {
+    "Exists in": ["Showdown"]
+  },
+  "Glaciate": {
+    "Exists in": ["Showdown"]
+  },
+  "Glitzy Glow": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Befuddle": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Cannonade": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Centiferno": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Chi Strike": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Cuddle": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Depletion": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Drum Solo": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Finale": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Fire Ball": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Foam Burst": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Gold Rush": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Gravitas": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Hydrosnipe": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Malodor": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Meltdown": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max One Blow": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Rapid Flow": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Replenish": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Resonance": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Sandblast": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Smite": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Snooze": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Steelsurge": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Stonesurge": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Stun Shock": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Sweetness": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Tartness": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Terror": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Vine Lash": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Volcalith": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Volt Crash": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Wildfire": {
+    "Exists in": ["Showdown"]
+  },
+  "G-Max Wind Rage": {
+    "Exists in": ["Showdown"]
+  },
+  "Grass Knot": {
+    "Exists in": ["Showdown"]
+  },
+  "Grass Pledge": {
+    "Exists in": ["Showdown"]
+  },
+  "Grassy Glide": {
+    "Exists in": ["Showdown"]
+  },
+  "Grassy Terrain": {
+    "Exists in": ["Showdown"]
+  },
+  "Grav Apple": {
+    "Exists in": ["Showdown"]
+  },
+  "Gravity": {
+    "Exists in": ["Showdown"]
+  },
+  "Guardian of Alola": {
+    "Exists in": ["Showdown"]
+  },
+  "Guard Split": {
+    "Exists in": ["Showdown"]
+  },
+  "Guard Swap": {
+    "Exists in": ["Showdown"]
+  },
+  "Gunk Shot": {
+    "Exists in": ["Showdown"]
+  },
+  "Gyro Ball": {
+    "Exists in": ["Showdown"]
+  },
+  "Hammer Arm": {
+    "Exists in": ["Showdown"]
+  },
+  "Happy Hour": {
+    "Exists in": ["Showdown"]
+  },
+  "Head Charge": {
+    "Exists in": ["Showdown"]
+  },
+  "Head Smash": {
+    "Exists in": ["Showdown"]
+  },
+  "Heal Block": {
+    "Exists in": ["Showdown"]
+  },
+  "Healing Wish": {
+    "Exists in": ["Showdown"]
+  },
+  "Heal Order": {
+    "Exists in": ["Showdown"]
+  },
+  "Heal Pulse": {
+    "Exists in": ["Showdown"]
+  },
+  "Heart Stamp": {
+    "Exists in": ["Showdown"]
+  },
+  "Heart Swap": {
+    "Exists in": ["Showdown"]
+  },
+  "Heat Crash": {
+    "Exists in": ["Showdown"]
+  },
+  "Heavy Slam": {
+    "Exists in": ["Showdown"]
+  },
+  "Hex": {
+    "Exists in": ["Showdown"]
+  },
+  "High Horsepower": {
+    "Exists in": ["Showdown"]
+  },
+  "Hold Back": {
+    "Exists in": ["Showdown"]
+  },
+  "Hold Hands": {
+    "Exists in": ["Showdown"]
+  },
+  "Hone Claws": {
+    "Exists in": ["Showdown"]
+  },
+  "Horn Leech": {
+    "Exists in": ["Showdown"]
+  },
+  "Hurricane": {
+    "Exists in": ["Showdown"]
+  },
+  "Hydro Vortex": {
+    "Exists in": ["Showdown"]
+  },
+  "Hyperspace Fury": {
+    "Exists in": ["Showdown"]
+  },
+  "Hyperspace Hole": {
+    "Exists in": ["Showdown"]
+  },
+  "Ice Burn": {
+    "Exists in": ["Showdown"]
+  },
+  "Ice Fang": {
+    "Exists in": ["Showdown"]
+  },
+  "Ice Hammer": {
+    "Exists in": ["Showdown"]
+  },
+  "Ice Shard": {
+    "Exists in": ["Showdown"]
+  },
+  "Icicle Crash": {
+    "Exists in": ["Showdown"]
+  },
+  "Incinerate": {
+    "Exists in": ["Showdown"]
+  },
+  "Inferno": {
+    "Exists in": ["Showdown"]
+  },
+  "Inferno Overdrive": {
+    "Exists in": ["Showdown"]
+  },
+  "Infestation": {
+    "Exists in": ["Showdown"]
+  },
+  "Instruct": {
+    "Exists in": ["Showdown"]
+  },
+  "Ion Deluge": {
+    "Exists in": ["Showdown"]
+  },
+  "Iron Head": {
+    "Exists in": ["Showdown"]
+  },
+  "Jaw Lock": {
+    "Exists in": ["Showdown"]
+  },
+  "Judgment": {
+    "Exists in": ["Showdown"]
+  },
+  "Jungle Healing": {
+    "Exists in": ["Showdown"]
+  },
+  "King's Shield": {
+    "Exists in": ["Showdown"]
+  },
+  "Land's Wrath": {
+    "Exists in": ["Showdown"]
+  },
+  "Laser Focus": {
+    "Exists in": ["Showdown"]
+  },
+  "Lash Out": {
+    "Exists in": ["Showdown"]
+  },
+  "Last Resort": {
+    "Exists in": ["Showdown"]
+  },
+  "Lava Plume": {
+    "Exists in": ["Showdown"]
+  },
+  "Leafage": {
+    "Exists in": ["Showdown"]
+  },
+  "Leaf Storm": {
+    "Exists in": ["Showdown"]
+  },
+  "Leaf Tornado": {
+    "Exists in": ["Showdown"]
+  },
+  "Let's Snuggle Forever": {
+    "Exists in": ["Showdown"]
+  },
+  "Life Dew": {
+    "Exists in": ["Showdown"]
+  },
+  "Light of Ruin": {
+    "Exists in": ["Showdown"]
+  },
+  "Light That Burns the Sky": {
+    "Exists in": ["Showdown"]
+  },
+  "Liquidation": {
+    "Exists in": ["Showdown"]
+  },
+  "Low Sweep": {
+    "Exists in": ["Showdown"]
+  },
+  "Lucky Chant": {
+    "Exists in": ["Showdown"]
+  },
+  "Lunar Dance": {
+    "Exists in": ["Showdown"]
+  },
+  "Lunge": {
+    "Exists in": ["Showdown"]
+  },
+  "Magic Powder": {
+    "Exists in": ["Showdown"]
+  },
+  "Magic Room": {
+    "Exists in": ["Showdown"]
+  },
+  "Magikarp's Revenge": {
+    "Exists in": ["Showdown"]
+  },
+  "Magma Storm": {
+    "Exists in": ["Showdown"]
+  },
+  "Magnet Bomb": {
+    "Exists in": ["Showdown"]
+  },
+  "Magnetic Flux": {
+    "Exists in": ["Showdown"]
+  },
+  "Magnet Rise": {
+    "Exists in": ["Showdown"]
+  },
+  "Malicious Moonsault": {
+    "Exists in": ["Showdown"]
+  },
+  "Mat Block": {
+    "Exists in": ["Showdown"]
+  },
+  "Max Airstream": {
+    "Exists in": ["Showdown"]
+  },
+  "Max Darkness": {
+    "Exists in": ["Showdown"]
+  },
+  "Max Flare": {
+    "Exists in": ["Showdown"]
+  },
+  "Max Flutterby": {
+    "Exists in": ["Showdown"]
+  },
+  "Max Geyser": {
+    "Exists in": ["Showdown"]
+  },
+  "Max Guard": {
+    "Exists in": ["Showdown"]
+  },
+  "Max Hailstorm": {
+    "Exists in": ["Showdown"]
+  },
+  "Max Knuckle": {
+    "Exists in": ["Showdown"]
+  },
+  "Max Lightning": {
+    "Exists in": ["Showdown"]
+  },
+  "Max Mindstorm": {
+    "Exists in": ["Showdown"]
+  },
+  "Max Ooze": {
+    "Exists in": ["Showdown"]
+  },
+  "Max Overgrowth": {
+    "Exists in": ["Showdown"]
+  },
+  "Max Phantasm": {
+    "Exists in": ["Showdown"]
+  },
+  "Max Quake": {
+    "Exists in": ["Showdown"]
+  },
+  "Max Rockfall": {
+    "Exists in": ["Showdown"]
+  },
+  "Max Starfall": {
+    "Exists in": ["Showdown"]
+  },
+  "Max Steelspike": {
+    "Exists in": ["Showdown"]
+  },
+  "Max Strike": {
+    "Exists in": ["Showdown"]
+  },
+  "Max Wyrmwind": {
+    "Exists in": ["Showdown"]
+  },
+  "Me First": {
+    "Exists in": ["Showdown"]
+  },
+  "Menacing Moonraze Maelstrom": {
+    "Exists in": ["Showdown"]
+  },
+  "Metal Burst": {
+    "Exists in": ["Showdown"]
+  },
+  "Meteor Assault": {
+    "Exists in": ["Showdown"]
+  },
+  "Meteor Beam": {
+    "Exists in": ["Showdown"]
+  },
+  "Mind Blown": {
+    "Exists in": ["Showdown"]
+  },
+  "Miracle Eye": {
+    "Exists in": ["Showdown"]
+  },
+  "Mirror Shot": {
+    "Exists in": ["Showdown"]
+  },
+  "Misty Explosion": {
+    "Exists in": ["Showdown"]
+  },
+  "Misty Terrain": {
+    "Exists in": ["Showdown"]
+  },
+  "Moonblast": {
+    "Exists in": ["Showdown"]
+  },
+  "Moongeist Beam": {
+    "Exists in": ["Showdown"]
+  },
+  "Mud Bomb": {
+    "Exists in": ["Showdown"]
+  },
+  "Multi-Attack": {
+    "Exists in": ["Showdown"]
+  },
+  "Mystical Fire": {
+    "Exists in": ["Showdown"]
+  },
+  "Nasty Plot": {
+    "Exists in": ["Showdown"]
+  },
+  "Natural Gift": {
+    "Exists in": ["Showdown"]
+  },
+  "Nature's Madness": {
+    "Exists in": ["Showdown"]
+  },
+  "Never-Ending Nightmare": {
+    "Exists in": ["Showdown"]
+  },
+  "Night Daze": {
+    "Exists in": ["Showdown"]
+  },
+  "Night Slash": {
+    "Exists in": ["Showdown"]
+  },
+  "Noble Roar": {
+    "Exists in": ["Showdown"]
+  },
+  "No Retreat": {
+    "Exists in": ["Showdown"]
+  },
+  "Nuzzle": {
+    "Exists in": ["Showdown"]
+  },
+  "Oblivion Wing": {
+    "Exists in": ["Showdown"]
+  },
+  "Obstruct": {
+    "Exists in": ["Showdown"]
+  },
+  "Oceanic Operetta": {
+    "Exists in": ["Showdown"]
+  },
+  "Octolock": {
+    "Exists in": ["Showdown"]
+  },
+  "Ominous Wind": {
+    "Exists in": ["Showdown"]
+  },
+  "Origin Pulse": {
+    "Exists in": ["Showdown"]
+  },
+  "Overdrive": {
+    "Exists in": ["Showdown"]
+  },
+  "Paleo Wave": {
+    "Exists in": ["Showdown"]
+  },
+  "Parabolic Charge": {
+    "Exists in": ["Showdown"]
+  },
+  "Parting Shot": {
+    "Exists in": ["Showdown"]
+  },
+  "Payback": {
+    "Exists in": ["Showdown"]
+  },
+  "Petal Blizzard": {
+    "Exists in": ["Showdown"]
+  },
+  "Phantom Force": {
+    "Exists in": ["Showdown"]
+  },
+  "Photon Geyser": {
+    "Exists in": ["Showdown"]
+  },
+  "Pika Papow": {
+    "Exists in": ["Showdown"]
+  },
+  "Plasma Fists": {
+    "Exists in": ["Showdown"]
+  },
+  "Play Nice": {
+    "Exists in": ["Showdown"]
+  },
+  "Play Rough": {
+    "Exists in": ["Showdown"]
+  },
+  "Pluck": {
+    "Exists in": ["Showdown"]
+  },
+  "Poison Jab": {
+    "Exists in": ["Showdown"]
+  },
+  "Pollen Puff": {
+    "Exists in": ["Showdown"]
+  },
+  "Poltergeist": {
+    "Exists in": ["Showdown"]
+  },
+  "Powder": {
+    "Exists in": ["Showdown"]
+  },
+  "Power Gem": {
+    "Exists in": ["Showdown"]
+  },
+  "Power Split": {
+    "Exists in": ["Showdown"]
+  },
+  "Power Swap": {
+    "Exists in": ["Showdown"]
+  },
+  "Power Trick": {
+    "Exists in": ["Showdown"]
+  },
+  "Power Trip": {
+    "Exists in": ["Showdown"]
+  },
+  "Power-Up Punch": {
+    "Exists in": ["Showdown"]
+  },
+  "Power Whip": {
+    "Exists in": ["Showdown"]
+  },
+  "Precipice Blades": {
+    "Exists in": ["Showdown"]
+  },
+  "Prismatic Laser": {
+    "Exists in": ["Showdown"]
+  },
+  "Psychic Fangs": {
+    "Exists in": ["Showdown"]
+  },
+  "Psychic Terrain": {
+    "Exists in": ["Showdown"]
+  },
+  "Psycho Cut": {
+    "Exists in": ["Showdown"]
+  },
+  "Psycho Shift": {
+    "Exists in": ["Showdown"]
+  },
+  "Psyshock": {
+    "Exists in": ["Showdown"]
+  },
+  "Psystrike": {
+    "Exists in": ["Showdown"]
+  },
+  "Pulverizing Pancake": {
+    "Exists in": ["Showdown"]
+  },
+  "Punishment": {
+    "Exists in": ["Showdown"]
+  },
+  "Purify": {
+    "Exists in": ["Showdown"]
+  },
+  "Pyro Ball": {
+    "Exists in": ["Showdown"]
+  },
+  "Quash": {
+    "Exists in": ["Showdown"]
+  },
+  "Quick Guard": {
+    "Exists in": ["Showdown"]
+  },
+  "Quiver Dance": {
+    "Exists in": ["Showdown"]
+  },
+  "Rage Powder": {
+    "Exists in": ["Showdown"]
+  },
+  "Razor Shell": {
+    "Exists in": ["Showdown"]
+  },
+  "Reflect Type": {
+    "Exists in": ["Showdown"]
+  },
+  "Relic Song": {
+    "Exists in": ["Showdown"]
+  },
+  "Retaliate": {
+    "Exists in": ["Showdown"]
+  },
+  "Revelation Dance": {
+    "Exists in": ["Showdown"]
+  },
+  "Rising Voltage": {
+    "Exists in": ["Showdown"]
+  },
+  "Roar of Time": {
+    "Exists in": ["Showdown"]
+  },
+  "Rock Climb": {
+    "Exists in": ["Showdown"]
+  },
+  "Rock Polish": {
+    "Exists in": ["Showdown"]
+  },
+  "Rock Wrecker": {
+    "Exists in": ["Showdown"]
+  },
+  "Roost": {
+    "Exists in": ["Showdown"]
+  },
+  "Rototiller": {
+    "Exists in": ["Showdown"]
+  },
+  "Round": {
+    "Exists in": ["Showdown"]
+  },
+  "Sacred Sword": {
+    "Exists in": ["Showdown"]
+  },
+  "Sappy Seed": {
+    "Exists in": ["Showdown"]
+  },
+  "Savage Spin-Out": {
+    "Exists in": ["Showdown"]
+  },
+  "Scald": {
+    "Exists in": ["Showdown"]
+  },
+  "Scale Shot": {
+    "Exists in": ["Showdown"]
+  },
+  "Scorching Sands": {
+    "Exists in": ["Showdown"]
+  },
+  "Searing Shot": {
+    "Exists in": ["Showdown"]
+  },
+  "Searing Sunraze Smash": {
+    "Exists in": ["Showdown"]
+  },
+  "Secret Sword": {
+    "Exists in": ["Showdown"]
+  },
+  "Seed Bomb": {
+    "Exists in": ["Showdown"]
+  },
+  "Seed Flare": {
+    "Exists in": ["Showdown"]
+  },
+  "Shadow Bone": {
+    "Exists in": ["Showdown"]
+  },
+  "Shadow Claw": {
+    "Exists in": ["Showdown"]
+  },
+  "Shadow Force": {
+    "Exists in": ["Showdown"]
+  },
+  "Shadow Sneak": {
+    "Exists in": ["Showdown"]
+  },
+  "Shadow Strike": {
+    "Exists in": ["Showdown"]
+  },
+  "Shattered Psyche": {
+    "Exists in": ["Showdown"]
+  },
+  "Shell Side Arm": {
+    "Exists in": ["Showdown"]
+  },
+  "Shell Smash": {
+    "Exists in": ["Showdown"]
+  },
+  "Shell Trap": {
+    "Exists in": ["Showdown"]
+  },
+  "Shift Gear": {
+    "Exists in": ["Showdown"]
+  },
+  "Shore Up": {
+    "Exists in": ["Showdown"]
+  },
+  "Simple Beam": {
+    "Exists in": ["Showdown"]
+  },
+  "Sinister Arrow Raid": {
+    "Exists in": ["Showdown"]
+  },
+  "Sizzly Slide": {
+    "Exists in": ["Showdown"]
+  },
+  "Skitter Smack": {
+    "Exists in": ["Showdown"]
+  },
+  "Sky Drop": {
+    "Exists in": ["Showdown"]
+  },
+  "Sludge Wave": {
+    "Exists in": ["Showdown"]
+  },
+  "Smack Down": {
+    "Exists in": ["Showdown"]
+  },
+  "Smart Strike": {
+    "Exists in": ["Showdown"]
+  },
+  "Snap Trap": {
+    "Exists in": ["Showdown"]
+  },
+  "Snarl": {
+    "Exists in": ["Showdown"]
+  },
+  "Snipe Shot": {
+    "Exists in": ["Showdown"]
+  },
+  "Soak": {
+    "Exists in": ["Showdown"]
+  },
+  "Solar Blade": {
+    "Exists in": ["Showdown"]
+  },
+  "Soul-Stealing 7-Star Strike": {
+    "Exists in": ["Showdown"]
+  },
+  "Spacial Rend": {
+    "Exists in": ["Showdown"]
+  },
+  "Sparkling Aria": {
+    "Exists in": ["Showdown"]
+  },
+  "Sparkly Swirl": {
+    "Exists in": ["Showdown"]
+  },
+  "Spectral Thief": {
+    "Exists in": ["Showdown"]
+  },
+  "Speed Swap": {
+    "Exists in": ["Showdown"]
+  },
+  "Spiky Shield": {
+    "Exists in": ["Showdown"]
+  },
+  "Spirit Break": {
+    "Exists in": ["Showdown"]
+  },
+  "Spirit Shackle": {
+    "Exists in": ["Showdown"]
+  },
+  "Splintered Stormshards": {
+    "Exists in": ["Showdown"]
+  },
+  "Splishy Splash": {
+    "Exists in": ["Showdown"]
+  },
+  "Spotlight": {
+    "Exists in": ["Showdown"]
+  },
+  "Stealth Rock": {
+    "Exists in": ["Showdown"]
+  },
+  "Steam Eruption": {
+    "Exists in": ["Showdown"]
+  },
+  "Steamroller": {
+    "Exists in": ["Showdown"]
+  },
+  "Steel Beam": {
+    "Exists in": ["Showdown"]
+  },
+  "Steel Roller": {
+    "Exists in": ["Showdown"]
+  },
+  "Sticky Web": {
+    "Exists in": ["Showdown"]
+  },
+  "Stoked Sparksurfer": {
+    "Exists in": ["Showdown"]
+  },
+  "Stomping Tantrum": {
+    "Exists in": ["Showdown"]
+  },
+  "Stone Edge": {
+    "Exists in": ["Showdown"]
+  },
+  "Stored Power": {
+    "Exists in": ["Showdown"]
+  },
+  "Storm Throw": {
+    "Exists in": ["Showdown"]
+  },
+  "Strange Steam": {
+    "Exists in": ["Showdown"]
+  },
+  "Strength Sap": {
+    "Exists in": ["Showdown"]
+  },
+  "Struggle Bug": {
+    "Exists in": ["Showdown"]
+  },
+  "Stuff Cheeks": {
+    "Exists in": ["Showdown"]
+  },
+  "Subzero Slammer": {
+    "Exists in": ["Showdown"]
+  },
+  "Sucker Punch": {
+    "Exists in": ["Showdown"]
+  },
+  "Sunsteel Strike": {
+    "Exists in": ["Showdown"]
+  },
+  "Supersonic Skystrike": {
+    "Exists in": ["Showdown"]
+  },
+  "Surging Strikes": {
+    "Exists in": ["Showdown"]
+  },
+  "Switcheroo": {
+    "Exists in": ["Showdown"]
+  },
+  "Synchronoise": {
+    "Exists in": ["Showdown"]
+  },
+  "Tail Slap": {
+    "Exists in": ["Showdown"]
+  },
+  "Tailwind": {
+    "Exists in": ["Showdown"]
+  },
+  "Tar Shot": {
+    "Exists in": ["Showdown"]
+  },
+  "Tearful Look": {
+    "Exists in": ["Showdown"]
+  },
+  "Teatime": {
+    "Exists in": ["Showdown"]
+  },
+  "Techno Blast": {
+    "Exists in": ["Showdown"]
+  },
+  "Tectonic Rage": {
+    "Exists in": ["Showdown"]
+  },
+  "Telekinesis": {
+    "Exists in": ["Showdown"]
+  },
+  "Terrain Pulse": {
+    "Exists in": ["Showdown"]
+  },
+  "Thousand Arrows": {
+    "Exists in": ["Showdown"]
+  },
+  "Thousand Waves": {
+    "Exists in": ["Showdown"]
+  },
+  "Throat Chop": {
+    "Exists in": ["Showdown"]
+  },
+  "Thunder Cage": {
+    "Exists in": ["Showdown"]
+  },
+  "Thunder Fang": {
+    "Exists in": ["Showdown"]
+  },
+  "Thunderous Kick": {
+    "Exists in": ["Showdown"]
+  },
+  "Topsy-Turvy": {
+    "Exists in": ["Showdown"]
+  },
+  "Toxic Spikes": {
+    "Exists in": ["Showdown"]
+  },
+  "Toxic Thread": {
+    "Exists in": ["Showdown"]
+  },
+  "Trick-or-Treat": {
+    "Exists in": ["Showdown"]
+  },
+  "Trick Room": {
+    "Exists in": ["Showdown"]
+  },
+  "Triple Axel": {
+    "Exists in": ["Showdown"]
+  },
+  "Trop Kick": {
+    "Exists in": ["Showdown"]
+  },
+  "Trump Card": {
+    "Exists in": ["Showdown"]
+  },
+  "Twinkle Tackle": {
+    "Exists in": ["Showdown"]
+  },
+  "U-turn": {
+    "Exists in": ["Showdown"]
+  },
+  "Vacuum Wave": {
+    "Exists in": ["Showdown"]
+  },
+  "V-create": {
+    "Exists in": ["Showdown"]
+  },
+  "Veevee Volley": {
+    "Exists in": ["Showdown"]
+  },
+  "Venom Drench": {
+    "Exists in": ["Showdown"]
+  },
+  "Venoshock": {
+    "Exists in": ["Showdown"]
+  },
+  "Volt Switch": {
+    "Exists in": ["Showdown"]
+  },
+  "Wake-Up Slap": {
+    "Exists in": ["Showdown"]
+  },
+  "Water Pledge": {
+    "Exists in": ["Showdown"]
+  },
+  "Water Shuriken": {
+    "Exists in": ["Showdown"]
+  },
+  "Wicked Blow": {
+    "Exists in": ["Showdown"]
+  },
+  "Wide Guard": {
+    "Exists in": ["Showdown"]
+  },
+  "Wild Charge": {
+    "Exists in": ["Showdown"]
+  },
+  "Wonder Room": {
+    "Exists in": ["Showdown"]
+  },
+  "Wood Hammer": {
+    "Exists in": ["Showdown"]
+  },
+  "Work Up": {
+    "Exists in": ["Showdown"]
+  },
+  "Worry Seed": {
+    "Exists in": ["Showdown"]
+  },
+  "Wring Out": {
+    "Exists in": ["Showdown"]
+  },
+  "X-Scissor": {
+    "Exists in": ["Showdown"]
+  },
+  "Zen Headbutt": {
+    "Exists in": ["Showdown"]
+  },
+  "Zing Zap": {
+    "Exists in": ["Showdown"]
+  },
+  "Zippy Zap": {
+    "Exists in": ["Showdown"]
+  }
 }

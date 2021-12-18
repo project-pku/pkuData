@@ -1,0 +1,37 @@
+{
+  "Species": {
+    "SubDexes":{
+      "Main Series": "main-series/main-seriesSpeciesDex.json",
+      "pk3": "main-series/gen-3/pk3SpeciesDex.json",
+      "Pokéstar": "main-series/gen-5/pokestarSpeciesDex.json",
+      "Showdown": "showdown/showdownSpeciesDex.json"
+    }
+  },
+  "Move": {
+    "SubDexes":{
+      "Main Series": "main-series/main-seriesMoveDex.json",
+      "pk3": "main-series/gen-3/pk3MoveDex.json",
+      "Showdown": "showdown/showdownMoveDex.json"
+    }
+  },
+  "Ability": {
+    "SubDexes":{
+      "Showdown": "showdown/showdownAbilityDex.json"
+    }
+  },
+  "Item": {
+    "SubDexes":{
+      "Showdown": "showdown/showdownItemDex.json"
+    }
+  },
+  "Format": {
+    "SubDexes":{
+      "pk3": "main-series/gen-3/pk3FormatDex.json"
+    }
+  },
+  "Game": {
+    "SubDexes":{
+      "Gen 3": "main-series/gen-3/gen3GameDex.json"
+    }
+  }
+}
