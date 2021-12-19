@@ -21,6 +21,8 @@
   },
   "Item": {
     "SubDexes":{
+      "Main Series": "main-series/main-seriesItemDex.json",
+      "pk3": "main-series/gen-3/pk3ItemDex.json",
       "Showdown": "showdown/showdownItemDex.json"
     }
   },

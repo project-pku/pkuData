@@ -1,0 +1,62 @@
+{
+  "Master Ball": {
+    "Indices": {
+      "main-series": 1
+    }
+  },
+  "Ultra Ball": {
+    "Indices": {
+      "main-series": 2
+    }
+  },
+  "Great Ball": {
+    "Indices": {
+      "main-series": 3
+    }
+  },
+  "Poké Ball": {
+    "Indices": {
+      "main-series": 4
+    }
+  },
+  "Safari Ball": {
+    "Indices": {
+      "main-series": 5
+    }
+  },
+  "Net Ball": {
+    "Indices": {
+      "main-series": 6
+    }
+  },
+  "Dive Ball": {
+    "Indices": {
+      "main-series": 7
+    }
+  },
+  "Nest Ball": {
+    "Indices": {
+      "main-series": 8
+    }
+  },
+  "Repeat Ball": {
+    "Indices": {
+      "main-series": 9
+    }
+  },
+  "Timer Ball": {
+    "Indices": {
+      "main-series": 10
+    }
+  },
+  "Luxury Ball": {
+    "Indices": {
+      "main-series": 11
+    }
+  },
+  "Premier Ball": {
+    "Indices": {
+      "main-series": 12
+    }
+  }
+}

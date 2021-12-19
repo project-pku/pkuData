@@ -1,0 +1,1829 @@
+{
+  "Master Ball": {
+    "Exists in": ["pk3"]
+  },
+  "Ultra Ball": {
+    "Exists in": ["pk3"]
+  },
+  "Great Ball": {
+    "Exists in": ["pk3"]
+  },
+  "Poké Ball": {
+    "Exists in": ["pk3"]
+  },
+  "Safari Ball": {
+    "Exists in": ["pk3"]
+  },
+  "Net Ball": {
+    "Exists in": ["pk3"]
+  },
+  "Dive Ball": {
+    "Exists in": ["pk3"]
+  },
+  "Nest Ball": {
+    "Exists in": ["pk3"]
+  },
+  "Repeat Ball": {
+    "Exists in": ["pk3"]
+  },
+  "Timer Ball": {
+    "Exists in": ["pk3"]
+  },
+  "Luxury Ball": {
+    "Exists in": ["pk3"]
+  },
+  "Premier Ball": {
+    "Exists in": ["pk3"]
+  },
+  "Potion": {
+    "Indices": {
+      "pk3": 13
+    },
+    "Exists in": ["pk3"]
+  },
+  "Antidote": {
+    "Indices": {
+      "pk3": 14
+    },
+    "Exists in": ["pk3"]
+  },
+  "Burn Heal": {
+    "Indices": {
+      "pk3": 15
+    },
+    "Exists in": ["pk3"]
+  },
+  "Ice Heal": {
+    "Indices": {
+      "pk3": 16
+    },
+    "Exists in": ["pk3"]
+  },
+  "Awakening": {
+    "Indices": {
+      "pk3": 17
+    },
+    "Exists in": ["pk3"]
+  },
+  "Paralyze Heal": {
+    "Indices": {
+      "pk3": 18
+    },
+    "Exists in": ["pk3"]
+  },
+  "Full Restore": {
+    "Indices": {
+      "pk3": 19
+    },
+    "Exists in": ["pk3"]
+  },
+  "Max Potion": {
+    "Indices": {
+      "pk3": 20
+    },
+    "Exists in": ["pk3"]
+  },
+  "Hyper Potion": {
+    "Indices": {
+      "pk3": 21
+    },
+    "Exists in": ["pk3"]
+  },
+  "Super Potion": {
+    "Indices": {
+      "pk3": 22
+    },
+    "Exists in": ["pk3"]
+  },
+  "Full Heal": {
+    "Indices": {
+      "pk3": 23
+    },
+    "Exists in": ["pk3"]
+  },
+  "Revive": {
+    "Indices": {
+      "pk3": 24
+    },
+    "Exists in": ["pk3"]
+  },
+  "Max Revive": {
+    "Indices": {
+      "pk3": 25
+    },
+    "Exists in": ["pk3"]
+  },
+  "Fresh Water": {
+    "Indices": {
+      "pk3": 26
+    },
+    "Exists in": ["pk3"]
+  },
+  "Soda Pop": {
+    "Indices": {
+      "pk3": 27
+    },
+    "Exists in": ["pk3"]
+  },
+  "Lemonade": {
+    "Indices": {
+      "pk3": 28
+    },
+    "Exists in": ["pk3"]
+  },
+  "Moomoo Milk": {
+    "Indices": {
+      "pk3": 29
+    },
+    "Exists in": ["pk3"]
+  },
+  "Energy Powder": {
+    "Indices": {
+      "pk3": 30
+    },
+    "Exists in": ["pk3"]
+  },
+  "Energy Root": {
+    "Indices": {
+      "pk3": 31
+    },
+    "Exists in": ["pk3"]
+  },
+  "Heal Powder": {
+    "Indices": {
+      "pk3": 32
+    },
+    "Exists in": ["pk3"]
+  },
+  "Revival Herb": {
+    "Indices": {
+      "pk3": 33
+    },
+    "Exists in": ["pk3"]
+  },
+  "Ether": {
+    "Indices": {
+      "pk3": 34
+    },
+    "Exists in": ["pk3"]
+  },
+  "Max Ether": {
+    "Indices": {
+      "pk3": 35
+    },
+    "Exists in": ["pk3"]
+  },
+  "Elixir": {
+    "Indices": {
+      "pk3": 36
+    },
+    "Exists in": ["pk3"]
+  },
+  "Max Elixir": {
+    "Indices": {
+      "pk3": 37
+    },
+    "Exists in": ["pk3"]
+  },
+  "Lava Cookie": {
+    "Indices": {
+      "pk3": 38
+    },
+    "Exists in": ["pk3"]
+  },
+  "Blue Flute": {
+    "Indices": {
+      "pk3": 39
+    },
+    "Exists in": ["pk3"]
+  },
+  "Yellow Flute": {
+    "Indices": {
+      "pk3": 40
+    },
+    "Exists in": ["pk3"]
+  },
+  "Red Flute": {
+    "Indices": {
+      "pk3": 41
+    },
+    "Exists in": ["pk3"]
+  },
+  "Black Flute": {
+    "Indices": {
+      "pk3": 42
+    },
+    "Exists in": ["pk3"]
+  },
+  "White Flute": {
+    "Indices": {
+      "pk3": 43
+    },
+    "Exists in": ["pk3"]
+  },
+  "Berry Juice": {
+    "Indices": {
+      "pk3": 44
+    },
+    "Exists in": ["pk3"]
+  },
+  "Sacred Ash": {
+    "Indices": {
+      "pk3": 45
+    },
+    "Exists in": ["pk3"]
+  },
+  "Shoal Salt": {
+    "Indices": {
+      "pk3": 46
+    },
+    "Exists in": ["pk3"]
+  },
+  "Shoal Shell": {
+    "Indices": {
+      "pk3": 47
+    },
+    "Exists in": ["pk3"]
+  },
+  "Red Shard": {
+    "Indices": {
+      "pk3": 48
+    },
+    "Exists in": ["pk3"]
+  },
+  "Blue Shard": {
+    "Indices": {
+      "pk3": 49
+    },
+    "Exists in": ["pk3"]
+  },
+  "Yellow Shard": {
+    "Indices": {
+      "pk3": 50
+    },
+    "Exists in": ["pk3"]
+  },
+  "Green Shard": {
+    "Indices": {
+      "pk3": 51
+    },
+    "Exists in": ["pk3"]
+  },
+  "HP Up": {
+    "Indices": {
+      "pk3": 63
+    },
+    "Exists in": ["pk3"]
+  },
+  "Protein": {
+    "Indices": {
+      "pk3": 64
+    },
+    "Exists in": ["pk3"]
+  },
+  "Iron": {
+    "Indices": {
+      "pk3": 65
+    },
+    "Exists in": ["pk3"]
+  },
+  "Carbos": {
+    "Indices": {
+      "pk3": 66
+    },
+    "Exists in": ["pk3"]
+  },
+  "Calcium": {
+    "Indices": {
+      "pk3": 67
+    },
+    "Exists in": ["pk3"]
+  },
+  "Rare Candy": {
+    "Indices": {
+      "pk3": 68
+    },
+    "Exists in": ["pk3"]
+  },
+  "PP Up": {
+    "Indices": {
+      "pk3": 69
+    },
+    "Exists in": ["pk3"]
+  },
+  "Zinc": {
+    "Indices": {
+      "pk3": 70
+    },
+    "Exists in": ["pk3"]
+  },
+  "PP Max": {
+    "Indices": {
+      "pk3": 71
+    },
+    "Exists in": ["pk3"]
+  },
+  "Guard Spec.": {
+    "Indices": {
+      "pk3": 73
+    },
+    "Exists in": ["pk3"]
+  },
+  "Dire Hit": {
+    "Indices": {
+      "pk3": 74
+    },
+    "Exists in": ["pk3"]
+  },
+  "X Attack": {
+    "Indices": {
+      "pk3": 75
+    },
+    "Exists in": ["pk3"]
+  },
+  "X Defense": {
+    "Indices": {
+      "pk3": 76
+    },
+    "Exists in": ["pk3"]
+  },
+  "X Speed": {
+    "Indices": {
+      "pk3": 77
+    },
+    "Exists in": ["pk3"]
+  },
+  "X Accuracy": {
+    "Indices": {
+      "pk3": 78
+    },
+    "Exists in": ["pk3"]
+  },
+  "X Sp. Atk": {
+    "Indices": {
+      "pk3": 79
+    },
+    "Exists in": ["pk3"]
+  },
+  "Poké Doll": {
+    "Indices": {
+      "pk3": 80
+    },
+    "Exists in": ["pk3"]
+  },
+  "Fluffy Tail": {
+    "Indices": {
+      "pk3": 81
+    },
+    "Exists in": ["pk3"]
+  },
+  "Super Repel": {
+    "Indices": {
+      "pk3": 83
+    },
+    "Exists in": ["pk3"]
+  },
+  "Max Repel": {
+    "Indices": {
+      "pk3": 84
+    },
+    "Exists in": ["pk3"]
+  },
+  "Escape Rope": {
+    "Indices": {
+      "pk3": 85
+    },
+    "Exists in": ["pk3"]
+  },
+  "Repel": {
+    "Indices": {
+      "pk3": 86
+    },
+    "Exists in": ["pk3"]
+  },
+  "Sun Stone": {
+    "Indices": {
+      "pk3": 93
+    },
+    "Exists in": ["pk3"]
+  },
+  "Moon Stone": {
+    "Indices": {
+      "pk3": 94
+    },
+    "Exists in": ["pk3"]
+  },
+  "Fire Stone": {
+    "Indices": {
+      "pk3": 95
+    },
+    "Exists in": ["pk3"]
+  },
+  "Thunder Stone": {
+    "Indices": {
+      "pk3": 96
+    },
+    "Exists in": ["pk3"]
+  },
+  "Water Stone": {
+    "Indices": {
+      "pk3": 97
+    },
+    "Exists in": ["pk3"]
+  },
+  "Leaf Stone": {
+    "Indices": {
+      "pk3": 98
+    },
+    "Exists in": ["pk3"]
+  },
+  "Tiny Mushroom": {
+    "Indices": {
+      "pk3": 103
+    },
+    "Exists in": ["pk3"]
+  },
+  "Big Mushroom": {
+    "Indices": {
+      "pk3": 104
+    },
+    "Exists in": ["pk3"]
+  },
+  "Pearl": {
+    "Indices": {
+      "pk3": 106
+    },
+    "Exists in": ["pk3"]
+  },
+  "Big Pearl": {
+    "Indices": {
+      "pk3": 107
+    },
+    "Exists in": ["pk3"]
+  },
+  "Stardust": {
+    "Indices": {
+      "pk3": 108
+    },
+    "Exists in": ["pk3"]
+  },
+  "Star Piece": {
+    "Indices": {
+      "pk3": 109
+    },
+    "Exists in": ["pk3"]
+  },
+  "Nugget": {
+    "Indices": {
+      "pk3": 110
+    },
+    "Exists in": ["pk3"]
+  },
+  "Heart Scale": {
+    "Indices": {
+      "pk3": 111
+    },
+    "Exists in": ["pk3"]
+  },
+  "Orange Mail": {
+    "Indices": {
+      "pk3": 121
+    },
+    "Exists in": ["pk3"]
+  },
+  "Harbor Mail": {
+    "Indices": {
+      "pk3": 122
+    },
+    "Exists in": ["pk3"]
+  },
+  "Glitter Mail": {
+    "Indices": {
+      "pk3": 123
+    },
+    "Exists in": ["pk3"]
+  },
+  "Mech Mail": {
+    "Indices": {
+      "pk3": 124
+    },
+    "Exists in": ["pk3"]
+  },
+  "Wood Mail": {
+    "Indices": {
+      "pk3": 125
+    },
+    "Exists in": ["pk3"]
+  },
+  "Wave Mail": {
+    "Indices": {
+      "pk3": 126
+    },
+    "Exists in": ["pk3"]
+  },
+  "Bead Mail": {
+    "Indices": {
+      "pk3": 127
+    },
+    "Exists in": ["pk3"]
+  },
+  "Shadow Mail": {
+    "Indices": {
+      "pk3": 128
+    },
+    "Exists in": ["pk3"]
+  },
+  "Tropic Mail": {
+    "Indices": {
+      "pk3": 129
+    },
+    "Exists in": ["pk3"]
+  },
+  "Dream Mail": {
+    "Indices": {
+      "pk3": 130
+    },
+    "Exists in": ["pk3"]
+  },
+  "Fab Mail": {
+    "Indices": {
+      "pk3": 131
+    },
+    "Exists in": ["pk3"]
+  },
+  "Retro Mail": {
+    "Indices": {
+      "pk3": 132
+    },
+    "Exists in": ["pk3"]
+  },
+  "Cheri Berry": {
+    "Indices": {
+      "pk3": 133
+    },
+    "Exists in": ["pk3"]
+  },
+  "Chesto Berry": {
+    "Indices": {
+      "pk3": 134
+    },
+    "Exists in": ["pk3"]
+  },
+  "Pecha Berry": {
+    "Indices": {
+      "pk3": 135
+    },
+    "Exists in": ["pk3"]
+  },
+  "Rawst Berry": {
+    "Indices": {
+      "pk3": 136
+    },
+    "Exists in": ["pk3"]
+  },
+  "Aspear Berry": {
+    "Indices": {
+      "pk3": 137
+    },
+    "Exists in": ["pk3"]
+  },
+  "Leppa Berry": {
+    "Indices": {
+      "pk3": 138
+    },
+    "Exists in": ["pk3"]
+  },
+  "Oran Berry": {
+    "Indices": {
+      "pk3": 139
+    },
+    "Exists in": ["pk3"]
+  },
+  "Persim Berry": {
+    "Indices": {
+      "pk3": 140
+    },
+    "Exists in": ["pk3"]
+  },
+  "Lum Berry": {
+    "Indices": {
+      "pk3": 141
+    },
+    "Exists in": ["pk3"]
+  },
+  "Sitrus Berry": {
+    "Indices": {
+      "pk3": 142
+    },
+    "Exists in": ["pk3"]
+  },
+  "Figy Berry": {
+    "Indices": {
+      "pk3": 143
+    },
+    "Exists in": ["pk3"]
+  },
+  "Wiki Berry": {
+    "Indices": {
+      "pk3": 144
+    },
+    "Exists in": ["pk3"]
+  },
+  "Mago Berry": {
+    "Indices": {
+      "pk3": 145
+    },
+    "Exists in": ["pk3"]
+  },
+  "Aguav Berry": {
+    "Indices": {
+      "pk3": 146
+    },
+    "Exists in": ["pk3"]
+  },
+  "Iapapa Berry": {
+    "Indices": {
+      "pk3": 147
+    },
+    "Exists in": ["pk3"]
+  },
+  "Razz Berry": {
+    "Indices": {
+      "pk3": 148
+    },
+    "Exists in": ["pk3"]
+  },
+  "Bluk Berry": {
+    "Indices": {
+      "pk3": 149
+    },
+    "Exists in": ["pk3"]
+  },
+  "Nanab Berry": {
+    "Indices": {
+      "pk3": 150
+    },
+    "Exists in": ["pk3"]
+  },
+  "Wepear Berry": {
+    "Indices": {
+      "pk3": 151
+    },
+    "Exists in": ["pk3"]
+  },
+  "Pinap Berry": {
+    "Indices": {
+      "pk3": 152
+    },
+    "Exists in": ["pk3"]
+  },
+  "Pomeg Berry": {
+    "Indices": {
+      "pk3": 153
+    },
+    "Exists in": ["pk3"]
+  },
+  "Kelpsy Berry": {
+    "Indices": {
+      "pk3": 154
+    },
+    "Exists in": ["pk3"]
+  },
+  "Qualot Berry": {
+    "Indices": {
+      "pk3": 155
+    },
+    "Exists in": ["pk3"]
+  },
+  "Hondew Berry": {
+    "Indices": {
+      "pk3": 156
+    },
+    "Exists in": ["pk3"]
+  },
+  "Grepa Berry": {
+    "Indices": {
+      "pk3": 157
+    },
+    "Exists in": ["pk3"]
+  },
+  "Tamato Berry": {
+    "Indices": {
+      "pk3": 158
+    },
+    "Exists in": ["pk3"]
+  },
+  "Cornn Berry": {
+    "Indices": {
+      "pk3": 159
+    },
+    "Exists in": ["pk3"]
+  },
+  "Magost Berry": {
+    "Indices": {
+      "pk3": 160
+    },
+    "Exists in": ["pk3"]
+  },
+  "Rabuta Berry": {
+    "Indices": {
+      "pk3": 161
+    },
+    "Exists in": ["pk3"]
+  },
+  "Nomel Berry": {
+    "Indices": {
+      "pk3": 162
+    },
+    "Exists in": ["pk3"]
+  },
+  "Spelon Berry": {
+    "Indices": {
+      "pk3": 163
+    },
+    "Exists in": ["pk3"]
+  },
+  "Pamtre Berry": {
+    "Indices": {
+      "pk3": 164
+    },
+    "Exists in": ["pk3"]
+  },
+  "Watmel Berry": {
+    "Indices": {
+      "pk3": 165
+    },
+    "Exists in": ["pk3"]
+  },
+  "Durin Berry": {
+    "Indices": {
+      "pk3": 166
+    },
+    "Exists in": ["pk3"]
+  },
+  "Belue Berry": {
+    "Indices": {
+      "pk3": 167
+    },
+    "Exists in": ["pk3"]
+  },
+  "Liechi Berry": {
+    "Indices": {
+      "pk3": 168
+    },
+    "Exists in": ["pk3"]
+  },
+  "Ganlon Berry": {
+    "Indices": {
+      "pk3": 169
+    },
+    "Exists in": ["pk3"]
+  },
+  "Salac Berry": {
+    "Indices": {
+      "pk3": 170
+    },
+    "Exists in": ["pk3"]
+  },
+  "Petaya Berry": {
+    "Indices": {
+      "pk3": 171
+    },
+    "Exists in": ["pk3"]
+  },
+  "Apicot Berry": {
+    "Indices": {
+      "pk3": 172
+    },
+    "Exists in": ["pk3"]
+  },
+  "Lansat Berry": {
+    "Indices": {
+      "pk3": 173
+    },
+    "Exists in": ["pk3"]
+  },
+  "Starf Berry": {
+    "Indices": {
+      "pk3": 174
+    },
+    "Exists in": ["pk3"]
+  },
+  "Enigma Berry": {
+    "Indices": {
+      "pk3": 175
+    },
+    "Exists in": ["pk3"]
+  },
+  "Bright Powder": {
+    "Indices": {
+      "pk3": 179
+    },
+    "Exists in": ["pk3"]
+  },
+  "White Herb": {
+    "Indices": {
+      "pk3": 180
+    },
+    "Exists in": ["pk3"]
+  },
+  "Macho Brace": {
+    "Indices": {
+      "pk3": 181
+    },
+    "Exists in": ["pk3"]
+  },
+  "Exp. Share": {
+    "Indices": {
+      "pk3": 182
+    },
+    "Exists in": ["pk3"]
+  },
+  "Quick Claw": {
+    "Indices": {
+      "pk3": 183
+    },
+    "Exists in": ["pk3"]
+  },
+  "Soothe Bell": {
+    "Indices": {
+      "pk3": 184
+    },
+    "Exists in": ["pk3"]
+  },
+  "Mental Herb": {
+    "Indices": {
+      "pk3": 185
+    },
+    "Exists in": ["pk3"]
+  },
+  "Choice Band": {
+    "Indices": {
+      "pk3": 186
+    },
+    "Exists in": ["pk3"]
+  },
+  "King's Rock": {
+    "Indices": {
+      "pk3": 187
+    },
+    "Exists in": ["pk3"]
+  },
+  "Silver Powder": {
+    "Indices": {
+      "pk3": 188
+    },
+    "Exists in": ["pk3"]
+  },
+  "Amulet Coin": {
+    "Indices": {
+      "pk3": 189
+    },
+    "Exists in": ["pk3"]
+  },
+  "Cleanse Tag": {
+    "Indices": {
+      "pk3": 190
+    },
+    "Exists in": ["pk3"]
+  },
+  "Soul Dew": {
+    "Indices": {
+      "pk3": 191
+    },
+    "Exists in": ["pk3"]
+  },
+  "Deep Sea Tooth": {
+    "Indices": {
+      "pk3": 192
+    },
+    "Exists in": ["pk3"]
+  },
+  "Deep Sea Scale": {
+    "Indices": {
+      "pk3": 193
+    },
+    "Exists in": ["pk3"]
+  },
+  "Smoke Ball": {
+    "Indices": {
+      "pk3": 194
+    },
+    "Exists in": ["pk3"]
+  },
+  "Everstone": {
+    "Indices": {
+      "pk3": 195
+    },
+    "Exists in": ["pk3"]
+  },
+  "Focus Band": {
+    "Indices": {
+      "pk3": 196
+    },
+    "Exists in": ["pk3"]
+  },
+  "Lucky Egg": {
+    "Indices": {
+      "pk3": 197
+    },
+    "Exists in": ["pk3"]
+  },
+  "Scope Lens": {
+    "Indices": {
+      "pk3": 198
+    },
+    "Exists in": ["pk3"]
+  },
+  "Metal Coat": {
+    "Indices": {
+      "pk3": 199
+    },
+    "Exists in": ["pk3"]
+  },
+  "Leftovers": {
+    "Indices": {
+      "pk3": 200
+    },
+    "Exists in": ["pk3"]
+  },
+  "Dragon Scale": {
+    "Indices": {
+      "pk3": 201
+    },
+    "Exists in": ["pk3"]
+  },
+  "Light Ball": {
+    "Indices": {
+      "pk3": 202
+    },
+    "Exists in": ["pk3"]
+  },
+  "Soft Sand": {
+    "Indices": {
+      "pk3": 203
+    },
+    "Exists in": ["pk3"]
+  },
+  "Hard Stone": {
+    "Indices": {
+      "pk3": 204
+    },
+    "Exists in": ["pk3"]
+  },
+  "Miracle Seed": {
+    "Indices": {
+      "pk3": 205
+    },
+    "Exists in": ["pk3"]
+  },
+  "Black Glasses": {
+    "Indices": {
+      "pk3": 206
+    },
+    "Exists in": ["pk3"]
+  },
+  "Black Belt": {
+    "Indices": {
+      "pk3": 207
+    },
+    "Exists in": ["pk3"]
+  },
+  "Magnet": {
+    "Indices": {
+      "pk3": 208
+    },
+    "Exists in": ["pk3"]
+  },
+  "Mystic Water": {
+    "Indices": {
+      "pk3": 209
+    },
+    "Exists in": ["pk3"]
+  },
+  "Sharp Beak": {
+    "Indices": {
+      "pk3": 210
+    },
+    "Exists in": ["pk3"]
+  },
+  "Poison Barb": {
+    "Indices": {
+      "pk3": 211
+    },
+    "Exists in": ["pk3"]
+  },
+  "Never-Melt Ice": {
+    "Indices": {
+      "pk3": 212
+    },
+    "Exists in": ["pk3"]
+  },
+  "Spell Tag": {
+    "Indices": {
+      "pk3": 213
+    },
+    "Exists in": ["pk3"]
+  },
+  "Twisted Spoon": {
+    "Indices": {
+      "pk3": 214
+    },
+    "Exists in": ["pk3"]
+  },
+  "Charcoal": {
+    "Indices": {
+      "pk3": 215
+    },
+    "Exists in": ["pk3"]
+  },
+  "Dragon Fang": {
+    "Indices": {
+      "pk3": 216
+    },
+    "Exists in": ["pk3"]
+  },
+  "Silk Scarf": {
+    "Indices": {
+      "pk3": 217
+    },
+    "Exists in": ["pk3"]
+  },
+  "Upgrade": {
+    "Indices": {
+      "pk3": 218
+    },
+    "Exists in": ["pk3"]
+  },
+  "Shell Bell": {
+    "Indices": {
+      "pk3": 219
+    },
+    "Exists in": ["pk3"]
+  },
+  "Sea Incense": {
+    "Indices": {
+      "pk3": 220
+    },
+    "Exists in": ["pk3"]
+  },
+  "Lax Incense": {
+    "Indices": {
+      "pk3": 221
+    },
+    "Exists in": ["pk3"]
+  },
+  "Lucky Punch": {
+    "Indices": {
+      "pk3": 222
+    },
+    "Exists in": ["pk3"]
+  },
+  "Metal Powder": {
+    "Indices": {
+      "pk3": 223
+    },
+    "Exists in": ["pk3"]
+  },
+  "Thick Club": {
+    "Indices": {
+      "pk3": 224
+    },
+    "Exists in": ["pk3"]
+  },
+  "Leek": {
+    "Indices": {
+      "pk3": 225
+    },
+    "Exists in": ["pk3"]
+  },
+  "Red Scarf": {
+    "Indices": {
+      "pk3": 254
+    },
+    "Exists in": ["pk3"]
+  },
+  "Blue Scarf": {
+    "Indices": {
+      "pk3": 255
+    },
+    "Exists in": ["pk3"]
+  },
+  "Pink Scarf": {
+    "Indices": {
+      "pk3": 256
+    },
+    "Exists in": ["pk3"]
+  },
+  "Green Scarf": {
+    "Indices": {
+      "pk3": 257
+    },
+    "Exists in": ["pk3"]
+  },
+  "Yellow Scarf": {
+    "Indices": {
+      "pk3": 258
+    },
+    "Exists in": ["pk3"]
+  },
+  "Mach Bike": {
+    "Indices": {
+      "pk3": 259
+    },
+    "Exists in": ["pk3"]
+  },
+  "Coin Case": {
+    "Indices": {
+      "pk3": 260
+    },
+    "Exists in": ["pk3"]
+  },
+  "Dowsing Machine": { // Called "Itemfinder" in Gens 3-
+    "Indices": {
+      "pk3": 261
+    },
+    "Exists in": ["pk3"]
+  },
+  "Old Rod": {
+    "Indices": {
+      "pk3": 262
+    },
+    "Exists in": ["pk3"]
+  },
+  "Good Rod": {
+    "Indices": {
+      "pk3": 263
+    },
+    "Exists in": ["pk3"]
+  },
+  "Super Rod": {
+    "Indices": {
+      "pk3": 264
+    },
+    "Exists in": ["pk3"]
+  },
+
+  // Only one S.S. Ticket but these were split up in future gens.
+  "S.S. Tidal Ticket": {
+    "Indices": {
+      "pk3": 265
+    },
+    "Exists in": ["pk3"]
+  },
+  "S.S. Anne Ticket": {
+    "Indices": {
+      "pk3": 265
+    },
+    "Exists in": ["pk3"]
+  },
+  
+  "Contest Pass": {
+    "Indices": {
+      "pk3": 266
+    },
+    "Exists in": ["pk3"]
+  },
+  "Wailmer Pail": {
+    "Indices": {
+      "pk3": 268
+    },
+    "Exists in": ["pk3"]
+  },
+  "Devon Goods": {
+    "Indices": {
+      "pk3": 269
+    },
+    "Exists in": ["pk3"]
+  },
+  "Soot Sack": {
+    "Indices": {
+      "pk3": 270
+    },
+    "Exists in": ["pk3"]
+  },
+  "Basement Key": {
+    "Indices": {
+      "pk3": 271
+    },
+    "Exists in": ["pk3"]
+  },
+  "Acro Bike": {
+    "Indices": {
+      "pk3": 272
+    },
+    "Exists in": ["pk3"]
+  },
+  "Pokéblock Case": {
+    "Indices": {
+      "pk3": 273
+    },
+    "Exists in": ["pk3"]
+  },
+  "Letter": {
+    "Indices": {
+      "pk3": 274
+    },
+    "Exists in": ["pk3"]
+  },
+  "Eon Ticket": {
+    "Indices": {
+      "pk3": 275
+    },
+    "Exists in": ["pk3"]
+  },
+  "Red Orb": {
+    "Indices": {
+      "pk3": 276
+    },
+    "Exists in": ["pk3"]
+  },
+  "Blue Orb": {
+    "Indices": {
+      "pk3": 277
+    },
+    "Exists in": ["pk3"]
+  },
+  "Scanner": {
+    "Indices": {
+      "pk3": 278
+    },
+    "Exists in": ["pk3"]
+  },
+  "Go-Goggles": {
+    "Indices": {
+      "pk3": 279
+    },
+    "Exists in": ["pk3"]
+  },
+  "Meteorite": {
+    "Indices": {
+      "pk3": 280
+    },
+    "Exists in": ["pk3"]
+  },
+  "Rm. 1 Key": {
+    "Indices": {
+      "pk3": 281
+    },
+    "Exists in": ["pk3"]
+  },
+  "Rm. 2 Key": {
+    "Indices": {
+      "pk3": 282
+    },
+    "Exists in": ["pk3"]
+  },
+  "Rm. 4 Key": {
+    "Indices": {
+      "pk3": 283
+    },
+    "Exists in": ["pk3"]
+  },
+  "Rm. 6 Key": {
+    "Indices": {
+      "pk3": 284
+    },
+    "Exists in": ["pk3"]
+  },
+  "Storage Key": {
+    "Indices": {
+      "pk3": 285
+    },
+    "Exists in": ["pk3"]
+  },
+  "Root Fossil": {
+    "Indices": {
+      "pk3": 286
+    },
+    "Exists in": ["pk3"]
+  },
+  "Claw Fossil": {
+    "Indices": {
+      "pk3": 287
+    },
+    "Exists in": ["pk3"]
+  },
+  "Devon Scope": {
+    "Indices": {
+      "pk3": 288
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM01": {
+    "Indices": {
+      "pk3": 289
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM02": {
+    "Indices": {
+      "pk3": 290
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM03": {
+    "Indices": {
+      "pk3": 291
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM04": {
+    "Indices": {
+      "pk3": 292
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM05": {
+    "Indices": {
+      "pk3": 293
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM06": {
+    "Indices": {
+      "pk3": 294
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM07": {
+    "Indices": {
+      "pk3": 295
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM08": {
+    "Indices": {
+      "pk3": 296
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM09": {
+    "Indices": {
+      "pk3": 297
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM10": {
+    "Indices": {
+      "pk3": 298
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM11": {
+    "Indices": {
+      "pk3": 299
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM12": {
+    "Indices": {
+      "pk3": 300
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM13": {
+    "Indices": {
+      "pk3": 301
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM14": {
+    "Indices": {
+      "pk3": 302
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM15": {
+    "Indices": {
+      "pk3": 303
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM16": {
+    "Indices": {
+      "pk3": 304
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM17": {
+    "Indices": {
+      "pk3": 305
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM18": {
+    "Indices": {
+      "pk3": 306
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM19": {
+    "Indices": {
+      "pk3": 307
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM20": {
+    "Indices": {
+      "pk3": 308
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM21": {
+    "Indices": {
+      "pk3": 309
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM22": {
+    "Indices": {
+      "pk3": 310
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM23": {
+    "Indices": {
+      "pk3": 311
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM24": {
+    "Indices": {
+      "pk3": 312
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM25": {
+    "Indices": {
+      "pk3": 313
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM26": {
+    "Indices": {
+      "pk3": 314
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM27": {
+    "Indices": {
+      "pk3": 315
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM28": {
+    "Indices": {
+      "pk3": 316
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM29": {
+    "Indices": {
+      "pk3": 317
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM30": {
+    "Indices": {
+      "pk3": 318
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM31": {
+    "Indices": {
+      "pk3": 319
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM32": {
+    "Indices": {
+      "pk3": 320
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM33": {
+    "Indices": {
+      "pk3": 321
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM34": {
+    "Indices": {
+      "pk3": 322
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM35": {
+    "Indices": {
+      "pk3": 323
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM36": {
+    "Indices": {
+      "pk3": 324
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM37": {
+    "Indices": {
+      "pk3": 325
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM38": {
+    "Indices": {
+      "pk3": 326
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM39": {
+    "Indices": {
+      "pk3": 327
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM40": {
+    "Indices": {
+      "pk3": 328
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM41": {
+    "Indices": {
+      "pk3": 329
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM42": {
+    "Indices": {
+      "pk3": 330
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM43": {
+    "Indices": {
+      "pk3": 331
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM44": {
+    "Indices": {
+      "pk3": 332
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM45": {
+    "Indices": {
+      "pk3": 333
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM46": {
+    "Indices": {
+      "pk3": 334
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM47": {
+    "Indices": {
+      "pk3": 335
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM48": {
+    "Indices": {
+      "pk3": 336
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM49": {
+    "Indices": {
+      "pk3": 337
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM50": {
+    "Indices": {
+      "pk3": 338
+    },
+    "Exists in": ["pk3"]
+  },
+  "HM01": {
+    "Indices": {
+      "pk3": 339
+    },
+    "Exists in": ["pk3"]
+  },
+  "HM02": {
+    "Indices": {
+      "pk3": 340
+    },
+    "Exists in": ["pk3"]
+  },
+  "HM03": {
+    "Indices": {
+      "pk3": 341
+    },
+    "Exists in": ["pk3"]
+  },
+  "HM04": {
+    "Indices": {
+      "pk3": 342
+    },
+    "Exists in": ["pk3"]
+  },
+  "HM05": {
+    "Indices": {
+      "pk3": 343
+    },
+    "Exists in": ["pk3"]
+  },
+  "HM06": {
+    "Indices": {
+      "pk3": 344
+    },
+    "Exists in": ["pk3"]
+  },
+  "HM07": {
+    "Indices": {
+      "pk3": 345
+    },
+    "Exists in": ["pk3"]
+  },
+  "HM08": {
+    "Indices": {
+      "pk3": 346
+    },
+    "Exists in": ["pk3"]
+  },
+  "Oak's Parcel": {
+    "Indices": {
+      "pk3": 349
+    },
+    "Exists in": ["pk3"]
+  },
+  "Poké Flute": {
+    "Indices": {
+      "pk3": 350
+    },
+    "Exists in": ["pk3"]
+  },
+  "Secret Key": {
+    "Indices": {
+      "pk3": 351
+    },
+    "Exists in": ["pk3"]
+  },
+  "Bike Voucher": {
+    "Indices": {
+      "pk3": 352
+    },
+    "Exists in": ["pk3"]
+  },
+  "Gold Teeth": {
+    "Indices": {
+      "pk3": 353
+    },
+    "Exists in": ["pk3"]
+  },
+  "Old Amber": {
+    "Indices": {
+      "pk3": 354
+    },
+    "Exists in": ["pk3"]
+  },
+  "Card Key": {
+    "Indices": {
+      "pk3": 355
+    },
+    "Exists in": ["pk3"]
+  },
+  "Lift Key": {
+    "Indices": {
+      "pk3": 356
+    },
+    "Exists in": ["pk3"]
+  },
+  "Helix Fossil": {
+    "Indices": {
+      "pk3": 357
+    },
+    "Exists in": ["pk3"]
+  },
+  "Dome Fossil": {
+    "Indices": {
+      "pk3": 358
+    },
+    "Exists in": ["pk3"]
+  },
+  "Silph Scope": {
+    "Indices": {
+      "pk3": 359
+    },
+    "Exists in": ["pk3"]
+  },
+  "Bicycle": {
+    "Indices": {
+      "pk3": 360
+    },
+    "Exists in": ["pk3"]
+  },
+  "Town Map": {
+    "Indices": {
+      "pk3": 361
+    },
+    "Exists in": ["pk3"]
+  },
+  "VS Seeker": {
+    "Indices": {
+      "pk3": 362
+    },
+    "Exists in": ["pk3"]
+  },
+  "Fame Checker": {
+    "Indices": {
+      "pk3": 363
+    },
+    "Exists in": ["pk3"]
+  },
+  "TM Case": {
+    "Indices": {
+      "pk3": 364
+    },
+    "Exists in": ["pk3"]
+  },
+  "Berry Pouch": {
+    "Indices": {
+      "pk3": 365
+    },
+    "Exists in": ["pk3"]
+  },
+  "Teachy TV": {
+    "Indices": {
+      "pk3": 366
+    },
+    "Exists in": ["pk3"]
+  },
+  "Tri-Pass": {
+    "Indices": {
+      "pk3": 367
+    },
+    "Exists in": ["pk3"]
+  },
+  "Rainbow Pass": {
+    "Indices": {
+      "pk3": 368
+    },
+    "Exists in": ["pk3"]
+  },
+  "Tea": {
+    "Indices": {
+      "pk3": 369
+    },
+    "Exists in": ["pk3"]
+  },
+  "Mystic Ticket": { //No space in gen 3, but better this way.
+    "Indices": {
+      "pk3": 370
+    },
+    "Exists in": ["pk3"]
+  },
+  "Aurora Ticket": { //No space in gen 3, but better this way.
+    "Indices": {
+      "pk3": 371
+    },
+    "Exists in": ["pk3"]
+  },
+  "Powder Jar": {
+    "Indices": {
+      "pk3": 372
+    },
+    "Exists in": ["pk3"]
+  },
+  "Ruby": {
+    "Indices": {
+      "pk3": 373
+    },
+    "Exists in": ["pk3"]
+  },
+  "Sapphire": {
+    "Indices": {
+      "pk3": 374
+    },
+    "Exists in": ["pk3"]
+  },
+  "Magma Emblem": {
+    "Indices": {
+      "pk3": 375
+    },
+    "Exists in": ["pk3"]
+  },
+  "Old Sea Map": {
+    "Indices": {
+      "pk3": 376
+    },
+    "Exists in": ["pk3"]
+  }
+}
