@@ -1,0 +1,144 @@
+{
+  "Master Ball": {
+    "Indices": {
+      "main-series": 1
+    },
+    "Exists in": ["pk3"]
+  },
+  "Ultra Ball": {
+    "Indices": {
+      "main-series": 2
+    },
+    "Exists in": ["pk3"]
+  },
+  "Great Ball": {
+    "Indices": {
+      "main-series": 3
+    },
+    "Exists in": ["pk3"]
+  },
+  "Poké Ball": {
+    "Indices": {
+      "main-series": 4
+    },
+    "Exists in": ["pk3"]
+  },
+  "Safari Ball": {
+    "Indices": {
+      "main-series": 5
+    },
+    "Exists in": ["pk3"]
+  },
+  "Net Ball": {
+    "Indices": {
+      "main-series": 6
+    },
+    "Exists in": ["pk3"]
+  },
+  "Dive Ball": {
+    "Indices": {
+      "main-series": 7
+    },
+    "Exists in": ["pk3"]
+  },
+  "Nest Ball": {
+    "Indices": {
+      "main-series": 8
+    },
+    "Exists in": ["pk3"]
+  },
+  "Repeat Ball": {
+    "Indices": {
+      "main-series": 9
+    },
+    "Exists in": ["pk3"]
+  },
+  "Timer Ball": {
+    "Indices": {
+      "main-series": 10
+    },
+    "Exists in": ["pk3"]
+  },
+  "Luxury Ball": {
+    "Indices": {
+      "main-series": 11
+    },
+    "Exists in": ["pk3"]
+  },
+  "Premier Ball": {
+    "Indices": {
+      "main-series": 12
+    },
+    "Exists in": ["pk3"]
+  },
+  "Dusk Ball": {
+    "Indices": {
+      "main-series": 13
+    }
+  },
+  "Heal Ball": {
+    "Indices": {
+      "main-series": 14
+    }
+  },
+  " Quick Ball": {
+    "Indices": {
+      "main-series": 15
+    }
+  },
+  "Cherish Ball": {
+    "Indices": {
+      "main-series": 16
+    }
+  },
+  "Fast Ball": {
+    "Indices": {
+      "main-series": 17
+    }
+  },
+  "Level Ball": {
+    "Indices": {
+      "main-series": 18
+    }
+  },
+  "Lure Ball": {
+    "Indices": {
+      "main-series": 19
+    }
+  },
+  "Heavy Ball": {
+    "Indices": {
+      "main-series": 20
+    }
+  },
+  "Love Ball": {
+    "Indices": {
+      "main-series": 21
+    }
+  },
+  "Friend Ball": {
+    "Indices": {
+      "main-series": 22
+    }
+  },
+  "Moon Ball": {
+    "Indices": {
+      "main-series": 23
+    }
+  },
+  "Sport Ball": {
+    "Indices": {
+      "main-series": 24
+    }
+  },
+  "Dream Ball": {
+    "Indices": {
+      "main-series": 25
+    }
+  },
+  "Beast Ball": {
+    "Indices": {
+      "main-series": 26
+    }
+  }
+}

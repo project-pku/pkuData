@@ -26,6 +26,12 @@
       "Showdown": "showdown/showdownItemDex.json"
     }
   },
+  "Ball": {
+    "SubDexes":{
+      "Main Series": "main-series/main-seriesBallDex.json",
+      "pk3": "main-series/gen-3/pk3BallDex.json"
+    }
+  },
   "Format": {
     "SubDexes":{
       "pk3": "main-series/gen-3/pk3FormatDex.json"

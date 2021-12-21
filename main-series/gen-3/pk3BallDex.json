@@ -1,0 +1,38 @@
+{
+  "Master Ball": {
+    "Exists in": ["pk3"]
+  },
+  "Ultra Ball": {
+    "Exists in": ["pk3"]
+  },
+  "Great Ball": {
+    "Exists in": ["pk3"]
+  },
+  "Poké Ball": {
+    "Exists in": ["pk3"]
+  },
+  "Safari Ball": {
+    "Exists in": ["pk3"]
+  },
+  "Net Ball": {
+    "Exists in": ["pk3"]
+  },
+  "Dive Ball": {
+    "Exists in": ["pk3"]
+  },
+  "Nest Ball": {
+    "Exists in": ["pk3"]
+  },
+  "Repeat Ball": {
+    "Exists in": ["pk3"]
+  },
+  "Timer Ball": {
+    "Exists in": ["pk3"]
+  },
+  "Luxury Ball": {
+    "Exists in": ["pk3"]
+  },
+  "Premier Ball": {
+    "Exists in": ["pk3"]
+  }
+}
