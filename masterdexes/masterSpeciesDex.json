@@ -6,6 +6,9 @@
     "Gender Ratio": "Male 7 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Bulbasaur"
       }
@@ -19,6 +22,9 @@
     "Gender Ratio": "Male 7 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Ivysaur"
       }
@@ -39,6 +45,9 @@
           "Gigantamax": {
             "Type": "Gigantamax"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Venusaur"
@@ -62,6 +71,9 @@
     "Gender Ratio": "Male 7 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Charmander"
       }
@@ -75,6 +87,9 @@
     "Gender Ratio": "Male 7 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Charmeleon"
       }
@@ -99,6 +114,9 @@
           "Gigantamax": {
             "Type": "Gigantamax"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Charizard"
@@ -126,6 +144,9 @@
     "Gender Ratio": "Male 7 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Squirtle"
       }
@@ -139,6 +160,9 @@
     "Gender Ratio": "Male 7 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Wartortle"
       }
@@ -159,6 +183,9 @@
           "Gigantamax": {
             "Type": "Gigantamax"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Blastoise"
@@ -182,6 +209,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Caterpie"
       }
@@ -195,6 +225,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Metapod"
       }
@@ -211,6 +244,9 @@
           "Gigantamax": {
             "Type": "Gigantamax"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Butterfree"
@@ -230,6 +266,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Weedle"
       }
@@ -243,6 +282,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Kakuna"
       }
@@ -260,6 +302,9 @@
             "Type": "Mega",
             "Item": "Beedrillite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Beedrill"
@@ -279,6 +324,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Pidgey"
       }
@@ -292,6 +340,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Pidgeotto"
       }
@@ -309,6 +360,9 @@
             "Type": "Mega",
             "Item": "Pidgeotite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Pidgeot"
@@ -328,6 +382,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Rattata"
       },
@@ -349,6 +406,9 @@
         "Exists in": ["Showdown"]
       },
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Raticate"
       },
@@ -367,6 +427,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Spearow"
       }
@@ -380,6 +443,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Fearow"
       }
@@ -393,6 +459,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Ekans"
       }
@@ -406,6 +475,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Arbok"
       }
@@ -422,6 +494,9 @@
           "Gigantamax": {
             "Type": "Gigantamax"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Pikachu",
@@ -494,6 +569,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Raichu"
       },
@@ -511,6 +589,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Sandshrew"
       },
@@ -528,6 +609,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Sandslash"
       },
@@ -545,6 +629,9 @@
     "Gender Ratio": "All Female",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Nidoran-F"
       }
@@ -558,6 +645,9 @@
     "Gender Ratio": "All Female",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Nidorina"
       }
@@ -571,6 +661,9 @@
     "Gender Ratio": "All Female",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Nidoqueen"
       }
@@ -584,6 +677,9 @@
     "Gender Ratio": "All Male",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Nidoran-M"
       }
@@ -597,6 +693,9 @@
     "Gender Ratio": "All Male",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Nidorino"
       }
@@ -610,6 +709,9 @@
     "Gender Ratio": "All Male",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Nidoking"
       }
@@ -623,6 +725,9 @@
     "Gender Ratio": "Male 1 Female 3",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Clefairy"
       }
@@ -636,6 +741,9 @@
     "Gender Ratio": "Male 1 Female 3",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Clefable"
       }
@@ -649,6 +757,9 @@
     "Gender Ratio": "Male 1 Female 3",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Vulpix"
       },
@@ -666,6 +777,9 @@
     "Gender Ratio": "Male 1 Female 3",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Ninetales"
       },
@@ -683,6 +797,9 @@
     "Gender Ratio": "Male 1 Female 3",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Jigglypuff"
       }
@@ -696,6 +813,9 @@
     "Gender Ratio": "Male 1 Female 3",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Wigglytuff"
       }
@@ -709,6 +829,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Zubat"
       }
@@ -722,6 +845,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Golbat"
       }
@@ -735,6 +861,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Oddish"
       }
@@ -748,6 +877,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Gloom"
       }
@@ -761,6 +893,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Vileplume"
       }
@@ -774,6 +909,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Paras"
       }
@@ -787,6 +925,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Parasect"
       }
@@ -800,6 +941,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Venonat"
       }
@@ -813,6 +957,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Venomoth"
       }
@@ -826,6 +973,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Diglett"
       },
@@ -843,6 +993,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Dugtrio"
       },
@@ -863,6 +1016,9 @@
           "Gigantamax": {
             "Type": "Gigantamax"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Meowth"
@@ -890,6 +1046,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Persian"
       },
@@ -907,6 +1066,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Psyduck"
       }
@@ -920,6 +1082,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Golduck"
       }
@@ -933,6 +1098,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Mankey"
       }
@@ -946,6 +1114,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Primeape"
       }
@@ -959,6 +1130,9 @@
     "Gender Ratio": "Male 3 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Growlithe"
       }
@@ -972,6 +1146,9 @@
     "Gender Ratio": "Male 3 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Arcanine"
       }
@@ -985,6 +1162,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Poliwag"
       }
@@ -998,6 +1178,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Poliwhirl"
       }
@@ -1011,6 +1194,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Poliwrath"
       }
@@ -1024,6 +1210,9 @@
     "Gender Ratio": "Male 3 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Abra"
       }
@@ -1037,6 +1226,9 @@
     "Gender Ratio": "Male 3 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Kadabra"
       }
@@ -1054,6 +1246,9 @@
             "Type": "Mega",
             "Item": "Alakazite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Alakazam"
@@ -1073,6 +1268,9 @@
     "Gender Ratio": "Male 3 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Machop"
       }
@@ -1086,6 +1284,9 @@
     "Gender Ratio": "Male 3 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Machoke"
       }
@@ -1102,6 +1303,9 @@
           "Gigantamax": {
             "Type": "Gigantamax"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Machamp"
@@ -1121,6 +1325,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Bellsprout"
       }
@@ -1134,6 +1341,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Weepinbell"
       }
@@ -1147,6 +1357,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Victreebel"
       }
@@ -1160,6 +1373,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Tentacool"
       }
@@ -1173,6 +1389,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Tentacruel"
       }
@@ -1186,6 +1405,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Geodude"
       },
@@ -1203,6 +1425,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Graveler"
       },
@@ -1220,6 +1445,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Golem"
       },
@@ -1237,6 +1465,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Ponyta"
       },
@@ -1254,6 +1485,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Rapidash"
       },
@@ -1271,6 +1505,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Slowpoke"
       },
@@ -1293,6 +1530,9 @@
             "Item": "Slowbronite"
           }
         },
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Slowbro"
       },
@@ -1311,6 +1551,9 @@
     "Gender Ratio": "All Genderless",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Magnemite"
       }
@@ -1324,6 +1567,9 @@
     "Gender Ratio": "All Genderless",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Magneton"
       }
@@ -1337,6 +1583,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Farfetch’d"
       },
@@ -1354,6 +1603,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Doduo"
       }
@@ -1367,6 +1619,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Dodrio"
       }
@@ -1380,6 +1635,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Seel"
       }
@@ -1393,6 +1651,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Dewgong"
       }
@@ -1406,6 +1667,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Grimer"
       },
@@ -1423,6 +1687,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Muk"
       },
@@ -1440,6 +1707,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Shellder"
       }
@@ -1453,6 +1723,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Cloyster"
       }
@@ -1466,6 +1739,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Gastly"
       }
@@ -1479,6 +1755,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Haunter"
       }
@@ -1499,6 +1778,9 @@
           "Gigantamax": {
             "Type": "Gigantamax"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Gengar"
@@ -1522,6 +1804,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Onix"
       }
@@ -1535,6 +1820,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Drowzee"
       }
@@ -1548,6 +1836,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Hypno"
       }
@@ -1561,6 +1852,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Krabby"
       }
@@ -1577,6 +1871,9 @@
           "Gigantamax": {
             "Type": "Gigantamax"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Kingler"
@@ -1596,6 +1893,9 @@
     "Gender Ratio": "All Genderless",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Voltorb"
       }
@@ -1609,6 +1909,9 @@
     "Gender Ratio": "All Genderless",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Electrode"
       }
@@ -1622,6 +1925,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Exeggcute"
       }
@@ -1635,6 +1941,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Exeggutor"
       },
@@ -1652,6 +1961,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Cubone"
       }
@@ -1669,6 +1981,9 @@
         "Exists in": ["Showdown"]
       },
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Marowak"
       },
@@ -1687,6 +2002,9 @@
     "Gender Ratio": "All Male",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Hitmonlee"
       }
@@ -1700,6 +2018,9 @@
     "Gender Ratio": "All Male",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Hitmonchan"
       }
@@ -1713,6 +2034,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Lickitung"
       }
@@ -1726,6 +2050,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Koffing"
       }
@@ -1739,6 +2066,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Weezing"
       },
@@ -1756,6 +2086,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Rhyhorn"
       }
@@ -1769,6 +2102,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Rhydon"
       }
@@ -1782,6 +2118,9 @@
     "Gender Ratio": "All Female",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Chansey"
       }
@@ -1795,6 +2134,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Tangela"
       }
@@ -1812,6 +2154,9 @@
             "Type": "Mega",
             "Item": "Kangaskhanite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Kangaskhan"
@@ -1831,6 +2176,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Horsea"
       }
@@ -1844,6 +2192,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Seadra"
       }
@@ -1857,6 +2208,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Goldeen"
       }
@@ -1870,6 +2224,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Seaking"
       }
@@ -1883,6 +2240,9 @@
     "Gender Ratio": "All Genderless",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Staryu"
       }
@@ -1896,6 +2256,9 @@
     "Gender Ratio": "All Genderless",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Starmie"
       }
@@ -1909,6 +2272,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Mr. Mime"
       },
@@ -1926,6 +2292,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Scyther"
       }
@@ -1939,6 +2308,9 @@
     "Gender Ratio": "All Female",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Jynx"
       }
@@ -1952,6 +2324,9 @@
     "Gender Ratio": "Male 3 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Electabuzz"
       }
@@ -1965,6 +2340,9 @@
     "Gender Ratio": "Male 3 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Magmar"
       }
@@ -1982,6 +2360,9 @@
             "Type": "Mega",
             "Item": "Pinsirite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Pinsir"
@@ -2001,6 +2382,9 @@
     "Gender Ratio": "All Male",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Tauros"
       }
@@ -2014,6 +2398,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Magikarp"
       }
@@ -2031,6 +2418,9 @@
             "Type": "Mega",
             "Item": "Gyaradosite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Gyarados"
@@ -2054,6 +2444,9 @@
             "Type": "Gigantamax"
           }
         },
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Lapras"
       },
@@ -2072,6 +2465,9 @@
     "Gender Ratio": "All Genderless",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Ditto"
       }
@@ -2088,6 +2484,9 @@
           "Gigantamax": {
             "Type": "Gigantamax"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Eevee"
@@ -2111,6 +2510,9 @@
     "Gender Ratio": "Male 7 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Vaporeon"
       }
@@ -2124,6 +2526,9 @@
     "Gender Ratio": "Male 7 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Jolteon"
       }
@@ -2137,6 +2542,9 @@
     "Gender Ratio": "Male 7 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Flareon"
       }
@@ -2150,6 +2558,9 @@
     "Gender Ratio": "All Genderless",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Porygon"
       }
@@ -2163,6 +2574,9 @@
     "Gender Ratio": "Male 7 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Omanyte"
       }
@@ -2176,6 +2590,9 @@
     "Gender Ratio": "Male 7 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Omastar"
       }
@@ -2189,6 +2606,9 @@
     "Gender Ratio": "Male 7 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Kabuto"
       }
@@ -2202,6 +2622,9 @@
     "Gender Ratio": "Male 7 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Kabutops"
       }
@@ -2219,6 +2642,9 @@
             "Type": "Mega",
             "Item": "Aerodactylite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Aerodactyl"
@@ -2242,6 +2668,9 @@
             "Type": "Gigantamax"
           }
         },
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Snorlax"
       },
@@ -2260,6 +2689,9 @@
     "Gender Ratio": "All Genderless",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Articuno"
       },
@@ -2277,6 +2709,9 @@
     "Gender Ratio": "All Genderless",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Zapdos"
       },
@@ -2294,6 +2729,9 @@
     "Gender Ratio": "All Genderless",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Moltres"
       },
@@ -2311,6 +2749,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Dratini"
       }
@@ -2324,6 +2765,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Dragonair"
       }
@@ -2337,6 +2781,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Dragonite"
       }
@@ -2358,6 +2805,9 @@
             "Type": "Mega",
             "Item": "Mewtwonite Y"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Mewtwo"
@@ -2381,6 +2831,9 @@
     "Gender Ratio": "All Genderless",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Mew"
       }
@@ -2394,6 +2847,9 @@
     "Gender Ratio": "Male 7 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Chikorita"
       }
@@ -2407,6 +2863,9 @@
     "Gender Ratio": "Male 7 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Bayleef"
       }
@@ -2420,6 +2879,9 @@
     "Gender Ratio": "Male 7 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Meganium"
       }
@@ -2433,6 +2895,9 @@
     "Gender Ratio": "Male 7 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Cyndaquil"
       }
@@ -2446,6 +2911,9 @@
     "Gender Ratio": "Male 7 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Quilava"
       }
@@ -2459,6 +2927,9 @@
     "Gender Ratio": "Male 7 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Typhlosion"
       }
@@ -2472,6 +2943,9 @@
     "Gender Ratio": "Male 7 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Totodile"
       }
@@ -2485,6 +2959,9 @@
     "Gender Ratio": "Male 7 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Croconaw"
       }
@@ -2498,6 +2975,9 @@
     "Gender Ratio": "Male 7 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Feraligatr"
       }
@@ -2511,6 +2991,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Sentret"
       }
@@ -2524,6 +3007,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Furret"
       }
@@ -2537,6 +3023,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Hoothoot"
       }
@@ -2550,6 +3039,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Noctowl"
       }
@@ -2563,6 +3055,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Ledyba"
       }
@@ -2576,6 +3071,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Ledian"
       }
@@ -2589,6 +3087,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Spinarak"
       }
@@ -2602,6 +3103,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Ariados"
       }
@@ -2615,6 +3119,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Crobat"
       }
@@ -2628,6 +3135,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Chinchou"
       }
@@ -2641,6 +3151,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Lanturn"
       }
@@ -2654,6 +3167,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Pichu",
         "Appearance": {
@@ -2672,6 +3188,9 @@
     "Gender Ratio": "Male 1 Female 3",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Cleffa"
       }
@@ -2685,6 +3204,9 @@
     "Gender Ratio": "Male 1 Female 3",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Igglybuff"
       }
@@ -2698,6 +3220,9 @@
     "Gender Ratio": "Male 7 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Togepi"
       }
@@ -2711,6 +3236,9 @@
     "Gender Ratio": "Male 7 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Togetic"
       }
@@ -2724,6 +3252,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Natu"
       }
@@ -2737,6 +3268,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Xatu"
       }
@@ -2750,6 +3284,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Mareep"
       }
@@ -2763,6 +3300,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Flaaffy"
       }
@@ -2780,6 +3320,9 @@
             "Type": "Mega",
             "Item": "Ampharosite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Ampharos"
@@ -2799,6 +3342,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Bellossom"
       }
@@ -2812,6 +3358,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Marill"
       }
@@ -2825,6 +3374,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Azumarill"
       }
@@ -2838,6 +3390,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Sudowoodo"
       }
@@ -2851,6 +3406,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Politoed"
       }
@@ -2864,6 +3422,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Hoppip"
       }
@@ -2877,6 +3438,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Skiploom"
       }
@@ -2890,6 +3454,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Jumpluff"
       }
@@ -2903,6 +3470,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Aipom"
       }
@@ -2916,6 +3486,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Sunkern"
       }
@@ -2929,6 +3502,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Sunflora"
       }
@@ -2942,6 +3518,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Yanma"
       }
@@ -2955,6 +3534,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Wooper"
       }
@@ -2968,6 +3550,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Quagsire"
       }
@@ -2981,6 +3566,9 @@
     "Gender Ratio": "Male 7 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Espeon"
       }
@@ -2994,6 +3582,9 @@
     "Gender Ratio": "Male 7 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Umbreon"
       }
@@ -3007,6 +3598,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Murkrow"
       }
@@ -3020,6 +3614,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Slowking"
       },
@@ -3037,6 +3634,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Misdreavus"
       }
@@ -3050,114 +3650,198 @@
     "Forms": {
       "A": {
         "Default": true,
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Unown"
       },
       "B": {
+        "Form Indices": {
+          "main-series": 1
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Unown-B"
       },
       "C": {
+        "Form Indices": {
+          "main-series": 2
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Unown-C"
       },
       "D": {
+        "Form Indices": {
+          "main-series": 3
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Unown-D"
       },
       "E": {
+        "Form Indices": {
+          "main-series": 4
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Unown-E"
       },
       "F": {
+        "Form Indices": {
+          "main-series": 5
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Unown-F"
       },
       "G": {
+        "Form Indices": {
+          "main-series": 6
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Unown-G"
       },
       "H": {
+        "Form Indices": {
+          "main-series": 7
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Unown-H"
       },
       "I": {
+        "Form Indices": {
+          "main-series": 8
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Unown-I"
       },
       "J": {
+        "Form Indices": {
+          "main-series": 9
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Unown-J"
       },
       "K": {
+        "Form Indices": {
+          "main-series": 10
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Unown-K"
       },
       "L": {
+        "Form Indices": {
+          "main-series": 11
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Unown-L"
       },
       "M": {
+        "Form Indices": {
+          "main-series": 12
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Unown-M"
       },
       "N": {
+        "Form Indices": {
+          "main-series": 13
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Unown-N"
       },
       "O": {
+        "Form Indices": {
+          "main-series": 14
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Unown-O"
       },
       "P": {
+        "Form Indices": {
+          "main-series": 15
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Unown-P"
       },
       "Q": {
+        "Form Indices": {
+          "main-series": 16
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Unown-Q"
       },
       "R": {
+        "Form Indices": {
+          "main-series": 17
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Unown-R"
       },
       "S": {
+        "Form Indices": {
+          "main-series": 18
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Unown-S"
       },
       "T": {
+        "Form Indices": {
+          "main-series": 19
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Unown-T"
       },
       "U": {
+        "Form Indices": {
+          "main-series": 20
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Unown-U"
       },
       "V": {
+        "Form Indices": {
+          "main-series": 21
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Unown-V"
       },
       "W": {
+        "Form Indices": {
+          "main-series": 22
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Unown-W"
       },
       "X": {
+        "Form Indices": {
+          "main-series": 23
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Unown-X"
       },
       "Y": {
+        "Form Indices": {
+          "main-series": 24
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Unown-Y"
       },
       "Z": {
+        "Form Indices": {
+          "main-series": 25
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Unown-Z"
       },
       "!": {
+        "Form Indices": {
+          "main-series": 26
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Unown-Exclamation"
       },
       "?": {
+        "Form Indices": {
+          "main-series": 27
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Unown-Question"
       }
@@ -3172,6 +3856,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Wobbuffet"
       }
@@ -3185,6 +3872,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Girafarig"
       }
@@ -3198,6 +3888,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Pineco"
       }
@@ -3211,6 +3904,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Forretress"
       }
@@ -3224,6 +3920,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Dunsparce"
       }
@@ -3237,6 +3936,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Gligar"
       }
@@ -3254,6 +3956,9 @@
             "Type": "Mega",
             "Item": "Steelixite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Steelix"
@@ -3273,6 +3978,9 @@
     "Gender Ratio": "Male 1 Female 3",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Snubbull"
       }
@@ -3286,6 +3994,9 @@
     "Gender Ratio": "Male 1 Female 3",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Granbull"
       }
@@ -3299,6 +4010,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Qwilfish"
       }
@@ -3316,6 +4030,9 @@
             "Type": "Mega",
             "Item": "Scizorite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Scizor"
@@ -3335,6 +4052,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Shuckle"
       }
@@ -3352,6 +4072,9 @@
             "Type": "Mega",
             "Item": "Heracronite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Heracross"
@@ -3371,6 +4094,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Sneasel"
       }
@@ -3384,6 +4110,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Teddiursa"
       }
@@ -3397,6 +4126,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Ursaring"
       }
@@ -3410,6 +4142,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Slugma"
       }
@@ -3423,6 +4158,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Magcargo"
       }
@@ -3436,6 +4174,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Swinub"
       }
@@ -3449,6 +4190,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Piloswine"
       }
@@ -3462,6 +4206,9 @@
     "Gender Ratio": "Male 1 Female 3",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Corsola"
       },
@@ -3479,6 +4226,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Remoraid"
       }
@@ -3492,6 +4242,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Octillery"
       }
@@ -3505,6 +4258,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Delibird"
       }
@@ -3518,6 +4274,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Mantine"
       }
@@ -3531,6 +4290,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Skarmory"
       }
@@ -3544,6 +4306,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Houndour"
       }
@@ -3561,6 +4326,9 @@
             "Type": "Mega",
             "Item": "Houndoominite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Houndoom"
@@ -3580,6 +4348,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Kingdra"
       }
@@ -3593,6 +4364,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Phanpy"
       }
@@ -3606,6 +4380,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Donphan"
       }
@@ -3619,6 +4396,9 @@
     "Gender Ratio": "All Genderless",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Porygon2"
       }
@@ -3632,6 +4412,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Stantler"
       }
@@ -3645,6 +4428,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Smeargle"
       },
@@ -3665,6 +4451,9 @@
     "Gender Ratio": "All Male",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Tyrogue"
       }
@@ -3678,6 +4467,9 @@
     "Gender Ratio": "All Male",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Hitmontop"
       }
@@ -3691,6 +4483,9 @@
     "Gender Ratio": "All Female",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Smoochum"
       }
@@ -3704,6 +4499,9 @@
     "Gender Ratio": "Male 3 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Elekid"
       }
@@ -3717,6 +4515,9 @@
     "Gender Ratio": "Male 3 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Magby"
       }
@@ -3730,6 +4531,9 @@
     "Gender Ratio": "All Female",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Miltank"
       }
@@ -3743,6 +4547,9 @@
     "Gender Ratio": "All Female",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Blissey"
       }
@@ -3756,6 +4563,9 @@
     "Gender Ratio": "All Genderless",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Raikou"
       }
@@ -3769,6 +4579,9 @@
     "Gender Ratio": "All Genderless",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Entei"
       }
@@ -3782,6 +4595,9 @@
     "Gender Ratio": "All Genderless",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Suicune"
       }
@@ -3795,6 +4611,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Larvitar"
       }
@@ -3808,6 +4627,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Pupitar"
       }
@@ -3825,6 +4647,9 @@
             "Type": "Mega",
             "Item": "Tyranitarite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Tyranitar"
@@ -3844,6 +4669,9 @@
     "Gender Ratio": "All Genderless",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Lugia"
       }
@@ -3857,6 +4685,9 @@
     "Gender Ratio": "All Genderless",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Ho-Oh"
       }
@@ -3870,6 +4701,9 @@
     "Gender Ratio": "All Genderless",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Celebi"
       }
@@ -3884,6 +4718,9 @@
     "Gender Ratio": "Male 7 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Treecko"
       }
@@ -3898,6 +4735,9 @@
     "Gender Ratio": "Male 7 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Grovyle"
       }
@@ -3916,6 +4756,9 @@
             "Type": "Mega",
             "Item": "Sceptilite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Sceptile"
@@ -3936,6 +4779,9 @@
     "Gender Ratio": "Male 7 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Torchic"
       }
@@ -3950,6 +4796,9 @@
     "Gender Ratio": "Male 7 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Combusken"
       }
@@ -3968,6 +4817,9 @@
             "Type": "Mega",
             "Item": "Blazikenite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Blaziken"
@@ -3988,6 +4840,9 @@
     "Gender Ratio": "Male 7 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Mudkip"
       }
@@ -4002,6 +4857,9 @@
     "Gender Ratio": "Male 7 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Marshtomp"
       }
@@ -4020,6 +4878,9 @@
             "Type": "Mega",
             "Item": "Swampertite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Swampert"
@@ -4040,6 +4901,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Poochyena"
       }
@@ -4054,6 +4918,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Mightyena"
       }
@@ -4068,6 +4935,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Zigzagoon"
       },
@@ -4086,6 +4956,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Linoone"
       },
@@ -4104,6 +4977,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Wurmple"
       }
@@ -4118,6 +4994,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Silcoon"
       }
@@ -4132,6 +5011,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Beautifly"
       }
@@ -4146,6 +5028,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Cascoon"
       }
@@ -4160,6 +5045,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Dustox"
       }
@@ -4174,6 +5062,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Lotad"
       }
@@ -4188,6 +5079,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Lombre"
       }
@@ -4202,6 +5096,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Ludicolo"
       }
@@ -4216,6 +5113,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Seedot"
       }
@@ -4230,6 +5130,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Nuzleaf"
       }
@@ -4244,6 +5147,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Shiftry"
       }
@@ -4258,6 +5164,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Taillow"
       }
@@ -4272,6 +5181,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Swellow"
       }
@@ -4286,6 +5198,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Wingull"
       }
@@ -4300,6 +5215,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Pelipper"
       }
@@ -4314,6 +5232,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Ralts"
       }
@@ -4328,6 +5249,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Kirlia"
       }
@@ -4346,6 +5270,9 @@
             "Type": "Mega",
             "Item": "Gardevoirite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Gardevoir"
@@ -4366,6 +5293,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Surskit"
       }
@@ -4380,6 +5310,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Masquerain"
       }
@@ -4394,6 +5327,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Shroomish"
       }
@@ -4408,6 +5344,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Breloom"
       }
@@ -4422,6 +5361,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Slakoth"
       }
@@ -4436,6 +5378,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Vigoroth"
       }
@@ -4450,6 +5395,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Slaking"
       }
@@ -4464,6 +5412,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Nincada"
       }
@@ -4478,6 +5429,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Ninjask"
       }
@@ -4492,6 +5446,9 @@
     "Gender Ratio": "All Genderless",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Shedinja"
       }
@@ -4506,6 +5463,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Whismur"
       }
@@ -4520,6 +5480,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Loudred"
       }
@@ -4534,6 +5497,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Exploud"
       }
@@ -4548,6 +5514,9 @@
     "Gender Ratio": "Male 3 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Makuhita"
       }
@@ -4562,6 +5531,9 @@
     "Gender Ratio": "Male 3 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Hariyama"
       }
@@ -4576,6 +5548,9 @@
     "Gender Ratio": "Male 1 Female 3",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Azurill"
       }
@@ -4590,6 +5565,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Nosepass"
       }
@@ -4604,6 +5582,9 @@
     "Gender Ratio": "Male 1 Female 3",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Skitty"
       }
@@ -4618,6 +5599,9 @@
     "Gender Ratio": "Male 1 Female 3",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Delcatty"
       }
@@ -4636,6 +5620,9 @@
             "Type": "Mega",
             "Item": "Sablenite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Sableye"
@@ -4661,6 +5648,9 @@
             "Item": "Mawilite"
           }
         },
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Mawile"
       },
@@ -4680,6 +5670,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Aron"
       }
@@ -4694,6 +5687,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Lairon"
       }
@@ -4712,6 +5708,9 @@
             "Type": "Mega",
             "Item": "Aggronite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Aggron"
@@ -4732,6 +5731,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Meditite"
       }
@@ -4750,6 +5752,9 @@
             "Type": "Mega",
             "Item": "Medichamite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Medicham"
@@ -4770,6 +5775,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Electrike"
       }
@@ -4788,6 +5796,9 @@
             "Type": "Mega",
             "Item": "Manectite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Manectric"
@@ -4808,6 +5819,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Plusle"
       }
@@ -4822,6 +5836,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Minun"
       }
@@ -4836,6 +5853,9 @@
     "Gender Ratio": "All Male",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Volbeat"
       }
@@ -4850,6 +5870,9 @@
     "Gender Ratio": "All Female",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Illumise"
       }
@@ -4864,6 +5887,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Roselia"
       }
@@ -4878,6 +5904,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Gulpin"
       }
@@ -4892,6 +5921,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Swalot"
       }
@@ -4906,6 +5938,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Carvanha"
       }
@@ -4924,6 +5959,9 @@
             "Type": "Mega",
             "Item": "Sharpedonite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Sharpedo"
@@ -4944,6 +5982,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Wailmer"
       }
@@ -4958,6 +5999,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Wailord"
       }
@@ -4972,6 +6016,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Numel"
       }
@@ -4990,6 +6037,9 @@
             "Type": "Mega",
             "Item": "Cameruptite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Camerupt"
@@ -5010,6 +6060,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Torkoal"
       }
@@ -5024,6 +6077,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Spoink"
       }
@@ -5038,6 +6094,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Grumpig"
       }
@@ -5052,6 +6111,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Spinda"
       }
@@ -5066,6 +6128,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Trapinch"
       }
@@ -5080,6 +6145,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Vibrava"
       }
@@ -5094,6 +6162,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Flygon"
       }
@@ -5108,6 +6179,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Cacnea"
       }
@@ -5122,6 +6196,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Cacturne"
       }
@@ -5136,6 +6213,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Swablu"
       }
@@ -5154,6 +6234,9 @@
             "Type": "Mega",
             "Item": "Altarianite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Altaria"
@@ -5174,6 +6257,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Zangoose"
       }
@@ -5188,6 +6274,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Seviper"
       }
@@ -5202,6 +6291,9 @@
     "Gender Ratio": "All Genderless",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Lunatone"
       }
@@ -5216,6 +6308,9 @@
     "Gender Ratio": "All Genderless",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Solrock"
       }
@@ -5230,6 +6325,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Barboach"
       }
@@ -5244,6 +6342,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Whiscash"
       }
@@ -5258,6 +6359,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Corphish"
       }
@@ -5272,6 +6376,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Crawdaunt"
       }
@@ -5286,6 +6393,9 @@
     "Gender Ratio": "All Genderless",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Baltoy"
       }
@@ -5300,6 +6410,9 @@
     "Gender Ratio": "All Genderless",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Claydol"
       }
@@ -5314,6 +6427,9 @@
     "Gender Ratio": "Male 7 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Lileep"
       }
@@ -5328,6 +6444,9 @@
     "Gender Ratio": "Male 7 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Cradily"
       }
@@ -5342,6 +6461,9 @@
     "Gender Ratio": "Male 7 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Anorith"
       }
@@ -5356,6 +6478,9 @@
     "Gender Ratio": "Male 7 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Armaldo"
       }
@@ -5370,6 +6495,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Feebas"
       }
@@ -5384,6 +6512,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Milotic"
       }
@@ -5409,6 +6540,9 @@
             "Ability": "Forecast"
           }
         },
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Castform"
       },
@@ -5423,6 +6557,9 @@
           "Snowy": {
             "Ability": "Forecast"
           }
+        },
+        "Form Indices": {
+          "main-series": 1
         },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Castform-Sunny"
@@ -5439,6 +6576,9 @@
             "Ability": "Forecast"
           }
         },
+        "Form Indices": {
+          "main-series": 2
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Castform-Rainy"
       },
@@ -5453,6 +6593,9 @@
           "Rainy": {
             "Ability": "Forecast"
           }
+        },
+        "Form Indices": {
+          "main-series": 3
         },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Castform-Snowy"
@@ -5469,6 +6612,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Kecleon"
       }
@@ -5483,6 +6629,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Shuppet"
       }
@@ -5501,6 +6650,9 @@
             "Type": "Mega",
             "Item": "Banettite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Banette"
@@ -5521,6 +6673,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Duskull"
       }
@@ -5535,6 +6690,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Dusclops"
       }
@@ -5549,6 +6707,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Tropius"
       }
@@ -5563,6 +6724,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Chimecho"
       }
@@ -5581,6 +6745,9 @@
             "Type": "Mega",
             "Item": "Absolite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Absol"
@@ -5601,6 +6768,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Wynaut"
       }
@@ -5615,6 +6785,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Snorunt"
       }
@@ -5633,6 +6806,9 @@
             "Type": "Mega",
             "Item": "Glalitite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Glalie"
@@ -5653,6 +6829,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Spheal"
       }
@@ -5667,6 +6846,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Sealeo"
       }
@@ -5681,6 +6863,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Walrein"
       }
@@ -5695,6 +6880,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Clamperl"
       }
@@ -5709,6 +6897,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Huntail"
       }
@@ -5723,6 +6914,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Gorebyss"
       }
@@ -5737,6 +6931,9 @@
     "Gender Ratio": "Male 7 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Relicanth"
       }
@@ -5751,6 +6948,9 @@
     "Gender Ratio": "Male 1 Female 3",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Luvdisc"
       }
@@ -5765,6 +6965,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Bagon"
       }
@@ -5779,6 +6982,9 @@
     "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Shelgon"
       }
@@ -5797,6 +7003,9 @@
             "Type": "Mega",
             "Item": "Salamencite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Salamence"
@@ -5817,6 +7026,9 @@
     "Gender Ratio": "All Genderless",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Beldum"
       }
@@ -5831,6 +7043,9 @@
     "Gender Ratio": "All Genderless",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Metang"
       }
@@ -5849,6 +7064,9 @@
             "Type": "Mega",
             "Item": "Metagrossite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Metagross"
@@ -5869,6 +7087,9 @@
     "Gender Ratio": "All Genderless",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Regirock"
       }
@@ -5883,6 +7104,9 @@
     "Gender Ratio": "All Genderless",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Regice"
       }
@@ -5897,6 +7121,9 @@
     "Gender Ratio": "All Genderless",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Registeel"
       }
@@ -5915,6 +7142,9 @@
             "Type": "Mega",
             "Item": "Latiasite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Latias"
@@ -5940,6 +7170,9 @@
             "Item": "Latiosite"
           }
         },
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Latios"
       },
@@ -5963,6 +7196,9 @@
             "Type": "Primal",
             "Item": "Blue Orb"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Kyogre"
@@ -5988,6 +7224,9 @@
             "Item": "Red Orb"
           }
         },
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Groudon"
       },
@@ -6011,6 +7250,9 @@
             "Type": "Mega"
           }
         },
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Rayquaza"
       },
@@ -6030,6 +7272,9 @@
     "Gender Ratio": "All Genderless",
     "Forms": {
       "": {
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Jirachi"
       }
@@ -6044,18 +7289,30 @@
     "Forms": {
       "Normal": {
         "Default": true,
+        "Form Indices": {
+          "main-series": 0
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Deoxys"
       },
       "Attack": {
+        "Form Indices": {
+          "main-series": 1
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Deoxys-Attack"
       },
       "Defense": {
+        "Form Indices": {
+          "main-series": 2
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Deoxys-Defense"
       },
       "Speed": {
+        "Form Indices": {
+          "main-series": 3
+        },
         "Exists in": ["pk3", "Showdown"],
         "Showdown Name": "Deoxys-Speed"
       }

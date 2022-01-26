@@ -14,13 +14,27 @@
     "Indices": {
       "main-series": 1
     },
-    "Gender Ratio": "Male 7 Female 1"
+    "Gender Ratio": "Male 7 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Ivysaur": {
     "Indices": {
       "main-series": 2
     },
-    "Gender Ratio": "Male 7 Female 1"
+    "Gender Ratio": "Male 7 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Venusaur": {
     "Indices": {
@@ -36,6 +50,9 @@
           "Gigantamax": {
             "Type": "Gigantamax"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -45,13 +62,27 @@
     "Indices": {
       "main-series": 4
     },
-    "Gender Ratio": "Male 7 Female 1"
+    "Gender Ratio": "Male 7 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Charmeleon": {
     "Indices": {
       "main-series": 5
     },
-    "Gender Ratio": "Male 7 Female 1"
+    "Gender Ratio": "Male 7 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Charizard": {
     "Indices": {
@@ -71,6 +102,9 @@
           "Gigantamax": {
             "Type": "Gigantamax"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -80,13 +114,27 @@
     "Indices": {
       "main-series": 7
     },
-    "Gender Ratio": "Male 7 Female 1"
+    "Gender Ratio": "Male 7 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Wartortle": {
     "Indices": {
       "main-series": 8
     },
-    "Gender Ratio": "Male 7 Female 1"
+    "Gender Ratio": "Male 7 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Blastoise": {
     "Indices": {
@@ -102,6 +150,9 @@
           "Gigantamax": {
             "Type": "Gigantamax"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -111,13 +162,27 @@
     "Indices": {
       "main-series": 10
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Metapod": {
     "Indices": {
       "main-series": 11
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Butterfree": {
     "Indices": {
@@ -129,6 +194,9 @@
           "Gigantamax": {
             "Type": "Gigantamax"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -138,13 +206,27 @@
     "Indices": {
       "main-series": 13
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Kakuna": {
     "Indices": {
       "main-series": 14
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Beedrill": {
     "Indices": {
@@ -157,6 +239,9 @@
             "Type": "Mega",
             "Item": "Beedrillite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -166,13 +251,27 @@
     "Indices": {
       "main-series": 16
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Pidgeotto": {
     "Indices": {
       "main-series": 17
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Pidgeot": {
     "Indices": {
@@ -185,6 +284,9 @@
             "Type": "Mega",
             "Item": "Pidgeotite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -194,7 +296,14 @@
     "Indices": {
       "main-series": 19
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Raticate": {
     "Indices": {
@@ -202,9 +311,12 @@
     },
     "Forms": {
       "Alolan|Totem": {
-        "Castable to": [
-          "Alolan"
-        ]
+        "Castable to": ["Alolan"]
+      },
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
       }
     },
     "Gender Ratio": "Male 1 Female 1"
@@ -213,25 +325,53 @@
     "Indices": {
       "main-series": 21
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Fearow": {
     "Indices": {
       "main-series": 22
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Ekans": {
     "Indices": {
       "main-series": 23
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Arbok": {
     "Indices": {
       "main-series": 24
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Pikachu": {
     "Indices": {
@@ -243,17 +383,16 @@
           "Gigantamax": {
             "Type": "Gigantamax"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       },
       "Cosplay": {
-        "Castable to": [
-          ""
-        ]
+        "Castable to": [""]
       },
       "Partner": {
-        "Castable to": [
-          ""
-        ]
+        "Castable to": [""]
       }
     },
     "Gender Ratio": "Male 1 Female 1"
@@ -262,157 +401,339 @@
     "Indices": {
       "main-series": 26
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Sandshrew": {
     "Indices": {
       "main-series": 27
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Sandslash": {
     "Indices": {
       "main-series": 28
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Nidoran♀": {
     "Indices": {
       "main-series": 29
     },
-    "Gender Ratio": "All Female"
+    "Gender Ratio": "All Female",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Nidorina": {
     "Indices": {
       "main-series": 30
     },
-    "Gender Ratio": "All Female"
+    "Gender Ratio": "All Female",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Nidoqueen": {
     "Indices": {
       "main-series": 31
     },
-    "Gender Ratio": "All Female"
+    "Gender Ratio": "All Female",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Nidoran♂": {
     "Indices": {
       "main-series": 32
     },
-    "Gender Ratio": "All Male"
+    "Gender Ratio": "All Male",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Nidorino": {
     "Indices": {
       "main-series": 33
     },
-    "Gender Ratio": "All Male"
+    "Gender Ratio": "All Male",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Nidoking": {
     "Indices": {
       "main-series": 34
     },
-    "Gender Ratio": "All Male"
+    "Gender Ratio": "All Male",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Clefairy": {
     "Indices": {
       "main-series": 35
     },
-    "Gender Ratio": "Male 1 Female 3"
+    "Gender Ratio": "Male 1 Female 3",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Clefable": {
     "Indices": {
       "main-series": 36
     },
-    "Gender Ratio": "Male 1 Female 3"
+    "Gender Ratio": "Male 1 Female 3",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Vulpix": {
     "Indices": {
       "main-series": 37
     },
-    "Gender Ratio": "Male 1 Female 3"
+    "Gender Ratio": "Male 1 Female 3",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Ninetales": {
     "Indices": {
       "main-series": 38
     },
-    "Gender Ratio": "Male 1 Female 3"
+    "Gender Ratio": "Male 1 Female 3",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Jigglypuff": {
     "Indices": {
       "main-series": 39
     },
-    "Gender Ratio": "Male 1 Female 3"
+    "Gender Ratio": "Male 1 Female 3",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Wigglytuff": {
     "Indices": {
       "main-series": 40
     },
-    "Gender Ratio": "Male 1 Female 3"
+    "Gender Ratio": "Male 1 Female 3",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Zubat": {
     "Indices": {
       "main-series": 41
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Golbat": {
     "Indices": {
       "main-series": 42
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Oddish": {
     "Indices": {
       "main-series": 43
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Gloom": {
     "Indices": {
       "main-series": 44
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Vileplume": {
     "Indices": {
       "main-series": 45
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Paras": {
     "Indices": {
       "main-series": 46
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Parasect": {
     "Indices": {
       "main-series": 47
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Venonat": {
     "Indices": {
       "main-series": 48
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Venomoth": {
     "Indices": {
       "main-series": 49
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Diglett": {
     "Indices": {
       "main-series": 50
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Dugtrio": {
     "Indices": {
       "main-series": 51
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Meowth": {
     "Indices": {
@@ -424,6 +745,9 @@
           "Gigantamax": {
             "Type": "Gigantamax"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -433,73 +757,157 @@
     "Indices": {
       "main-series": 53
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Psyduck": {
     "Indices": {
       "main-series": 54
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Golduck": {
     "Indices": {
       "main-series": 55
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Mankey": {
     "Indices": {
       "main-series": 56
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Primeape": {
     "Indices": {
       "main-series": 57
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Growlithe": {
     "Indices": {
       "main-series": 58
     },
-    "Gender Ratio": "Male 3 Female 1"
+    "Gender Ratio": "Male 3 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Arcanine": {
     "Indices": {
       "main-series": 59
     },
-    "Gender Ratio": "Male 3 Female 1"
+    "Gender Ratio": "Male 3 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Poliwag": {
     "Indices": {
       "main-series": 60
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Poliwhirl": {
     "Indices": {
       "main-series": 61
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Poliwrath": {
     "Indices": {
       "main-series": 62
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Abra": {
     "Indices": {
       "main-series": 63
     },
-    "Gender Ratio": "Male 3 Female 1"
+    "Gender Ratio": "Male 3 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Kadabra": {
     "Indices": {
       "main-series": 64
     },
-    "Gender Ratio": "Male 3 Female 1"
+    "Gender Ratio": "Male 3 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Alakazam": {
     "Indices": {
@@ -512,6 +920,9 @@
             "Type": "Mega",
             "Item": "Alakazite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -521,13 +932,27 @@
     "Indices": {
       "main-series": 66
     },
-    "Gender Ratio": "Male 3 Female 1"
+    "Gender Ratio": "Male 3 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Machoke": {
     "Indices": {
       "main-series": 67
     },
-    "Gender Ratio": "Male 3 Female 1"
+    "Gender Ratio": "Male 3 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Machamp": {
     "Indices": {
@@ -539,6 +964,9 @@
           "Gigantamax": {
             "Type": "Gigantamax"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -548,67 +976,144 @@
     "Indices": {
       "main-series": 69
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Weepinbell": {
     "Indices": {
       "main-series": 70
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Victreebel": {
     "Indices": {
       "main-series": 71
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Tentacool": {
     "Indices": {
       "main-series": 72
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Tentacruel": {
     "Indices": {
       "main-series": 73
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Geodude": {
     "Indices": {
       "main-series": 74
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Graveler": {
     "Indices": {
       "main-series": 75
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Golem": {
     "Indices": {
       "main-series": 76
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Ponyta": {
     "Indices": {
       "main-series": 77
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Rapidash": {
     "Indices": {
       "main-series": 78
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Slowpoke": {
     "Indices": {
       "main-series": 79
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Slowbro": {
     "Indices": {
@@ -621,6 +1126,9 @@
             "Type": "Mega",
             "Item": "Slowbronite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -630,79 +1138,170 @@
     "Indices": {
       "main-series": 81
     },
-    "Gender Ratio": "All Genderless"
+    "Gender Ratio": "All Genderless",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Magneton": {
     "Indices": {
       "main-series": 82
     },
-    "Gender Ratio": "All Genderless"
+    "Gender Ratio": "All Genderless",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Farfetch’d": {
     "Indices": {
       "main-series": 83
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   }, // note ' vs ’ in name (latter is correct)
   "Doduo": {
     "Indices": {
       "main-series": 84
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Dodrio": {
     "Indices": {
       "main-series": 85
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Seel": {
     "Indices": {
       "main-series": 86
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Dewgong": {
     "Indices": {
       "main-series": 87
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Grimer": {
     "Indices": {
       "main-series": 88
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Muk": {
     "Indices": {
       "main-series": 89
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Shellder": {
     "Indices": {
       "main-series": 90
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Cloyster": {
     "Indices": {
       "main-series": 91
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Gastly": {
     "Indices": {
       "main-series": 92
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Haunter": {
     "Indices": {
       "main-series": 93
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Gengar": {
     "Indices": {
@@ -718,6 +1317,9 @@
           "Gigantamax": {
             "Type": "Gigantamax"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -727,25 +1329,53 @@
     "Indices": {
       "main-series": 95
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Drowzee": {
     "Indices": {
       "main-series": 96
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Hypno": {
     "Indices": {
       "main-series": 97
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Krabby": {
     "Indices": {
       "main-series": 98
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Kingler": {
     "Indices": {
@@ -757,6 +1387,9 @@
           "Gigantamax": {
             "Type": "Gigantamax"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -766,31 +1399,66 @@
     "Indices": {
       "main-series": 100
     },
-    "Gender Ratio": "All Genderless"
+    "Gender Ratio": "All Genderless",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Electrode": {
     "Indices": {
       "main-series": 101
     },
-    "Gender Ratio": "All Genderless"
+    "Gender Ratio": "All Genderless",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Exeggcute": {
     "Indices": {
       "main-series": 102
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Exeggutor": {
     "Indices": {
       "main-series": 103
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Cubone": {
     "Indices": {
       "main-series": 104
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Marowak": {
     "Indices": {
@@ -798,9 +1466,12 @@
     },
     "Forms": {
       "Alolan|Totem": {
-        "Castable to": [
-          "Alolan"
-        ]
+        "Castable to": ["Alolan"]
+      },
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
       }
     },
     "Gender Ratio": "Male 1 Female 1"
@@ -809,55 +1480,118 @@
     "Indices": {
       "main-series": 106
     },
-    "Gender Ratio": "All Male"
+    "Gender Ratio": "All Male",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Hitmonchan": {
     "Indices": {
       "main-series": 107
     },
-    "Gender Ratio": "All Male"
+    "Gender Ratio": "All Male",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Lickitung": {
     "Indices": {
       "main-series": 108
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Koffing": {
     "Indices": {
       "main-series": 109
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Weezing": {
     "Indices": {
       "main-series": 110
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Rhyhorn": {
     "Indices": {
       "main-series": 111
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Rhydon": {
     "Indices": {
       "main-series": 112
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Chansey": {
     "Indices": {
       "main-series": 113
     },
-    "Gender Ratio": "All Female"
+    "Gender Ratio": "All Female",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Tangela": {
     "Indices": {
       "main-series": 114
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Kangaskhan": {
     "Indices": {
@@ -870,6 +1604,9 @@
             "Type": "Mega",
             "Item": "Kangaskhanite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -879,67 +1616,144 @@
     "Indices": {
       "main-series": 116
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Seadra": {
     "Indices": {
       "main-series": 117
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Goldeen": {
     "Indices": {
       "main-series": 118
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Seaking": {
     "Indices": {
       "main-series": 119
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Staryu": {
     "Indices": {
       "main-series": 120
     },
-    "Gender Ratio": "All Genderless"
+    "Gender Ratio": "All Genderless",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Starmie": {
     "Indices": {
       "main-series": 121
     },
-    "Gender Ratio": "All Genderless"
+    "Gender Ratio": "All Genderless",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Mr. Mime": {
     "Indices": {
       "main-series": 122
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Scyther": {
     "Indices": {
       "main-series": 123
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Jynx": {
     "Indices": {
       "main-series": 124
     },
-    "Gender Ratio": "All Female"
+    "Gender Ratio": "All Female",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Electabuzz": {
     "Indices": {
       "main-series": 125
     },
-    "Gender Ratio": "Male 3 Female 1"
+    "Gender Ratio": "Male 3 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Magmar": {
     "Indices": {
       "main-series": 126
     },
-    "Gender Ratio": "Male 3 Female 1"
+    "Gender Ratio": "Male 3 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Pinsir": {
     "Indices": {
@@ -952,6 +1766,9 @@
             "Type": "Mega",
             "Item": "Pinsirite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -961,13 +1778,27 @@
     "Indices": {
       "main-series": 128
     },
-    "Gender Ratio": "All Male"
+    "Gender Ratio": "All Male",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Magikarp": {
     "Indices": {
       "main-series": 129
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Gyarados": {
     "Indices": {
@@ -980,6 +1811,9 @@
             "Type": "Mega",
             "Item": "Gyaradosite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -995,6 +1829,9 @@
           "Gigantamax": {
             "Type": "Gigantamax"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -1004,7 +1841,14 @@
     "Indices": {
       "main-series": 132
     },
-    "Gender Ratio": "All Genderless"
+    "Gender Ratio": "All Genderless",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Eevee": {
     "Indices": {
@@ -1016,6 +1860,9 @@
           "Gigantamax": {
             "Type": "Gigantamax"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -1025,49 +1872,105 @@
     "Indices": {
       "main-series": 134
     },
-    "Gender Ratio": "Male 7 Female 1"
+    "Gender Ratio": "Male 7 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Jolteon": {
     "Indices": {
       "main-series": 135
     },
-    "Gender Ratio": "Male 7 Female 1"
+    "Gender Ratio": "Male 7 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Flareon": {
     "Indices": {
       "main-series": 136
     },
-    "Gender Ratio": "Male 7 Female 1"
+    "Gender Ratio": "Male 7 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Porygon": {
     "Indices": {
       "main-series": 137
     },
-    "Gender Ratio": "All Genderless"
+    "Gender Ratio": "All Genderless",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Omanyte": {
     "Indices": {
       "main-series": 138
     },
-    "Gender Ratio": "Male 7 Female 1"
+    "Gender Ratio": "Male 7 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Omastar": {
     "Indices": {
       "main-series": 139
     },
-    "Gender Ratio": "Male 7 Female 1"
+    "Gender Ratio": "Male 7 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Kabuto": {
     "Indices": {
       "main-series": 140
     },
-    "Gender Ratio": "Male 7 Female 1"
+    "Gender Ratio": "Male 7 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Kabutops": {
     "Indices": {
       "main-series": 141
     },
-    "Gender Ratio": "Male 7 Female 1"
+    "Gender Ratio": "Male 7 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Aerodactyl": {
     "Indices": {
@@ -1080,6 +1983,9 @@
             "Type": "Mega",
             "Item": "Aerodactylite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -1095,6 +2001,9 @@
           "Gigantamax": {
             "Type": "Gigantamax"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -1104,37 +2013,79 @@
     "Indices": {
       "main-series": 144
     },
-    "Gender Ratio": "All Genderless"
+    "Gender Ratio": "All Genderless",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Zapdos": {
     "Indices": {
       "main-series": 145
     },
-    "Gender Ratio": "All Genderless"
+    "Gender Ratio": "All Genderless",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Moltres": {
     "Indices": {
       "main-series": 146
     },
-    "Gender Ratio": "All Genderless"
+    "Gender Ratio": "All Genderless",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Dratini": {
     "Indices": {
       "main-series": 147
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Dragonair": {
     "Indices": {
       "main-series": 148
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Dragonite": {
     "Indices": {
       "main-series": 149
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Mewtwo": {
     "Indices": {
@@ -1151,6 +2102,9 @@
             "Type": "Mega",
             "Item": "Mewtwonite Y"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -1160,182 +2114,392 @@
     "Indices": {
       "main-series": 151
     },
-    "Gender Ratio": "All Genderless"
+    "Gender Ratio": "All Genderless",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   // Gen 2
   "Chikorita": {
     "Indices": {
       "main-series": 152
     },
-    "Gender Ratio": "Male 7 Female 1"
+    "Gender Ratio": "Male 7 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Bayleef": {
     "Indices": {
       "main-series": 153
     },
-    "Gender Ratio": "Male 7 Female 1"
+    "Gender Ratio": "Male 7 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Meganium": {
     "Indices": {
       "main-series": 154
     },
-    "Gender Ratio": "Male 7 Female 1"
+    "Gender Ratio": "Male 7 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Cyndaquil": {
     "Indices": {
       "main-series": 155
     },
-    "Gender Ratio": "Male 7 Female 1"
+    "Gender Ratio": "Male 7 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Quilava": {
     "Indices": {
       "main-series": 156
     },
-    "Gender Ratio": "Male 7 Female 1"
+    "Gender Ratio": "Male 7 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Typhlosion": {
     "Indices": {
       "main-series": 157
     },
-    "Gender Ratio": "Male 7 Female 1"
+    "Gender Ratio": "Male 7 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Totodile": {
     "Indices": {
       "main-series": 158
     },
-    "Gender Ratio": "Male 7 Female 1"
+    "Gender Ratio": "Male 7 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Croconaw": {
     "Indices": {
       "main-series": 159
     },
-    "Gender Ratio": "Male 7 Female 1"
+    "Gender Ratio": "Male 7 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Feraligatr": {
     "Indices": {
       "main-series": 160
     },
-    "Gender Ratio": "Male 7 Female 1"
+    "Gender Ratio": "Male 7 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Sentret": {
     "Indices": {
       "main-series": 161
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Furret": {
     "Indices": {
       "main-series": 162
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Hoothoot": {
     "Indices": {
       "main-series": 163
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Noctowl": {
     "Indices": {
       "main-series": 164
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Ledyba": {
     "Indices": {
       "main-series": 165
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Ledian": {
     "Indices": {
       "main-series": 166
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Spinarak": {
     "Indices": {
       "main-series": 167
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Ariados": {
     "Indices": {
       "main-series": 168
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Crobat": {
     "Indices": {
       "main-series": 169
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Chinchou": {
     "Indices": {
       "main-series": 170
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Lanturn": {
     "Indices": {
       "main-series": 171
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Pichu": {
     "Indices": {
       "main-series": 172
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Cleffa": {
     "Indices": {
       "main-series": 173
     },
-    "Gender Ratio": "Male 1 Female 3"
+    "Gender Ratio": "Male 1 Female 3",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Igglybuff": {
     "Indices": {
       "main-series": 174
     },
-    "Gender Ratio": "Male 1 Female 3"
+    "Gender Ratio": "Male 1 Female 3",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Togepi": {
     "Indices": {
       "main-series": 175
     },
-    "Gender Ratio": "Male 7 Female 1"
+    "Gender Ratio": "Male 7 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Togetic": {
     "Indices": {
       "main-series": 176
     },
-    "Gender Ratio": "Male 7 Female 1"
+    "Gender Ratio": "Male 7 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Natu": {
     "Indices": {
       "main-series": 177
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Xatu": {
     "Indices": {
       "main-series": 178
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Mareep": {
     "Indices": {
       "main-series": 179
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Flaaffy": {
     "Indices": {
       "main-series": 180
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Ampharos": {
     "Indices": {
@@ -1348,6 +2512,9 @@
             "Type": "Mega",
             "Item": "Ampharosite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -1357,115 +2524,248 @@
     "Indices": {
       "main-series": 182
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Marill": {
     "Indices": {
       "main-series": 183
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Azumarill": {
     "Indices": {
       "main-series": 184
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Sudowoodo": {
     "Indices": {
       "main-series": 185
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Politoed": {
     "Indices": {
       "main-series": 186
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Hoppip": {
     "Indices": {
       "main-series": 187
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Skiploom": {
     "Indices": {
       "main-series": 188
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Jumpluff": {
     "Indices": {
       "main-series": 189
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Aipom": {
     "Indices": {
       "main-series": 190
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Sunkern": {
     "Indices": {
       "main-series": 191
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Sunflora": {
     "Indices": {
       "main-series": 192
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Yanma": {
     "Indices": {
       "main-series": 193
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Wooper": {
     "Indices": {
       "main-series": 194
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Quagsire": {
     "Indices": {
       "main-series": 195
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Espeon": {
     "Indices": {
       "main-series": 196
     },
-    "Gender Ratio": "Male 7 Female 1"
+    "Gender Ratio": "Male 7 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Umbreon": {
     "Indices": {
       "main-series": 197
     },
-    "Gender Ratio": "Male 7 Female 1"
+    "Gender Ratio": "Male 7 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Murkrow": {
     "Indices": {
       "main-series": 198
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Slowking": {
     "Indices": {
       "main-series": 199
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Misdreavus": {
     "Indices": {
       "main-series": 200
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Unown": {
     "Indices": {
@@ -1473,7 +2773,145 @@
     },
     "Forms": {
       "A": {
-        "Default": true
+        "Default": true,
+        "Form Indices": {
+          "main-series": 0
+        }
+      },
+      "B": {
+        "Form Indices": {
+          "main-series": 1
+        }
+      },
+      "C": {
+        "Form Indices": {
+          "main-series": 2
+        }
+      },
+      "D": {
+        "Form Indices": {
+          "main-series": 3
+        }
+      },
+      "E": {
+        "Form Indices": {
+          "main-series": 4
+        }
+      },
+      "F": {
+        "Form Indices": {
+          "main-series": 5
+        }
+      },
+      "G": {
+        "Form Indices": {
+          "main-series": 6
+        }
+      },
+      "H": {
+        "Form Indices": {
+          "main-series": 7
+        }
+      },
+      "I": {
+        "Form Indices": {
+          "main-series": 8
+        }
+      },
+      "J": {
+        "Form Indices": {
+          "main-series": 9
+        }
+      },
+      "K": {
+        "Form Indices": {
+          "main-series": 10
+        }
+      },
+      "L": {
+        "Form Indices": {
+          "main-series": 11
+        }
+      },
+      "M": {
+        "Form Indices": {
+          "main-series": 12
+        }
+      },
+      "N": {
+        "Form Indices": {
+          "main-series": 13
+        }
+      },
+      "O": {
+        "Form Indices": {
+          "main-series": 14
+        }
+      },
+      "P": {
+        "Form Indices": {
+          "main-series": 15
+        }
+      },
+      "Q": {
+        "Form Indices": {
+          "main-series": 16
+        }
+      },
+      "R": {
+        "Form Indices": {
+          "main-series": 17
+        }
+      },
+      "S": {
+        "Form Indices": {
+          "main-series": 18
+        }
+      },
+      "T": {
+        "Form Indices": {
+          "main-series": 19
+        }
+      },
+      "U": {
+        "Form Indices": {
+          "main-series": 20
+        }
+      },
+      "V": {
+        "Form Indices": {
+          "main-series": 21
+        }
+      },
+      "W": {
+        "Form Indices": {
+          "main-series": 22
+        }
+      },
+      "X": {
+        "Form Indices": {
+          "main-series": 23
+        }
+      },
+      "Y": {
+        "Form Indices": {
+          "main-series": 24
+        }
+      },
+      "Z": {
+        "Form Indices": {
+          "main-series": 25
+        }
+      },
+      "!": {
+        "Form Indices": {
+          "main-series": 26
+        }
+      },
+      "?": {
+        "Form Indices": {
+          "main-series": 27
+        }
       }
     },
     "Gender Ratio": "All Genderless"
@@ -1482,37 +2920,79 @@
     "Indices": {
       "main-series": 202
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Girafarig": {
     "Indices": {
       "main-series": 203
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Pineco": {
     "Indices": {
       "main-series": 204
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Forretress": {
     "Indices": {
       "main-series": 205
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Dunsparce": {
     "Indices": {
       "main-series": 206
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Gligar": {
     "Indices": {
       "main-series": 207
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Steelix": {
     "Indices": {
@@ -1525,6 +3005,9 @@
             "Type": "Mega",
             "Item": "Steelixite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -1534,19 +3017,40 @@
     "Indices": {
       "main-series": 209
     },
-    "Gender Ratio": "Male 1 Female 3"
+    "Gender Ratio": "Male 1 Female 3",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Granbull": {
     "Indices": {
       "main-series": 210
     },
-    "Gender Ratio": "Male 1 Female 3"
+    "Gender Ratio": "Male 1 Female 3",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Qwilfish": {
     "Indices": {
       "main-series": 211
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Scizor": {
     "Indices": {
@@ -1559,6 +3063,9 @@
             "Type": "Mega",
             "Item": "Scizorite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -1568,7 +3075,14 @@
     "Indices": {
       "main-series": 213
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Heracross": {
     "Indices": {
@@ -1581,6 +3095,9 @@
             "Type": "Mega",
             "Item": "Heracronite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -1590,85 +3107,183 @@
     "Indices": {
       "main-series": 215
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Teddiursa": {
     "Indices": {
       "main-series": 216
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Ursaring": {
     "Indices": {
       "main-series": 217
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Slugma": {
     "Indices": {
       "main-series": 218
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Magcargo": {
     "Indices": {
       "main-series": 219
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Swinub": {
     "Indices": {
       "main-series": 220
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Piloswine": {
     "Indices": {
       "main-series": 221
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Corsola": {
     "Indices": {
       "main-series": 222
     },
-    "Gender Ratio": "Male 1 Female 3"
+    "Gender Ratio": "Male 1 Female 3",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Remoraid": {
     "Indices": {
       "main-series": 223
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Octillery": {
     "Indices": {
       "main-series": 224
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Delibird": {
     "Indices": {
       "main-series": 225
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Mantine": {
     "Indices": {
       "main-series": 226
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Skarmory": {
     "Indices": {
       "main-series": 227
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Houndour": {
     "Indices": {
       "main-series": 228
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Houndoom": {
     "Indices": {
@@ -1681,6 +3296,9 @@
             "Type": "Mega",
             "Item": "Houndoominite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -1690,109 +3308,235 @@
     "Indices": {
       "main-series": 230
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Phanpy": {
     "Indices": {
       "main-series": 231
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Donphan": {
     "Indices": {
       "main-series": 232
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Porygon2": {
     "Indices": {
       "main-series": 233
     },
-    "Gender Ratio": "All Genderless"
+    "Gender Ratio": "All Genderless",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Stantler": {
     "Indices": {
       "main-series": 234
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Smeargle": {
     "Indices": {
       "main-series": 235
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Tyrogue": {
     "Indices": {
       "main-series": 236
     },
-    "Gender Ratio": "All Male"
+    "Gender Ratio": "All Male",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Hitmontop": {
     "Indices": {
       "main-series": 237
     },
-    "Gender Ratio": "All Male"
+    "Gender Ratio": "All Male",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Smoochum": {
     "Indices": {
       "main-series": 238
     },
-    "Gender Ratio": "All Female"
+    "Gender Ratio": "All Female",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Elekid": {
     "Indices": {
       "main-series": 239
     },
-    "Gender Ratio": "Male 3 Female 1"
+    "Gender Ratio": "Male 3 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Magby": {
     "Indices": {
       "main-series": 240
     },
-    "Gender Ratio": "Male 3 Female 1"
+    "Gender Ratio": "Male 3 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Miltank": {
     "Indices": {
       "main-series": 241
     },
-    "Gender Ratio": "All Female"
+    "Gender Ratio": "All Female",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Blissey": {
     "Indices": {
       "main-series": 242
     },
-    "Gender Ratio": "All Female"
+    "Gender Ratio": "All Female",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Raikou": {
     "Indices": {
       "main-series": 243
     },
-    "Gender Ratio": "All Genderless"
+    "Gender Ratio": "All Genderless",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Entei": {
     "Indices": {
       "main-series": 244
     },
-    "Gender Ratio": "All Genderless"
+    "Gender Ratio": "All Genderless",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Suicune": {
     "Indices": {
       "main-series": 245
     },
-    "Gender Ratio": "All Genderless"
+    "Gender Ratio": "All Genderless",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Larvitar": {
     "Indices": {
       "main-series": 246
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Pupitar": {
     "Indices": {
       "main-series": 247
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Tyranitar": {
     "Indices": {
@@ -1805,6 +3549,9 @@
             "Type": "Mega",
             "Item": "Tyranitarite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -1814,32 +3561,67 @@
     "Indices": {
       "main-series": 249
     },
-    "Gender Ratio": "All Genderless"
+    "Gender Ratio": "All Genderless",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Ho-Oh": {
     "Indices": {
       "main-series": 250
     },
-    "Gender Ratio": "All Genderless"
+    "Gender Ratio": "All Genderless",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Celebi": {
     "Indices": {
       "main-series": 251
     },
-    "Gender Ratio": "All Genderless"
+    "Gender Ratio": "All Genderless",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   // Gen 3
   "Treecko": {
     "Indices": {
       "main-series": 252
     },
-    "Gender Ratio": "Male 7 Female 1"
+    "Gender Ratio": "Male 7 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Grovyle": {
     "Indices": {
       "main-series": 253
     },
-    "Gender Ratio": "Male 7 Female 1"
+    "Gender Ratio": "Male 7 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Sceptile": {
     "Indices": {
@@ -1852,6 +3634,9 @@
             "Type": "Mega",
             "Item": "Sceptilite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -1861,13 +3646,27 @@
     "Indices": {
       "main-series": 255
     },
-    "Gender Ratio": "Male 7 Female 1"
+    "Gender Ratio": "Male 7 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Combusken": {
     "Indices": {
       "main-series": 256
     },
-    "Gender Ratio": "Male 7 Female 1"
+    "Gender Ratio": "Male 7 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Blaziken": {
     "Indices": {
@@ -1880,6 +3679,9 @@
             "Type": "Mega",
             "Item": "Blazikenite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -1889,13 +3691,27 @@
     "Indices": {
       "main-series": 258
     },
-    "Gender Ratio": "Male 7 Female 1"
+    "Gender Ratio": "Male 7 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Marshtomp": {
     "Indices": {
       "main-series": 259
     },
-    "Gender Ratio": "Male 7 Female 1"
+    "Gender Ratio": "Male 7 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Swampert": {
     "Indices": {
@@ -1908,6 +3724,9 @@
             "Type": "Mega",
             "Item": "Swampertite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -1917,127 +3736,274 @@
     "Indices": {
       "main-series": 261
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Mightyena": {
     "Indices": {
       "main-series": 262
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Zigzagoon": {
     "Indices": {
       "main-series": 263
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Linoone": {
     "Indices": {
       "main-series": 264
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Wurmple": {
     "Indices": {
       "main-series": 265
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Silcoon": {
     "Indices": {
       "main-series": 266
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Beautifly": {
     "Indices": {
       "main-series": 267
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Cascoon": {
     "Indices": {
       "main-series": 268
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Dustox": {
     "Indices": {
       "main-series": 269
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Lotad": {
     "Indices": {
       "main-series": 270
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Lombre": {
     "Indices": {
       "main-series": 271
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Ludicolo": {
     "Indices": {
       "main-series": 272
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Seedot": {
     "Indices": {
       "main-series": 273
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Nuzleaf": {
     "Indices": {
       "main-series": 274
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Shiftry": {
     "Indices": {
       "main-series": 275
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Taillow": {
     "Indices": {
       "main-series": 276
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Swellow": {
     "Indices": {
       "main-series": 277
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Wingull": {
     "Indices": {
       "main-series": 278
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Pelipper": {
     "Indices": {
       "main-series": 279
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Ralts": {
     "Indices": {
       "main-series": 280
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Kirlia": {
     "Indices": {
       "main-series": 281
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Gardevoir": {
     "Indices": {
@@ -2050,6 +4016,9 @@
             "Type": "Mega",
             "Item": "Gardevoirite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -2059,115 +4028,248 @@
     "Indices": {
       "main-series": 283
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Masquerain": {
     "Indices": {
       "main-series": 284
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Shroomish": {
     "Indices": {
       "main-series": 285
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Breloom": {
     "Indices": {
       "main-series": 286
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Slakoth": {
     "Indices": {
       "main-series": 287
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Vigoroth": {
     "Indices": {
       "main-series": 288
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Slaking": {
     "Indices": {
       "main-series": 289
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Nincada": {
     "Indices": {
       "main-series": 290
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Ninjask": {
     "Indices": {
       "main-series": 291
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Shedinja": {
     "Indices": {
       "main-series": 292
     },
-    "Gender Ratio": "All Genderless"
+    "Gender Ratio": "All Genderless",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Whismur": {
     "Indices": {
       "main-series": 293
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Loudred": {
     "Indices": {
       "main-series": 294
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Exploud": {
     "Indices": {
       "main-series": 295
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Makuhita": {
     "Indices": {
       "main-series": 296
     },
-    "Gender Ratio": "Male 3 Female 1"
+    "Gender Ratio": "Male 3 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Hariyama": {
     "Indices": {
       "main-series": 297
     },
-    "Gender Ratio": "Male 3 Female 1"
+    "Gender Ratio": "Male 3 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Azurill": {
     "Indices": {
       "main-series": 298
     },
-    "Gender Ratio": "Male 1 Female 3"
+    "Gender Ratio": "Male 1 Female 3",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Nosepass": {
     "Indices": {
       "main-series": 299
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Skitty": {
     "Indices": {
       "main-series": 300
     },
-    "Gender Ratio": "Male 1 Female 3"
+    "Gender Ratio": "Male 1 Female 3",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Delcatty": {
     "Indices": {
       "main-series": 301
     },
-    "Gender Ratio": "Male 1 Female 3"
+    "Gender Ratio": "Male 1 Female 3",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Sableye": {
     "Indices": {
@@ -2180,6 +4282,9 @@
             "Type": "Mega",
             "Item": "Sablenite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -2196,6 +4301,9 @@
             "Type": "Mega",
             "Item": "Mawilite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -2205,13 +4313,27 @@
     "Indices": {
       "main-series": 304
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Lairon": {
     "Indices": {
       "main-series": 305
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Aggron": {
     "Indices": {
@@ -2224,6 +4346,9 @@
             "Type": "Mega",
             "Item": "Aggronite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -2233,7 +4358,14 @@
     "Indices": {
       "main-series": 307
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Medicham": {
     "Indices": {
@@ -2246,6 +4378,9 @@
             "Type": "Mega",
             "Item": "Medichamite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -2255,7 +4390,14 @@
     "Indices": {
       "main-series": 309
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Manectric": {
     "Indices": {
@@ -2268,6 +4410,9 @@
             "Type": "Mega",
             "Item": "Manectite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -2277,49 +4422,105 @@
     "Indices": {
       "main-series": 311
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Minun": {
     "Indices": {
       "main-series": 312
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Volbeat": {
     "Indices": {
       "main-series": 313
     },
-    "Gender Ratio": "All Male"
+    "Gender Ratio": "All Male",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Illumise": {
     "Indices": {
       "main-series": 314
     },
-    "Gender Ratio": "All Female"
+    "Gender Ratio": "All Female",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Roselia": {
     "Indices": {
       "main-series": 315
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Gulpin": {
     "Indices": {
       "main-series": 316
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Swalot": {
     "Indices": {
       "main-series": 317
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Carvanha": {
     "Indices": {
       "main-series": 318
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Sharpedo": {
     "Indices": {
@@ -2332,6 +4533,9 @@
             "Type": "Mega",
             "Item": "Sharpedonite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -2341,19 +4545,40 @@
     "Indices": {
       "main-series": 320
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Wailord": {
     "Indices": {
       "main-series": 321
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Numel": {
     "Indices": {
       "main-series": 322
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Camerupt": {
     "Indices": {
@@ -2366,6 +4591,9 @@
             "Type": "Mega",
             "Item": "Cameruptite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -2375,61 +4603,131 @@
     "Indices": {
       "main-series": 324
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Spoink": {
     "Indices": {
       "main-series": 325
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Grumpig": {
     "Indices": {
       "main-series": 326
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Spinda": {
     "Indices": {
       "main-series": 327
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Trapinch": {
     "Indices": {
       "main-series": 328
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Vibrava": {
     "Indices": {
       "main-series": 329
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Flygon": {
     "Indices": {
       "main-series": 330
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Cacnea": {
     "Indices": {
       "main-series": 331
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Cacturne": {
     "Indices": {
       "main-series": 332
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Swablu": {
     "Indices": {
       "main-series": 333
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Altaria": {
     "Indices": {
@@ -2442,6 +4740,9 @@
             "Type": "Mega",
             "Item": "Altarianite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -2451,97 +4752,209 @@
     "Indices": {
       "main-series": 335
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Seviper": {
     "Indices": {
       "main-series": 336
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Lunatone": {
     "Indices": {
       "main-series": 337
     },
-    "Gender Ratio": "All Genderless"
+    "Gender Ratio": "All Genderless",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Solrock": {
     "Indices": {
       "main-series": 338
     },
-    "Gender Ratio": "All Genderless"
+    "Gender Ratio": "All Genderless",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Barboach": {
     "Indices": {
       "main-series": 339
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Whiscash": {
     "Indices": {
       "main-series": 340
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Corphish": {
     "Indices": {
       "main-series": 341
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Crawdaunt": {
     "Indices": {
       "main-series": 342
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Baltoy": {
     "Indices": {
       "main-series": 343
     },
-    "Gender Ratio": "All Genderless"
+    "Gender Ratio": "All Genderless",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Claydol": {
     "Indices": {
       "main-series": 344
     },
-    "Gender Ratio": "All Genderless"
+    "Gender Ratio": "All Genderless",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Lileep": {
     "Indices": {
       "main-series": 345
     },
-    "Gender Ratio": "Male 7 Female 1"
+    "Gender Ratio": "Male 7 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Cradily": {
     "Indices": {
       "main-series": 346
     },
-    "Gender Ratio": "Male 7 Female 1"
+    "Gender Ratio": "Male 7 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Anorith": {
     "Indices": {
       "main-series": 347
     },
-    "Gender Ratio": "Male 7 Female 1"
+    "Gender Ratio": "Male 7 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Armaldo": {
     "Indices": {
       "main-series": 348
     },
-    "Gender Ratio": "Male 7 Female 1"
+    "Gender Ratio": "Male 7 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Feebas": {
     "Indices": {
       "main-series": 349
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Milotic": {
     "Indices": {
       "main-series": 350
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Castform": {
     "Indices": {
@@ -2560,6 +4973,9 @@
           "Snowy": {
             "Ability": "Forecast"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       },
       "Sunny": {
@@ -2573,6 +4989,9 @@
           "Snowy": {
             "Ability": "Forecast"
           }
+        },
+        "Form Indices": {
+          "main-series": 1
         }
       },
       "Rainy": {
@@ -2586,6 +5005,9 @@
           "Snowy": {
             "Ability": "Forecast"
           }
+        },
+        "Form Indices": {
+          "main-series": 2
         }
       },
       "Snowy": {
@@ -2599,6 +5021,9 @@
           "Rainy": {
             "Ability": "Forecast"
           }
+        },
+        "Form Indices": {
+          "main-series": 3
         }
       }
     },
@@ -2608,13 +5033,27 @@
     "Indices": {
       "main-series": 352
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Shuppet": {
     "Indices": {
       "main-series": 353
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Banette": {
     "Indices": {
@@ -2627,6 +5066,9 @@
             "Type": "Mega",
             "Item": "Banettite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -2636,25 +5078,53 @@
     "Indices": {
       "main-series": 355
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Dusclops": {
     "Indices": {
       "main-series": 356
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Tropius": {
     "Indices": {
       "main-series": 357
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Chimecho": {
     "Indices": {
       "main-series": 358
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Absol": {
     "Indices": {
@@ -2667,6 +5137,9 @@
             "Type": "Mega",
             "Item": "Absolite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -2676,13 +5149,27 @@
     "Indices": {
       "main-series": 360
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Snorunt": {
     "Indices": {
       "main-series": 361
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Glalie": {
     "Indices": {
@@ -2695,6 +5182,9 @@
             "Type": "Mega",
             "Item": "Glalitite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -2704,61 +5194,131 @@
     "Indices": {
       "main-series": 363
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Sealeo": {
     "Indices": {
       "main-series": 364
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Walrein": {
     "Indices": {
       "main-series": 365
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Clamperl": {
     "Indices": {
       "main-series": 366
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Huntail": {
     "Indices": {
       "main-series": 367
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Gorebyss": {
     "Indices": {
       "main-series": 368
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Relicanth": {
     "Indices": {
       "main-series": 369
     },
-    "Gender Ratio": "Male 7 Female 1"
+    "Gender Ratio": "Male 7 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Luvdisc": {
     "Indices": {
       "main-series": 370
     },
-    "Gender Ratio": "Male 1 Female 3"
+    "Gender Ratio": "Male 1 Female 3",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Bagon": {
     "Indices": {
       "main-series": 371
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Shelgon": {
     "Indices": {
       "main-series": 372
     },
-    "Gender Ratio": "Male 1 Female 1"
+    "Gender Ratio": "Male 1 Female 1",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Salamence": {
     "Indices": {
@@ -2771,6 +5331,9 @@
             "Type": "Mega",
             "Item": "Salamencite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -2780,13 +5343,27 @@
     "Indices": {
       "main-series": 374
     },
-    "Gender Ratio": "All Genderless"
+    "Gender Ratio": "All Genderless",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Metang": {
     "Indices": {
       "main-series": 375
     },
-    "Gender Ratio": "All Genderless"
+    "Gender Ratio": "All Genderless",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Metagross": {
     "Indices": {
@@ -2799,6 +5376,9 @@
             "Type": "Mega",
             "Item": "Metagrossite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -2808,19 +5388,40 @@
     "Indices": {
       "main-series": 377
     },
-    "Gender Ratio": "All Genderless"
+    "Gender Ratio": "All Genderless",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Regice": {
     "Indices": {
       "main-series": 378
     },
-    "Gender Ratio": "All Genderless"
+    "Gender Ratio": "All Genderless",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Registeel": {
     "Indices": {
       "main-series": 379
     },
-    "Gender Ratio": "All Genderless"
+    "Gender Ratio": "All Genderless",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Latias": {
     "Indices": {
@@ -2833,6 +5434,9 @@
             "Type": "Mega",
             "Item": "Latiasite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -2849,6 +5453,9 @@
             "Type": "Mega",
             "Item": "Latiosite"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -2865,6 +5472,9 @@
             "Type": "Primal",
             "Item": "Blue Orb"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -2881,6 +5491,9 @@
             "Type": "Primal",
             "Item": "Red Orb"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -2896,6 +5509,9 @@
           "Mega": {
             "Type": "Mega"
           }
+        },
+        "Form Indices": {
+          "main-series": 0
         }
       }
     },
@@ -2905,7 +5521,14 @@
     "Indices": {
       "main-series": 385
     },
-    "Gender Ratio": "All Genderless"
+    "Gender Ratio": "All Genderless",
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "main-series": 0
+        }
+      }
+    }
   },
   "Deoxys": {
     "Indices": {
@@ -2913,7 +5536,25 @@
     },
     "Forms": {
       "Normal": {
-        "Default": true
+        "Default": true,
+        "Form Indices": {
+          "main-series": 0
+        }
+      },
+      "Attack": {
+        "Form Indices": {
+          "main-series": 1
+        }
+      },
+      "Defense": {
+        "Form Indices": {
+          "main-series": 2
+        }
+      },
+      "Speed": {
+        "Form Indices": {
+          "main-series": 3
+        }
       }
     },
     "Gender Ratio": "All Genderless"
