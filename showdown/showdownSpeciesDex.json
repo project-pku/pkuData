@@ -9577,9 +9577,9 @@
     "Indices": {
       "CAP": 66
     },
+    "Default Form": "Prologue",
     "Forms": {
       "Prologue": {
-        "Default": true,
         "Showdown Name": "Venomicon",
         "Exists in": ["Showdown"]
       },

@@ -3647,9 +3647,9 @@
     "Indices": {
       "main-series": 201
     },
+    "Default Form": "A",
     "Forms": {
       "A": {
-        "Default": true,
         "Form Indices": {
           "main-series": 0
         },
@@ -6526,9 +6526,9 @@
       "main-series": 351,
       "pk3": 385
     },
+    "Default Form": "Normal",
     "Forms": {
       "Normal": {
-        "Default": true,
         "In-Battle Form Changes": {
           "Sunny": {
             "Ability": "Forecast"
@@ -7286,9 +7286,9 @@
       "main-series": 386,
       "pk3": 410
     },
+    "Default Form": "Normal",
     "Forms": {
       "Normal": {
-        "Default": true,
         "Form Indices": {
           "main-series": 0
         },
@@ -7624,9 +7624,10 @@
     "Indices": {
       "main-series": 412
     },
+    "Default Form": "Plant Cloak",
+    "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "Plant Cloak": {
-        "Default": true,
         "Showdown Name": "Burmy",
         "Exists in": ["Showdown"]
       },
@@ -7638,16 +7639,16 @@
         "Showdown Name": "Burmy-Trash",
         "Exists in": ["Showdown"]
       }
-    },
-    "Gender Ratio": "Male 1 Female 1"
+    }
   },
   "Wormadam": {
     "Indices": {
       "main-series": 413
     },
+    "Default Form": "Plant Cloak",
+    "Gender Ratio": "All Female",
     "Forms": {
       "Plant Cloak": {
-        "Default": true,
         "Showdown Name": "Wormadam",
         "Exists in": ["Showdown"]
       },
@@ -7659,8 +7660,7 @@
         "Showdown Name": "Wormadam-Trash",
         "Exists in": ["Showdown"]
       }
-    },
-    "Gender Ratio": "All Female"
+    }
   },
   "Mothim": {
     "Indices": {
@@ -7750,9 +7750,9 @@
     "Indices": {
       "main-series": 421
     },
+    "Default Form": "Overcast",
     "Forms": {
       "Overcast": {
-        "Default": true,
         "In-Battle Form Changes": {
           "Sunshine": {
             "Ability": "Flower Gift"
@@ -7779,9 +7779,10 @@
     "Indices": {
       "main-series": 422
     },
+    "Default Form": "West Sea",
+    "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "West Sea": {
-        "Default": true,
         "Showdown Name": "Shellos",
         "Exists in": ["Showdown"]
       },
@@ -7789,16 +7790,16 @@
         "Showdown Name": "Shellos-East",
         "Exists in": ["Showdown"]
       }
-    },
-    "Gender Ratio": "Male 1 Female 1"
+    }
   },
   "Gastrodon": {
     "Indices": {
       "main-series": 423
     },
+    "Default Form": "West Sea",
+    "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "West Sea": {
-        "Default": true,
         "Showdown Name": "Gastrodon",
         "Exists in": ["Showdown"]
       },
@@ -7806,8 +7807,7 @@
         "Showdown Name": "Gastrodon-East",
         "Exists in": ["Showdown"]
       }
-    },
-    "Gender Ratio": "Male 1 Female 1"
+    }
   },
   "Ambipom": {
     "Indices": {
@@ -8639,9 +8639,10 @@
     "Indices": {
       "main-series": 487
     },
+    "Default Form": "Altered",
+    "Gender Ratio": "All Genderless",
     "Forms": {
       "Altered": {
-        "Default": true,
         "Showdown Name": "Giratina",
         "Exists in": ["Showdown"]
       },
@@ -8649,8 +8650,7 @@
         "Showdown Name": "Giratina-Origin",
         "Exists in": ["Showdown"]
       }
-    },
-    "Gender Ratio": "All Genderless"
+    }
   },
   "Cresselia": {
     "Indices": {
@@ -8704,9 +8704,10 @@
     "Indices": {
       "main-series": 492
     },
+    "Default Form": "Land",
+    "Gender Ratio": "All Genderless",
     "Forms": {
       "Land": {
-        "Default": true,
         "Showdown Name": "Shaymin",
         "Exists in": ["Showdown"]
       },
@@ -8714,16 +8715,16 @@
         "Showdown Name": "Shaymin-Sky",
         "Exists in": ["Showdown"]
       }
-    },
-    "Gender Ratio": "All Genderless"
+    }
   },
   "Arceus": {
     "Indices": {
       "main-series": 493
     },
+    "Default Form": "Normal",
+    "Gender Ratio": "All Genderless",
     "Forms": {
       "Normal": {
-        "Default": true,
         "Showdown Name": "Arceus",
         "Exists in": ["Showdown"]
       },
@@ -8795,8 +8796,7 @@
         "Showdown Name": "Arceus-Fairy",
         "Exists in": ["Showdown"]
       }
-    },
-    "Gender Ratio": "All Genderless"
+    }
   },
   "Victini": {
     "Indices": {
@@ -9484,9 +9484,10 @@
     "Indices": {
       "main-series": 550
     },
+    "Default Form": "Red-Striped",
+    "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "Red-Striped": {
-        "Default": true,
         "Showdown Name": "Basculin",
         "Exists in": ["Showdown"]
       },
@@ -9494,8 +9495,7 @@
         "Showdown Name": "Basculin-Blue-Striped",
         "Exists in": ["Showdown"]
       }
-    },
-    "Gender Ratio": "Male 1 Female 1"
+    }
   },
   "Sandile": {
     "Indices": {
@@ -9553,9 +9553,9 @@
     "Indices": {
       "main-series": 555
     },
+    "Default Form": "Standard Mode",
     "Forms": {
       "Standard Mode": {
-        "Default": true,
         "In-Battle Form Changes": {
           "Zen Mode": {
             "Ability": "Zen Mode"
@@ -9959,9 +9959,10 @@
     "Indices": {
       "main-series": 585
     },
+    "Default Form": "Spring",
+    "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "Spring": {
-        "Default": true,
         "Showdown Name": "Deerling",
         "Exists in": ["Showdown"]
       },
@@ -9977,16 +9978,16 @@
         "Showdown Name": "Deerling-Winter",
         "Exists in": ["Showdown"]
       }
-    },
-    "Gender Ratio": "Male 1 Female 1"
+    }
   },
   "Sawsbuck": {
     "Indices": {
       "main-series": 586
     },
+    "Default Form": "Spring",
+    "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "Spring": {
-        "Default": true,
         "Showdown Name": "Sawsbuck",
         "Exists in": ["Showdown"]
       },
@@ -10002,8 +10003,7 @@
         "Showdown Name": "Sawsbuck-Winter",
         "Exists in": ["Showdown"]
       }
-    },
-    "Gender Ratio": "Male 1 Female 1"
+    }
   },
   "Emolga": {
     "Indices": {
@@ -10661,9 +10661,10 @@
     "Indices": {
       "main-series": 641
     },
+    "Default Form": "Incarnate",
+    "Gender Ratio": "All Male",
     "Forms": {
       "Incarnate": {
-        "Default": true,
         "Showdown Name": "Tornadus",
         "Exists in": ["Showdown"]
       },
@@ -10671,16 +10672,16 @@
         "Showdown Name": "Tornadus-Therian",
         "Exists in": ["Showdown"]
       }
-    },
-    "Gender Ratio": "All Male"
+    }
   },
   "Thundurus": {
     "Indices": {
       "main-series": 642
     },
+    "Default Form": "Incarnate",
+    "Gender Ratio": "All Male",
     "Forms": {
       "Incarnate": {
-        "Default": true,
         "Showdown Name": "Thundurus",
         "Exists in": ["Showdown"]
       },
@@ -10688,8 +10689,7 @@
         "Showdown Name": "Thundurus-Therian",
         "Exists in": ["Showdown"]
       }
-    },
-    "Gender Ratio": "All Male"
+    }
   },
   "Reshiram": {
     "Indices": {
@@ -10719,9 +10719,10 @@
     "Indices": {
       "main-series": 645
     },
+    "Default Form": "Incarnate",
+    "Gender Ratio": "All Male",
     "Forms": {
       "Incarnate": {
-        "Default": true,
         "Showdown Name": "Landorus",
         "Exists in": ["Showdown"]
       },
@@ -10729,8 +10730,7 @@
         "Showdown Name": "Landorus-Therian",
         "Exists in": ["Showdown"]
       }
-    },
-    "Gender Ratio": "All Male"
+    }
   },
   "Kyurem": {
     "Indices": {
@@ -10756,9 +10756,10 @@
     "Indices": {
       "main-series": 647
     },
+    "Default Form": "Ordinary",
+    "Gender Ratio": "All Genderless",
     "Forms": {
       "Ordinary": {
-        "Default": true,
         "Showdown Name": "Keldeo",
         "Exists in": ["Showdown"]
       },
@@ -10766,16 +10767,15 @@
         "Showdown Name": "Keldeo-Resolute",
         "Exists in": ["Showdown"]
       }
-    },
-    "Gender Ratio": "All Genderless"
+    }
   },
   "Meloetta": {
     "Indices": {
       "main-series": 648
     },
+    "Default Form": "Aria",
     "Forms": {
       "Aria": {
-        "Default": true,
         "In-Battle Form Changes": {
           "Pirouette": {
             "Move": "Relic Song"
@@ -11027,9 +11027,10 @@
     "Indices": {
       "main-series": 666
     },
+    "Default Form": "Meadow",
+    "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "Meadow": {
-        "Default": true,
         "Showdown Name": "Vivillon",
         "Exists in": ["Showdown"]
       },
@@ -11109,8 +11110,7 @@
         "Showdown Name": "Vivillon-Pokeball",
         "Exists in": ["Showdown"]
       }
-    },
-    "Gender Ratio": "Male 1 Female 1"
+    }
   },
   "Litleo": {
     "Indices": {
@@ -11140,9 +11140,10 @@
     "Indices": {
       "main-series": 669
     },
+    "Default Form": "Red Flower",
+    "Gender Ratio": "All Female",
     "Forms": {
       "Red Flower": {
-        "Default": true,
         "Showdown Name": "Flabébé",
         "Exists in": ["Showdown"]
       },
@@ -11162,16 +11163,16 @@
         "Showdown Name": "Flabébé-Yellow",
         "Exists in": ["Showdown"]
       }
-    },
-    "Gender Ratio": "All Female"
+    }
   },
   "Floette": {
     "Indices": {
       "main-series": 670
     },
+    "Default Form": "Red Flower",
+    "Gender Ratio": "All Female",
     "Forms": {
       "Red Flower": {
-        "Default": true,
         "Showdown Name": "Floette",
         "Exists in": ["Showdown"]
       },
@@ -11195,16 +11196,16 @@
         "Showdown Name": "Floette-Eternal",
         "Exists in": ["Showdown"]
       }
-    },
-    "Gender Ratio": "All Female"
+    }
   },
   "Florges": {
     "Indices": {
       "main-series": 671
     },
+    "Default Form": "Red Flower",
+    "Gender Ratio": "All Female",
     "Forms": {
       "Red Flower": {
-        "Default": true,
         "Showdown Name": "Florges",
         "Exists in": ["Showdown"]
       },
@@ -11224,8 +11225,7 @@
         "Showdown Name": "Florges-Yellow",
         "Exists in": ["Showdown"]
       }
-    },
-    "Gender Ratio": "All Female"
+    }
   },
   "Skiddo": {
     "Indices": {
@@ -11279,9 +11279,10 @@
     "Indices": {
       "main-series": 676
     },
+    "Default Form": "Natural",
+    "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "Natural": {
-        "Default": true,
         "Showdown Name": "Furfrou",
         "Appearance": {
           "Dandy Trim": {
@@ -11314,8 +11315,7 @@
         },
         "Exists in": ["Showdown"]
       }
-    },
-    "Gender Ratio": "Male 1 Female 1"
+    }
   },
   "Espurr": {
     "Indices": {
@@ -11371,9 +11371,9 @@
     "Indices": {
       "main-series": 681
     },
+    "Default Form": "Shield",
     "Forms": {
       "Shield": {
-        "Default": true,
         "In-Battle Form Changes": {
           "Sword": {
             "Ability": "Stance Change"
@@ -11854,9 +11854,9 @@
     "Indices": {
       "main-series": 718
     },
+    "Default Form": "50%",
     "Forms": {
       "50%": {
-        "Default": true,
         "In-Battle Form Changes": {
           "Complete": {
             "Ability": "Power Construct"
@@ -11907,9 +11907,10 @@
     "Indices": {
       "main-series": 720
     },
+    "Default Form": "Confined",
+    "Gender Ratio": "All Genderless",
     "Forms": {
       "Confined": {
-        "Default": true,
         "Showdown Name": "Hoopa",
         "Exists in": ["Showdown"]
       },
@@ -11917,8 +11918,7 @@
         "Showdown Name": "Hoopa-Unbound",
         "Exists in": ["Showdown"]
       }
-    },
-    "Gender Ratio": "All Genderless"
+    }
   },
   "Volcanion": {
     "Indices": {
@@ -12174,9 +12174,10 @@
     "Indices": {
       "main-series": 741
     },
+    "Default Form": "Baile Style",
+    "Gender Ratio": "Male 1 Female 3",
     "Forms": {
       "Baile Style": {
-        "Default": true,
         "Showdown Name": "Oricorio",
         "Exists in": ["Showdown"]
       },
@@ -12192,8 +12193,7 @@
         "Showdown Name": "Oricorio-Sensu",
         "Exists in": ["Showdown"]
       }
-    },
-    "Gender Ratio": "Male 1 Female 3"
+    }
   },
   "Cutiefly": {
     "Indices": {
@@ -12240,9 +12240,10 @@
     "Indices": {
       "main-series": 745
     },
+    "Default Form": "Midday",
+    "Gender Ratio": "Male 1 Female 1",
     "Forms": {
       "Midday": {
-        "Default": true,
         "Showdown Name": "Lycanroc",
         "Exists in": ["Showdown"]
       },
@@ -12254,16 +12255,15 @@
         "Showdown Name": "Lycanroc-Dusk",
         "Exists in": ["Showdown"]
       }
-    },
-    "Gender Ratio": "Male 1 Female 1"
+    }
   },
   "Wishiwashi": {
     "Indices": {
       "main-series": 746
     },
+    "Default Form": "Solo",
     "Forms": {
       "Solo": {
-        "Default": true,
         "In-Battle Form Changes": {
           "School": {
             "Ability": "Schooling"
@@ -12615,9 +12615,10 @@
     "Indices": {
       "main-series": 773
     },
+    "Default Form": "Normal",
+    "Gender Ratio": "All Genderless",
     "Forms": {
       "Normal": {
-        "Default": true,
         "Showdown Name": "Silvally",
         "Exists in": ["Showdown"]
       },
@@ -12689,16 +12690,15 @@
         "Showdown Name": "Silvally-Fairy",
         "Exists in": ["Showdown"]
       }
-    },
-    "Gender Ratio": "All Genderless"
+    }
   },
   "Minior": {
     "Indices": {
       "main-series": 774
     },
+    "Default Form": "Red",
     "Forms": {
       "Red": {
-        "Default": true,
         "In-Battle Form Changes": {
           "Meteor|Red": {
             "Ability": "Shields Down"
@@ -12872,9 +12872,9 @@
     "Indices": {
       "main-series": 778
     },
+    "Default Form": "Disguised",
     "Forms": {
       "Disguised": {
-        "Default": true,
         "In-Battle Form Changes": {
           "Busted": {
             "Ability": "Disguise"
@@ -13908,9 +13908,9 @@
     "Indices": {
       "main-series": 849
     },
+    "Default Form": "Amped",
     "Forms": {
       "Amped": {
-        "Default": true,
         "In-Battle Form Changes": {
           "Gigantamax": {
             "Type": "Gigantamax"
@@ -13996,9 +13996,10 @@
     "Indices": {
       "main-series": 854
     },
+    "Default Form": "Phony",
+    "Gender Ratio": "All Genderless",
     "Forms": {
       "Phony": {
-        "Default": true,
         "Showdown Name": "Sinistea",
         "Exists in": ["Showdown"]
       },
@@ -14006,16 +14007,16 @@
         "Showdown Name": "Sinistea-Antique",
         "Exists in": ["Showdown"]
       }
-    },
-    "Gender Ratio": "All Genderless"
+    }
   },
   "Polteageist": {
     "Indices": {
       "main-series": 855
     },
+    "Default Form": "Phony",
+    "Gender Ratio": "All Genderless",
     "Forms": {
       "Phony": {
-        "Default": true,
         "Showdown Name": "Polteageist",
         "Exists in": ["Showdown"]
       },
@@ -14023,8 +14024,7 @@
         "Showdown Name": "Polteageist-Antique",
         "Exists in": ["Showdown"]
       }
-    },
-    "Gender Ratio": "All Genderless"
+    }
   },
   "Hatenna": {
     "Indices": {
@@ -14204,9 +14204,9 @@
     "Indices": {
       "main-series": 869
     },
+    "Default Form": "Vanilla Cream",
     "Forms": {
       "Vanilla Cream": {
-        "Default": true,
         "In-Battle Form Changes": {
           "Gigantamax": {
             "Type": "Gigantamax"
@@ -14358,9 +14358,9 @@
     "Indices": {
       "main-series": 875
     },
+    "Default Form": "Ice Face",
     "Forms": {
       "Ice Face": {
-        "Default": true,
         "In-Battle Form Changes": {
           "Noice Face": {
             "Ability": "Ice Face"
@@ -14399,9 +14399,9 @@
     "Indices": {
       "main-series": 877
     },
+    "Default Form": "Fully Belly Mode",
     "Forms": {
       "Full Belly Mode": {
-        "Default": true,
         "In-Battle Form Changes": {
           "Hangry Mode": {
             "Ability": "Hunger Switch"
@@ -14564,9 +14564,9 @@
     "Indices": {
       "main-series": 888
     },
+    "Default Form": "Hero of Many Battles",
     "Forms": {
       "Hero of Many Battles": {
-        "Default": true,
         "In-Battle Form Changes": {
           "Crowned Sword": {
             "Item": "Rusted Sword"
@@ -14586,9 +14586,9 @@
     "Indices": {
       "main-series": 889
     },
+    "Default Form": "Hero of Many Battles",
     "Forms": {
       "Hero of Many Battles": {
-        "Default": true,
         "In-Battle Form Changes": {
           "Crowned Shield": {
             "Item": "Rusted Shield"
@@ -14641,9 +14641,9 @@
     "Indices": {
       "main-series": 892
     },
+    "Default Form": "Single Strike Style",
     "Forms": {
       "Single Strike Style": {
-        "Default": true,
         "In-Battle Form Changes": {
           "Gigantamax": {
             "Type": "Gigantamax|Single Strike Style"
@@ -14758,9 +14758,9 @@
     }
   },
   "UFO": {
+    "Default Form": "Form 1",
     "Forms": {
       "Form 1": {
-        "Default": true,
         "Indices": {
           "pk5": 652
         },
@@ -14875,9 +14875,9 @@
     }
   },
   "Giant ♀": {
+    "Default Form": "Form 1",
     "Forms": {
       "Form 1": {
-        "Default": true,
         "Indices": {
           "pk5": 657
         },
@@ -14952,9 +14952,9 @@
     }
   },
   "F-00": {
+    "Default Form": "Form 1",
     "Forms": {
       "Form 1": {
-        "Default": true,
         "Indices": {
           "pk5": 660
         },
@@ -15856,9 +15856,9 @@
     "Indices": {
       "CAP": 66
     },
+    "Default Form": "Prologue",
     "Forms": {
       "Prologue": {
-        "Default": true,
         "Showdown Name": "Venomicon",
         "Exists in": ["Showdown"]
       },

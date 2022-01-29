@@ -1,8 +1,8 @@
 {
   "UFO": {
+    "Default Form": "Form 1",
     "Forms": {
       "Form 1": {
-        "Default": true,
         "Indices": {
           "pk5": 652
         }
@@ -81,9 +81,9 @@
     }
   },
   "Giant ♀": {
+    "Default Form": "Form 1",
     "Forms": {
       "Form 1": {
-        "Default": true,
         "Indices": {
           "pk5": 657
         }
@@ -134,9 +134,9 @@
     }
   },
   "F-00": {
+    "Default Form": "Form 1",
     "Forms": {
       "Form 1": {
-        "Default": true,
         "Indices": {
           "pk5": 660
         }

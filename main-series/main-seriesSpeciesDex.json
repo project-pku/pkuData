@@ -2771,9 +2771,9 @@
     "Indices": {
       "main-series": 201
     },
+    "Default Form": "A",
     "Forms": {
       "A": {
-        "Default": true,
         "Form Indices": {
           "main-series": 0
         }
@@ -4960,9 +4960,9 @@
     "Indices": {
       "main-series": 351
     },
+    "Default Form": "Normal",
     "Forms": {
       "Normal": {
-        "Default": true,
         "In-Battle Form Changes": {
           "Sunny": {
             "Ability": "Forecast"
@@ -5534,9 +5534,9 @@
     "Indices": {
       "main-series": 386
     },
+    "Default Form": "Normal",
     "Forms": {
       "Normal": {
-        "Default": true,
         "Form Indices": {
           "main-series": 0
         }
@@ -5714,22 +5714,14 @@
     "Indices": {
       "main-series": 412
     },
-    "Forms": {
-      "Plant Cloak": {
-        "Default": true
-      }
-    },
+    "Default Form": "Plant Cloak",
     "Gender Ratio": "Male 1 Female 1"
   },
   "Wormadam": {
     "Indices": {
       "main-series": 413
     },
-    "Forms": {
-      "Plant Cloak": {
-        "Default": true
-      }
-    },
+    "Default Form": "Plant Cloak",
     "Gender Ratio": "All Female"
   },
   "Mothim": {
@@ -5778,9 +5770,9 @@
     "Indices": {
       "main-series": 421
     },
+    "Default Form": "Overcast",
     "Forms": {
       "Overcast": {
-        "Default": true,
         "In-Battle Form Changes": {
           "Sunshine": {
             "Ability": "Flower Gift"
@@ -5801,22 +5793,14 @@
     "Indices": {
       "main-series": 422
     },
-    "Forms": {
-      "West Sea": {
-        "Default": true
-      }
-    },
+    "Default Form": "West Sea",
     "Gender Ratio": "Male 1 Female 1"
   },
   "Gastrodon": {
     "Indices": {
       "main-series": 423
     },
-    "Forms": {
-      "West Sea": {
-        "Default": true
-      }
-    },
+    "Default Form": "West Sea",
     "Gender Ratio": "Male 1 Female 1"
   },
   "Ambipom": {
@@ -6251,11 +6235,7 @@
     "Indices": {
       "main-series": 487
     },
-    "Forms": {
-      "Altered": {
-        "Default": true
-      }
-    },
+    "Default Form": "Altered",
     "Gender Ratio": "All Genderless"
   },
   "Cresselia": {
@@ -6286,22 +6266,14 @@
     "Indices": {
       "main-series": 492
     },
-    "Forms": {
-      "Land": {
-        "Default": true
-      }
-    },
+    "Default Form": "Land",
     "Gender Ratio": "All Genderless"
   },
   "Arceus": {
     "Indices": {
       "main-series": 493
     },
-    "Forms": {
-      "Normal": {
-        "Default": true
-      }
-    },
+    "Default Form": "Normal",
     "Gender Ratio": "All Genderless"
   },
   // Gen 5
@@ -6655,11 +6627,7 @@
     "Indices": {
       "main-series": 550
     },
-    "Forms": {
-      "Red-Striped": {
-        "Default": true
-      }
-    },
+    "Default Form": "Red-Striped",
     "Gender Ratio": "Male 1 Female 1"
   },
   "Sandile": {
@@ -6690,9 +6658,9 @@
     "Indices": {
       "main-series": 555
     },
+    "Default Form": "Standard Mode",
     "Forms": {
       "Standard Mode": {
-        "Default": true,
         "In-Battle Form Changes": {
           "Zen Mode": {
             "Ability": "Zen Mode"
@@ -6910,22 +6878,14 @@
     "Indices": {
       "main-series": 585
     },
-    "Forms": {
-      "Spring": {
-        "Default": true
-      }
-    },
+    "Default Form": "Spring",
     "Gender Ratio": "Male 1 Female 1"
   },
   "Sawsbuck": {
     "Indices": {
       "main-series": 586
     },
-    "Forms": {
-      "Spring": {
-        "Default": true
-      }
-    },
+    "Default Form": "Spring",
     "Gender Ratio": "Male 1 Female 1"
   },
   "Emolga": {
@@ -7256,22 +7216,14 @@
     "Indices": {
       "main-series": 641
     },
-    "Forms": {
-      "Incarnate": {
-        "Default": true
-      }
-    },
+    "Default Form": "Incarnate",
     "Gender Ratio": "All Male"
   },
   "Thundurus": {
     "Indices": {
       "main-series": 642
     },
-    "Forms": {
-      "Incarnate": {
-        "Default": true
-      }
-    },
+    "Default Form": "Incarnate",
     "Gender Ratio": "All Male"
   },
   "Reshiram": {
@@ -7290,11 +7242,7 @@
     "Indices": {
       "main-series": 645
     },
-    "Forms": {
-      "Incarnate": {
-        "Default": true
-      }
-    },
+    "Default Form": "Incarnate",
     "Gender Ratio": "All Male"
   },
   "Kyurem": {
@@ -7307,20 +7255,16 @@
     "Indices": {
       "main-series": 647
     },
-    "Forms": {
-      "Ordinary": {
-        "Default": true
-      }
-    },
+    "Default Form": "Ordinary",
     "Gender Ratio": "All Genderless"
   },
   "Meloetta": {
     "Indices": {
       "main-series": 648
     },
+    "Default Form": "Aria",
     "Forms": {
       "Aria": {
-        "Default": true,
         "In-Battle Form Changes": {
           "Pirouette": {
             "Move": "Relic Song"
@@ -7453,11 +7397,7 @@
     "Indices": {
       "main-series": 666
     },
-    "Forms": {
-      "Meadow": {
-        "Default": true
-      }
-    },
+    "Default Form": "Meadow",
     "Gender Ratio": "Male 1 Female 1"
   },
   "Litleo": {
@@ -7476,33 +7416,21 @@
     "Indices": {
       "main-series": 669
     },
-    "Forms": {
-      "Red Flower": {
-        "Default": true
-      }
-    },
+    "Default Form": "Red Flower",
     "Gender Ratio": "All Female"
   },
   "Floette": {
     "Indices": {
       "main-series": 670
     },
-    "Forms": {
-      "Red Flower": {
-        "Default": true
-      }
-    },
+    "Default Form": "Red Flower",
     "Gender Ratio": "All Female"
   },
   "Florges": {
     "Indices": {
       "main-series": 671
     },
-    "Forms": {
-      "Red Flower": {
-        "Default": true
-      }
-    },
+    "Default Form": "Red Flower",
     "Gender Ratio": "All Female"
   },
   "Skiddo": {
@@ -7533,11 +7461,7 @@
     "Indices": {
       "main-series": 676
     },
-    "Forms": {
-      "Natural": {
-        "Default": true
-      }
-    },
+    "Default Form": "Natural",
     "Gender Ratio": "Male 1 Female 1"
   },
   "Espurr": {
@@ -7568,9 +7492,9 @@
     "Indices": {
       "main-series": 681
     },
+    "Default Form": "Shield",
     "Forms": {
       "Shield": {
-        "Default": true,
         "In-Battle Form Changes": {
           "Sword": {
             "Ability": "Stance Change"
@@ -7807,9 +7731,9 @@
     "Indices": {
       "main-series": 718
     },
+    "Default Form": "50%",
     "Forms": {
       "50%": {
-        "Default": true,
         "In-Battle Form Changes": {
           "Complete": {
             "Ability": "Power Construct"
@@ -7846,11 +7770,7 @@
     "Indices": {
       "main-series": 720
     },
-    "Forms": {
-      "Confined": {
-        "Default": true
-      }
-    },
+    "Default Form": "Confined",
     "Gender Ratio": "All Genderless"
   },
   "Volcanion": {
@@ -7992,11 +7912,7 @@
     "Indices": {
       "main-series": 741
     },
-    "Forms": {
-      "Baile Style": {
-        "Default": true
-      }
-    },
+    "Default Form": "Baile Style",
     "Gender Ratio": "Male 1 Female 3"
   },
   "Cutiefly": {
@@ -8028,20 +7944,16 @@
     "Indices": {
       "main-series": 745
     },
-    "Forms": {
-      "Midday": {
-        "Default": true
-      }
-    },
+    "Default Form": "Midday",
     "Gender Ratio": "Male 1 Female 1"
   },
   "Wishiwashi": {
     "Indices": {
       "main-series": 746
     },
+    "Default Form": "Solo",
     "Forms": {
       "Solo": {
-        "Default": true,
         "In-Battle Form Changes": {
           "School": {
             "Ability": "Schooling"
@@ -8239,20 +8151,16 @@
     "Indices": {
       "main-series": 773
     },
-    "Forms": {
-      "Normal": {
-        "Default": true
-      }
-    },
+    "Default Form": "Normal",
     "Gender Ratio": "All Genderless"
   },
   "Minior": {
     "Indices": {
       "main-series": 774
     },
+    "Default Form": "Red",
     "Forms": {
       "Red": {
-        "Default": true,
         "In-Battle Form Changes": {
           "Meteor|Red": {
             "Ability": "Shields Down"
@@ -8382,9 +8290,9 @@
     "Indices": {
       "main-series": 778
     },
+    "Default Form": "Disguised",
     "Forms": {
       "Disguised": {
-        "Default": true,
         "In-Battle Form Changes": {
           "Busted": {
             "Ability": "Disguise"
@@ -8988,9 +8896,9 @@
     "Indices": {
       "main-series": 849
     },
+    "Default Form": "Amped",
     "Forms": {
       "Amped": {
-        "Default": true,
         "In-Battle Form Changes": {
           "Gigantamax": {
             "Type": "Gigantamax"
@@ -9044,22 +8952,14 @@
     "Indices": {
       "main-series": 854
     },
-    "Forms": {
-      "Phony": {
-        "Default": true
-      }
-    },
+    "Default Form": "Phony",
     "Gender Ratio": "All Genderless"
   },
   "Polteageist": {
     "Indices": {
       "main-series": 855
     },
-    "Forms": {
-      "Phony": {
-        "Default": true
-      }
-    },
+    "Default Form": "Phony",
     "Gender Ratio": "All Genderless"
   },
   "Hatenna": {
@@ -9162,9 +9062,9 @@
     "Indices": {
       "main-series": 869
     },
+    "Default Form": "Vanilla Cream",
     "Forms": {
       "Vanilla Cream": {
-        "Default": true,
         "In-Battle Form Changes": {
           "Gigantamax": {
             "Type": "Gigantamax"
@@ -9264,9 +9164,9 @@
     "Indices": {
       "main-series": 875
     },
+    "Default Form": "Ice Face",
     "Forms": {
       "Ice Face": {
-        "Default": true,
         "In-Battle Form Changes": {
           "Noice Face": {
             "Ability": "Ice Face"
@@ -9293,9 +9193,9 @@
     "Indices": {
       "main-series": 877
     },
+    "Default Form": "Fully Belly Mode",
     "Forms": {
       "Full Belly Mode": {
-        "Default": true,
         "In-Battle Form Changes": {
           "Hangry Mode": {
             "Ability": "Hunger Switch"
@@ -9394,9 +9294,9 @@
     "Indices": {
       "main-series": 888
     },
+    "Default Form": "Hero of Many Battles",
     "Forms": {
       "Hero of Many Battles": {
-        "Default": true,
         "In-Battle Form Changes": {
           "Crowned Sword": {
             "Item": "Rusted Sword"
@@ -9410,9 +9310,9 @@
     "Indices": {
       "main-series": 889
     },
+    "Default Form": "Hero of Many Battles",
     "Forms": {
       "Hero of Many Battles": {
-        "Default": true,
         "In-Battle Form Changes": {
           "Crowned Shield": {
             "Item": "Rusted Shield"
@@ -9447,9 +9347,9 @@
     "Indices": {
       "main-series": 892
     },
+    "Default Form": "Single Strike Style",
     "Forms": {
       "Single Strike Style": {
-        "Default": true,
         "In-Battle Form Changes": {
           "Gigantamax": {
             "Type": "Gigantamax|Single Strike Style"
