@@ -6412,9 +6412,7 @@
   "Meowstic": {
     "Forms": {
       "": {
-        "Showdown Gender Split": true,
-        "Showdown Name Male": "Meowstic",
-        "Showdown Name Female": "Meowstic-F",
+        "Showdown Name": ["Meowstic", "Meowstic-F"],
         "Exists in": ["Showdown"]
       }
     }
@@ -8367,9 +8365,7 @@
   "Indeedee": {
     "Forms": {
       "": {
-        "Showdown Gender Split": true,
-        "Showdown Name Male": "Indeedee",
-        "Showdown Name Female": "Indeedee-F",
+        "Showdown Name": ["Indeedee", "Indeedee-F"],
         "Exists in": ["Showdown"]
       }
     }
