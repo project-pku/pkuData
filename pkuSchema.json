@@ -1,6 +1,6 @@
-// pkuSchema v1.0 - Updated as of 2021-11-18
+// pkuSchema v1.0 - Updated as of 2022-03-11
 {
-  "$schema": "http://json-schema.org/draft-04/schema#",
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "pkuObject",
   "additionalProperties": true,
   "type": "object",
@@ -141,7 +141,7 @@
     },
     "Byte Override": {
       "oneOf": [
-        {"$ref": "#/definitions/Byte_Override_Class"},
+        {"$ref": "#/definitions/Byte_Override_Dict"},
         {"type": "null"}
       ]
     },
@@ -362,41 +362,6 @@
       "additionalProperties": {
         "type": ["integer", "array", "null"],
         "items": {"type": "integer"}
-      }
-    },
-    "Byte_Override_Class": {
-      "type": "object",
-      "properties": {
-        "Main Data": {
-          "oneOf": [
-            {"$ref": "#/definitions/Byte_Override_Dict"},
-            {"type": "null"}
-          ]
-        },
-        "A": {
-          "oneOf": [
-            {"$ref": "#/definitions/Byte_Override_Dict"},
-            {"type": "null"}
-          ]
-        },
-        "B": {
-          "oneOf": [
-            {"$ref": "#/definitions/Byte_Override_Dict"},
-            {"type": "null"}
-          ]
-        },
-        "C": {
-          "oneOf": [
-            {"$ref": "#/definitions/Byte_Override_Dict"},
-            {"type": "null"}
-          ]
-        },
-        "D": {
-          "oneOf": [
-            {"$ref": "#/definitions/Byte_Override_Dict"},
-            {"type": "null"}
-          ]
-        }
       }
     }
   }
