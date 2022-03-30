@@ -1,0 +1,242 @@
+{
+  "None": {
+    "Exists in": ["pk3"]
+  },
+  "Stench": {
+    "Exists in": ["pk3"]
+  },
+  "Drizzle": {
+    "Exists in": ["pk3"]
+  },
+  "Speed Boost": {
+    "Exists in": ["pk3"]
+  },
+  "Battle Armor": {
+    "Exists in": ["pk3"]
+  },
+  "Sturdy": {
+    "Exists in": ["pk3"]
+  },
+  "Damp": {
+    "Exists in": ["pk3"]
+  },
+  "Limber": {
+    "Exists in": ["pk3"]
+  },
+  "Sand Veil": {
+    "Exists in": ["pk3"]
+  },
+  "Static": {
+    "Exists in": ["pk3"]
+  },
+  "Volt Absorb": {
+    "Exists in": ["pk3"]
+  },
+  "Water Absorb": {
+    "Exists in": ["pk3"]
+  },
+  "Oblivious": {
+    "Exists in": ["pk3"]
+  },
+  "Cloud Nine": {
+    "Exists in": ["pk3"]
+  },
+  "Compound Eyes": {
+    "Exists in": ["pk3"]
+  },
+  "Insomnia": {
+    "Exists in": ["pk3"]
+  },
+  "Color Change": {
+    "Exists in": ["pk3"]
+  },
+  "Immunity": {
+    "Exists in": ["pk3"]
+  },
+  "Flash Fire": {
+    "Exists in": ["pk3"]
+  },
+  "Shield Dust": {
+    "Exists in": ["pk3"]
+  },
+  "Own Tempo": {
+    "Exists in": ["pk3"]
+  },
+  "Suction Cups": {
+    "Exists in": ["pk3"]
+  },
+  "Intimidate": {
+    "Exists in": ["pk3"]
+  },
+  "Shadow Tag": {
+    "Exists in": ["pk3"]
+  },
+  "Rough Skin": {
+    "Exists in": ["pk3"]
+  },
+  "Wonder Guard": {
+    "Exists in": ["pk3"]
+  },
+  "Levitate": {
+    "Exists in": ["pk3"]
+  },
+  "Effect Spore": {
+    "Exists in": ["pk3"]
+  },
+  "Synchronize": {
+    "Exists in": ["pk3"]
+  },
+  "Clear Body": {
+    "Exists in": ["pk3"]
+  },
+  "Natural Cure": {
+    "Exists in": ["pk3"]
+  },
+  "Lightning Rod": {
+    "Exists in": ["pk3"]
+  },
+  "Serene Grace": {
+    "Exists in": ["pk3"]
+  },
+  "Swift Swim": {
+    "Exists in": ["pk3"]
+  },
+  "Chlorophyll": {
+    "Exists in": ["pk3"]
+  },
+  "Illuminate": {
+    "Exists in": ["pk3"]
+  },
+  "Trace": {
+    "Exists in": ["pk3"]
+  },
+  "Huge Power": {
+    "Exists in": ["pk3"]
+  },
+  "Poison Point": {
+    "Exists in": ["pk3"]
+  },
+  "Inner Focus": {
+    "Exists in": ["pk3"]
+  },
+  "Magma Armor": {
+    "Exists in": ["pk3"]
+  },
+  "Water Veil": {
+    "Exists in": ["pk3"]
+  },
+  "Magnet Pull": {
+    "Exists in": ["pk3"]
+  },
+  "Soundproof": {
+    "Exists in": ["pk3"]
+  },
+  "Rain Dish": {
+    "Exists in": ["pk3"]
+  },
+  "Sand Stream": {
+    "Exists in": ["pk3"]
+  },
+  "Pressure": {
+    "Exists in": ["pk3"]
+  },
+  "Thick Fat": {
+    "Exists in": ["pk3"]
+  },
+  "Early Bird": {
+    "Exists in": ["pk3"]
+  },
+  "Flame Body": {
+    "Exists in": ["pk3"]
+  },
+  "Run Away": {
+    "Exists in": ["pk3"]
+  },
+  "Keen Eye": {
+    "Exists in": ["pk3"]
+  },
+  "Hyper Cutter": {
+    "Exists in": ["pk3"]
+  },
+  "Pickup": {
+    "Exists in": ["pk3"]
+  },
+  "Truant": {
+    "Exists in": ["pk3"]
+  },
+  "Hustle": {
+    "Exists in": ["pk3"]
+  },
+  "Cute Charm": {
+    "Exists in": ["pk3"]
+  },
+  "Plus": {
+    "Exists in": ["pk3"]
+  },
+  "Minus": {
+    "Exists in": ["pk3"]
+  },
+  "Forecast": {
+    "Exists in": ["pk3"]
+  },
+  "Sticky Hold": {
+    "Exists in": ["pk3"]
+  },
+  "Shed Skin": {
+    "Exists in": ["pk3"]
+  },
+  "Guts": {
+    "Exists in": ["pk3"]
+  },
+  "Marvel Scale": {
+    "Exists in": ["pk3"]
+  },
+  "Liquid Ooze": {
+    "Exists in": ["pk3"]
+  },
+  "Overgrow": {
+    "Exists in": ["pk3"]
+  },
+  "Blaze": {
+    "Exists in": ["pk3"]
+  },
+  "Torrent": {
+    "Exists in": ["pk3"]
+  },
+  "Swarm": {
+    "Exists in": ["pk3"]
+  },
+  "Rock Head": {
+    "Exists in": ["pk3"]
+  },
+  "Drought": {
+    "Exists in": ["pk3"]
+  },
+  "Arena Trap": {
+    "Exists in": ["pk3"]
+  },
+  "Vital Spirit": {
+    "Exists in": ["pk3"]
+  },
+  "White Smoke": {
+    "Exists in": ["pk3"]
+  },
+  "Pure Power": {
+    "Exists in": ["pk3"]
+  },
+  "Shell Armor": {
+    "Exists in": ["pk3"]
+  },
+  "Cacophony": {
+    "Indices": {
+      "pk3": 76
+    },
+    "Exists in": ["pk3"]
+  },
+  "Air Lock": {
+    "Indices": {
+      "pk3": 77
+    },
+    "Exists in": ["pk3"]
+  }
+}

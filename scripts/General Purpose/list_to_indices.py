@@ -1,5 +1,5 @@
-# Script that formats a list of items (input.txt) to an itemDex (output.json)
-# Item id # is its line number. Empty ids should have empty lines.
+# Script that formats a list of strings (input.txt) to a dex (output.json)
+# ID # is its line number. Empty IDs should have empty lines.
 # replacements.json has a dict of item name replacements to make (eg. Parlyz Heal -> Paralyze Heal)
 import os
 import commentjson
@@ -44,8 +44,9 @@ def to_json(o, level=0):
 
 # start
 FORMAT = input("What's the name of the format? ")
+REPLACEMENTS = "" # see replacements.json (e.g. "Items")
 root = os.path.join(os.path.dirname(os.path.abspath(__file__)))
-replacements = commentjson.load(open(os.path.join(root, "replacements.json"), encoding="utf8"))
+replacements = commentjson.load(open(os.path.join(root, "replacements.json"), encoding="utf8"))[REPLACEMENTS]
 with open(os.path.join(root, "input.txt"), encoding="utf8") as f:
   lines = f.readlines()
 
@@ -63,7 +64,7 @@ for line in lines:
     line = replacements[line]
   #alert if duplicate found
   if line in final:
-    raise Exception("Duplicate item found: " + line)
+    raise Exception("Duplicate string found: " + line)
 
   final[line] = {
     "Indices": {

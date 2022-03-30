@@ -16,6 +16,8 @@
   },
   "Ability": {
     "SubDexes":{
+      "Main Series": "main-series/main-seriesAbilityDex.json",
+      "pk3": "main-series/gen-3/pk3AbilityDex.json",
       "Showdown": "showdown/showdownAbilityDex.json"
     }
   },

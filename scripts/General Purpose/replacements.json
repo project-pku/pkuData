@@ -1,4 +1,5 @@
 {
+  "Items": {
     //Gen 3
     "Parlyz Heal": "Paralyze Heal",
     "EnergyPowder": "Energy Powder",
@@ -17,4 +18,5 @@
     "Itemfinder": "Dowsing Machine",
     "MysticTicket": "Mystic Ticket", //Custom
     "AuroraTicket": "Aurora Ticket" //Custom
+  }
 }
