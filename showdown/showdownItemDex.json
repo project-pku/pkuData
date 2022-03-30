@@ -2,1555 +2,3103 @@
 {
   // Main series
   "Abomasite": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Abomasite"
+    }
   },
   "Absolite": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Absolite"
+    }
   },
   "Absorb Bulb": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Absorb Bulb"
+    }
   },
   "Adamant Orb": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Adamant Orb"
+    }
   },
   "Adrenaline Orb": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Adrenaline Orb"
+    }
   },
   "Aerodactylite": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Aerodactylite"
+    }
   },
   "Aggronite": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Aggronite"
+    }
   },
   "Aguav Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Aguav Berry"
+    }
   },
   "Air Balloon": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Air Balloon"
+    }
   },
   "Alakazite": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Alakazite"
+    }
   },
   "Aloraichium Z": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Aloraichium Z"
+    }
   },
   "Altarianite": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Altarianite"
+    }
   },
   "Ampharosite": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Ampharosite"
+    }
   },
   "Apicot Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Apicot Berry"
+    }
   },
   "Armor Fossil": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Armor Fossil"
+    }
   },
   "Aspear Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Aspear Berry"
+    }
   },
   "Assault Vest": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Assault Vest"
+    }
   },
   "Audinite": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Audinite"
+    }
   },
   "Babiri Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Babiri Berry"
+    }
   },
   "Banettite": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Banettite"
+    }
   },
   "Beast Ball": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Beast Ball"
+    }
   },
   "Beedrillite": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Beedrillite"
+    }
   },
   "Belue Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Belue Berry"
+    }
   },
   "Berry Juice": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Berry Juice"
+    }
   },
   "Berry Sweet": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Berry Sweet"
+    }
   },
   "Big Root": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Big Root"
+    }
   },
   "Binding Band": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Binding Band"
+    }
   },
   "Black Belt": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Black Belt"
+    }
   },
   "Black Sludge": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Black Sludge"
+    }
   },
   "Black Glasses": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Black Glasses"
+    }
   },
   "Blastoisinite": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Blastoisinite"
+    }
   },
   "Blazikenite": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Blazikenite"
+    }
   },
   "Blue Orb": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Blue Orb"
+    }
   },
   "Bluk Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Bluk Berry"
+    }
   },
   "Blunder Policy": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Blunder Policy"
+    }
   },
   "Bottle Cap": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Bottle Cap"
+    }
   },
   "Bright Powder": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Bright Powder"
+    }
   },
   "Bug Gem": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Bug Gem"
+    }
   },
   "Bug Memory": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Bug Memory"
+    }
   },
   "Buginium Z": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Buginium Z"
+    }
   },
   "Burn Drive": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Burn Drive"
+    }
   },
   "Cameruptite": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Cameruptite"
+    }
   },
   "Cell Battery": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Cell Battery"
+    }
   },
   "Charcoal": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Charcoal"
+    }
   },
   "Charizardite X": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Charizardite X"
+    }
   },
   "Charizardite Y": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Charizardite Y"
+    }
   },
   "Charti Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Charti Berry"
+    }
   },
   "Cheri Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Cheri Berry"
+    }
   },
   "Cherish Ball": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Cherish Ball"
+    }
   },
   "Chesto Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Chesto Berry"
+    }
   },
   "Chilan Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Chilan Berry"
+    }
   },
   "Chill Drive": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Chill Drive"
+    }
   },
   "Chipped Pot": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Chipped Pot"
+    }
   },
   "Choice Band": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Choice Band"
+    }
   },
   "Choice Scarf": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Choice Scarf"
+    }
   },
   "Choice Specs": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Choice Specs"
+    }
   },
   "Chople Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Chople Berry"
+    }
   },
   "Claw Fossil": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Claw Fossil"
+    }
   },
   "Clover Sweet": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Clover Sweet"
+    }
   },
   "Coba Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Coba Berry"
+    }
   },
   "Colbur Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Colbur Berry"
+    }
   },
   "Cornn Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Cornn Berry"
+    }
   },
   "Cover Fossil": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Cover Fossil"
+    }
   },
   "Cracked Pot": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Cracked Pot"
+    }
   },
   "Custap Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Custap Berry"
+    }
   },
   "Damp Rock": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Damp Rock"
+    }
   },
   "Dark Gem": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Dark Gem"
+    }
   },
   "Dark Memory": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Dark Memory"
+    }
   },
   "Darkinium Z": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Darkinium Z"
+    }
   },
   "Dawn Stone": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Dawn Stone"
+    }
   },
   "Decidium Z": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Decidium Z"
+    }
   },
   "Deep Sea Scale": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Deep Sea Scale"
+    }
   },
   "Deep Sea Tooth": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Deep Sea Tooth"
+    }
   },
   "Destiny Knot": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Destiny Knot"
+    }
   },
   "Diancite": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Diancite"
+    }
   },
   "Dive Ball": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Dive Ball"
+    }
   },
   "Dome Fossil": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Dome Fossil"
+    }
   },
   "Douse Drive": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Douse Drive"
+    }
   },
   "Draco Plate": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Draco Plate"
+    }
   },
   "Dragon Fang": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Dragon Fang"
+    }
   },
   "Dragon Gem": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Dragon Gem"
+    }
   },
   "Dragon Memory": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Dragon Memory"
+    }
   },
   "Dragon Scale": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Dragon Scale"
+    }
   },
   "Dragonium Z": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Dragonium Z"
+    }
   },
   "Dread Plate": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Dread Plate"
+    }
   },
   "Dream Ball": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Dream Ball"
+    }
   },
   "Dubious Disc": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Dubious Disc"
+    }
   },
   "Durin Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Durin Berry"
+    }
   },
   "Dusk Ball": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Dusk Ball"
+    }
   },
   "Dusk Stone": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Dusk Stone"
+    }
   },
   "Earth Plate": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Earth Plate"
+    }
   },
   "Eevium Z": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Eevium Z"
+    }
   },
   "Eject Button": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Eject Button"
+    }
   },
   "Eject Pack": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Eject Pack"
+    }
   },
   "Electirizer": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Electirizer"
+    }
   },
   "Electric Gem": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Electric Gem"
+    }
   },
   "Electric Memory": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Electric Memory"
+    }
   },
   "Electric Seed": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Electric Seed"
+    }
   },
   "Electrium Z": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Electrium Z"
+    }
   },
   "Energy Powder": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Energy Powder"
+    }
   },
   "Enigma Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Enigma Berry"
+    }
   },
   "Eviolite": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Eviolite"
+    }
   },
   "Expert Belt": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Expert Belt"
+    }
   },
   "Fairium Z": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Fairium Z"
+    }
   },
   "Fairy Gem": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Fairy Gem"
+    }
   },
   "Fairy Memory": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Fairy Memory"
+    }
   },
   "Fast Ball": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Fast Ball"
+    }
   },
   "Fighting Gem": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Fighting Gem"
+    }
   },
   "Fighting Memory": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Fighting Memory"
+    }
   },
   "Fightinium Z": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Fightinium Z"
+    }
   },
   "Figy Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Figy Berry"
+    }
   },
   "Fire Gem": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Fire Gem"
+    }
   },
   "Fire Memory": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Fire Memory"
+    }
   },
   "Fire Stone": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Fire Stone"
+    }
   },
   "Firium Z": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Firium Z"
+    }
   },
   "Fist Plate": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Fist Plate"
+    }
   },
   "Flame Orb": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Flame Orb"
+    }
   },
   "Flame Plate": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Flame Plate"
+    }
   },
   "Float Stone": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Float Stone"
+    }
   },
   "Flower Sweet": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Flower Sweet"
+    }
   },
   "Flying Gem": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Flying Gem"
+    }
   },
   "Flying Memory": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Flying Memory"
+    }
   },
   "Flyinium Z": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Flyinium Z"
+    }
   },
   "Focus Band": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Focus Band"
+    }
   },
   "Focus Sash": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Focus Sash"
+    }
   },
   "Fossilized Bird": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Fossilized Bird"
+    }
   },
   "Fossilized Dino": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Fossilized Dino"
+    }
   },
   "Fossilized Drake": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Fossilized Drake"
+    }
   },
   "Fossilized Fish": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Fossilized Fish"
+    }
   },
   "Friend Ball": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Friend Ball"
+    }
   },
   "Full Incense": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Full Incense"
+    }
   },
   "Galarica Cuff": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Galarica Cuff"
+    }
   },
   "Galarica Wreath": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Galarica Wreath"
+    }
   },
   "Galladite": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Galladite"
+    }
   },
   "Ganlon Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Ganlon Berry"
+    }
   },
   "Garchompite": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Garchompite"
+    }
   },
   "Gardevoirite": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Gardevoirite"
+    }
   },
   "Gengarite": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Gengarite"
+    }
   },
   "Ghost Gem": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Ghost Gem"
+    }
   },
   "Ghost Memory": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Ghost Memory"
+    }
   },
   "Ghostium Z": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Ghostium Z"
+    }
   },
   "Glalitite": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Glalitite"
+    }
   },
   "Gold Bottle Cap": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Gold Bottle Cap"
+    }
   },
   "Grass Gem": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Grass Gem"
+    }
   },
   "Grass Memory": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Grass Memory"
+    }
   },
   "Grassium Z": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Grassium Z"
+    }
   },
   "Grassy Seed": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Grassy Seed"
+    }
   },
   "Great Ball": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Great Ball"
+    }
   },
   "Grepa Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Grepa Berry"
+    }
   },
   "Grip Claw": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Grip Claw"
+    }
   },
   "Griseous Orb": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Griseous Orb"
+    }
   },
   "Ground Gem": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Ground Gem"
+    }
   },
   "Ground Memory": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Ground Memory"
+    }
   },
   "Groundium Z": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Groundium Z"
+    }
   },
   "Gyaradosite": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Gyaradosite"
+    }
   },
   "Haban Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Haban Berry"
+    }
   },
   "Hard Stone": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Hard Stone"
+    }
   },
   "Heal Ball": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Heal Ball"
+    }
   },
   "Heat Rock": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Heat Rock"
+    }
   },
   "Heavy Ball": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Heavy Ball"
+    }
   },
   "Heavy-Duty Boots": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Heavy-Duty Boots"
+    }
   },
   "Helix Fossil": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Helix Fossil"
+    }
   },
   "Heracronite": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Heracronite"
+    }
   },
   "Hondew Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Hondew Berry"
+    }
   },
   "Houndoominite": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Houndoominite"
+    }
   },
   "Iapapa Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Iapapa Berry"
+    }
   },
   "Ice Gem": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Ice Gem"
+    }
   },
   "Ice Memory": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Ice Memory"
+    }
   },
   "Ice Stone": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Ice Stone"
+    }
   },
   "Icicle Plate": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Icicle Plate"
+    }
   },
   "Icium Z": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Icium Z"
+    }
   },
   "Icy Rock": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Icy Rock"
+    }
   },
   "Incinium Z": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Incinium Z"
+    }
   },
   "Insect Plate": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Insect Plate"
+    }
   },
   "Iron Ball": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Iron Ball"
+    }
   },
   "Iron Plate": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Iron Plate"
+    }
   },
   "Jaboca Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Jaboca Berry"
+    }
   },
   "Jaw Fossil": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Jaw Fossil"
+    }
   },
   "Kasib Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Kasib Berry"
+    }
   },
   "Kebia Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Kebia Berry"
+    }
   },
   "Kee Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Kee Berry"
+    }
   },
   "Kelpsy Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Kelpsy Berry"
+    }
   },
   "Kangaskhanite": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Kangaskhanite"
+    }
   },
   "King's Rock": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "King's Rock"
+    }
   },
   "Kommonium Z": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Kommonium Z"
+    }
   },
   "Lagging Tail": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Lagging Tail"
+    }
   },
   "Lansat Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Lansat Berry"
+    }
   },
   "Latiasite": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Latiasite"
+    }
   },
   "Latiosite": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Latiosite"
+    }
   },
   "Lax Incense": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Lax Incense"
+    }
   },
   "Leaf Stone": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Leaf Stone"
+    }
   },
   "Leek": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Leek"
+    }
   },
   "Leftovers": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Leftovers"
+    }
   },
   "Leppa Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Leppa Berry"
+    }
   },
   "Level Ball": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Level Ball"
+    }
   },
   "Liechi Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Liechi Berry"
+    }
   },
   "Life Orb": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Life Orb"
+    }
   },
   "Light Ball": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Light Ball"
+    }
   },
   "Light Clay": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Light Clay"
+    }
   },
   "Lopunnite": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Lopunnite"
+    }
   },
   "Love Ball": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Love Ball"
+    }
   },
   "Love Sweet": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Love Sweet"
+    }
   },
   "Lucarionite": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Lucarionite"
+    }
   },
   "Lucky Punch": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Lucky Punch"
+    }
   },
   "Lum Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Lum Berry"
+    }
   },
   "Luminous Moss": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Luminous Moss"
+    }
   },
   "Lunalium Z": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Lunalium Z"
+    }
   },
   "Lure Ball": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Lure Ball"
+    }
   },
   "Lustrous Orb": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Lustrous Orb"
+    }
   },
   "Luxury Ball": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Luxury Ball"
+    }
   },
   "Lycanium Z": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Lycanium Z"
+    }
   },
   "Macho Brace": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Macho Brace"
+    }
   },
   "Magmarizer": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Magmarizer"
+    }
   },
   "Magnet": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Magnet"
+    }
   },
   "Mago Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Mago Berry"
+    }
   },
   "Magost Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Magost Berry"
+    }
   },
   "Mail": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Mail"
+    }
   },
   "Manectite": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Manectite"
+    }
   },
   "Maranga Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Maranga Berry"
+    }
   },
   "Marshadium Z": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Marshadium Z"
+    }
   },
   "Master Ball": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Master Ball"
+    }
   },
   "Mawilite": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Mawilite"
+    }
   },
   "Meadow Plate": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Meadow Plate"
+    }
   },
   "Medichamite": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Medichamite"
+    }
   },
   "Mental Herb": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Mental Herb"
+    }
   },
   "Metagrossite": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Metagrossite"
+    }
   },
   "Metal Coat": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Metal Coat"
+    }
   },
   "Metal Powder": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Metal Powder"
+    }
   },
   "Metronome": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Metronome"
+    }
   },
   "Mewnium Z": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Mewnium Z"
+    }
   },
   "Mewtwonite X": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Mewtwonite X"
+    }
   },
   "Mewtwonite Y": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Mewtwonite Y"
+    }
   },
   "Micle Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Micle Berry"
+    }
   },
   "Mimikium Z": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Mimikium Z"
+    }
   },
   "Mind Plate": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Mind Plate"
+    }
   },
   "Miracle Seed": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Miracle Seed"
+    }
   },
   "Misty Seed": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Misty Seed"
+    }
   },
   "Moon Ball": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Moon Ball"
+    }
   },
   "Moon Stone": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Moon Stone"
+    }
   },
   "Muscle Band": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Muscle Band"
+    }
   },
   "Mystic Water": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Mystic Water"
+    }
   },
   "Nanab Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Nanab Berry"
+    }
   },
   "Nest Ball": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Nest Ball"
+    }
   },
   "Net Ball": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Net Ball"
+    }
   },
   "Never-Melt Ice": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Never-Melt Ice"
+    }
   },
   "Nomel Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Nomel Berry"
+    }
   },
   "Normal Gem": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Normal Gem"
+    }
   },
   "Normalium Z": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Normalium Z"
+    }
   },
   "Occa Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Occa Berry"
+    }
   },
   "Odd Incense": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Odd Incense"
+    }
   },
   "Old Amber": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Old Amber"
+    }
   },
   "Oran Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Oran Berry"
+    }
   },
   "Oval Stone": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Oval Stone"
+    }
   },
   "Pamtre Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Pamtre Berry"
+    }
   },
   "Park Ball": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Park Ball"
+    }
   },
   "Passho Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Passho Berry"
+    }
   },
   "Payapa Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Payapa Berry"
+    }
   },
   "Pecha Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Pecha Berry"
+    }
   },
   "Persim Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Persim Berry"
+    }
   },
   "Petaya Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Petaya Berry"
+    }
   },
   "Pidgeotite": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Pidgeotite"
+    }
   },
   "Pikanium Z": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Pikanium Z"
+    }
   },
   "Pikashunium Z": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Pikashunium Z"
+    }
   },
   "Pinap Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Pinap Berry"
+    }
   },
   "Pinsirite": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Pinsirite"
+    }
   },
   "Pixie Plate": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Pixie Plate"
+    }
   },
   "Plume Fossil": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Plume Fossil"
+    }
   },
   "Poison Barb": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Poison Barb"
+    }
   },
   "Poison Gem": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Poison Gem"
+    }
   },
   "Poison Memory": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Poison Memory"
+    }
   },
   "Poisonium Z": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Poisonium Z"
+    }
   },
-  "Poke Ball": {
-    "Exists in": ["Showdown"]
+  "Poké Ball": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Poke Ball"
+    }
   },
   "Pomeg Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Pomeg Berry"
+    }
   },
   "Power Anklet": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Power Anklet"
+    }
   },
   "Power Band": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Power Band"
+    }
   },
   "Power Belt": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Power Belt"
+    }
   },
   "Power Bracer": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Power Bracer"
+    }
   },
   "Power Herb": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Power Herb"
+    }
   },
   "Power Lens": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Power Lens"
+    }
   },
   "Power Weight": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Power Weight"
+    }
   },
   "Premier Ball": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Premier Ball"
+    }
   },
   "Primarium Z": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Primarium Z"
+    }
   },
   "Prism Scale": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Prism Scale"
+    }
   },
   "Protective Pads": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Protective Pads"
+    }
   },
   "Protector": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Protector"
+    }
   },
   "Psychic Gem": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Psychic Gem"
+    }
   },
   "Psychic Memory": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Psychic Memory"
+    }
   },
   "Psychic Seed": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Psychic Seed"
+    }
   },
   "Psychium Z": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Psychium Z"
+    }
   },
   "Qualot Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Qualot Berry"
+    }
   },
   "Quick Ball": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Quick Ball"
+    }
   },
   "Quick Claw": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Quick Claw"
+    }
   },
   "Quick Powder": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Quick Powder"
+    }
   },
   "Rabuta Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Rabuta Berry"
+    }
   },
   "Rare Bone": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Rare Bone"
+    }
   },
   "Rawst Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Rawst Berry"
+    }
   },
   "Razor Claw": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Razor Claw"
+    }
   },
   "Razor Fang": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Razor Fang"
+    }
   },
   "Razz Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Razz Berry"
+    }
   },
   "Reaper Cloth": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Reaper Cloth"
+    }
   },
   "Red Card": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Red Card"
+    }
   },
   "Red Orb": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Red Orb"
+    }
   },
   "Repeat Ball": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Repeat Ball"
+    }
   },
   "Ribbon Sweet": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Ribbon Sweet"
+    }
   },
   "Rindo Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Rindo Berry"
+    }
   },
   "Ring Target": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Ring Target"
+    }
   },
   "Rock Gem": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Rock Gem"
+    }
   },
   "Rock Incense": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Rock Incense"
+    }
   },
   "Rock Memory": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Rock Memory"
+    }
   },
   "Rockium Z": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Rockium Z"
+    }
   },
   "Rocky Helmet": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Rocky Helmet"
+    }
   },
   "Room Service": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Room Service"
+    }
   },
   "Root Fossil": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Root Fossil"
+    }
   },
   "Rose Incense": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Rose Incense"
+    }
   },
   "Roseli Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Roseli Berry"
+    }
   },
   "Rowap Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Rowap Berry"
+    }
   },
   "Rusted Shield": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Rusted Shield"
+    }
   },
   "Rusted Sword": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Rusted Sword"
+    }
   },
   "Sablenite": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Sablenite"
+    }
   },
   "Sachet": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Sachet"
+    }
   },
   "Safari Ball": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Safari Ball"
+    }
   },
   "Safety Goggles": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Safety Goggles"
+    }
   },
   "Sail Fossil": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Sail Fossil"
+    }
   },
   "Salac Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Salac Berry"
+    }
   },
   "Salamencite": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Salamencite"
+    }
   },
   "Sceptilite": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Sceptilite"
+    }
   },
   "Scizorite": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Scizorite"
+    }
   },
   "Scope Lens": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Scope Lens"
+    }
   },
   "Sea Incense": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Sea Incense"
+    }
   },
   "Sharp Beak": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Sharp Beak"
+    }
   },
   "Sharpedonite": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Sharpedonite"
+    }
   },
   "Shed Shell": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Shed Shell"
+    }
   },
   "Shell Bell": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Shell Bell"
+    }
   },
   "Shiny Stone": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Shiny Stone"
+    }
   },
   "Shock Drive": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Shock Drive"
+    }
   },
   "Shuca Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Shuca Berry"
+    }
   },
   "Silk Scarf": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Silk Scarf"
+    }
   },
   "Silver Powder": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Silver Powder"
+    }
   },
   "Sitrus Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Sitrus Berry"
+    }
   },
   "Skull Fossil": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Skull Fossil"
+    }
   },
   "Sky Plate": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Sky Plate"
+    }
   },
   "Slowbronite": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Slowbronite"
+    }
   },
   "Smooth Rock": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Smooth Rock"
+    }
   },
   "Snorlium Z": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Snorlium Z"
+    }
   },
   "Snowball": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Snowball"
+    }
   },
   "Soft Sand": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Soft Sand"
+    }
   },
   "Solganium Z": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Solganium Z"
+    }
   },
   "Soul Dew": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Soul Dew"
+    }
   },
   "Spell Tag": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Spell Tag"
+    }
   },
   "Spelon Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Spelon Berry"
+    }
   },
   "Splash Plate": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Splash Plate"
+    }
   },
   "Spooky Plate": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Spooky Plate"
+    }
   },
   "Sport Ball": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Sport Ball"
+    }
   },
   "Starf Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Starf Berry"
+    }
   },
   "Star Sweet": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Star Sweet"
+    }
   },
   "Steelixite": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Steelixite"
+    }
   },
   "Steel Gem": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Steel Gem"
+    }
   },
   "Steel Memory": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Steel Memory"
+    }
   },
   "Steelium Z": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Steelium Z"
+    }
   },
   "Stick": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Stick"
+    }
   },
   "Sticky Barb": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Sticky Barb"
+    }
   },
   "Stone Plate": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Stone Plate"
+    }
   },
   "Strawberry Sweet": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Strawberry Sweet"
+    }
   },
   "Sun Stone": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Sun Stone"
+    }
   },
   "Swampertite": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Swampertite"
+    }
   },
   "Sweet Apple": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Sweet Apple"
+    }
   },
   "Tamato Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Tamato Berry"
+    }
   },
   "Tanga Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Tanga Berry"
+    }
   },
   "Tapunium Z": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Tapunium Z"
+    }
   },
   "Tart Apple": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Tart Apple"
+    }
   },
   "Terrain Extender": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Terrain Extender"
+    }
   },
   "Thick Club": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Thick Club"
+    }
   },
   "Throat Spray": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Throat Spray"
+    }
   },
   "Thunder Stone": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Thunder Stone"
+    }
   },
   "Timer Ball": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Timer Ball"
+    }
   },
   "Toxic Orb": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Toxic Orb"
+    }
   },
   "Toxic Plate": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Toxic Plate"
+    }
   },
   "TR00": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR00"
+    }
   },
   "TR01": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR01"
+    }
   },
   "TR02": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR02"
+    }
   },
   "TR03": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR03"
+    }
   },
   "TR04": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR04"
+    }
   },
   "TR05": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR05"
+    }
   },
   "TR06": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR06"
+    }
   },
   "TR07": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR07"
+    }
   },
   "TR08": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR08"
+    }
   },
   "TR09": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR09"
+    }
   },
   "TR10": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR10"
+    }
   },
   "TR11": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR11"
+    }
   },
   "TR12": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR12"
+    }
   },
   "TR13": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR13"
+    }
   },
   "TR14": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR14"
+    }
   },
   "TR15": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR15"
+    }
   },
   "TR16": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR16"
+    }
   },
   "TR17": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR17"
+    }
   },
   "TR18": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR18"
+    }
   },
   "TR19": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR19"
+    }
   },
   "TR20": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR20"
+    }
   },
   "TR21": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR21"
+    }
   },
   "TR22": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR22"
+    }
   },
   "TR23": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR23"
+    }
   },
   "TR24": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR24"
+    }
   },
   "TR25": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR25"
+    }
   },
   "TR26": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR26"
+    }
   },
   "TR27": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR27"
+    }
   },
   "TR28": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR28"
+    }
   },
   "TR29": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR29"
+    }
   },
   "TR30": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR30"
+    }
   },
   "TR31": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR31"
+    }
   },
   "TR32": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR32"
+    }
   },
   "TR33": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR33"
+    }
   },
   "TR34": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR34"
+    }
   },
   "TR35": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR35"
+    }
   },
   "TR36": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR36"
+    }
   },
   "TR37": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR37"
+    }
   },
   "TR38": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR38"
+    }
   },
   "TR39": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR39"
+    }
   },
   "TR40": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR40"
+    }
   },
   "TR41": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR41"
+    }
   },
   "TR42": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR42"
+    }
   },
   "TR43": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR43"
+    }
   },
   "TR44": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR44"
+    }
   },
   "TR45": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR45"
+    }
   },
   "TR46": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR46"
+    }
   },
   "TR47": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR47"
+    }
   },
   "TR48": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR48"
+    }
   },
   "TR49": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR49"
+    }
   },
   "TR50": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR50"
+    }
   },
   "TR51": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR51"
+    }
   },
   "TR52": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR52"
+    }
   },
   "TR53": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR53"
+    }
   },
   "TR54": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR54"
+    }
   },
   "TR55": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR55"
+    }
   },
   "TR56": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR56"
+    }
   },
   "TR57": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR57"
+    }
   },
   "TR58": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR58"
+    }
   },
   "TR59": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR59"
+    }
   },
   "TR60": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR60"
+    }
   },
   "TR61": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR61"
+    }
   },
   "TR62": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR62"
+    }
   },
   "TR63": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR63"
+    }
   },
   "TR64": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR64"
+    }
   },
   "TR65": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR65"
+    }
   },
   "TR66": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR66"
+    }
   },
   "TR67": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR67"
+    }
   },
   "TR68": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR68"
+    }
   },
   "TR69": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR69"
+    }
   },
   "TR70": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR70"
+    }
   },
   "TR71": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR71"
+    }
   },
   "TR72": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR72"
+    }
   },
   "TR73": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR73"
+    }
   },
   "TR74": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR74"
+    }
   },
   "TR75": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR75"
+    }
   },
   "TR76": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR76"
+    }
   },
   "TR77": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR77"
+    }
   },
   "TR78": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR78"
+    }
   },
   "TR79": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR79"
+    }
   },
   "TR80": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR80"
+    }
   },
   "TR81": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR81"
+    }
   },
   "TR82": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR82"
+    }
   },
   "TR83": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR83"
+    }
   },
   "TR84": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR84"
+    }
   },
   "TR85": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR85"
+    }
   },
   "TR86": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR86"
+    }
   },
   "TR87": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR87"
+    }
   },
   "TR88": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR88"
+    }
   },
   "TR89": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR89"
+    }
   },
   "TR90": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR90"
+    }
   },
   "TR91": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR91"
+    }
   },
   "TR92": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR92"
+    }
   },
   "TR93": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR93"
+    }
   },
   "TR94": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR94"
+    }
   },
   "TR95": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR95"
+    }
   },
   "TR96": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR96"
+    }
   },
   "TR97": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR97"
+    }
   },
   "TR98": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR98"
+    }
   },
   "TR99": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "TR99"
+    }
   },
   "Twisted Spoon": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Twisted Spoon"
+    }
   },
   "Tyranitarite": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Tyranitarite"
+    }
   },
   "Ultra Ball": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Ultra Ball"
+    }
   },
   "Ultranecrozium Z": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Ultranecrozium Z"
+    }
   },
   "Up-Grade": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Up-Grade"
+    }
   },
   "Utility Umbrella": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Utility Umbrella"
+    }
   },
   "Venusaurite": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Venusaurite"
+    }
   },
   "Wacan Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Wacan Berry"
+    }
   },
   "Water Gem": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Water Gem"
+    }
   },
   "Water Memory": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Water Memory"
+    }
   },
   "Water Stone": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Water Stone"
+    }
   },
   "Waterium Z": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Waterium Z"
+    }
   },
   "Watmel Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Watmel Berry"
+    }
   },
   "Wave Incense": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Wave Incense"
+    }
   },
   "Weakness Policy": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Weakness Policy"
+    }
   },
   "Wepear Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Wepear Berry"
+    }
   },
   "Whipped Dream": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Whipped Dream"
+    }
   },
   "White Herb": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "White Herb"
+    }
   },
   "Wide Lens": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Wide Lens"
+    }
   },
   "Wiki Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Wiki Berry"
+    }
   },
   "Wise Glasses": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Wise Glasses"
+    }
   },
   "Yache Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Yache Berry"
+    }
   },
   "Zap Plate": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Zap Plate"
+    }
   },
   "Zoom Lens": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Zoom Lens"
+    }
   },
 
   // Gen 2
   "Berserk Gene": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Berserk Gene"
+    }
   },
   "Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Berry"
+    }
   },
   "Bitter Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Bitter Berry"
+    }
   },
   "Burnt Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Burnt Berry"
+    }
   },
   "Gold Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Gold Berry"
+    }
   },
   "Ice Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Ice Berry"
+    }
   },
   "Mint Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Mint Berry"
+    }
   },
   "Miracle Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Miracle Berry"
+    }
   },
   "Mystery Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Mystery Berry"
+    }
   },
   "Pink Bow": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Pink Bow"
+    }
   },
   "Polkadot Bow": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Polkadot Bow"
+    }
   },
   "PRZ Cure Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "PRZ Cure Berry"
+    }
   },
   "PSN Cure Berry": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "PSN Cure Berry"
+    }
   },
 
   // CAP
   "Crucibellite": {
-    "Exists in": ["Showdown"]
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Crucibellite"
+    }
   },
-  "Vile Vial":{
-    "Exists in": ["Showdown"]
+  "Vile Vial": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Vile Vial"
+    }
   }
 }
