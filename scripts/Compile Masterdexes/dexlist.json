@@ -43,5 +43,11 @@
     "SubDexes":{
       "Gen 3": "main-series/gen-3/gen3GameDex.json"
     }
+  },
+  "Language": {
+    "SubDexes":{
+      "Main Series": "main-series/main-seriesLanguageDex.json",
+      "pk3": "main-series/gen-3/pk3LanguageDex.json"
+    }
   }
 }

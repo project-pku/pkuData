@@ -1,0 +1,47 @@
+{
+  "Japanese": {
+    "Indices": {
+      "main-series": 1
+    }
+  },
+  "English": {
+    "Indices": {
+      "main-series": 2
+    }
+  },
+  "French": {
+    "Indices": {
+      "main-series": 3
+    }
+  },
+  "Italian": {
+    "Indices": {
+      "main-series": 4
+    }
+  },
+  "German": {
+    "Indices": {
+      "main-series": 5
+    }
+  },
+  "Spanish": {
+    "Indices": {
+      "main-series": 7
+    }
+  },
+  "Korean": {
+    "Indices": {
+      "main-series": 8
+    }
+  },
+  "Chinese Simplified": {
+    "Indices": {
+      "main-series": 9
+    }
+  },
+  "Chinese Traditional": {
+    "Indices": {
+      "main-series": 10
+    }
+  }
+}
