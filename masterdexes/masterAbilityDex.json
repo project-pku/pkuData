@@ -1,9 +1,10 @@
 {
   "None": {
     "Indices": {
-      "main-series": 0
+      "main-series": 0,
+      "Showdown": "No Ability"
     },
-    "Exists in": ["pk3"]
+    "Exists in": ["pk3", "Showdown"]
   },
   "Stench": {
     "Indices": {

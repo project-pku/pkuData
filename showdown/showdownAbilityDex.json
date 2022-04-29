@@ -839,6 +839,12 @@
       "Showdown": "No Guard"
     }
   },
+  "None": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "No Ability"
+    }
+  },
   "Normalize": {
     "Exists in": ["Showdown"],
     "Indices": {
