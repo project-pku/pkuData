@@ -1,4 +1,13 @@
 {
+  "None": {
+    "Indices": {
+      "main-series": 0
+    },
+    "Base PP": {
+      "main-series": 0
+    },
+    "Exists in": ["pk3"]
+  },
   "Pound": {
     "Indices": {
       "main-series": 1,
