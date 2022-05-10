@@ -25,7 +25,9 @@
       "Chinese Simplified": "妙蛙种子",
       "Chinese Traditional": "妙蛙種子"
     },
-    "Gen 3 Ability Slots": ["Overgrow"]
+    "Ability Slots": {
+      "pk3": ["Overgrow", "None"]
+    }
   },
   "Ivysaur": {
     "Indices": {
@@ -53,7 +55,9 @@
       "Chinese Simplified": "妙蛙草",
       "Chinese Traditional": "妙蛙草"
     },
-    "Gen 3 Ability Slots": ["Overgrow"]
+    "Ability Slots": {
+      "pk3": ["Overgrow", "None"]
+    }
   },
   "Venusaur": {
     "Indices": {
@@ -102,7 +106,9 @@
       "Chinese Simplified": "妙蛙花",
       "Chinese Traditional": "妙蛙花"
     },
-    "Gen 3 Ability Slots": ["Overgrow"]
+    "Ability Slots": {
+      "pk3": ["Overgrow", "None"]
+    }
   },
   "Charmander": {
     "Indices": {
@@ -130,7 +136,9 @@
       "Chinese Simplified": "小火龙",
       "Chinese Traditional": "小火龍"
     },
-    "Gen 3 Ability Slots": ["Blaze"]
+    "Ability Slots": {
+      "pk3": ["Blaze", "None"]
+    }
   },
   "Charmeleon": {
     "Indices": {
@@ -158,7 +166,9 @@
       "Chinese Simplified": "火恐龙",
       "Chinese Traditional": "火恐龍"
     },
-    "Gen 3 Ability Slots": ["Blaze"]
+    "Ability Slots": {
+      "pk3": ["Blaze", "None"]
+    }
   },
   "Charizard": {
     "Indices": {
@@ -217,7 +227,9 @@
       "Chinese Simplified": "喷火龙",
       "Chinese Traditional": "噴火龍"
     },
-    "Gen 3 Ability Slots": ["Blaze"]
+    "Ability Slots": {
+      "pk3": ["Blaze", "None"]
+    }
   },
   "Squirtle": {
     "Indices": {
@@ -245,7 +257,9 @@
       "Chinese Simplified": "杰尼龟",
       "Chinese Traditional": "傑尼龜"
     },
-    "Gen 3 Ability Slots": ["Torrent"]
+    "Ability Slots": {
+      "pk3": ["Torrent", "None"]
+    }
   },
   "Wartortle": {
     "Indices": {
@@ -273,7 +287,9 @@
       "Chinese Simplified": "卡咪龟",
       "Chinese Traditional": "卡咪龜"
     },
-    "Gen 3 Ability Slots": ["Torrent"]
+    "Ability Slots": {
+      "pk3": ["Torrent", "None"]
+    }
   },
   "Blastoise": {
     "Indices": {
@@ -322,7 +338,9 @@
       "Chinese Simplified": "水箭龟",
       "Chinese Traditional": "水箭龜"
     },
-    "Gen 3 Ability Slots": ["Torrent"]
+    "Ability Slots": {
+      "pk3": ["Torrent", "None"]
+    }
   },
   "Caterpie": {
     "Indices": {
@@ -350,7 +368,9 @@
       "Chinese Simplified": "绿毛虫",
       "Chinese Traditional": "綠毛蟲"
     },
-    "Gen 3 Ability Slots": ["Shield Dust"]
+    "Ability Slots": {
+      "pk3": ["Shield Dust", "None"]
+    }
   },
   "Metapod": {
     "Indices": {
@@ -378,7 +398,9 @@
       "Chinese Simplified": "铁甲蛹",
       "Chinese Traditional": "鐵甲蛹"
     },
-    "Gen 3 Ability Slots": ["Shed Skin"]
+    "Ability Slots": {
+      "pk3": ["Shed Skin", "None"]
+    }
   },
   "Butterfree": {
     "Indices": {
@@ -417,7 +439,9 @@
       "Chinese Simplified": "巴大蝶",
       "Chinese Traditional": "巴大蝶"
     },
-    "Gen 3 Ability Slots": ["Compound Eyes"]
+    "Ability Slots": {
+      "pk3": ["Compound Eyes", "None"]
+    }
   },
   "Weedle": {
     "Indices": {
@@ -445,7 +469,9 @@
       "Chinese Simplified": "独角虫",
       "Chinese Traditional": "獨角蟲"
     },
-    "Gen 3 Ability Slots": ["Shield Dust"]
+    "Ability Slots": {
+      "pk3": ["Shield Dust", "None"]
+    }
   },
   "Kakuna": {
     "Indices": {
@@ -473,7 +499,9 @@
       "Chinese Simplified": "铁壳蛹",
       "Chinese Traditional": "鐵殼蛹"
     },
-    "Gen 3 Ability Slots": ["Shed Skin"]
+    "Ability Slots": {
+      "pk3": ["Shed Skin", "None"]
+    }
   },
   "Beedrill": {
     "Indices": {
@@ -513,7 +541,9 @@
       "Chinese Simplified": "大针蜂",
       "Chinese Traditional": "大針蜂"
     },
-    "Gen 3 Ability Slots": ["Swarm"]
+    "Ability Slots": {
+      "pk3": ["Swarm", "None"]
+    }
   },
   "Pidgey": {
     "Indices": {
@@ -541,7 +571,9 @@
       "Chinese Simplified": "波波",
       "Chinese Traditional": "波波"
     },
-    "Gen 3 Ability Slots": ["Keen Eye"]
+    "Ability Slots": {
+      "pk3": ["Keen Eye", "None"]
+    }
   },
   "Pidgeotto": {
     "Indices": {
@@ -569,7 +601,9 @@
       "Chinese Simplified": "比比鸟",
       "Chinese Traditional": "比比鳥"
     },
-    "Gen 3 Ability Slots": ["Keen Eye"]
+    "Ability Slots": {
+      "pk3": ["Keen Eye", "None"]
+    }
   },
   "Pidgeot": {
     "Indices": {
@@ -609,7 +643,9 @@
       "Chinese Simplified": "大比鸟",
       "Chinese Traditional": "大比鳥"
     },
-    "Gen 3 Ability Slots": ["Keen Eye"]
+    "Ability Slots": {
+      "pk3": ["Keen Eye", "None"]
+    }
   },
   "Rattata": {
     "Indices": {
@@ -643,7 +679,9 @@
       "Chinese Simplified": "小拉达",
       "Chinese Traditional": "小拉達"
     },
-    "Gen 3 Ability Slots": ["Run Away", "Guts"]
+    "Ability Slots": {
+      "pk3": ["Run Away", "Guts"]
+    }
   },
   "Raticate": {
     "Indices": {
@@ -684,7 +722,9 @@
       "Chinese Simplified": "拉达",
       "Chinese Traditional": "拉達"
     },
-    "Gen 3 Ability Slots": ["Run Away", "Guts"]
+    "Ability Slots": {
+      "pk3": ["Run Away", "Guts"]
+    }
   },
   "Spearow": {
     "Indices": {
@@ -712,7 +752,9 @@
       "Chinese Simplified": "烈雀",
       "Chinese Traditional": "烈雀"
     },
-    "Gen 3 Ability Slots": ["Keen Eye"]
+    "Ability Slots": {
+      "pk3": ["Keen Eye", "None"]
+    }
   },
   "Fearow": {
     "Indices": {
@@ -740,7 +782,9 @@
       "Chinese Simplified": "大嘴雀",
       "Chinese Traditional": "大嘴雀"
     },
-    "Gen 3 Ability Slots": ["Keen Eye"]
+    "Ability Slots": {
+      "pk3": ["Keen Eye", "None"]
+    }
   },
   "Ekans": {
     "Indices": {
@@ -768,7 +812,9 @@
       "Chinese Simplified": "阿柏蛇",
       "Chinese Traditional": "阿柏蛇"
     },
-    "Gen 3 Ability Slots": ["Intimidate", "Shed Skin"]
+    "Ability Slots": {
+      "pk3": ["Intimidate", "Shed Skin"]
+    }
   },
   "Arbok": {
     "Indices": {
@@ -796,7 +842,9 @@
       "Chinese Simplified": "阿柏怪",
       "Chinese Traditional": "阿柏怪"
     },
-    "Gen 3 Ability Slots": ["Intimidate", "Shed Skin"]
+    "Ability Slots": {
+      "pk3": ["Intimidate", "Shed Skin"]
+    }
   },
   "Pikachu": {
     "Indices": {
@@ -918,7 +966,9 @@
       "Chinese Simplified": "皮卡丘",
       "Chinese Traditional": "皮卡丘"
     },
-    "Gen 3 Ability Slots": ["Static"]
+    "Ability Slots": {
+      "pk3": ["Static", "None"]
+    }
   },
   "Raichu": {
     "Indices": {
@@ -952,7 +1002,9 @@
       "Chinese Simplified": "雷丘",
       "Chinese Traditional": "雷丘"
     },
-    "Gen 3 Ability Slots": ["Static"]
+    "Ability Slots": {
+      "pk3": ["Static", "None"]
+    }
   },
   "Sandshrew": {
     "Indices": {
@@ -986,7 +1038,9 @@
       "Chinese Simplified": "穿山鼠",
       "Chinese Traditional": "穿山鼠"
     },
-    "Gen 3 Ability Slots": ["Sand Veil"]
+    "Ability Slots": {
+      "pk3": ["Sand Veil", "None"]
+    }
   },
   "Sandslash": {
     "Indices": {
@@ -1020,7 +1074,9 @@
       "Chinese Simplified": "穿山王",
       "Chinese Traditional": "穿山王"
     },
-    "Gen 3 Ability Slots": ["Sand Veil"]
+    "Ability Slots": {
+      "pk3": ["Sand Veil", "None"]
+    }
   },
   "Nidoran♀": {
     "Indices": {
@@ -1048,7 +1104,9 @@
       "Chinese Simplified": "尼多兰",
       "Chinese Traditional": "尼多蘭"
     },
-    "Gen 3 Ability Slots": ["Poison Point"]
+    "Ability Slots": {
+      "pk3": ["Poison Point", "None"]
+    }
   },
   "Nidorina": {
     "Indices": {
@@ -1076,7 +1134,9 @@
       "Chinese Simplified": "尼多娜",
       "Chinese Traditional": "尼多娜"
     },
-    "Gen 3 Ability Slots": ["Poison Point"]
+    "Ability Slots": {
+      "pk3": ["Poison Point", "None"]
+    }
   },
   "Nidoqueen": {
     "Indices": {
@@ -1104,7 +1164,9 @@
       "Chinese Simplified": "尼多后",
       "Chinese Traditional": "尼多后"
     },
-    "Gen 3 Ability Slots": ["Poison Point"]
+    "Ability Slots": {
+      "pk3": ["Poison Point", "None"]
+    }
   },
   "Nidoran♂": {
     "Indices": {
@@ -1132,7 +1194,9 @@
       "Chinese Simplified": "尼多朗",
       "Chinese Traditional": "尼多朗"
     },
-    "Gen 3 Ability Slots": ["Poison Point"]
+    "Ability Slots": {
+      "pk3": ["Poison Point", "None"]
+    }
   },
   "Nidorino": {
     "Indices": {
@@ -1160,7 +1224,9 @@
       "Chinese Simplified": "尼多力诺",
       "Chinese Traditional": "尼多力諾"
     },
-    "Gen 3 Ability Slots": ["Poison Point"]
+    "Ability Slots": {
+      "pk3": ["Poison Point", "None"]
+    }
   },
   "Nidoking": {
     "Indices": {
@@ -1188,7 +1254,9 @@
       "Chinese Simplified": "尼多王",
       "Chinese Traditional": "尼多王"
     },
-    "Gen 3 Ability Slots": ["Poison Point"]
+    "Ability Slots": {
+      "pk3": ["Poison Point", "None"]
+    }
   },
   "Clefairy": {
     "Indices": {
@@ -1216,7 +1284,9 @@
       "Chinese Simplified": "皮皮",
       "Chinese Traditional": "皮皮"
     },
-    "Gen 3 Ability Slots": ["Cute Charm"]
+    "Ability Slots": {
+      "pk3": ["Cute Charm", "None"]
+    }
   },
   "Clefable": {
     "Indices": {
@@ -1244,7 +1314,9 @@
       "Chinese Simplified": "皮可西",
       "Chinese Traditional": "皮可西"
     },
-    "Gen 3 Ability Slots": ["Cute Charm"]
+    "Ability Slots": {
+      "pk3": ["Cute Charm", "None"]
+    }
   },
   "Vulpix": {
     "Indices": {
@@ -1278,7 +1350,9 @@
       "Chinese Simplified": "六尾",
       "Chinese Traditional": "六尾"
     },
-    "Gen 3 Ability Slots": ["Flash Fire"]
+    "Ability Slots": {
+      "pk3": ["Flash Fire", "None"]
+    }
   },
   "Ninetales": {
     "Indices": {
@@ -1312,7 +1386,9 @@
       "Chinese Simplified": "九尾",
       "Chinese Traditional": "九尾"
     },
-    "Gen 3 Ability Slots": ["Flash Fire"]
+    "Ability Slots": {
+      "pk3": ["Flash Fire", "None"]
+    }
   },
   "Jigglypuff": {
     "Indices": {
@@ -1340,7 +1416,9 @@
       "Chinese Simplified": "胖丁",
       "Chinese Traditional": "胖丁"
     },
-    "Gen 3 Ability Slots": ["Cute Charm"]
+    "Ability Slots": {
+      "pk3": ["Cute Charm", "None"]
+    }
   },
   "Wigglytuff": {
     "Indices": {
@@ -1368,7 +1446,9 @@
       "Chinese Simplified": "胖可丁",
       "Chinese Traditional": "胖可丁"
     },
-    "Gen 3 Ability Slots": ["Cute Charm"]
+    "Ability Slots": {
+      "pk3": ["Cute Charm", "None"]
+    }
   },
   "Zubat": {
     "Indices": {
@@ -1396,7 +1476,9 @@
       "Chinese Simplified": "超音蝠",
       "Chinese Traditional": "超音蝠"
     },
-    "Gen 3 Ability Slots": ["Inner Focus"]
+    "Ability Slots": {
+      "pk3": ["Inner Focus", "None"]
+    }
   },
   "Golbat": {
     "Indices": {
@@ -1424,7 +1506,9 @@
       "Chinese Simplified": "大嘴蝠",
       "Chinese Traditional": "大嘴蝠"
     },
-    "Gen 3 Ability Slots": ["Inner Focus"]
+    "Ability Slots": {
+      "pk3": ["Inner Focus", "None"]
+    }
   },
   "Oddish": {
     "Indices": {
@@ -1452,7 +1536,9 @@
       "Chinese Simplified": "走路草",
       "Chinese Traditional": "走路草"
     },
-    "Gen 3 Ability Slots": ["Chlorophyll"]
+    "Ability Slots": {
+      "pk3": ["Chlorophyll", "None"]
+    }
   },
   "Gloom": {
     "Indices": {
@@ -1480,7 +1566,9 @@
       "Chinese Simplified": "臭臭花",
       "Chinese Traditional": "臭臭花"
     },
-    "Gen 3 Ability Slots": ["Chlorophyll"]
+    "Ability Slots": {
+      "pk3": ["Chlorophyll", "None"]
+    }
   },
   "Vileplume": {
     "Indices": {
@@ -1508,7 +1596,9 @@
       "Chinese Simplified": "霸王花",
       "Chinese Traditional": "霸王花"
     },
-    "Gen 3 Ability Slots": ["Chlorophyll"]
+    "Ability Slots": {
+      "pk3": ["Chlorophyll", "None"]
+    }
   },
   "Paras": {
     "Indices": {
@@ -1536,7 +1626,9 @@
       "Chinese Simplified": "派拉斯",
       "Chinese Traditional": "派拉斯"
     },
-    "Gen 3 Ability Slots": ["Effect Spore"]
+    "Ability Slots": {
+      "pk3": ["Effect Spore", "None"]
+    }
   },
   "Parasect": {
     "Indices": {
@@ -1564,7 +1656,9 @@
       "Chinese Simplified": "派拉斯特",
       "Chinese Traditional": "派拉斯特"
     },
-    "Gen 3 Ability Slots": ["Effect Spore"]
+    "Ability Slots": {
+      "pk3": ["Effect Spore", "None"]
+    }
   },
   "Venonat": {
     "Indices": {
@@ -1592,7 +1686,9 @@
       "Chinese Simplified": "毛球",
       "Chinese Traditional": "毛球"
     },
-    "Gen 3 Ability Slots": ["Compound Eyes"]
+    "Ability Slots": {
+      "pk3": ["Compound Eyes", "None"]
+    }
   },
   "Venomoth": {
     "Indices": {
@@ -1620,7 +1716,9 @@
       "Chinese Simplified": "摩鲁蛾",
       "Chinese Traditional": "摩魯蛾"
     },
-    "Gen 3 Ability Slots": ["Shield Dust"]
+    "Ability Slots": {
+      "pk3": ["Shield Dust", "None"]
+    }
   },
   "Diglett": {
     "Indices": {
@@ -1654,7 +1752,9 @@
       "Chinese Simplified": "地鼠",
       "Chinese Traditional": "地鼠"
     },
-    "Gen 3 Ability Slots": ["Sand Veil", "Arena Trap"]
+    "Ability Slots": {
+      "pk3": ["Sand Veil", "Arena Trap"]
+    }
   },
   "Dugtrio": {
     "Indices": {
@@ -1688,7 +1788,9 @@
       "Chinese Simplified": "三地鼠",
       "Chinese Traditional": "三地鼠"
     },
-    "Gen 3 Ability Slots": ["Sand Veil", "Arena Trap"]
+    "Ability Slots": {
+      "pk3": ["Sand Veil", "Arena Trap"]
+    }
   },
   "Meowth": {
     "Indices": {
@@ -1739,7 +1841,9 @@
       "Chinese Simplified": "喵喵",
       "Chinese Traditional": "喵喵"
     },
-    "Gen 3 Ability Slots": ["Pickup"]
+    "Ability Slots": {
+      "pk3": ["Pickup", "None"]
+    }
   },
   "Persian": {
     "Indices": {
@@ -1773,7 +1877,9 @@
       "Chinese Simplified": "猫老大",
       "Chinese Traditional": "貓老大"
     },
-    "Gen 3 Ability Slots": ["Limber"]
+    "Ability Slots": {
+      "pk3": ["Limber", "None"]
+    }
   },
   "Psyduck": {
     "Indices": {
@@ -1801,7 +1907,9 @@
       "Chinese Simplified": "可达鸭",
       "Chinese Traditional": "可達鴨"
     },
-    "Gen 3 Ability Slots": ["Damp", "Cloud Nine"]
+    "Ability Slots": {
+      "pk3": ["Damp", "Cloud Nine"]
+    }
   },
   "Golduck": {
     "Indices": {
@@ -1829,7 +1937,9 @@
       "Chinese Simplified": "哥达鸭",
       "Chinese Traditional": "哥達鴨"
     },
-    "Gen 3 Ability Slots": ["Damp", "Cloud Nine"]
+    "Ability Slots": {
+      "pk3": ["Damp", "Cloud Nine"]
+    }
   },
   "Mankey": {
     "Indices": {
@@ -1857,7 +1967,9 @@
       "Chinese Simplified": "猴怪",
       "Chinese Traditional": "猴怪"
     },
-    "Gen 3 Ability Slots": ["Vital Spirit"]
+    "Ability Slots": {
+      "pk3": ["Vital Spirit", "None"]
+    }
   },
   "Primeape": {
     "Indices": {
@@ -1885,7 +1997,9 @@
       "Chinese Simplified": "火暴猴",
       "Chinese Traditional": "火爆猴"
     },
-    "Gen 3 Ability Slots": ["Vital Spirit"]
+    "Ability Slots": {
+      "pk3": ["Vital Spirit", "None"]
+    }
   },
   "Growlithe": {
     "Indices": {
@@ -1913,7 +2027,9 @@
       "Chinese Simplified": "卡蒂狗",
       "Chinese Traditional": "卡蒂狗"
     },
-    "Gen 3 Ability Slots": ["Intimidate", "Flash Fire"]
+    "Ability Slots": {
+      "pk3": ["Intimidate", "Flash Fire"]
+    }
   },
   "Arcanine": {
     "Indices": {
@@ -1941,7 +2057,9 @@
       "Chinese Simplified": "风速狗",
       "Chinese Traditional": "風速狗"
     },
-    "Gen 3 Ability Slots": ["Intimidate", "Flash Fire"]
+    "Ability Slots": {
+      "pk3": ["Intimidate", "Flash Fire"]
+    }
   },
   "Poliwag": {
     "Indices": {
@@ -1969,7 +2087,9 @@
       "Chinese Simplified": "蚊香蝌蚪",
       "Chinese Traditional": "蚊香蝌蚪"
     },
-    "Gen 3 Ability Slots": ["Water Absorb", "Damp"]
+    "Ability Slots": {
+      "pk3": ["Water Absorb", "Damp"]
+    }
   },
   "Poliwhirl": {
     "Indices": {
@@ -1997,7 +2117,9 @@
       "Chinese Simplified": "蚊香君",
       "Chinese Traditional": "蚊香君"
     },
-    "Gen 3 Ability Slots": ["Water Absorb", "Damp"]
+    "Ability Slots": {
+      "pk3": ["Water Absorb", "Damp"]
+    }
   },
   "Poliwrath": {
     "Indices": {
@@ -2025,7 +2147,9 @@
       "Chinese Simplified": "蚊香泳士",
       "Chinese Traditional": "蚊香泳士"
     },
-    "Gen 3 Ability Slots": ["Water Absorb", "Damp"]
+    "Ability Slots": {
+      "pk3": ["Water Absorb", "Damp"]
+    }
   },
   "Abra": {
     "Indices": {
@@ -2053,7 +2177,9 @@
       "Chinese Simplified": "凯西",
       "Chinese Traditional": "凱西"
     },
-    "Gen 3 Ability Slots": ["Synchronize", "Inner Focus"]
+    "Ability Slots": {
+      "pk3": ["Synchronize", "Inner Focus"]
+    }
   },
   "Kadabra": {
     "Indices": {
@@ -2081,7 +2207,9 @@
       "Chinese Simplified": "勇基拉",
       "Chinese Traditional": "勇基拉"
     },
-    "Gen 3 Ability Slots": ["Synchronize", "Inner Focus"]
+    "Ability Slots": {
+      "pk3": ["Synchronize", "Inner Focus"]
+    }
   },
   "Alakazam": {
     "Indices": {
@@ -2121,7 +2249,9 @@
       "Chinese Simplified": "胡地",
       "Chinese Traditional": "胡地"
     },
-    "Gen 3 Ability Slots": ["Synchronize", "Inner Focus"]
+    "Ability Slots": {
+      "pk3": ["Synchronize", "Inner Focus"]
+    }
   },
   "Machop": {
     "Indices": {
@@ -2149,7 +2279,9 @@
       "Chinese Simplified": "腕力",
       "Chinese Traditional": "腕力"
     },
-    "Gen 3 Ability Slots": ["Guts"]
+    "Ability Slots": {
+      "pk3": ["Guts", "None"]
+    }
   },
   "Machoke": {
     "Indices": {
@@ -2177,7 +2309,9 @@
       "Chinese Simplified": "豪力",
       "Chinese Traditional": "豪力"
     },
-    "Gen 3 Ability Slots": ["Guts"]
+    "Ability Slots": {
+      "pk3": ["Guts", "None"]
+    }
   },
   "Machamp": {
     "Indices": {
@@ -2216,7 +2350,9 @@
       "Chinese Simplified": "怪力",
       "Chinese Traditional": "怪力"
     },
-    "Gen 3 Ability Slots": ["Guts"]
+    "Ability Slots": {
+      "pk3": ["Guts", "None"]
+    }
   },
   "Bellsprout": {
     "Indices": {
@@ -2244,7 +2380,9 @@
       "Chinese Simplified": "喇叭芽",
       "Chinese Traditional": "喇叭芽"
     },
-    "Gen 3 Ability Slots": ["Chlorophyll"]
+    "Ability Slots": {
+      "pk3": ["Chlorophyll", "None"]
+    }
   },
   "Weepinbell": {
     "Indices": {
@@ -2272,7 +2410,9 @@
       "Chinese Simplified": "口呆花",
       "Chinese Traditional": "口呆花"
     },
-    "Gen 3 Ability Slots": ["Chlorophyll"]
+    "Ability Slots": {
+      "pk3": ["Chlorophyll", "None"]
+    }
   },
   "Victreebel": {
     "Indices": {
@@ -2300,7 +2440,9 @@
       "Chinese Simplified": "大食花",
       "Chinese Traditional": "大食花"
     },
-    "Gen 3 Ability Slots": ["Chlorophyll"]
+    "Ability Slots": {
+      "pk3": ["Chlorophyll", "None"]
+    }
   },
   "Tentacool": {
     "Indices": {
@@ -2328,7 +2470,9 @@
       "Chinese Simplified": "玛瑙水母",
       "Chinese Traditional": "瑪瑙水母"
     },
-    "Gen 3 Ability Slots": ["Clear Body", "Liquid Ooze"]
+    "Ability Slots": {
+      "pk3": ["Clear Body", "Liquid Ooze"]
+    }
   },
   "Tentacruel": {
     "Indices": {
@@ -2356,7 +2500,9 @@
       "Chinese Simplified": "毒刺水母",
       "Chinese Traditional": "毒刺水母"
     },
-    "Gen 3 Ability Slots": ["Clear Body", "Liquid Ooze"]
+    "Ability Slots": {
+      "pk3": ["Clear Body", "Liquid Ooze"]
+    }
   },
   "Geodude": {
     "Indices": {
@@ -2390,7 +2536,9 @@
       "Chinese Simplified": "小拳石",
       "Chinese Traditional": "小拳石"
     },
-    "Gen 3 Ability Slots": ["Rock Head", "Sturdy"]
+    "Ability Slots": {
+      "pk3": ["Rock Head", "Sturdy"]
+    }
   },
   "Graveler": {
     "Indices": {
@@ -2424,7 +2572,9 @@
       "Chinese Simplified": "隆隆石",
       "Chinese Traditional": "隆隆石"
     },
-    "Gen 3 Ability Slots": ["Rock Head", "Sturdy"]
+    "Ability Slots": {
+      "pk3": ["Rock Head", "Sturdy"]
+    }
   },
   "Golem": {
     "Indices": {
@@ -2458,7 +2608,9 @@
       "Chinese Simplified": "隆隆岩",
       "Chinese Traditional": "隆隆岩"
     },
-    "Gen 3 Ability Slots": ["Rock Head", "Sturdy"]
+    "Ability Slots": {
+      "pk3": ["Rock Head", "Sturdy"]
+    }
   },
   "Ponyta": {
     "Indices": {
@@ -2492,7 +2644,9 @@
       "Chinese Simplified": "小火马",
       "Chinese Traditional": "小火馬"
     },
-    "Gen 3 Ability Slots": ["Run Away", "Flash Fire"]
+    "Ability Slots": {
+      "pk3": ["Run Away", "Flash Fire"]
+    }
   },
   "Rapidash": {
     "Indices": {
@@ -2526,7 +2680,9 @@
       "Chinese Simplified": "烈焰马",
       "Chinese Traditional": "烈焰馬"
     },
-    "Gen 3 Ability Slots": ["Run Away", "Flash Fire"]
+    "Ability Slots": {
+      "pk3": ["Run Away", "Flash Fire"]
+    }
   },
   "Slowpoke": {
     "Indices": {
@@ -2560,7 +2716,9 @@
       "Chinese Simplified": "呆呆兽",
       "Chinese Traditional": "呆呆獸"
     },
-    "Gen 3 Ability Slots": ["Oblivious", "Own Tempo"]
+    "Ability Slots": {
+      "pk3": ["Oblivious", "Own Tempo"]
+    }
   },
   "Slowbro": {
     "Indices": {
@@ -2600,7 +2758,9 @@
       "Chinese Simplified": "呆壳兽",
       "Chinese Traditional": "呆殼獸"
     },
-    "Gen 3 Ability Slots": ["Oblivious", "Own Tempo"]
+    "Ability Slots": {
+      "pk3": ["Oblivious", "Own Tempo"]
+    }
   },
   "Magnemite": {
     "Indices": {
@@ -2628,7 +2788,9 @@
       "Chinese Simplified": "小磁怪",
       "Chinese Traditional": "小磁怪"
     },
-    "Gen 3 Ability Slots": ["Magnet Pull", "Sturdy"]
+    "Ability Slots": {
+      "pk3": ["Magnet Pull", "Sturdy"]
+    }
   },
   "Magneton": {
     "Indices": {
@@ -2656,7 +2818,9 @@
       "Chinese Simplified": "三合一磁怪",
       "Chinese Traditional": "三合一磁怪"
     },
-    "Gen 3 Ability Slots": ["Magnet Pull", "Sturdy"]
+    "Ability Slots": {
+      "pk3": ["Magnet Pull", "Sturdy"]
+    }
   },
   "Farfetch’d": {
     "Indices": {
@@ -2690,7 +2854,9 @@
       "Chinese Simplified": "大葱鸭",
       "Chinese Traditional": "大蔥鴨"
     },
-    "Gen 3 Ability Slots": ["Keen Eye", "Inner Focus"]
+    "Ability Slots": {
+      "pk3": ["Keen Eye", "Inner Focus"]
+    }
   },
   "Doduo": {
     "Indices": {
@@ -2718,7 +2884,9 @@
       "Chinese Simplified": "嘟嘟",
       "Chinese Traditional": "嘟嘟"
     },
-    "Gen 3 Ability Slots": ["Run Away", "Early Bird"]
+    "Ability Slots": {
+      "pk3": ["Run Away", "Early Bird"]
+    }
   },
   "Dodrio": {
     "Indices": {
@@ -2746,7 +2914,9 @@
       "Chinese Simplified": "嘟嘟利",
       "Chinese Traditional": "嘟嘟利"
     },
-    "Gen 3 Ability Slots": ["Run Away", "Early Bird"]
+    "Ability Slots": {
+      "pk3": ["Run Away", "Early Bird"]
+    }
   },
   "Seel": {
     "Indices": {
@@ -2774,7 +2944,9 @@
       "Chinese Simplified": "小海狮",
       "Chinese Traditional": "小海獅"
     },
-    "Gen 3 Ability Slots": ["Thick Fat"]
+    "Ability Slots": {
+      "pk3": ["Thick Fat", "None"]
+    }
   },
   "Dewgong": {
     "Indices": {
@@ -2802,7 +2974,9 @@
       "Chinese Simplified": "白海狮",
       "Chinese Traditional": "白海獅"
     },
-    "Gen 3 Ability Slots": ["Thick Fat"]
+    "Ability Slots": {
+      "pk3": ["Thick Fat", "None"]
+    }
   },
   "Grimer": {
     "Indices": {
@@ -2836,7 +3010,9 @@
       "Chinese Simplified": "臭泥",
       "Chinese Traditional": "臭泥"
     },
-    "Gen 3 Ability Slots": ["Stench", "Sticky Hold"]
+    "Ability Slots": {
+      "pk3": ["Stench", "Sticky Hold"]
+    }
   },
   "Muk": {
     "Indices": {
@@ -2870,7 +3046,9 @@
       "Chinese Simplified": "臭臭泥",
       "Chinese Traditional": "臭臭泥"
     },
-    "Gen 3 Ability Slots": ["Stench", "Sticky Hold"]
+    "Ability Slots": {
+      "pk3": ["Stench", "Sticky Hold"]
+    }
   },
   "Shellder": {
     "Indices": {
@@ -2898,7 +3076,9 @@
       "Chinese Simplified": "大舌贝",
       "Chinese Traditional": "大舌貝"
     },
-    "Gen 3 Ability Slots": ["Shell Armor"]
+    "Ability Slots": {
+      "pk3": ["Shell Armor", "None"]
+    }
   },
   "Cloyster": {
     "Indices": {
@@ -2926,7 +3106,9 @@
       "Chinese Simplified": "刺甲贝",
       "Chinese Traditional": "刺甲貝"
     },
-    "Gen 3 Ability Slots": ["Shell Armor"]
+    "Ability Slots": {
+      "pk3": ["Shell Armor", "None"]
+    }
   },
   "Gastly": {
     "Indices": {
@@ -2954,7 +3136,9 @@
       "Chinese Simplified": "鬼斯",
       "Chinese Traditional": "鬼斯"
     },
-    "Gen 3 Ability Slots": ["Levitate"]
+    "Ability Slots": {
+      "pk3": ["Levitate", "None"]
+    }
   },
   "Haunter": {
     "Indices": {
@@ -2982,7 +3166,9 @@
       "Chinese Simplified": "鬼斯通",
       "Chinese Traditional": "鬼斯通"
     },
-    "Gen 3 Ability Slots": ["Levitate"]
+    "Ability Slots": {
+      "pk3": ["Levitate", "None"]
+    }
   },
   "Gengar": {
     "Indices": {
@@ -3031,7 +3217,9 @@
       "Chinese Simplified": "耿鬼",
       "Chinese Traditional": "耿鬼"
     },
-    "Gen 3 Ability Slots": ["Levitate"]
+    "Ability Slots": {
+      "pk3": ["Levitate", "None"]
+    }
   },
   "Onix": {
     "Indices": {
@@ -3059,7 +3247,9 @@
       "Chinese Simplified": "大岩蛇",
       "Chinese Traditional": "大岩蛇"
     },
-    "Gen 3 Ability Slots": ["Rock Head", "Sturdy"]
+    "Ability Slots": {
+      "pk3": ["Rock Head", "Sturdy"]
+    }
   },
   "Drowzee": {
     "Indices": {
@@ -3087,7 +3277,9 @@
       "Chinese Simplified": "催眠貘",
       "Chinese Traditional": "催眠貘"
     },
-    "Gen 3 Ability Slots": ["Insomnia"]
+    "Ability Slots": {
+      "pk3": ["Insomnia", "None"]
+    }
   },
   "Hypno": {
     "Indices": {
@@ -3115,7 +3307,9 @@
       "Chinese Simplified": "引梦貘人",
       "Chinese Traditional": "引夢貘人"
     },
-    "Gen 3 Ability Slots": ["Insomnia"]
+    "Ability Slots": {
+      "pk3": ["Insomnia", "None"]
+    }
   },
   "Krabby": {
     "Indices": {
@@ -3143,7 +3337,9 @@
       "Chinese Simplified": "大钳蟹",
       "Chinese Traditional": "大鉗蟹"
     },
-    "Gen 3 Ability Slots": ["Hyper Cutter", "Shell Armor"]
+    "Ability Slots": {
+      "pk3": ["Hyper Cutter", "Shell Armor"]
+    }
   },
   "Kingler": {
     "Indices": {
@@ -3182,7 +3378,9 @@
       "Chinese Simplified": "巨钳蟹",
       "Chinese Traditional": "巨鉗蟹"
     },
-    "Gen 3 Ability Slots": ["Hyper Cutter", "Shell Armor"]
+    "Ability Slots": {
+      "pk3": ["Hyper Cutter", "Shell Armor"]
+    }
   },
   "Voltorb": {
     "Indices": {
@@ -3210,7 +3408,9 @@
       "Chinese Simplified": "霹雳电球",
       "Chinese Traditional": "霹靂電球"
     },
-    "Gen 3 Ability Slots": ["Soundproof", "Static"]
+    "Ability Slots": {
+      "pk3": ["Soundproof", "Static"]
+    }
   },
   "Electrode": {
     "Indices": {
@@ -3238,7 +3438,9 @@
       "Chinese Simplified": "顽皮雷弹",
       "Chinese Traditional": "頑皮雷彈"
     },
-    "Gen 3 Ability Slots": ["Soundproof", "Static"]
+    "Ability Slots": {
+      "pk3": ["Soundproof", "Static"]
+    }
   },
   "Exeggcute": {
     "Indices": {
@@ -3266,7 +3468,9 @@
       "Chinese Simplified": "蛋蛋",
       "Chinese Traditional": "蛋蛋"
     },
-    "Gen 3 Ability Slots": ["Chlorophyll"]
+    "Ability Slots": {
+      "pk3": ["Chlorophyll", "None"]
+    }
   },
   "Exeggutor": {
     "Indices": {
@@ -3300,7 +3504,9 @@
       "Chinese Simplified": "椰蛋树",
       "Chinese Traditional": "椰蛋樹"
     },
-    "Gen 3 Ability Slots": ["Chlorophyll"]
+    "Ability Slots": {
+      "pk3": ["Chlorophyll", "None"]
+    }
   },
   "Cubone": {
     "Indices": {
@@ -3328,7 +3534,9 @@
       "Chinese Simplified": "卡拉卡拉",
       "Chinese Traditional": "卡拉卡拉"
     },
-    "Gen 3 Ability Slots": ["Rock Head", "Lightning Rod"]
+    "Ability Slots": {
+      "pk3": ["Rock Head", "Lightning Rod"]
+    }
   },
   "Marowak": {
     "Indices": {
@@ -3369,7 +3577,9 @@
       "Chinese Simplified": "嘎啦嘎啦",
       "Chinese Traditional": "嘎啦嘎啦"
     },
-    "Gen 3 Ability Slots": ["Rock Head", "Lightning Rod"]
+    "Ability Slots": {
+      "pk3": ["Rock Head", "Lightning Rod"]
+    }
   },
   "Hitmonlee": {
     "Indices": {
@@ -3397,7 +3607,9 @@
       "Chinese Simplified": "飞腿郎",
       "Chinese Traditional": "飛腿郎"
     },
-    "Gen 3 Ability Slots": ["Limber"]
+    "Ability Slots": {
+      "pk3": ["Limber", "None"]
+    }
   },
   "Hitmonchan": {
     "Indices": {
@@ -3425,7 +3637,9 @@
       "Chinese Simplified": "快拳郎",
       "Chinese Traditional": "快拳郎"
     },
-    "Gen 3 Ability Slots": ["Keen Eye"]
+    "Ability Slots": {
+      "pk3": ["Keen Eye", "None"]
+    }
   },
   "Lickitung": {
     "Indices": {
@@ -3453,7 +3667,9 @@
       "Chinese Simplified": "大舌头",
       "Chinese Traditional": "大舌頭"
     },
-    "Gen 3 Ability Slots": ["Own Tempo", "Oblivious"]
+    "Ability Slots": {
+      "pk3": ["Own Tempo", "Oblivious"]
+    }
   },
   "Koffing": {
     "Indices": {
@@ -3481,7 +3697,9 @@
       "Chinese Simplified": "瓦斯弹",
       "Chinese Traditional": "瓦斯彈"
     },
-    "Gen 3 Ability Slots": ["Levitate"]
+    "Ability Slots": {
+      "pk3": ["Levitate", "None"]
+    }
   },
   "Weezing": {
     "Indices": {
@@ -3515,7 +3733,9 @@
       "Chinese Simplified": "双弹瓦斯",
       "Chinese Traditional": "雙彈瓦斯"
     },
-    "Gen 3 Ability Slots": ["Levitate"]
+    "Ability Slots": {
+      "pk3": ["Levitate", "None"]
+    }
   },
   "Rhyhorn": {
     "Indices": {
@@ -3543,7 +3763,9 @@
       "Chinese Simplified": "独角犀牛",
       "Chinese Traditional": "獨角犀牛"
     },
-    "Gen 3 Ability Slots": ["Lightning Rod", "Rock Head"]
+    "Ability Slots": {
+      "pk3": ["Lightning Rod", "Rock Head"]
+    }
   },
   "Rhydon": {
     "Indices": {
@@ -3571,7 +3793,9 @@
       "Chinese Simplified": "钻角犀兽",
       "Chinese Traditional": "鑽角犀獸"
     },
-    "Gen 3 Ability Slots": ["Lightning Rod", "Rock Head"]
+    "Ability Slots": {
+      "pk3": ["Lightning Rod", "Rock Head"]
+    }
   },
   "Chansey": {
     "Indices": {
@@ -3599,7 +3823,9 @@
       "Chinese Simplified": "吉利蛋",
       "Chinese Traditional": "吉利蛋"
     },
-    "Gen 3 Ability Slots": ["Natural Cure", "Serene Grace"]
+    "Ability Slots": {
+      "pk3": ["Natural Cure", "Serene Grace"]
+    }
   },
   "Tangela": {
     "Indices": {
@@ -3627,7 +3853,9 @@
       "Chinese Simplified": "蔓藤怪",
       "Chinese Traditional": "蔓藤怪"
     },
-    "Gen 3 Ability Slots": ["Chlorophyll"]
+    "Ability Slots": {
+      "pk3": ["Chlorophyll", "None"]
+    }
   },
   "Kangaskhan": {
     "Indices": {
@@ -3667,7 +3895,9 @@
       "Chinese Simplified": "袋兽",
       "Chinese Traditional": "袋獸"
     },
-    "Gen 3 Ability Slots": ["Early Bird"]
+    "Ability Slots": {
+      "pk3": ["Early Bird", "None"]
+    }
   },
   "Horsea": {
     "Indices": {
@@ -3695,7 +3925,9 @@
       "Chinese Simplified": "墨海马",
       "Chinese Traditional": "墨海馬"
     },
-    "Gen 3 Ability Slots": ["Swift Swim"]
+    "Ability Slots": {
+      "pk3": ["Swift Swim", "None"]
+    }
   },
   "Seadra": {
     "Indices": {
@@ -3723,7 +3955,9 @@
       "Chinese Simplified": "海刺龙",
       "Chinese Traditional": "海刺龍"
     },
-    "Gen 3 Ability Slots": ["Poison Point"]
+    "Ability Slots": {
+      "pk3": ["Poison Point", "None"]
+    }
   },
   "Goldeen": {
     "Indices": {
@@ -3751,7 +3985,9 @@
       "Chinese Simplified": "角金鱼",
       "Chinese Traditional": "角金魚"
     },
-    "Gen 3 Ability Slots": ["Swift Swim", "Water Veil"]
+    "Ability Slots": {
+      "pk3": ["Swift Swim", "Water Veil"]
+    }
   },
   "Seaking": {
     "Indices": {
@@ -3779,7 +4015,9 @@
       "Chinese Simplified": "金鱼王",
       "Chinese Traditional": "金魚王"
     },
-    "Gen 3 Ability Slots": ["Swift Swim", "Water Veil"]
+    "Ability Slots": {
+      "pk3": ["Swift Swim", "Water Veil"]
+    }
   },
   "Staryu": {
     "Indices": {
@@ -3807,7 +4045,9 @@
       "Chinese Simplified": "海星星",
       "Chinese Traditional": "海星星"
     },
-    "Gen 3 Ability Slots": ["Illuminate", "Natural Cure"]
+    "Ability Slots": {
+      "pk3": ["Illuminate", "Natural Cure"]
+    }
   },
   "Starmie": {
     "Indices": {
@@ -3835,7 +4075,9 @@
       "Chinese Simplified": "宝石海星",
       "Chinese Traditional": "寶石海星"
     },
-    "Gen 3 Ability Slots": ["Illuminate", "Natural Cure"]
+    "Ability Slots": {
+      "pk3": ["Illuminate", "Natural Cure"]
+    }
   },
   "Mr. Mime": {
     "Indices": {
@@ -3869,7 +4111,9 @@
       "Chinese Simplified": "魔墙人偶",
       "Chinese Traditional": "魔牆人偶"
     },
-    "Gen 3 Ability Slots": ["Soundproof"]
+    "Ability Slots": {
+      "pk3": ["Soundproof", "None"]
+    }
   },
   "Scyther": {
     "Indices": {
@@ -3897,7 +4141,9 @@
       "Chinese Simplified": "飞天螳螂",
       "Chinese Traditional": "飛天螳螂"
     },
-    "Gen 3 Ability Slots": ["Swarm"]
+    "Ability Slots": {
+      "pk3": ["Swarm", "None"]
+    }
   },
   "Jynx": {
     "Indices": {
@@ -3925,7 +4171,9 @@
       "Chinese Simplified": "迷唇姐",
       "Chinese Traditional": "迷唇姐"
     },
-    "Gen 3 Ability Slots": ["Oblivious"]
+    "Ability Slots": {
+      "pk3": ["Oblivious", "None"]
+    }
   },
   "Electabuzz": {
     "Indices": {
@@ -3953,7 +4201,9 @@
       "Chinese Simplified": "电击兽",
       "Chinese Traditional": "電擊獸"
     },
-    "Gen 3 Ability Slots": ["Static"]
+    "Ability Slots": {
+      "pk3": ["Static", "None"]
+    }
   },
   "Magmar": {
     "Indices": {
@@ -3981,7 +4231,9 @@
       "Chinese Simplified": "鸭嘴火兽",
       "Chinese Traditional": "鴨嘴火獸"
     },
-    "Gen 3 Ability Slots": ["Flame Body"]
+    "Ability Slots": {
+      "pk3": ["Flame Body", "None"]
+    }
   },
   "Pinsir": {
     "Indices": {
@@ -4021,7 +4273,9 @@
       "Chinese Simplified": "凯罗斯",
       "Chinese Traditional": "凱羅斯"
     },
-    "Gen 3 Ability Slots": ["Hyper Cutter"]
+    "Ability Slots": {
+      "pk3": ["Hyper Cutter", "None"]
+    }
   },
   "Tauros": {
     "Indices": {
@@ -4049,7 +4303,9 @@
       "Chinese Simplified": "肯泰罗",
       "Chinese Traditional": "肯泰羅"
     },
-    "Gen 3 Ability Slots": ["Intimidate"]
+    "Ability Slots": {
+      "pk3": ["Intimidate", "None"]
+    }
   },
   "Magikarp": {
     "Indices": {
@@ -4077,7 +4333,9 @@
       "Chinese Simplified": "鲤鱼王",
       "Chinese Traditional": "鯉魚王"
     },
-    "Gen 3 Ability Slots": ["Swift Swim"]
+    "Ability Slots": {
+      "pk3": ["Swift Swim", "None"]
+    }
   },
   "Gyarados": {
     "Indices": {
@@ -4117,7 +4375,9 @@
       "Chinese Simplified": "暴鲤龙",
       "Chinese Traditional": "暴鯉龍"
     },
-    "Gen 3 Ability Slots": ["Intimidate"]
+    "Ability Slots": {
+      "pk3": ["Intimidate", "None"]
+    }
   },
   "Lapras": {
     "Indices": {
@@ -4156,7 +4416,9 @@
       "Chinese Simplified": "拉普拉斯",
       "Chinese Traditional": "拉普拉斯"
     },
-    "Gen 3 Ability Slots": ["Water Absorb", "Shell Armor"]
+    "Ability Slots": {
+      "pk3": ["Water Absorb", "Shell Armor"]
+    }
   },
   "Ditto": {
     "Indices": {
@@ -4184,7 +4446,9 @@
       "Chinese Simplified": "百变怪",
       "Chinese Traditional": "百變怪"
     },
-    "Gen 3 Ability Slots": ["Limber"]
+    "Ability Slots": {
+      "pk3": ["Limber", "None"]
+    }
   },
   "Eevee": {
     "Indices": {
@@ -4229,7 +4493,9 @@
       "Chinese Simplified": "伊布",
       "Chinese Traditional": "伊布"
     },
-    "Gen 3 Ability Slots": ["Run Away"]
+    "Ability Slots": {
+      "pk3": ["Run Away", "None"]
+    }
   },
   "Vaporeon": {
     "Indices": {
@@ -4257,7 +4523,9 @@
       "Chinese Simplified": "水伊布",
       "Chinese Traditional": "水伊布"
     },
-    "Gen 3 Ability Slots": ["Water Absorb"]
+    "Ability Slots": {
+      "pk3": ["Water Absorb", "None"]
+    }
   },
   "Jolteon": {
     "Indices": {
@@ -4285,7 +4553,9 @@
       "Chinese Simplified": "雷伊布",
       "Chinese Traditional": "雷伊布"
     },
-    "Gen 3 Ability Slots": ["Volt Absorb"]
+    "Ability Slots": {
+      "pk3": ["Volt Absorb", "None"]
+    }
   },
   "Flareon": {
     "Indices": {
@@ -4313,7 +4583,9 @@
       "Chinese Simplified": "火伊布",
       "Chinese Traditional": "火伊布"
     },
-    "Gen 3 Ability Slots": ["Flash Fire"]
+    "Ability Slots": {
+      "pk3": ["Flash Fire", "None"]
+    }
   },
   "Porygon": {
     "Indices": {
@@ -4341,7 +4613,9 @@
       "Chinese Simplified": "多边兽",
       "Chinese Traditional": "多邊獸"
     },
-    "Gen 3 Ability Slots": ["Trace"]
+    "Ability Slots": {
+      "pk3": ["Trace", "None"]
+    }
   },
   "Omanyte": {
     "Indices": {
@@ -4369,7 +4643,9 @@
       "Chinese Simplified": "菊石兽",
       "Chinese Traditional": "菊石獸"
     },
-    "Gen 3 Ability Slots": ["Swift Swim", "Shell Armor"]
+    "Ability Slots": {
+      "pk3": ["Swift Swim", "Shell Armor"]
+    }
   },
   "Omastar": {
     "Indices": {
@@ -4397,7 +4673,9 @@
       "Chinese Simplified": "多刺菊石兽",
       "Chinese Traditional": "多刺菊石獸"
     },
-    "Gen 3 Ability Slots": ["Swift Swim", "Shell Armor"]
+    "Ability Slots": {
+      "pk3": ["Swift Swim", "Shell Armor"]
+    }
   },
   "Kabuto": {
     "Indices": {
@@ -4425,7 +4703,9 @@
       "Chinese Simplified": "化石盔",
       "Chinese Traditional": "化石盔"
     },
-    "Gen 3 Ability Slots": ["Swift Swim", "Battle Armor"]
+    "Ability Slots": {
+      "pk3": ["Swift Swim", "Battle Armor"]
+    }
   },
   "Kabutops": {
     "Indices": {
@@ -4453,7 +4733,9 @@
       "Chinese Simplified": "镰刀盔",
       "Chinese Traditional": "鐮刀盔"
     },
-    "Gen 3 Ability Slots": ["Swift Swim", "Battle Armor"]
+    "Ability Slots": {
+      "pk3": ["Swift Swim", "Battle Armor"]
+    }
   },
   "Aerodactyl": {
     "Indices": {
@@ -4493,7 +4775,9 @@
       "Chinese Simplified": "化石翼龙",
       "Chinese Traditional": "化石翼龍"
     },
-    "Gen 3 Ability Slots": ["Rock Head", "Pressure"]
+    "Ability Slots": {
+      "pk3": ["Rock Head", "Pressure"]
+    }
   },
   "Snorlax": {
     "Indices": {
@@ -4532,7 +4816,9 @@
       "Chinese Simplified": "卡比兽",
       "Chinese Traditional": "卡比獸"
     },
-    "Gen 3 Ability Slots": ["Immunity", "Thick Fat"]
+    "Ability Slots": {
+      "pk3": ["Immunity", "Thick Fat"]
+    }
   },
   "Articuno": {
     "Indices": {
@@ -4566,7 +4852,9 @@
       "Chinese Simplified": "急冻鸟",
       "Chinese Traditional": "急凍鳥"
     },
-    "Gen 3 Ability Slots": ["Pressure"]
+    "Ability Slots": {
+      "pk3": ["Pressure", "None"]
+    }
   },
   "Zapdos": {
     "Indices": {
@@ -4600,7 +4888,9 @@
       "Chinese Simplified": "闪电鸟",
       "Chinese Traditional": "閃電鳥"
     },
-    "Gen 3 Ability Slots": ["Pressure"]
+    "Ability Slots": {
+      "pk3": ["Pressure", "None"]
+    }
   },
   "Moltres": {
     "Indices": {
@@ -4634,7 +4924,9 @@
       "Chinese Simplified": "火焰鸟",
       "Chinese Traditional": "火焰鳥"
     },
-    "Gen 3 Ability Slots": ["Pressure"]
+    "Ability Slots": {
+      "pk3": ["Pressure", "None"]
+    }
   },
   "Dratini": {
     "Indices": {
@@ -4662,7 +4954,9 @@
       "Chinese Simplified": "迷你龙",
       "Chinese Traditional": "迷你龍"
     },
-    "Gen 3 Ability Slots": ["Shed Skin"]
+    "Ability Slots": {
+      "pk3": ["Shed Skin", "None"]
+    }
   },
   "Dragonair": {
     "Indices": {
@@ -4690,7 +4984,9 @@
       "Chinese Simplified": "哈克龙",
       "Chinese Traditional": "哈克龍"
     },
-    "Gen 3 Ability Slots": ["Shed Skin"]
+    "Ability Slots": {
+      "pk3": ["Shed Skin", "None"]
+    }
   },
   "Dragonite": {
     "Indices": {
@@ -4718,7 +5014,9 @@
       "Chinese Simplified": "快龙",
       "Chinese Traditional": "快龍"
     },
-    "Gen 3 Ability Slots": ["Inner Focus"]
+    "Ability Slots": {
+      "pk3": ["Inner Focus", "None"]
+    }
   },
   "Mewtwo": {
     "Indices": {
@@ -4768,7 +5066,9 @@
       "Chinese Simplified": "超梦",
       "Chinese Traditional": "超夢"
     },
-    "Gen 3 Ability Slots": ["Pressure"]
+    "Ability Slots": {
+      "pk3": ["Pressure", "None"]
+    }
   },
   "Mew": {
     "Indices": {
@@ -4796,7 +5096,9 @@
       "Chinese Simplified": "梦幻",
       "Chinese Traditional": "夢幻"
     },
-    "Gen 3 Ability Slots": ["Synchronize"]
+    "Ability Slots": {
+      "pk3": ["Synchronize", "None"]
+    }
   },
   "Chikorita": {
     "Indices": {
@@ -4824,7 +5126,9 @@
       "Chinese Simplified": "菊草叶",
       "Chinese Traditional": "菊草葉"
     },
-    "Gen 3 Ability Slots": ["Overgrow"]
+    "Ability Slots": {
+      "pk3": ["Overgrow", "None"]
+    }
   },
   "Bayleef": {
     "Indices": {
@@ -4852,7 +5156,9 @@
       "Chinese Simplified": "月桂叶",
       "Chinese Traditional": "月桂葉"
     },
-    "Gen 3 Ability Slots": ["Overgrow"]
+    "Ability Slots": {
+      "pk3": ["Overgrow", "None"]
+    }
   },
   "Meganium": {
     "Indices": {
@@ -4880,7 +5186,9 @@
       "Chinese Simplified": "大竺葵",
       "Chinese Traditional": "大竺葵"
     },
-    "Gen 3 Ability Slots": ["Overgrow"]
+    "Ability Slots": {
+      "pk3": ["Overgrow", "None"]
+    }
   },
   "Cyndaquil": {
     "Indices": {
@@ -4908,7 +5216,9 @@
       "Chinese Simplified": "火球鼠",
       "Chinese Traditional": "火球鼠"
     },
-    "Gen 3 Ability Slots": ["Blaze"]
+    "Ability Slots": {
+      "pk3": ["Blaze", "None"]
+    }
   },
   "Quilava": {
     "Indices": {
@@ -4936,7 +5246,9 @@
       "Chinese Simplified": "火岩鼠",
       "Chinese Traditional": "火岩鼠"
     },
-    "Gen 3 Ability Slots": ["Blaze"]
+    "Ability Slots": {
+      "pk3": ["Blaze", "None"]
+    }
   },
   "Typhlosion": {
     "Indices": {
@@ -4964,7 +5276,9 @@
       "Chinese Simplified": "火暴兽",
       "Chinese Traditional": "火爆獸"
     },
-    "Gen 3 Ability Slots": ["Blaze"]
+    "Ability Slots": {
+      "pk3": ["Blaze", "None"]
+    }
   },
   "Totodile": {
     "Indices": {
@@ -4992,7 +5306,9 @@
       "Chinese Simplified": "小锯鳄",
       "Chinese Traditional": "小鋸鱷"
     },
-    "Gen 3 Ability Slots": ["Torrent"]
+    "Ability Slots": {
+      "pk3": ["Torrent", "None"]
+    }
   },
   "Croconaw": {
     "Indices": {
@@ -5020,7 +5336,9 @@
       "Chinese Simplified": "蓝鳄",
       "Chinese Traditional": "藍鱷"
     },
-    "Gen 3 Ability Slots": ["Torrent"]
+    "Ability Slots": {
+      "pk3": ["Torrent", "None"]
+    }
   },
   "Feraligatr": {
     "Indices": {
@@ -5048,7 +5366,9 @@
       "Chinese Simplified": "大力鳄",
       "Chinese Traditional": "大力鱷"
     },
-    "Gen 3 Ability Slots": ["Torrent"]
+    "Ability Slots": {
+      "pk3": ["Torrent", "None"]
+    }
   },
   "Sentret": {
     "Indices": {
@@ -5076,7 +5396,9 @@
       "Chinese Simplified": "尾立",
       "Chinese Traditional": "尾立"
     },
-    "Gen 3 Ability Slots": ["Run Away", "Keen Eye"]
+    "Ability Slots": {
+      "pk3": ["Run Away", "Keen Eye"]
+    }
   },
   "Furret": {
     "Indices": {
@@ -5104,7 +5426,9 @@
       "Chinese Simplified": "大尾立",
       "Chinese Traditional": "大尾立"
     },
-    "Gen 3 Ability Slots": ["Run Away", "Keen Eye"]
+    "Ability Slots": {
+      "pk3": ["Run Away", "Keen Eye"]
+    }
   },
   "Hoothoot": {
     "Indices": {
@@ -5132,7 +5456,9 @@
       "Chinese Simplified": "咕咕",
       "Chinese Traditional": "咕咕"
     },
-    "Gen 3 Ability Slots": ["Insomnia", "Keen Eye"]
+    "Ability Slots": {
+      "pk3": ["Insomnia", "Keen Eye"]
+    }
   },
   "Noctowl": {
     "Indices": {
@@ -5160,7 +5486,9 @@
       "Chinese Simplified": "猫头夜鹰",
       "Chinese Traditional": "貓頭夜鷹"
     },
-    "Gen 3 Ability Slots": ["Insomnia", "Keen Eye"]
+    "Ability Slots": {
+      "pk3": ["Insomnia", "Keen Eye"]
+    }
   },
   "Ledyba": {
     "Indices": {
@@ -5188,7 +5516,9 @@
       "Chinese Simplified": "芭瓢虫",
       "Chinese Traditional": "芭瓢蟲"
     },
-    "Gen 3 Ability Slots": ["Swarm", "Early Bird"]
+    "Ability Slots": {
+      "pk3": ["Swarm", "Early Bird"]
+    }
   },
   "Ledian": {
     "Indices": {
@@ -5216,7 +5546,9 @@
       "Chinese Simplified": "安瓢虫",
       "Chinese Traditional": "安瓢蟲"
     },
-    "Gen 3 Ability Slots": ["Swarm", "Early Bird"]
+    "Ability Slots": {
+      "pk3": ["Swarm", "Early Bird"]
+    }
   },
   "Spinarak": {
     "Indices": {
@@ -5244,7 +5576,9 @@
       "Chinese Simplified": "圆丝蛛",
       "Chinese Traditional": "圓絲蛛"
     },
-    "Gen 3 Ability Slots": ["Swarm", "Insomnia"]
+    "Ability Slots": {
+      "pk3": ["Swarm", "Insomnia"]
+    }
   },
   "Ariados": {
     "Indices": {
@@ -5272,7 +5606,9 @@
       "Chinese Simplified": "阿利多斯",
       "Chinese Traditional": "阿利多斯"
     },
-    "Gen 3 Ability Slots": ["Swarm", "Insomnia"]
+    "Ability Slots": {
+      "pk3": ["Swarm", "Insomnia"]
+    }
   },
   "Crobat": {
     "Indices": {
@@ -5300,7 +5636,9 @@
       "Chinese Simplified": "叉字蝠",
       "Chinese Traditional": "叉字蝠"
     },
-    "Gen 3 Ability Slots": ["Inner Focus"]
+    "Ability Slots": {
+      "pk3": ["Inner Focus", "None"]
+    }
   },
   "Chinchou": {
     "Indices": {
@@ -5328,7 +5666,9 @@
       "Chinese Simplified": "灯笼鱼",
       "Chinese Traditional": "燈籠魚"
     },
-    "Gen 3 Ability Slots": ["Volt Absorb", "Illuminate"]
+    "Ability Slots": {
+      "pk3": ["Volt Absorb", "Illuminate"]
+    }
   },
   "Lanturn": {
     "Indices": {
@@ -5356,7 +5696,9 @@
       "Chinese Simplified": "电灯怪",
       "Chinese Traditional": "電燈怪"
     },
-    "Gen 3 Ability Slots": ["Volt Absorb", "Illuminate"]
+    "Ability Slots": {
+      "pk3": ["Volt Absorb", "Illuminate"]
+    }
   },
   "Pichu": {
     "Indices": {
@@ -5391,7 +5733,9 @@
       "Chinese Simplified": "皮丘",
       "Chinese Traditional": "皮丘"
     },
-    "Gen 3 Ability Slots": ["Static"]
+    "Ability Slots": {
+      "pk3": ["Static", "None"]
+    }
   },
   "Cleffa": {
     "Indices": {
@@ -5419,7 +5763,9 @@
       "Chinese Simplified": "皮宝宝",
       "Chinese Traditional": "皮寶寶"
     },
-    "Gen 3 Ability Slots": ["Cute Charm"]
+    "Ability Slots": {
+      "pk3": ["Cute Charm", "None"]
+    }
   },
   "Igglybuff": {
     "Indices": {
@@ -5447,7 +5793,9 @@
       "Chinese Simplified": "宝宝丁",
       "Chinese Traditional": "寶寶丁"
     },
-    "Gen 3 Ability Slots": ["Cute Charm"]
+    "Ability Slots": {
+      "pk3": ["Cute Charm", "None"]
+    }
   },
   "Togepi": {
     "Indices": {
@@ -5475,7 +5823,9 @@
       "Chinese Simplified": "波克比",
       "Chinese Traditional": "波克比"
     },
-    "Gen 3 Ability Slots": ["Hustle", "Serene Grace"]
+    "Ability Slots": {
+      "pk3": ["Hustle", "Serene Grace"]
+    }
   },
   "Togetic": {
     "Indices": {
@@ -5503,7 +5853,9 @@
       "Chinese Simplified": "波克基古",
       "Chinese Traditional": "波克基古"
     },
-    "Gen 3 Ability Slots": ["Hustle", "Serene Grace"]
+    "Ability Slots": {
+      "pk3": ["Hustle", "Serene Grace"]
+    }
   },
   "Natu": {
     "Indices": {
@@ -5531,7 +5883,9 @@
       "Chinese Simplified": "天然雀",
       "Chinese Traditional": "天然雀"
     },
-    "Gen 3 Ability Slots": ["Synchronize", "Early Bird"]
+    "Ability Slots": {
+      "pk3": ["Synchronize", "Early Bird"]
+    }
   },
   "Xatu": {
     "Indices": {
@@ -5559,7 +5913,9 @@
       "Chinese Simplified": "天然鸟",
       "Chinese Traditional": "天然鳥"
     },
-    "Gen 3 Ability Slots": ["Synchronize", "Early Bird"]
+    "Ability Slots": {
+      "pk3": ["Synchronize", "Early Bird"]
+    }
   },
   "Mareep": {
     "Indices": {
@@ -5587,7 +5943,9 @@
       "Chinese Simplified": "咩利羊",
       "Chinese Traditional": "咩利羊"
     },
-    "Gen 3 Ability Slots": ["Static"]
+    "Ability Slots": {
+      "pk3": ["Static", "None"]
+    }
   },
   "Flaaffy": {
     "Indices": {
@@ -5615,7 +5973,9 @@
       "Chinese Simplified": "茸茸羊",
       "Chinese Traditional": "茸茸羊"
     },
-    "Gen 3 Ability Slots": ["Static"]
+    "Ability Slots": {
+      "pk3": ["Static", "None"]
+    }
   },
   "Ampharos": {
     "Indices": {
@@ -5655,7 +6015,9 @@
       "Chinese Simplified": "电龙",
       "Chinese Traditional": "電龍"
     },
-    "Gen 3 Ability Slots": ["Static"]
+    "Ability Slots": {
+      "pk3": ["Static", "None"]
+    }
   },
   "Bellossom": {
     "Indices": {
@@ -5683,7 +6045,9 @@
       "Chinese Simplified": "美丽花",
       "Chinese Traditional": "美麗花"
     },
-    "Gen 3 Ability Slots": ["Chlorophyll"]
+    "Ability Slots": {
+      "pk3": ["Chlorophyll", "None"]
+    }
   },
   "Marill": {
     "Indices": {
@@ -5711,7 +6075,9 @@
       "Chinese Simplified": "玛力露",
       "Chinese Traditional": "瑪力露"
     },
-    "Gen 3 Ability Slots": ["Thick Fat", "Huge Power"]
+    "Ability Slots": {
+      "pk3": ["Thick Fat", "Huge Power"]
+    }
   },
   "Azumarill": {
     "Indices": {
@@ -5739,7 +6105,9 @@
       "Chinese Simplified": "玛力露丽",
       "Chinese Traditional": "瑪力露麗"
     },
-    "Gen 3 Ability Slots": ["Thick Fat", "Huge Power"]
+    "Ability Slots": {
+      "pk3": ["Thick Fat", "Huge Power"]
+    }
   },
   "Sudowoodo": {
     "Indices": {
@@ -5767,7 +6135,9 @@
       "Chinese Simplified": "树才怪",
       "Chinese Traditional": "樹才怪"
     },
-    "Gen 3 Ability Slots": ["Sturdy", "Rock Head"]
+    "Ability Slots": {
+      "pk3": ["Sturdy", "Rock Head"]
+    }
   },
   "Politoed": {
     "Indices": {
@@ -5795,7 +6165,9 @@
       "Chinese Simplified": "蚊香蛙皇",
       "Chinese Traditional": "蚊香蛙皇"
     },
-    "Gen 3 Ability Slots": ["Water Absorb", "Damp"]
+    "Ability Slots": {
+      "pk3": ["Water Absorb", "Damp"]
+    }
   },
   "Hoppip": {
     "Indices": {
@@ -5823,7 +6195,9 @@
       "Chinese Simplified": "毽子草",
       "Chinese Traditional": "毽子草"
     },
-    "Gen 3 Ability Slots": ["Chlorophyll"]
+    "Ability Slots": {
+      "pk3": ["Chlorophyll", "None"]
+    }
   },
   "Skiploom": {
     "Indices": {
@@ -5851,7 +6225,9 @@
       "Chinese Simplified": "毽子花",
       "Chinese Traditional": "毽子花"
     },
-    "Gen 3 Ability Slots": ["Chlorophyll"]
+    "Ability Slots": {
+      "pk3": ["Chlorophyll", "None"]
+    }
   },
   "Jumpluff": {
     "Indices": {
@@ -5879,7 +6255,9 @@
       "Chinese Simplified": "毽子棉",
       "Chinese Traditional": "毽子棉"
     },
-    "Gen 3 Ability Slots": ["Chlorophyll"]
+    "Ability Slots": {
+      "pk3": ["Chlorophyll", "None"]
+    }
   },
   "Aipom": {
     "Indices": {
@@ -5907,7 +6285,9 @@
       "Chinese Simplified": "长尾怪手",
       "Chinese Traditional": "長尾怪手"
     },
-    "Gen 3 Ability Slots": ["Run Away", "Pickup"]
+    "Ability Slots": {
+      "pk3": ["Run Away", "Pickup"]
+    }
   },
   "Sunkern": {
     "Indices": {
@@ -5935,7 +6315,9 @@
       "Chinese Simplified": "向日种子",
       "Chinese Traditional": "向日種子"
     },
-    "Gen 3 Ability Slots": ["Chlorophyll"]
+    "Ability Slots": {
+      "pk3": ["Chlorophyll", "None"]
+    }
   },
   "Sunflora": {
     "Indices": {
@@ -5963,7 +6345,9 @@
       "Chinese Simplified": "向日花怪",
       "Chinese Traditional": "向日花怪"
     },
-    "Gen 3 Ability Slots": ["Chlorophyll"]
+    "Ability Slots": {
+      "pk3": ["Chlorophyll", "None"]
+    }
   },
   "Yanma": {
     "Indices": {
@@ -5991,7 +6375,9 @@
       "Chinese Simplified": "蜻蜻蜓",
       "Chinese Traditional": "蜻蜻蜓"
     },
-    "Gen 3 Ability Slots": ["Speed Boost", "Compound Eyes"]
+    "Ability Slots": {
+      "pk3": ["Speed Boost", "Compound Eyes"]
+    }
   },
   "Wooper": {
     "Indices": {
@@ -6019,7 +6405,9 @@
       "Chinese Simplified": "乌波",
       "Chinese Traditional": "烏波"
     },
-    "Gen 3 Ability Slots": ["Damp", "Water Absorb"]
+    "Ability Slots": {
+      "pk3": ["Damp", "Water Absorb"]
+    }
   },
   "Quagsire": {
     "Indices": {
@@ -6047,7 +6435,9 @@
       "Chinese Simplified": "沼王",
       "Chinese Traditional": "沼王"
     },
-    "Gen 3 Ability Slots": ["Damp", "Water Absorb"]
+    "Ability Slots": {
+      "pk3": ["Damp", "Water Absorb"]
+    }
   },
   "Espeon": {
     "Indices": {
@@ -6075,7 +6465,9 @@
       "Chinese Simplified": "太阳伊布",
       "Chinese Traditional": "太陽伊布"
     },
-    "Gen 3 Ability Slots": ["Synchronize"]
+    "Ability Slots": {
+      "pk3": ["Synchronize", "None"]
+    }
   },
   "Umbreon": {
     "Indices": {
@@ -6103,7 +6495,9 @@
       "Chinese Simplified": "月亮伊布",
       "Chinese Traditional": "月亮伊布"
     },
-    "Gen 3 Ability Slots": ["Synchronize"]
+    "Ability Slots": {
+      "pk3": ["Synchronize", "None"]
+    }
   },
   "Murkrow": {
     "Indices": {
@@ -6131,7 +6525,9 @@
       "Chinese Simplified": "黑暗鸦",
       "Chinese Traditional": "黑暗鴉"
     },
-    "Gen 3 Ability Slots": ["Insomnia"]
+    "Ability Slots": {
+      "pk3": ["Insomnia", "None"]
+    }
   },
   "Slowking": {
     "Indices": {
@@ -6165,7 +6561,9 @@
       "Chinese Simplified": "呆呆王",
       "Chinese Traditional": "呆呆王"
     },
-    "Gen 3 Ability Slots": ["Oblivious", "Own Tempo"]
+    "Ability Slots": {
+      "pk3": ["Oblivious", "Own Tempo"]
+    }
   },
   "Misdreavus": {
     "Indices": {
@@ -6193,7 +6591,9 @@
       "Chinese Simplified": "梦妖",
       "Chinese Traditional": "夢妖"
     },
-    "Gen 3 Ability Slots": ["Levitate"]
+    "Ability Slots": {
+      "pk3": ["Levitate", "None"]
+    }
   },
   "Unown": {
     "Indices": {
@@ -6411,7 +6811,9 @@
       "Chinese Simplified": "未知图腾",
       "Chinese Traditional": "未知圖騰"
     },
-    "Gen 3 Ability Slots": ["Levitate"]
+    "Ability Slots": {
+      "pk3": ["Levitate", "None"]
+    }
   },
   "Wobbuffet": {
     "Indices": {
@@ -6439,7 +6841,9 @@
       "Chinese Simplified": "果然翁",
       "Chinese Traditional": "果然翁"
     },
-    "Gen 3 Ability Slots": ["Shadow Tag"]
+    "Ability Slots": {
+      "pk3": ["Shadow Tag", "None"]
+    }
   },
   "Girafarig": {
     "Indices": {
@@ -6467,7 +6871,9 @@
       "Chinese Simplified": "麒麟奇",
       "Chinese Traditional": "麒麟奇"
     },
-    "Gen 3 Ability Slots": ["Inner Focus", "Early Bird"]
+    "Ability Slots": {
+      "pk3": ["Inner Focus", "Early Bird"]
+    }
   },
   "Pineco": {
     "Indices": {
@@ -6495,7 +6901,9 @@
       "Chinese Simplified": "榛果球",
       "Chinese Traditional": "榛果球"
     },
-    "Gen 3 Ability Slots": ["Sturdy"]
+    "Ability Slots": {
+      "pk3": ["Sturdy", "None"]
+    }
   },
   "Forretress": {
     "Indices": {
@@ -6523,7 +6931,9 @@
       "Chinese Simplified": "佛烈托斯",
       "Chinese Traditional": "佛烈托斯"
     },
-    "Gen 3 Ability Slots": ["Sturdy"]
+    "Ability Slots": {
+      "pk3": ["Sturdy", "None"]
+    }
   },
   "Dunsparce": {
     "Indices": {
@@ -6551,7 +6961,9 @@
       "Chinese Simplified": "土龙弟弟",
       "Chinese Traditional": "土龍弟弟"
     },
-    "Gen 3 Ability Slots": ["Serene Grace", "Run Away"]
+    "Ability Slots": {
+      "pk3": ["Serene Grace", "Run Away"]
+    }
   },
   "Gligar": {
     "Indices": {
@@ -6579,7 +6991,9 @@
       "Chinese Simplified": "天蝎",
       "Chinese Traditional": "天蠍"
     },
-    "Gen 3 Ability Slots": ["Hyper Cutter", "Sand Veil"]
+    "Ability Slots": {
+      "pk3": ["Hyper Cutter", "Sand Veil"]
+    }
   },
   "Steelix": {
     "Indices": {
@@ -6619,7 +7033,9 @@
       "Chinese Simplified": "大钢蛇",
       "Chinese Traditional": "大鋼蛇"
     },
-    "Gen 3 Ability Slots": ["Rock Head", "Sturdy"]
+    "Ability Slots": {
+      "pk3": ["Rock Head", "Sturdy"]
+    }
   },
   "Snubbull": {
     "Indices": {
@@ -6647,7 +7063,9 @@
       "Chinese Simplified": "布鲁",
       "Chinese Traditional": "布魯"
     },
-    "Gen 3 Ability Slots": ["Intimidate", "Run Away"]
+    "Ability Slots": {
+      "pk3": ["Intimidate", "Run Away"]
+    }
   },
   "Granbull": {
     "Indices": {
@@ -6675,7 +7093,9 @@
       "Chinese Simplified": "布鲁皇",
       "Chinese Traditional": "布魯皇"
     },
-    "Gen 3 Ability Slots": ["Intimidate", "Intimidate"]
+    "Ability Slots": {
+      "pk3": ["Intimidate", "Intimidate"]
+    }
   },
   "Qwilfish": {
     "Indices": {
@@ -6703,7 +7123,9 @@
       "Chinese Simplified": "千针鱼",
       "Chinese Traditional": "千針魚"
     },
-    "Gen 3 Ability Slots": ["Poison Point", "Swift Swim"]
+    "Ability Slots": {
+      "pk3": ["Poison Point", "Swift Swim"]
+    }
   },
   "Scizor": {
     "Indices": {
@@ -6743,7 +7165,9 @@
       "Chinese Simplified": "巨钳螳螂",
       "Chinese Traditional": "巨鉗螳螂"
     },
-    "Gen 3 Ability Slots": ["Swarm"]
+    "Ability Slots": {
+      "pk3": ["Swarm", "None"]
+    }
   },
   "Shuckle": {
     "Indices": {
@@ -6771,7 +7195,9 @@
       "Chinese Simplified": "壶壶",
       "Chinese Traditional": "壺壺"
     },
-    "Gen 3 Ability Slots": ["Sturdy"]
+    "Ability Slots": {
+      "pk3": ["Sturdy", "None"]
+    }
   },
   "Heracross": {
     "Indices": {
@@ -6811,7 +7237,9 @@
       "Chinese Simplified": "赫拉克罗斯",
       "Chinese Traditional": "赫拉克羅斯"
     },
-    "Gen 3 Ability Slots": ["Swarm", "Guts"]
+    "Ability Slots": {
+      "pk3": ["Swarm", "Guts"]
+    }
   },
   "Sneasel": {
     "Indices": {
@@ -6839,7 +7267,9 @@
       "Chinese Simplified": "狃拉",
       "Chinese Traditional": "狃拉"
     },
-    "Gen 3 Ability Slots": ["Inner Focus", "Keen Eye"]
+    "Ability Slots": {
+      "pk3": ["Inner Focus", "Keen Eye"]
+    }
   },
   "Teddiursa": {
     "Indices": {
@@ -6867,7 +7297,9 @@
       "Chinese Simplified": "熊宝宝",
       "Chinese Traditional": "熊寶寶"
     },
-    "Gen 3 Ability Slots": ["Pickup"]
+    "Ability Slots": {
+      "pk3": ["Pickup", "None"]
+    }
   },
   "Ursaring": {
     "Indices": {
@@ -6895,7 +7327,9 @@
       "Chinese Simplified": "圈圈熊",
       "Chinese Traditional": "圈圈熊"
     },
-    "Gen 3 Ability Slots": ["Guts"]
+    "Ability Slots": {
+      "pk3": ["Guts", "None"]
+    }
   },
   "Slugma": {
     "Indices": {
@@ -6923,7 +7357,9 @@
       "Chinese Simplified": "熔岩虫",
       "Chinese Traditional": "熔岩蟲"
     },
-    "Gen 3 Ability Slots": ["Magma Armor", "Flame Body"]
+    "Ability Slots": {
+      "pk3": ["Magma Armor", "Flame Body"]
+    }
   },
   "Magcargo": {
     "Indices": {
@@ -6951,7 +7387,9 @@
       "Chinese Simplified": "熔岩蜗牛",
       "Chinese Traditional": "熔岩蝸牛"
     },
-    "Gen 3 Ability Slots": ["Magma Armor", "Flame Body"]
+    "Ability Slots": {
+      "pk3": ["Magma Armor", "Flame Body"]
+    }
   },
   "Swinub": {
     "Indices": {
@@ -6979,7 +7417,9 @@
       "Chinese Simplified": "小山猪",
       "Chinese Traditional": "小山豬"
     },
-    "Gen 3 Ability Slots": ["Oblivious"]
+    "Ability Slots": {
+      "pk3": ["Oblivious", "None"]
+    }
   },
   "Piloswine": {
     "Indices": {
@@ -7007,7 +7447,9 @@
       "Chinese Simplified": "长毛猪",
       "Chinese Traditional": "長毛豬"
     },
-    "Gen 3 Ability Slots": ["Oblivious"]
+    "Ability Slots": {
+      "pk3": ["Oblivious", "None"]
+    }
   },
   "Corsola": {
     "Indices": {
@@ -7041,7 +7483,9 @@
       "Chinese Simplified": "太阳珊瑚",
       "Chinese Traditional": "太陽珊瑚"
     },
-    "Gen 3 Ability Slots": ["Hustle", "Natural Cure"]
+    "Ability Slots": {
+      "pk3": ["Hustle", "Natural Cure"]
+    }
   },
   "Remoraid": {
     "Indices": {
@@ -7069,7 +7513,9 @@
       "Chinese Simplified": "铁炮鱼",
       "Chinese Traditional": "鐵炮魚"
     },
-    "Gen 3 Ability Slots": ["Hustle"]
+    "Ability Slots": {
+      "pk3": ["Hustle", "None"]
+    }
   },
   "Octillery": {
     "Indices": {
@@ -7097,7 +7543,9 @@
       "Chinese Simplified": "章鱼桶",
       "Chinese Traditional": "章魚桶"
     },
-    "Gen 3 Ability Slots": ["Suction Cups"]
+    "Ability Slots": {
+      "pk3": ["Suction Cups", "None"]
+    }
   },
   "Delibird": {
     "Indices": {
@@ -7125,7 +7573,9 @@
       "Chinese Simplified": "信使鸟",
       "Chinese Traditional": "信使鳥"
     },
-    "Gen 3 Ability Slots": ["Vital Spirit", "Hustle"]
+    "Ability Slots": {
+      "pk3": ["Vital Spirit", "Hustle"]
+    }
   },
   "Mantine": {
     "Indices": {
@@ -7153,7 +7603,9 @@
       "Chinese Simplified": "巨翅飞鱼",
       "Chinese Traditional": "巨翅飛魚"
     },
-    "Gen 3 Ability Slots": ["Swift Swim", "Water Absorb"]
+    "Ability Slots": {
+      "pk3": ["Swift Swim", "Water Absorb"]
+    }
   },
   "Skarmory": {
     "Indices": {
@@ -7181,7 +7633,9 @@
       "Chinese Simplified": "盔甲鸟",
       "Chinese Traditional": "盔甲鳥"
     },
-    "Gen 3 Ability Slots": ["Keen Eye", "Sturdy"]
+    "Ability Slots": {
+      "pk3": ["Keen Eye", "Sturdy"]
+    }
   },
   "Houndour": {
     "Indices": {
@@ -7209,7 +7663,9 @@
       "Chinese Simplified": "戴鲁比",
       "Chinese Traditional": "戴魯比"
     },
-    "Gen 3 Ability Slots": ["Early Bird", "Flash Fire"]
+    "Ability Slots": {
+      "pk3": ["Early Bird", "Flash Fire"]
+    }
   },
   "Houndoom": {
     "Indices": {
@@ -7249,7 +7705,9 @@
       "Chinese Simplified": "黑鲁加",
       "Chinese Traditional": "黑魯加"
     },
-    "Gen 3 Ability Slots": ["Early Bird", "Flash Fire"]
+    "Ability Slots": {
+      "pk3": ["Early Bird", "Flash Fire"]
+    }
   },
   "Kingdra": {
     "Indices": {
@@ -7277,7 +7735,9 @@
       "Chinese Simplified": "刺龙王",
       "Chinese Traditional": "刺龍王"
     },
-    "Gen 3 Ability Slots": ["Swift Swim"]
+    "Ability Slots": {
+      "pk3": ["Swift Swim", "None"]
+    }
   },
   "Phanpy": {
     "Indices": {
@@ -7305,7 +7765,9 @@
       "Chinese Simplified": "小小象",
       "Chinese Traditional": "小小象"
     },
-    "Gen 3 Ability Slots": ["Pickup"]
+    "Ability Slots": {
+      "pk3": ["Pickup", "None"]
+    }
   },
   "Donphan": {
     "Indices": {
@@ -7333,7 +7795,9 @@
       "Chinese Simplified": "顿甲",
       "Chinese Traditional": "頓甲"
     },
-    "Gen 3 Ability Slots": ["Sturdy"]
+    "Ability Slots": {
+      "pk3": ["Sturdy", "None"]
+    }
   },
   "Porygon2": {
     "Indices": {
@@ -7361,7 +7825,9 @@
       "Chinese Simplified": "多边兽２型",
       "Chinese Traditional": "多邊獸Ⅱ"
     },
-    "Gen 3 Ability Slots": ["Trace"]
+    "Ability Slots": {
+      "pk3": ["Trace", "None"]
+    }
   },
   "Stantler": {
     "Indices": {
@@ -7389,7 +7855,9 @@
       "Chinese Simplified": "惊角鹿",
       "Chinese Traditional": "驚角鹿"
     },
-    "Gen 3 Ability Slots": ["Intimidate"]
+    "Ability Slots": {
+      "pk3": ["Intimidate", "None"]
+    }
   },
   "Smeargle": {
     "Indices": {
@@ -7424,7 +7892,9 @@
       "Chinese Simplified": "图图犬",
       "Chinese Traditional": "圖圖犬"
     },
-    "Gen 3 Ability Slots": ["Own Tempo"]
+    "Ability Slots": {
+      "pk3": ["Own Tempo", "None"]
+    }
   },
   "Tyrogue": {
     "Indices": {
@@ -7452,7 +7922,9 @@
       "Chinese Simplified": "无畏小子",
       "Chinese Traditional": "無畏小子"
     },
-    "Gen 3 Ability Slots": ["Guts"]
+    "Ability Slots": {
+      "pk3": ["Guts", "None"]
+    }
   },
   "Hitmontop": {
     "Indices": {
@@ -7480,7 +7952,9 @@
       "Chinese Simplified": "战舞郎",
       "Chinese Traditional": "戰舞郎"
     },
-    "Gen 3 Ability Slots": ["Intimidate"]
+    "Ability Slots": {
+      "pk3": ["Intimidate", "None"]
+    }
   },
   "Smoochum": {
     "Indices": {
@@ -7508,7 +7982,9 @@
       "Chinese Simplified": "迷唇娃",
       "Chinese Traditional": "迷唇娃"
     },
-    "Gen 3 Ability Slots": ["Oblivious"]
+    "Ability Slots": {
+      "pk3": ["Oblivious", "None"]
+    }
   },
   "Elekid": {
     "Indices": {
@@ -7536,7 +8012,9 @@
       "Chinese Simplified": "电击怪",
       "Chinese Traditional": "電擊怪"
     },
-    "Gen 3 Ability Slots": ["Static"]
+    "Ability Slots": {
+      "pk3": ["Static", "None"]
+    }
   },
   "Magby": {
     "Indices": {
@@ -7564,7 +8042,9 @@
       "Chinese Simplified": "鸭嘴宝宝",
       "Chinese Traditional": "鴨嘴寶寶"
     },
-    "Gen 3 Ability Slots": ["Flame Body"]
+    "Ability Slots": {
+      "pk3": ["Flame Body", "None"]
+    }
   },
   "Miltank": {
     "Indices": {
@@ -7592,7 +8072,9 @@
       "Chinese Simplified": "大奶罐",
       "Chinese Traditional": "大奶罐"
     },
-    "Gen 3 Ability Slots": ["Thick Fat"]
+    "Ability Slots": {
+      "pk3": ["Thick Fat", "None"]
+    }
   },
   "Blissey": {
     "Indices": {
@@ -7620,7 +8102,9 @@
       "Chinese Simplified": "幸福蛋",
       "Chinese Traditional": "幸福蛋"
     },
-    "Gen 3 Ability Slots": ["Natural Cure", "Serene Grace"]
+    "Ability Slots": {
+      "pk3": ["Natural Cure", "Serene Grace"]
+    }
   },
   "Raikou": {
     "Indices": {
@@ -7648,7 +8132,9 @@
       "Chinese Simplified": "雷公",
       "Chinese Traditional": "雷公"
     },
-    "Gen 3 Ability Slots": ["Pressure"]
+    "Ability Slots": {
+      "pk3": ["Pressure", "None"]
+    }
   },
   "Entei": {
     "Indices": {
@@ -7676,7 +8162,9 @@
       "Chinese Simplified": "炎帝",
       "Chinese Traditional": "炎帝"
     },
-    "Gen 3 Ability Slots": ["Pressure"]
+    "Ability Slots": {
+      "pk3": ["Pressure", "None"]
+    }
   },
   "Suicune": {
     "Indices": {
@@ -7704,7 +8192,9 @@
       "Chinese Simplified": "水君",
       "Chinese Traditional": "水君"
     },
-    "Gen 3 Ability Slots": ["Pressure"]
+    "Ability Slots": {
+      "pk3": ["Pressure", "None"]
+    }
   },
   "Larvitar": {
     "Indices": {
@@ -7732,7 +8222,9 @@
       "Chinese Simplified": "幼基拉斯",
       "Chinese Traditional": "幼基拉斯"
     },
-    "Gen 3 Ability Slots": ["Guts"]
+    "Ability Slots": {
+      "pk3": ["Guts", "None"]
+    }
   },
   "Pupitar": {
     "Indices": {
@@ -7760,7 +8252,9 @@
       "Chinese Simplified": "沙基拉斯",
       "Chinese Traditional": "沙基拉斯"
     },
-    "Gen 3 Ability Slots": ["Shed Skin"]
+    "Ability Slots": {
+      "pk3": ["Shed Skin", "None"]
+    }
   },
   "Tyranitar": {
     "Indices": {
@@ -7800,7 +8294,9 @@
       "Chinese Simplified": "班基拉斯",
       "Chinese Traditional": "班基拉斯"
     },
-    "Gen 3 Ability Slots": ["Sand Stream"]
+    "Ability Slots": {
+      "pk3": ["Sand Stream", "None"]
+    }
   },
   "Lugia": {
     "Indices": {
@@ -7828,7 +8324,9 @@
       "Chinese Simplified": "洛奇亚",
       "Chinese Traditional": "洛奇亞"
     },
-    "Gen 3 Ability Slots": ["Pressure"]
+    "Ability Slots": {
+      "pk3": ["Pressure", "None"]
+    }
   },
   "Ho-Oh": {
     "Indices": {
@@ -7856,7 +8354,9 @@
       "Chinese Simplified": "凤王",
       "Chinese Traditional": "鳳王"
     },
-    "Gen 3 Ability Slots": ["Pressure"]
+    "Ability Slots": {
+      "pk3": ["Pressure", "None"]
+    }
   },
   "Celebi": {
     "Indices": {
@@ -7884,7 +8384,9 @@
       "Chinese Simplified": "时拉比",
       "Chinese Traditional": "時拉比"
     },
-    "Gen 3 Ability Slots": ["Natural Cure"]
+    "Ability Slots": {
+      "pk3": ["Natural Cure", "None"]
+    }
   },
   "Treecko": {
     "Indices": {
@@ -7913,7 +8415,9 @@
       "Chinese Simplified": "木守宫",
       "Chinese Traditional": "木守宮"
     },
-    "Gen 3 Ability Slots": ["Overgrow"]
+    "Ability Slots": {
+      "pk3": ["Overgrow", "None"]
+    }
   },
   "Grovyle": {
     "Indices": {
@@ -7942,7 +8446,9 @@
       "Chinese Simplified": "森林蜥蜴",
       "Chinese Traditional": "森林蜥蜴"
     },
-    "Gen 3 Ability Slots": ["Overgrow"]
+    "Ability Slots": {
+      "pk3": ["Overgrow", "None"]
+    }
   },
   "Sceptile": {
     "Indices": {
@@ -7983,7 +8489,9 @@
       "Chinese Simplified": "蜥蜴王",
       "Chinese Traditional": "蜥蜴王"
     },
-    "Gen 3 Ability Slots": ["Overgrow"]
+    "Ability Slots": {
+      "pk3": ["Overgrow", "None"]
+    }
   },
   "Torchic": {
     "Indices": {
@@ -8012,7 +8520,9 @@
       "Chinese Simplified": "火稚鸡",
       "Chinese Traditional": "火稚雞"
     },
-    "Gen 3 Ability Slots": ["Blaze"]
+    "Ability Slots": {
+      "pk3": ["Blaze", "None"]
+    }
   },
   "Combusken": {
     "Indices": {
@@ -8041,7 +8551,9 @@
       "Chinese Simplified": "力壮鸡",
       "Chinese Traditional": "力壯雞"
     },
-    "Gen 3 Ability Slots": ["Blaze"]
+    "Ability Slots": {
+      "pk3": ["Blaze", "None"]
+    }
   },
   "Blaziken": {
     "Indices": {
@@ -8082,7 +8594,9 @@
       "Chinese Simplified": "火焰鸡",
       "Chinese Traditional": "火焰雞"
     },
-    "Gen 3 Ability Slots": ["Blaze"]
+    "Ability Slots": {
+      "pk3": ["Blaze", "None"]
+    }
   },
   "Mudkip": {
     "Indices": {
@@ -8111,7 +8625,9 @@
       "Chinese Simplified": "水跃鱼",
       "Chinese Traditional": "水躍魚"
     },
-    "Gen 3 Ability Slots": ["Torrent"]
+    "Ability Slots": {
+      "pk3": ["Torrent", "None"]
+    }
   },
   "Marshtomp": {
     "Indices": {
@@ -8140,7 +8656,9 @@
       "Chinese Simplified": "沼跃鱼",
       "Chinese Traditional": "沼躍魚"
     },
-    "Gen 3 Ability Slots": ["Torrent"]
+    "Ability Slots": {
+      "pk3": ["Torrent", "None"]
+    }
   },
   "Swampert": {
     "Indices": {
@@ -8181,7 +8699,9 @@
       "Chinese Simplified": "巨沼怪",
       "Chinese Traditional": "巨沼怪"
     },
-    "Gen 3 Ability Slots": ["Torrent"]
+    "Ability Slots": {
+      "pk3": ["Torrent", "None"]
+    }
   },
   "Poochyena": {
     "Indices": {
@@ -8210,7 +8730,9 @@
       "Chinese Simplified": "土狼犬",
       "Chinese Traditional": "土狼犬"
     },
-    "Gen 3 Ability Slots": ["Run Away"]
+    "Ability Slots": {
+      "pk3": ["Run Away", "None"]
+    }
   },
   "Mightyena": {
     "Indices": {
@@ -8239,7 +8761,9 @@
       "Chinese Simplified": "大狼犬",
       "Chinese Traditional": "大狼犬"
     },
-    "Gen 3 Ability Slots": ["Intimidate"]
+    "Ability Slots": {
+      "pk3": ["Intimidate", "None"]
+    }
   },
   "Zigzagoon": {
     "Indices": {
@@ -8274,7 +8798,9 @@
       "Chinese Simplified": "蛇纹熊",
       "Chinese Traditional": "蛇紋熊"
     },
-    "Gen 3 Ability Slots": ["Pickup"]
+    "Ability Slots": {
+      "pk3": ["Pickup", "None"]
+    }
   },
   "Linoone": {
     "Indices": {
@@ -8309,7 +8835,9 @@
       "Chinese Simplified": "直冲熊",
       "Chinese Traditional": "直衝熊"
     },
-    "Gen 3 Ability Slots": ["Pickup"]
+    "Ability Slots": {
+      "pk3": ["Pickup", "None"]
+    }
   },
   "Wurmple": {
     "Indices": {
@@ -8338,7 +8866,9 @@
       "Chinese Simplified": "刺尾虫",
       "Chinese Traditional": "刺尾蟲"
     },
-    "Gen 3 Ability Slots": ["Shield Dust"]
+    "Ability Slots": {
+      "pk3": ["Shield Dust", "None"]
+    }
   },
   "Silcoon": {
     "Indices": {
@@ -8367,7 +8897,9 @@
       "Chinese Simplified": "甲壳茧",
       "Chinese Traditional": "甲殼繭"
     },
-    "Gen 3 Ability Slots": ["Shed Skin"]
+    "Ability Slots": {
+      "pk3": ["Shed Skin", "None"]
+    }
   },
   "Beautifly": {
     "Indices": {
@@ -8396,7 +8928,9 @@
       "Chinese Simplified": "狩猎凤蝶",
       "Chinese Traditional": "狩獵鳳蝶"
     },
-    "Gen 3 Ability Slots": ["Swarm"]
+    "Ability Slots": {
+      "pk3": ["Swarm", "None"]
+    }
   },
   "Cascoon": {
     "Indices": {
@@ -8425,7 +8959,9 @@
       "Chinese Simplified": "盾甲茧",
       "Chinese Traditional": "盾甲繭"
     },
-    "Gen 3 Ability Slots": ["Shed Skin"]
+    "Ability Slots": {
+      "pk3": ["Shed Skin", "None"]
+    }
   },
   "Dustox": {
     "Indices": {
@@ -8454,7 +8990,9 @@
       "Chinese Simplified": "毒粉蛾",
       "Chinese Traditional": "毒粉蛾"
     },
-    "Gen 3 Ability Slots": ["Shield Dust"]
+    "Ability Slots": {
+      "pk3": ["Shield Dust", "None"]
+    }
   },
   "Lotad": {
     "Indices": {
@@ -8483,7 +9021,9 @@
       "Chinese Simplified": "莲叶童子",
       "Chinese Traditional": "蓮葉童子"
     },
-    "Gen 3 Ability Slots": ["Swift Swim", "Rain Dish"]
+    "Ability Slots": {
+      "pk3": ["Swift Swim", "Rain Dish"]
+    }
   },
   "Lombre": {
     "Indices": {
@@ -8512,7 +9052,9 @@
       "Chinese Simplified": "莲帽小童",
       "Chinese Traditional": "蓮帽小童"
     },
-    "Gen 3 Ability Slots": ["Swift Swim", "Rain Dish"]
+    "Ability Slots": {
+      "pk3": ["Swift Swim", "Rain Dish"]
+    }
   },
   "Ludicolo": {
     "Indices": {
@@ -8541,7 +9083,9 @@
       "Chinese Simplified": "乐天河童",
       "Chinese Traditional": "樂天河童"
     },
-    "Gen 3 Ability Slots": ["Swift Swim", "Rain Dish"]
+    "Ability Slots": {
+      "pk3": ["Swift Swim", "Rain Dish"]
+    }
   },
   "Seedot": {
     "Indices": {
@@ -8570,7 +9114,9 @@
       "Chinese Simplified": "橡实果",
       "Chinese Traditional": "橡實果"
     },
-    "Gen 3 Ability Slots": ["Chlorophyll", "Early Bird"]
+    "Ability Slots": {
+      "pk3": ["Chlorophyll", "Early Bird"]
+    }
   },
   "Nuzleaf": {
     "Indices": {
@@ -8599,7 +9145,9 @@
       "Chinese Simplified": "长鼻叶",
       "Chinese Traditional": "長鼻葉"
     },
-    "Gen 3 Ability Slots": ["Chlorophyll", "Early Bird"]
+    "Ability Slots": {
+      "pk3": ["Chlorophyll", "Early Bird"]
+    }
   },
   "Shiftry": {
     "Indices": {
@@ -8628,7 +9176,9 @@
       "Chinese Simplified": "狡猾天狗",
       "Chinese Traditional": "狡猾天狗"
     },
-    "Gen 3 Ability Slots": ["Chlorophyll", "Early Bird"]
+    "Ability Slots": {
+      "pk3": ["Chlorophyll", "Early Bird"]
+    }
   },
   "Taillow": {
     "Indices": {
@@ -8657,7 +9207,9 @@
       "Chinese Simplified": "傲骨燕",
       "Chinese Traditional": "傲骨燕"
     },
-    "Gen 3 Ability Slots": ["Guts"]
+    "Ability Slots": {
+      "pk3": ["Guts", "None"]
+    }
   },
   "Swellow": {
     "Indices": {
@@ -8686,7 +9238,9 @@
       "Chinese Simplified": "大王燕",
       "Chinese Traditional": "大王燕"
     },
-    "Gen 3 Ability Slots": ["Guts"]
+    "Ability Slots": {
+      "pk3": ["Guts", "None"]
+    }
   },
   "Wingull": {
     "Indices": {
@@ -8715,7 +9269,9 @@
       "Chinese Simplified": "长翅鸥",
       "Chinese Traditional": "長翅鷗"
     },
-    "Gen 3 Ability Slots": ["Keen Eye"]
+    "Ability Slots": {
+      "pk3": ["Keen Eye", "None"]
+    }
   },
   "Pelipper": {
     "Indices": {
@@ -8744,7 +9300,9 @@
       "Chinese Simplified": "大嘴鸥",
       "Chinese Traditional": "大嘴鷗"
     },
-    "Gen 3 Ability Slots": ["Keen Eye"]
+    "Ability Slots": {
+      "pk3": ["Keen Eye", "None"]
+    }
   },
   "Ralts": {
     "Indices": {
@@ -8773,7 +9331,9 @@
       "Chinese Simplified": "拉鲁拉丝",
       "Chinese Traditional": "拉魯拉絲"
     },
-    "Gen 3 Ability Slots": ["Synchronize", "Trace"]
+    "Ability Slots": {
+      "pk3": ["Synchronize", "Trace"]
+    }
   },
   "Kirlia": {
     "Indices": {
@@ -8802,7 +9362,9 @@
       "Chinese Simplified": "奇鲁莉安",
       "Chinese Traditional": "奇魯莉安"
     },
-    "Gen 3 Ability Slots": ["Synchronize", "Trace"]
+    "Ability Slots": {
+      "pk3": ["Synchronize", "Trace"]
+    }
   },
   "Gardevoir": {
     "Indices": {
@@ -8843,7 +9405,9 @@
       "Chinese Simplified": "沙奈朵",
       "Chinese Traditional": "沙奈朵"
     },
-    "Gen 3 Ability Slots": ["Synchronize", "Trace"]
+    "Ability Slots": {
+      "pk3": ["Synchronize", "Trace"]
+    }
   },
   "Surskit": {
     "Indices": {
@@ -8872,7 +9436,9 @@
       "Chinese Simplified": "溜溜糖球",
       "Chinese Traditional": "溜溜糖球"
     },
-    "Gen 3 Ability Slots": ["Swift Swim"]
+    "Ability Slots": {
+      "pk3": ["Swift Swim", "None"]
+    }
   },
   "Masquerain": {
     "Indices": {
@@ -8901,7 +9467,9 @@
       "Chinese Simplified": "雨翅蛾",
       "Chinese Traditional": "雨翅蛾"
     },
-    "Gen 3 Ability Slots": ["Intimidate"]
+    "Ability Slots": {
+      "pk3": ["Intimidate", "None"]
+    }
   },
   "Shroomish": {
     "Indices": {
@@ -8930,7 +9498,9 @@
       "Chinese Simplified": "蘑蘑菇",
       "Chinese Traditional": "蘑蘑菇"
     },
-    "Gen 3 Ability Slots": ["Effect Spore"]
+    "Ability Slots": {
+      "pk3": ["Effect Spore", "None"]
+    }
   },
   "Breloom": {
     "Indices": {
@@ -8959,7 +9529,9 @@
       "Chinese Simplified": "斗笠菇",
       "Chinese Traditional": "斗笠菇"
     },
-    "Gen 3 Ability Slots": ["Effect Spore"]
+    "Ability Slots": {
+      "pk3": ["Effect Spore", "None"]
+    }
   },
   "Slakoth": {
     "Indices": {
@@ -8988,7 +9560,9 @@
       "Chinese Simplified": "懒人獭",
       "Chinese Traditional": "懶人獺"
     },
-    "Gen 3 Ability Slots": ["Truant"]
+    "Ability Slots": {
+      "pk3": ["Truant", "None"]
+    }
   },
   "Vigoroth": {
     "Indices": {
@@ -9017,7 +9591,9 @@
       "Chinese Simplified": "过动猿",
       "Chinese Traditional": "過動猿"
     },
-    "Gen 3 Ability Slots": ["Vital Spirit"]
+    "Ability Slots": {
+      "pk3": ["Vital Spirit", "None"]
+    }
   },
   "Slaking": {
     "Indices": {
@@ -9046,7 +9622,9 @@
       "Chinese Simplified": "请假王",
       "Chinese Traditional": "請假王"
     },
-    "Gen 3 Ability Slots": ["Truant"]
+    "Ability Slots": {
+      "pk3": ["Truant", "None"]
+    }
   },
   "Nincada": {
     "Indices": {
@@ -9075,7 +9653,9 @@
       "Chinese Simplified": "土居忍士",
       "Chinese Traditional": "土居忍士"
     },
-    "Gen 3 Ability Slots": ["Compound Eyes"]
+    "Ability Slots": {
+      "pk3": ["Compound Eyes", "None"]
+    }
   },
   "Ninjask": {
     "Indices": {
@@ -9104,7 +9684,9 @@
       "Chinese Simplified": "铁面忍者",
       "Chinese Traditional": "鐵面忍者"
     },
-    "Gen 3 Ability Slots": ["Speed Boost"]
+    "Ability Slots": {
+      "pk3": ["Speed Boost", "None"]
+    }
   },
   "Shedinja": {
     "Indices": {
@@ -9133,7 +9715,9 @@
       "Chinese Simplified": "脱壳忍者",
       "Chinese Traditional": "脫殼忍者"
     },
-    "Gen 3 Ability Slots": ["Wonder Guard"]
+    "Ability Slots": {
+      "pk3": ["Wonder Guard", "None"]
+    }
   },
   "Whismur": {
     "Indices": {
@@ -9162,7 +9746,9 @@
       "Chinese Simplified": "咕妞妞",
       "Chinese Traditional": "咕妞妞"
     },
-    "Gen 3 Ability Slots": ["Soundproof"]
+    "Ability Slots": {
+      "pk3": ["Soundproof", "None"]
+    }
   },
   "Loudred": {
     "Indices": {
@@ -9191,7 +9777,9 @@
       "Chinese Simplified": "吼爆弹",
       "Chinese Traditional": "吼爆彈"
     },
-    "Gen 3 Ability Slots": ["Soundproof"]
+    "Ability Slots": {
+      "pk3": ["Soundproof", "None"]
+    }
   },
   "Exploud": {
     "Indices": {
@@ -9220,7 +9808,9 @@
       "Chinese Simplified": "爆音怪",
       "Chinese Traditional": "爆音怪"
     },
-    "Gen 3 Ability Slots": ["Soundproof"]
+    "Ability Slots": {
+      "pk3": ["Soundproof", "None"]
+    }
   },
   "Makuhita": {
     "Indices": {
@@ -9249,7 +9839,9 @@
       "Chinese Simplified": "幕下力士",
       "Chinese Traditional": "幕下力士"
     },
-    "Gen 3 Ability Slots": ["Thick Fat", "Guts"]
+    "Ability Slots": {
+      "pk3": ["Thick Fat", "Guts"]
+    }
   },
   "Hariyama": {
     "Indices": {
@@ -9278,7 +9870,9 @@
       "Chinese Simplified": "铁掌力士",
       "Chinese Traditional": "鐵掌力士"
     },
-    "Gen 3 Ability Slots": ["Thick Fat", "Guts"]
+    "Ability Slots": {
+      "pk3": ["Thick Fat", "Guts"]
+    }
   },
   "Azurill": {
     "Indices": {
@@ -9307,7 +9901,9 @@
       "Chinese Simplified": "露力丽",
       "Chinese Traditional": "露力麗"
     },
-    "Gen 3 Ability Slots": ["Thick Fat", "Huge Power"]
+    "Ability Slots": {
+      "pk3": ["Thick Fat", "Huge Power"]
+    }
   },
   "Nosepass": {
     "Indices": {
@@ -9336,7 +9932,9 @@
       "Chinese Simplified": "朝北鼻",
       "Chinese Traditional": "朝北鼻"
     },
-    "Gen 3 Ability Slots": ["Sturdy", "Magnet Pull"]
+    "Ability Slots": {
+      "pk3": ["Sturdy", "Magnet Pull"]
+    }
   },
   "Skitty": {
     "Indices": {
@@ -9365,7 +9963,9 @@
       "Chinese Simplified": "向尾喵",
       "Chinese Traditional": "向尾喵"
     },
-    "Gen 3 Ability Slots": ["Cute Charm"]
+    "Ability Slots": {
+      "pk3": ["Cute Charm", "None"]
+    }
   },
   "Delcatty": {
     "Indices": {
@@ -9394,7 +9994,9 @@
       "Chinese Simplified": "优雅猫",
       "Chinese Traditional": "優雅貓"
     },
-    "Gen 3 Ability Slots": ["Cute Charm"]
+    "Ability Slots": {
+      "pk3": ["Cute Charm", "None"]
+    }
   },
   "Sableye": {
     "Indices": {
@@ -9435,7 +10037,9 @@
       "Chinese Simplified": "勾魂眼",
       "Chinese Traditional": "勾魂眼"
     },
-    "Gen 3 Ability Slots": ["Keen Eye"]
+    "Ability Slots": {
+      "pk3": ["Keen Eye", "None"]
+    }
   },
   "Mawile": {
     "Indices": {
@@ -9476,7 +10080,9 @@
       "Chinese Simplified": "大嘴娃",
       "Chinese Traditional": "大嘴娃"
     },
-    "Gen 3 Ability Slots": ["Hyper Cutter", "Intimidate"]
+    "Ability Slots": {
+      "pk3": ["Hyper Cutter", "Intimidate"]
+    }
   },
   "Aron": {
     "Indices": {
@@ -9505,7 +10111,9 @@
       "Chinese Simplified": "可可多拉",
       "Chinese Traditional": "可可多拉"
     },
-    "Gen 3 Ability Slots": ["Sturdy", "Rock Head"]
+    "Ability Slots": {
+      "pk3": ["Sturdy", "Rock Head"]
+    }
   },
   "Lairon": {
     "Indices": {
@@ -9534,7 +10142,9 @@
       "Chinese Simplified": "可多拉",
       "Chinese Traditional": "可多拉"
     },
-    "Gen 3 Ability Slots": ["Sturdy", "Rock Head"]
+    "Ability Slots": {
+      "pk3": ["Sturdy", "Rock Head"]
+    }
   },
   "Aggron": {
     "Indices": {
@@ -9575,7 +10185,9 @@
       "Chinese Simplified": "波士可多拉",
       "Chinese Traditional": "波士可多拉"
     },
-    "Gen 3 Ability Slots": ["Sturdy", "Rock Head"]
+    "Ability Slots": {
+      "pk3": ["Sturdy", "Rock Head"]
+    }
   },
   "Meditite": {
     "Indices": {
@@ -9604,7 +10216,9 @@
       "Chinese Simplified": "玛沙那",
       "Chinese Traditional": "瑪沙那"
     },
-    "Gen 3 Ability Slots": ["Pure Power"]
+    "Ability Slots": {
+      "pk3": ["Pure Power", "None"]
+    }
   },
   "Medicham": {
     "Indices": {
@@ -9645,7 +10259,9 @@
       "Chinese Simplified": "恰雷姆",
       "Chinese Traditional": "恰雷姆"
     },
-    "Gen 3 Ability Slots": ["Pure Power"]
+    "Ability Slots": {
+      "pk3": ["Pure Power", "None"]
+    }
   },
   "Electrike": {
     "Indices": {
@@ -9674,7 +10290,9 @@
       "Chinese Simplified": "落雷兽",
       "Chinese Traditional": "落雷獸"
     },
-    "Gen 3 Ability Slots": ["Static", "Lightning Rod"]
+    "Ability Slots": {
+      "pk3": ["Static", "Lightning Rod"]
+    }
   },
   "Manectric": {
     "Indices": {
@@ -9715,7 +10333,9 @@
       "Chinese Simplified": "雷电兽",
       "Chinese Traditional": "雷電獸"
     },
-    "Gen 3 Ability Slots": ["Static", "Lightning Rod"]
+    "Ability Slots": {
+      "pk3": ["Static", "Lightning Rod"]
+    }
   },
   "Plusle": {
     "Indices": {
@@ -9744,7 +10364,9 @@
       "Chinese Simplified": "正电拍拍",
       "Chinese Traditional": "正電拍拍"
     },
-    "Gen 3 Ability Slots": ["Plus"]
+    "Ability Slots": {
+      "pk3": ["Plus", "None"]
+    }
   },
   "Minun": {
     "Indices": {
@@ -9773,7 +10395,9 @@
       "Chinese Simplified": "負电拍拍",
       "Chinese Traditional": "負電拍拍"
     },
-    "Gen 3 Ability Slots": ["Minus"]
+    "Ability Slots": {
+      "pk3": ["Minus", "None"]
+    }
   },
   "Volbeat": {
     "Indices": {
@@ -9802,7 +10426,9 @@
       "Chinese Simplified": "电萤虫",
       "Chinese Traditional": "電螢蟲"
     },
-    "Gen 3 Ability Slots": ["Illuminate", "Swarm"]
+    "Ability Slots": {
+      "pk3": ["Illuminate", "Swarm"]
+    }
   },
   "Illumise": {
     "Indices": {
@@ -9831,7 +10457,9 @@
       "Chinese Simplified": "甜甜萤",
       "Chinese Traditional": "甜甜螢"
     },
-    "Gen 3 Ability Slots": ["Oblivious"]
+    "Ability Slots": {
+      "pk3": ["Oblivious", "None"]
+    }
   },
   "Roselia": {
     "Indices": {
@@ -9860,7 +10488,9 @@
       "Chinese Simplified": "毒蔷薇",
       "Chinese Traditional": "毒薔薇"
     },
-    "Gen 3 Ability Slots": ["Natural Cure", "Poison Point"]
+    "Ability Slots": {
+      "pk3": ["Natural Cure", "Poison Point"]
+    }
   },
   "Gulpin": {
     "Indices": {
@@ -9889,7 +10519,9 @@
       "Chinese Simplified": "溶食兽",
       "Chinese Traditional": "溶食獸"
     },
-    "Gen 3 Ability Slots": ["Liquid Ooze", "Sticky Hold"]
+    "Ability Slots": {
+      "pk3": ["Liquid Ooze", "Sticky Hold"]
+    }
   },
   "Swalot": {
     "Indices": {
@@ -9918,7 +10550,9 @@
       "Chinese Simplified": "吞食兽",
       "Chinese Traditional": "吞食獸"
     },
-    "Gen 3 Ability Slots": ["Liquid Ooze", "Sticky Hold"]
+    "Ability Slots": {
+      "pk3": ["Liquid Ooze", "Sticky Hold"]
+    }
   },
   "Carvanha": {
     "Indices": {
@@ -9947,7 +10581,9 @@
       "Chinese Simplified": "利牙鱼",
       "Chinese Traditional": "利牙魚"
     },
-    "Gen 3 Ability Slots": ["Rough Skin"]
+    "Ability Slots": {
+      "pk3": ["Rough Skin", "None"]
+    }
   },
   "Sharpedo": {
     "Indices": {
@@ -9988,7 +10624,9 @@
       "Chinese Simplified": "巨牙鲨",
       "Chinese Traditional": "巨牙鯊"
     },
-    "Gen 3 Ability Slots": ["Rough Skin"]
+    "Ability Slots": {
+      "pk3": ["Rough Skin", "None"]
+    }
   },
   "Wailmer": {
     "Indices": {
@@ -10017,7 +10655,9 @@
       "Chinese Simplified": "吼吼鲸",
       "Chinese Traditional": "吼吼鯨"
     },
-    "Gen 3 Ability Slots": ["Water Veil", "Oblivious"]
+    "Ability Slots": {
+      "pk3": ["Water Veil", "Oblivious"]
+    }
   },
   "Wailord": {
     "Indices": {
@@ -10046,7 +10686,9 @@
       "Chinese Simplified": "吼鲸王",
       "Chinese Traditional": "吼鯨王"
     },
-    "Gen 3 Ability Slots": ["Water Veil", "Oblivious"]
+    "Ability Slots": {
+      "pk3": ["Water Veil", "Oblivious"]
+    }
   },
   "Numel": {
     "Indices": {
@@ -10075,7 +10717,9 @@
       "Chinese Simplified": "呆火驼",
       "Chinese Traditional": "呆火駝"
     },
-    "Gen 3 Ability Slots": ["Oblivious"]
+    "Ability Slots": {
+      "pk3": ["Oblivious", "None"]
+    }
   },
   "Camerupt": {
     "Indices": {
@@ -10116,7 +10760,9 @@
       "Chinese Simplified": "喷火驼",
       "Chinese Traditional": "噴火駝"
     },
-    "Gen 3 Ability Slots": ["Magma Armor"]
+    "Ability Slots": {
+      "pk3": ["Magma Armor", "None"]
+    }
   },
   "Torkoal": {
     "Indices": {
@@ -10145,7 +10791,9 @@
       "Chinese Simplified": "煤炭龟",
       "Chinese Traditional": "煤炭龜"
     },
-    "Gen 3 Ability Slots": ["White Smoke"]
+    "Ability Slots": {
+      "pk3": ["White Smoke", "None"]
+    }
   },
   "Spoink": {
     "Indices": {
@@ -10174,7 +10822,9 @@
       "Chinese Simplified": "跳跳猪",
       "Chinese Traditional": "跳跳豬"
     },
-    "Gen 3 Ability Slots": ["Thick Fat", "Own Tempo"]
+    "Ability Slots": {
+      "pk3": ["Thick Fat", "Own Tempo"]
+    }
   },
   "Grumpig": {
     "Indices": {
@@ -10203,7 +10853,9 @@
       "Chinese Simplified": "噗噗猪",
       "Chinese Traditional": "噗噗豬"
     },
-    "Gen 3 Ability Slots": ["Thick Fat", "Own Tempo"]
+    "Ability Slots": {
+      "pk3": ["Thick Fat", "Own Tempo"]
+    }
   },
   "Spinda": {
     "Indices": {
@@ -10232,7 +10884,9 @@
       "Chinese Simplified": "晃晃斑",
       "Chinese Traditional": "晃晃斑"
     },
-    "Gen 3 Ability Slots": ["Own Tempo"]
+    "Ability Slots": {
+      "pk3": ["Own Tempo", "None"]
+    }
   },
   "Trapinch": {
     "Indices": {
@@ -10261,7 +10915,9 @@
       "Chinese Simplified": "大颚蚁",
       "Chinese Traditional": "大顎蟻"
     },
-    "Gen 3 Ability Slots": ["Hyper Cutter", "Arena Trap"]
+    "Ability Slots": {
+      "pk3": ["Hyper Cutter", "Arena Trap"]
+    }
   },
   "Vibrava": {
     "Indices": {
@@ -10290,7 +10946,9 @@
       "Chinese Simplified": "超音波幼虫",
       "Chinese Traditional": "超音波幼蟲"
     },
-    "Gen 3 Ability Slots": ["Levitate", "Levitate"]
+    "Ability Slots": {
+      "pk3": ["Levitate", "Levitate"]
+    }
   },
   "Flygon": {
     "Indices": {
@@ -10319,7 +10977,9 @@
       "Chinese Simplified": "沙漠蜻蜓",
       "Chinese Traditional": "沙漠蜻蜓"
     },
-    "Gen 3 Ability Slots": ["Levitate", "Levitate"]
+    "Ability Slots": {
+      "pk3": ["Levitate", "Levitate"]
+    }
   },
   "Cacnea": {
     "Indices": {
@@ -10348,7 +11008,9 @@
       "Chinese Simplified": "刺球仙人掌",
       "Chinese Traditional": "刺球仙人掌"
     },
-    "Gen 3 Ability Slots": ["Sand Veil"]
+    "Ability Slots": {
+      "pk3": ["Sand Veil", "None"]
+    }
   },
   "Cacturne": {
     "Indices": {
@@ -10377,7 +11039,9 @@
       "Chinese Simplified": "梦歌仙人掌",
       "Chinese Traditional": "夢歌仙人掌"
     },
-    "Gen 3 Ability Slots": ["Sand Veil"]
+    "Ability Slots": {
+      "pk3": ["Sand Veil", "None"]
+    }
   },
   "Swablu": {
     "Indices": {
@@ -10406,7 +11070,9 @@
       "Chinese Simplified": "青绵鸟",
       "Chinese Traditional": "青綿鳥"
     },
-    "Gen 3 Ability Slots": ["Natural Cure"]
+    "Ability Slots": {
+      "pk3": ["Natural Cure", "None"]
+    }
   },
   "Altaria": {
     "Indices": {
@@ -10447,7 +11113,9 @@
       "Chinese Simplified": "七夕青鸟",
       "Chinese Traditional": "七夕青鳥"
     },
-    "Gen 3 Ability Slots": ["Natural Cure"]
+    "Ability Slots": {
+      "pk3": ["Natural Cure", "None"]
+    }
   },
   "Zangoose": {
     "Indices": {
@@ -10476,7 +11144,9 @@
       "Chinese Simplified": "猫鼬斩",
       "Chinese Traditional": "貓鼬斬"
     },
-    "Gen 3 Ability Slots": ["Immunity"]
+    "Ability Slots": {
+      "pk3": ["Immunity", "None"]
+    }
   },
   "Seviper": {
     "Indices": {
@@ -10505,7 +11175,9 @@
       "Chinese Simplified": "饭匙蛇",
       "Chinese Traditional": "飯匙蛇"
     },
-    "Gen 3 Ability Slots": ["Shed Skin"]
+    "Ability Slots": {
+      "pk3": ["Shed Skin", "None"]
+    }
   },
   "Lunatone": {
     "Indices": {
@@ -10534,7 +11206,9 @@
       "Chinese Simplified": "月石",
       "Chinese Traditional": "月石"
     },
-    "Gen 3 Ability Slots": ["Levitate"]
+    "Ability Slots": {
+      "pk3": ["Levitate", "None"]
+    }
   },
   "Solrock": {
     "Indices": {
@@ -10563,7 +11237,9 @@
       "Chinese Simplified": "太阳岩",
       "Chinese Traditional": "太陽岩"
     },
-    "Gen 3 Ability Slots": ["Levitate"]
+    "Ability Slots": {
+      "pk3": ["Levitate", "None"]
+    }
   },
   "Barboach": {
     "Indices": {
@@ -10592,7 +11268,9 @@
       "Chinese Simplified": "泥泥鳅",
       "Chinese Traditional": "泥泥鰍"
     },
-    "Gen 3 Ability Slots": ["Oblivious"]
+    "Ability Slots": {
+      "pk3": ["Oblivious", "None"]
+    }
   },
   "Whiscash": {
     "Indices": {
@@ -10621,7 +11299,9 @@
       "Chinese Simplified": "鲶鱼王",
       "Chinese Traditional": "鯰魚王"
     },
-    "Gen 3 Ability Slots": ["Oblivious"]
+    "Ability Slots": {
+      "pk3": ["Oblivious", "None"]
+    }
   },
   "Corphish": {
     "Indices": {
@@ -10650,7 +11330,9 @@
       "Chinese Simplified": "龙虾小兵",
       "Chinese Traditional": "龍蝦小兵"
     },
-    "Gen 3 Ability Slots": ["Hyper Cutter", "Shell Armor"]
+    "Ability Slots": {
+      "pk3": ["Hyper Cutter", "Shell Armor"]
+    }
   },
   "Crawdaunt": {
     "Indices": {
@@ -10679,7 +11361,9 @@
       "Chinese Simplified": "铁螯龙虾",
       "Chinese Traditional": "鐵螯龍蝦"
     },
-    "Gen 3 Ability Slots": ["Hyper Cutter", "Shell Armor"]
+    "Ability Slots": {
+      "pk3": ["Hyper Cutter", "Shell Armor"]
+    }
   },
   "Baltoy": {
     "Indices": {
@@ -10708,7 +11392,9 @@
       "Chinese Simplified": "天秤偶",
       "Chinese Traditional": "天秤偶"
     },
-    "Gen 3 Ability Slots": ["Levitate"]
+    "Ability Slots": {
+      "pk3": ["Levitate", "None"]
+    }
   },
   "Claydol": {
     "Indices": {
@@ -10737,7 +11423,9 @@
       "Chinese Simplified": "念力土偶",
       "Chinese Traditional": "念力土偶"
     },
-    "Gen 3 Ability Slots": ["Levitate"]
+    "Ability Slots": {
+      "pk3": ["Levitate", "None"]
+    }
   },
   "Lileep": {
     "Indices": {
@@ -10766,7 +11454,9 @@
       "Chinese Simplified": "触手百合",
       "Chinese Traditional": "觸手百合"
     },
-    "Gen 3 Ability Slots": ["Suction Cups"]
+    "Ability Slots": {
+      "pk3": ["Suction Cups", "None"]
+    }
   },
   "Cradily": {
     "Indices": {
@@ -10795,7 +11485,9 @@
       "Chinese Simplified": "摇篮百合",
       "Chinese Traditional": "搖籃百合"
     },
-    "Gen 3 Ability Slots": ["Suction Cups"]
+    "Ability Slots": {
+      "pk3": ["Suction Cups", "None"]
+    }
   },
   "Anorith": {
     "Indices": {
@@ -10824,7 +11516,9 @@
       "Chinese Simplified": "太古羽虫",
       "Chinese Traditional": "太古羽蟲"
     },
-    "Gen 3 Ability Slots": ["Battle Armor"]
+    "Ability Slots": {
+      "pk3": ["Battle Armor", "None"]
+    }
   },
   "Armaldo": {
     "Indices": {
@@ -10853,7 +11547,9 @@
       "Chinese Simplified": "太古盔甲",
       "Chinese Traditional": "太古盔甲"
     },
-    "Gen 3 Ability Slots": ["Battle Armor"]
+    "Ability Slots": {
+      "pk3": ["Battle Armor", "None"]
+    }
   },
   "Feebas": {
     "Indices": {
@@ -10882,7 +11578,9 @@
       "Chinese Simplified": "丑丑鱼",
       "Chinese Traditional": "醜醜魚"
     },
-    "Gen 3 Ability Slots": ["Swift Swim"]
+    "Ability Slots": {
+      "pk3": ["Swift Swim", "None"]
+    }
   },
   "Milotic": {
     "Indices": {
@@ -10911,7 +11609,9 @@
       "Chinese Simplified": "美纳斯",
       "Chinese Traditional": "美納斯"
     },
-    "Gen 3 Ability Slots": ["Marvel Scale"]
+    "Ability Slots": {
+      "pk3": ["Marvel Scale", "None"]
+    }
   },
   "Castform": {
     "Indices": {
@@ -11006,7 +11706,9 @@
       "Chinese Simplified": "飘浮泡泡",
       "Chinese Traditional": "飄浮泡泡"
     },
-    "Gen 3 Ability Slots": ["Forecast"]
+    "Ability Slots": {
+      "pk3": ["Forecast", "None"]
+    }
   },
   "Kecleon": {
     "Indices": {
@@ -11035,7 +11737,9 @@
       "Chinese Simplified": "变隐龙",
       "Chinese Traditional": "變隱龍"
     },
-    "Gen 3 Ability Slots": ["Color Change"]
+    "Ability Slots": {
+      "pk3": ["Color Change", "None"]
+    }
   },
   "Shuppet": {
     "Indices": {
@@ -11064,7 +11768,9 @@
       "Chinese Simplified": "怨影娃娃",
       "Chinese Traditional": "怨影娃娃"
     },
-    "Gen 3 Ability Slots": ["Insomnia"]
+    "Ability Slots": {
+      "pk3": ["Insomnia", "None"]
+    }
   },
   "Banette": {
     "Indices": {
@@ -11105,7 +11811,9 @@
       "Chinese Simplified": "诅咒娃娃",
       "Chinese Traditional": "詛咒娃娃"
     },
-    "Gen 3 Ability Slots": ["Insomnia"]
+    "Ability Slots": {
+      "pk3": ["Insomnia", "None"]
+    }
   },
   "Duskull": {
     "Indices": {
@@ -11134,7 +11842,9 @@
       "Chinese Simplified": "夜巡灵",
       "Chinese Traditional": "夜巡靈"
     },
-    "Gen 3 Ability Slots": ["Levitate"]
+    "Ability Slots": {
+      "pk3": ["Levitate", "None"]
+    }
   },
   "Dusclops": {
     "Indices": {
@@ -11163,7 +11873,9 @@
       "Chinese Simplified": "彷徨夜灵",
       "Chinese Traditional": "彷徨夜靈"
     },
-    "Gen 3 Ability Slots": ["Pressure"]
+    "Ability Slots": {
+      "pk3": ["Pressure", "None"]
+    }
   },
   "Tropius": {
     "Indices": {
@@ -11192,7 +11904,9 @@
       "Chinese Simplified": "热带龙",
       "Chinese Traditional": "熱帶龍"
     },
-    "Gen 3 Ability Slots": ["Chlorophyll"]
+    "Ability Slots": {
+      "pk3": ["Chlorophyll", "None"]
+    }
   },
   "Chimecho": {
     "Indices": {
@@ -11221,7 +11935,9 @@
       "Chinese Simplified": "风铃铃",
       "Chinese Traditional": "風鈴鈴"
     },
-    "Gen 3 Ability Slots": ["Levitate"]
+    "Ability Slots": {
+      "pk3": ["Levitate", "None"]
+    }
   },
   "Absol": {
     "Indices": {
@@ -11262,7 +11978,9 @@
       "Chinese Simplified": "阿勃梭鲁",
       "Chinese Traditional": "阿勃梭魯"
     },
-    "Gen 3 Ability Slots": ["Pressure"]
+    "Ability Slots": {
+      "pk3": ["Pressure", "None"]
+    }
   },
   "Wynaut": {
     "Indices": {
@@ -11291,7 +12009,9 @@
       "Chinese Simplified": "小果然",
       "Chinese Traditional": "小果然"
     },
-    "Gen 3 Ability Slots": ["Shadow Tag"]
+    "Ability Slots": {
+      "pk3": ["Shadow Tag", "None"]
+    }
   },
   "Snorunt": {
     "Indices": {
@@ -11320,7 +12040,9 @@
       "Chinese Simplified": "雪童子",
       "Chinese Traditional": "雪童子"
     },
-    "Gen 3 Ability Slots": ["Inner Focus"]
+    "Ability Slots": {
+      "pk3": ["Inner Focus", "None"]
+    }
   },
   "Glalie": {
     "Indices": {
@@ -11361,7 +12083,9 @@
       "Chinese Simplified": "冰鬼护",
       "Chinese Traditional": "冰鬼護"
     },
-    "Gen 3 Ability Slots": ["Inner Focus"]
+    "Ability Slots": {
+      "pk3": ["Inner Focus", "None"]
+    }
   },
   "Spheal": {
     "Indices": {
@@ -11390,7 +12114,9 @@
       "Chinese Simplified": "海豹球",
       "Chinese Traditional": "海豹球"
     },
-    "Gen 3 Ability Slots": ["Thick Fat"]
+    "Ability Slots": {
+      "pk3": ["Thick Fat", "None"]
+    }
   },
   "Sealeo": {
     "Indices": {
@@ -11419,7 +12145,9 @@
       "Chinese Simplified": "海魔狮",
       "Chinese Traditional": "海魔獅"
     },
-    "Gen 3 Ability Slots": ["Thick Fat"]
+    "Ability Slots": {
+      "pk3": ["Thick Fat", "None"]
+    }
   },
   "Walrein": {
     "Indices": {
@@ -11448,7 +12176,9 @@
       "Chinese Simplified": "帝牙海狮",
       "Chinese Traditional": "帝牙海獅"
     },
-    "Gen 3 Ability Slots": ["Thick Fat"]
+    "Ability Slots": {
+      "pk3": ["Thick Fat", "None"]
+    }
   },
   "Clamperl": {
     "Indices": {
@@ -11477,7 +12207,9 @@
       "Chinese Simplified": "珍珠贝",
       "Chinese Traditional": "珍珠貝"
     },
-    "Gen 3 Ability Slots": ["Shell Armor"]
+    "Ability Slots": {
+      "pk3": ["Shell Armor", "None"]
+    }
   },
   "Huntail": {
     "Indices": {
@@ -11506,7 +12238,9 @@
       "Chinese Simplified": "猎斑鱼",
       "Chinese Traditional": "獵斑魚"
     },
-    "Gen 3 Ability Slots": ["Swift Swim"]
+    "Ability Slots": {
+      "pk3": ["Swift Swim", "None"]
+    }
   },
   "Gorebyss": {
     "Indices": {
@@ -11535,7 +12269,9 @@
       "Chinese Simplified": "樱花鱼",
       "Chinese Traditional": "櫻花魚"
     },
-    "Gen 3 Ability Slots": ["Swift Swim"]
+    "Ability Slots": {
+      "pk3": ["Swift Swim", "None"]
+    }
   },
   "Relicanth": {
     "Indices": {
@@ -11564,7 +12300,9 @@
       "Chinese Simplified": "古空棘鱼",
       "Chinese Traditional": "古空棘魚"
     },
-    "Gen 3 Ability Slots": ["Swift Swim", "Rock Head"]
+    "Ability Slots": {
+      "pk3": ["Swift Swim", "Rock Head"]
+    }
   },
   "Luvdisc": {
     "Indices": {
@@ -11593,7 +12331,9 @@
       "Chinese Simplified": "爱心鱼",
       "Chinese Traditional": "愛心魚"
     },
-    "Gen 3 Ability Slots": ["Swift Swim"]
+    "Ability Slots": {
+      "pk3": ["Swift Swim", "None"]
+    }
   },
   "Bagon": {
     "Indices": {
@@ -11622,7 +12362,9 @@
       "Chinese Simplified": "宝贝龙",
       "Chinese Traditional": "寶貝龍"
     },
-    "Gen 3 Ability Slots": ["Rock Head"]
+    "Ability Slots": {
+      "pk3": ["Rock Head", "None"]
+    }
   },
   "Shelgon": {
     "Indices": {
@@ -11651,7 +12393,9 @@
       "Chinese Simplified": "甲壳龙",
       "Chinese Traditional": "甲殼龍"
     },
-    "Gen 3 Ability Slots": ["Rock Head"]
+    "Ability Slots": {
+      "pk3": ["Rock Head", "None"]
+    }
   },
   "Salamence": {
     "Indices": {
@@ -11692,7 +12436,9 @@
       "Chinese Simplified": "暴飞龙",
       "Chinese Traditional": "暴飛龍"
     },
-    "Gen 3 Ability Slots": ["Intimidate"]
+    "Ability Slots": {
+      "pk3": ["Intimidate", "None"]
+    }
   },
   "Beldum": {
     "Indices": {
@@ -11721,7 +12467,9 @@
       "Chinese Simplified": "铁哑铃",
       "Chinese Traditional": "鐵啞鈴"
     },
-    "Gen 3 Ability Slots": ["Clear Body"]
+    "Ability Slots": {
+      "pk3": ["Clear Body", "None"]
+    }
   },
   "Metang": {
     "Indices": {
@@ -11750,7 +12498,9 @@
       "Chinese Simplified": "金属怪",
       "Chinese Traditional": "金屬怪"
     },
-    "Gen 3 Ability Slots": ["Clear Body"]
+    "Ability Slots": {
+      "pk3": ["Clear Body", "None"]
+    }
   },
   "Metagross": {
     "Indices": {
@@ -11791,7 +12541,9 @@
       "Chinese Simplified": "巨金怪",
       "Chinese Traditional": "巨金怪"
     },
-    "Gen 3 Ability Slots": ["Clear Body"]
+    "Ability Slots": {
+      "pk3": ["Clear Body", "None"]
+    }
   },
   "Regirock": {
     "Indices": {
@@ -11820,7 +12572,9 @@
       "Chinese Simplified": "雷吉洛克",
       "Chinese Traditional": "雷吉洛克"
     },
-    "Gen 3 Ability Slots": ["Clear Body"]
+    "Ability Slots": {
+      "pk3": ["Clear Body", "None"]
+    }
   },
   "Regice": {
     "Indices": {
@@ -11849,7 +12603,9 @@
       "Chinese Simplified": "雷吉艾斯",
       "Chinese Traditional": "雷吉艾斯"
     },
-    "Gen 3 Ability Slots": ["Clear Body"]
+    "Ability Slots": {
+      "pk3": ["Clear Body", "None"]
+    }
   },
   "Registeel": {
     "Indices": {
@@ -11878,7 +12634,9 @@
       "Chinese Simplified": "雷吉斯奇鲁",
       "Chinese Traditional": "雷吉斯奇魯"
     },
-    "Gen 3 Ability Slots": ["Clear Body"]
+    "Ability Slots": {
+      "pk3": ["Clear Body", "None"]
+    }
   },
   "Latias": {
     "Indices": {
@@ -11919,7 +12677,9 @@
       "Chinese Simplified": "拉帝亚斯",
       "Chinese Traditional": "拉帝亞斯"
     },
-    "Gen 3 Ability Slots": ["Levitate"]
+    "Ability Slots": {
+      "pk3": ["Levitate", "None"]
+    }
   },
   "Latios": {
     "Indices": {
@@ -11960,7 +12720,9 @@
       "Chinese Simplified": "拉帝欧斯",
       "Chinese Traditional": "拉帝歐斯"
     },
-    "Gen 3 Ability Slots": ["Levitate"]
+    "Ability Slots": {
+      "pk3": ["Levitate", "None"]
+    }
   },
   "Kyogre": {
     "Indices": {
@@ -12001,7 +12763,9 @@
       "Chinese Simplified": "盖欧卡",
       "Chinese Traditional": "蓋歐卡"
     },
-    "Gen 3 Ability Slots": ["Drizzle"]
+    "Ability Slots": {
+      "pk3": ["Drizzle", "None"]
+    }
   },
   "Groudon": {
     "Indices": {
@@ -12042,7 +12806,9 @@
       "Chinese Simplified": "固拉多",
       "Chinese Traditional": "固拉多"
     },
-    "Gen 3 Ability Slots": ["Drought"]
+    "Ability Slots": {
+      "pk3": ["Drought", "None"]
+    }
   },
   "Rayquaza": {
     "Indices": {
@@ -12082,7 +12848,9 @@
       "Chinese Simplified": "烈空坐",
       "Chinese Traditional": "烈空坐"
     },
-    "Gen 3 Ability Slots": ["Air Lock"]
+    "Ability Slots": {
+      "pk3": ["Air Lock", "None"]
+    }
   },
   "Jirachi": {
     "Indices": {
@@ -12111,7 +12879,9 @@
       "Chinese Simplified": "基拉祈",
       "Chinese Traditional": "基拉祈"
     },
-    "Gen 3 Ability Slots": ["Serene Grace"]
+    "Ability Slots": {
+      "pk3": ["Serene Grace", "None"]
+    }
   },
   "Deoxys": {
     "Indices": {
@@ -12162,7 +12932,9 @@
       "Chinese Simplified": "代欧奇希斯",
       "Chinese Traditional": "代歐奇希斯"
     },
-    "Gen 3 Ability Slots": ["Pressure"]
+    "Ability Slots": {
+      "pk3": ["Pressure", "None"]
+    }
   },
   "Turtwig": {
     "Indices": {

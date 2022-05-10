@@ -5,7 +5,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Overgrow"]
+    "Ability Slots": {
+      "pk3": ["Overgrow", "None"]
+    }
   },
   "Ivysaur": {
     "Forms": {
@@ -13,7 +15,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Overgrow"]
+    "Ability Slots": {
+      "pk3": ["Overgrow", "None"]
+    }
   },
   "Venusaur": {
     "Forms": {
@@ -21,7 +25,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Overgrow"]
+    "Ability Slots": {
+      "pk3": ["Overgrow", "None"]
+    }
   },
   "Charmander": {
     "Forms": {
@@ -29,7 +35,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Blaze"]
+    "Ability Slots": {
+      "pk3": ["Blaze", "None"]
+    }
   },
   "Charmeleon": {
     "Forms": {
@@ -37,7 +45,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Blaze"]
+    "Ability Slots": {
+      "pk3": ["Blaze", "None"]
+    }
   },
   "Charizard": {
     "Forms": {
@@ -45,7 +55,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Blaze"]
+    "Ability Slots": {
+      "pk3": ["Blaze", "None"]
+    }
   },
   "Squirtle": {
     "Forms": {
@@ -53,7 +65,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Torrent"]
+    "Ability Slots": {
+      "pk3": ["Torrent", "None"]
+    }
   },
   "Wartortle": {
     "Forms": {
@@ -61,7 +75,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Torrent"]
+    "Ability Slots": {
+      "pk3": ["Torrent", "None"]
+    }
   },
   "Blastoise": {
     "Forms": {
@@ -69,7 +85,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Torrent"]
+    "Ability Slots": {
+      "pk3": ["Torrent", "None"]
+    }
   },
   "Caterpie": {
     "Forms": {
@@ -77,7 +95,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Shield Dust"]
+    "Ability Slots": {
+      "pk3": ["Shield Dust", "None"]
+    }
   },
   "Metapod": {
     "Forms": {
@@ -85,7 +105,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Shed Skin"]
+    "Ability Slots": {
+      "pk3": ["Shed Skin", "None"]
+    }
   },
   "Butterfree": {
     "Forms": {
@@ -93,7 +115,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Compound Eyes"]
+    "Ability Slots": {
+      "pk3": ["Compound Eyes", "None"]
+    }
   },
   "Weedle": {
     "Forms": {
@@ -101,7 +125,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Shield Dust"]
+    "Ability Slots": {
+      "pk3": ["Shield Dust", "None"]
+    }
   },
   "Kakuna": {
     "Forms": {
@@ -109,7 +135,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Shed Skin"]
+    "Ability Slots": {
+      "pk3": ["Shed Skin", "None"]
+    }
   },
   "Beedrill": {
     "Forms": {
@@ -117,7 +145,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Swarm"]
+    "Ability Slots": {
+      "pk3": ["Swarm", "None"]
+    }
   },
   "Pidgey": {
     "Forms": {
@@ -125,7 +155,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Keen Eye"]
+    "Ability Slots": {
+      "pk3": ["Keen Eye", "None"]
+    }
   },
   "Pidgeotto": {
     "Forms": {
@@ -133,7 +165,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Keen Eye"]
+    "Ability Slots": {
+      "pk3": ["Keen Eye", "None"]
+    }
   },
   "Pidgeot": {
     "Forms": {
@@ -141,7 +175,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Keen Eye"]
+    "Ability Slots": {
+      "pk3": ["Keen Eye", "None"]
+    }
   },
   "Rattata": {
     "Forms": {
@@ -149,7 +185,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Run Away", "Guts"]
+    "Ability Slots": {
+      "pk3": ["Run Away", "Guts"]
+    }
   },
   "Raticate": {
     "Forms": {
@@ -157,7 +195,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Run Away", "Guts"]
+    "Ability Slots": {
+      "pk3": ["Run Away", "Guts"]
+    }
   },
   "Spearow": {
     "Forms": {
@@ -165,7 +205,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Keen Eye"]
+    "Ability Slots": {
+      "pk3": ["Keen Eye", "None"]
+    }
   },
   "Fearow": {
     "Forms": {
@@ -173,7 +215,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Keen Eye"]
+    "Ability Slots": {
+      "pk3": ["Keen Eye", "None"]
+    }
   },
   "Ekans": {
     "Forms": {
@@ -181,7 +225,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Intimidate", "Shed Skin"]
+    "Ability Slots": {
+      "pk3": ["Intimidate", "Shed Skin"]
+    }
   },
   "Arbok": {
     "Forms": {
@@ -189,7 +235,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Intimidate", "Shed Skin"]
+    "Ability Slots": {
+      "pk3": ["Intimidate", "Shed Skin"]
+    }
   },
   "Pikachu": {
     "Forms": {
@@ -197,7 +245,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Static"]
+    "Ability Slots": {
+      "pk3": ["Static", "None"]
+    }
   },
   "Raichu": {
     "Forms": {
@@ -205,7 +255,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Static"]
+    "Ability Slots": {
+      "pk3": ["Static", "None"]
+    }
   },
   "Sandshrew": {
     "Forms": {
@@ -213,7 +265,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Sand Veil"]
+    "Ability Slots": {
+      "pk3": ["Sand Veil", "None"]
+    }
   },
   "Sandslash": {
     "Forms": {
@@ -221,7 +275,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Sand Veil"]
+    "Ability Slots": {
+      "pk3": ["Sand Veil", "None"]
+    }
   },
   "Nidoran♀": {
     "Forms": {
@@ -229,7 +285,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Poison Point"]
+    "Ability Slots": {
+      "pk3": ["Poison Point", "None"]
+    }
   },
   "Nidorina": {
     "Forms": {
@@ -237,7 +295,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Poison Point"]
+    "Ability Slots": {
+      "pk3": ["Poison Point", "None"]
+    }
   },
   "Nidoqueen": {
     "Forms": {
@@ -245,7 +305,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Poison Point"]
+    "Ability Slots": {
+      "pk3": ["Poison Point", "None"]
+    }
   },
   "Nidoran♂": {
     "Forms": {
@@ -253,7 +315,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Poison Point"]
+    "Ability Slots": {
+      "pk3": ["Poison Point", "None"]
+    }
   },
   "Nidorino": {
     "Forms": {
@@ -261,7 +325,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Poison Point"]
+    "Ability Slots": {
+      "pk3": ["Poison Point", "None"]
+    }
   },
   "Nidoking": {
     "Forms": {
@@ -269,7 +335,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Poison Point"]
+    "Ability Slots": {
+      "pk3": ["Poison Point", "None"]
+    }
   },
   "Clefairy": {
     "Forms": {
@@ -277,7 +345,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Cute Charm"]
+    "Ability Slots": {
+      "pk3": ["Cute Charm", "None"]
+    }
   },
   "Clefable": {
     "Forms": {
@@ -285,7 +355,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Cute Charm"]
+    "Ability Slots": {
+      "pk3": ["Cute Charm", "None"]
+    }
   },
   "Vulpix": {
     "Forms": {
@@ -293,7 +365,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Flash Fire"]
+    "Ability Slots": {
+      "pk3": ["Flash Fire", "None"]
+    }
   },
   "Ninetales": {
     "Forms": {
@@ -301,7 +375,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Flash Fire"]
+    "Ability Slots": {
+      "pk3": ["Flash Fire", "None"]
+    }
   },
   "Jigglypuff": {
     "Forms": {
@@ -309,7 +385,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Cute Charm"]
+    "Ability Slots": {
+      "pk3": ["Cute Charm", "None"]
+    }
   },
   "Wigglytuff": {
     "Forms": {
@@ -317,7 +395,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Cute Charm"]
+    "Ability Slots": {
+      "pk3": ["Cute Charm", "None"]
+    }
   },
   "Zubat": {
     "Forms": {
@@ -325,7 +405,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Inner Focus"]
+    "Ability Slots": {
+      "pk3": ["Inner Focus", "None"]
+    }
   },
   "Golbat": {
     "Forms": {
@@ -333,7 +415,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Inner Focus"]
+    "Ability Slots": {
+      "pk3": ["Inner Focus", "None"]
+    }
   },
   "Oddish": {
     "Forms": {
@@ -341,7 +425,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Chlorophyll"]
+    "Ability Slots": {
+      "pk3": ["Chlorophyll", "None"]
+    }
   },
   "Gloom": {
     "Forms": {
@@ -349,7 +435,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Chlorophyll"]
+    "Ability Slots": {
+      "pk3": ["Chlorophyll", "None"]
+    }
   },
   "Vileplume": {
     "Forms": {
@@ -357,7 +445,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Chlorophyll"]
+    "Ability Slots": {
+      "pk3": ["Chlorophyll", "None"]
+    }
   },
   "Paras": {
     "Forms": {
@@ -365,7 +455,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Effect Spore"]
+    "Ability Slots": {
+      "pk3": ["Effect Spore", "None"]
+    }
   },
   "Parasect": {
     "Forms": {
@@ -373,7 +465,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Effect Spore"]
+    "Ability Slots": {
+      "pk3": ["Effect Spore", "None"]
+    }
   },
   "Venonat": {
     "Forms": {
@@ -381,7 +475,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Compound Eyes"]
+    "Ability Slots": {
+      "pk3": ["Compound Eyes", "None"]
+    }
   },
   "Venomoth": {
     "Forms": {
@@ -389,7 +485,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Shield Dust"]
+    "Ability Slots": {
+      "pk3": ["Shield Dust", "None"]
+    }
   },
   "Diglett": {
     "Forms": {
@@ -397,7 +495,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Sand Veil", "Arena Trap"]
+    "Ability Slots": {
+      "pk3": ["Sand Veil", "Arena Trap"]
+    }
   },
   "Dugtrio": {
     "Forms": {
@@ -405,7 +505,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Sand Veil", "Arena Trap"]
+    "Ability Slots": {
+      "pk3": ["Sand Veil", "Arena Trap"]
+    }
   },
   "Meowth": {
     "Forms": {
@@ -413,7 +515,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Pickup"]
+    "Ability Slots": {
+      "pk3": ["Pickup", "None"]
+    }
   },
   "Persian": {
     "Forms": {
@@ -421,7 +525,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Limber"]
+    "Ability Slots": {
+      "pk3": ["Limber", "None"]
+    }
   },
   "Psyduck": {
     "Forms": {
@@ -429,7 +535,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Damp", "Cloud Nine"]
+    "Ability Slots": {
+      "pk3": ["Damp", "Cloud Nine"]
+    }
   },
   "Golduck": {
     "Forms": {
@@ -437,7 +545,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Damp", "Cloud Nine"]
+    "Ability Slots": {
+      "pk3": ["Damp", "Cloud Nine"]
+    }
   },
   "Mankey": {
     "Forms": {
@@ -445,7 +555,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Vital Spirit"]
+    "Ability Slots": {
+      "pk3": ["Vital Spirit", "None"]
+    }
   },
   "Primeape": {
     "Forms": {
@@ -453,7 +565,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Vital Spirit"]
+    "Ability Slots": {
+      "pk3": ["Vital Spirit", "None"]
+    }
   },
   "Growlithe": {
     "Forms": {
@@ -461,7 +575,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Intimidate", "Flash Fire"]
+    "Ability Slots": {
+      "pk3": ["Intimidate", "Flash Fire"]
+    }
   },
   "Arcanine": {
     "Forms": {
@@ -469,7 +585,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Intimidate", "Flash Fire"]
+    "Ability Slots": {
+      "pk3": ["Intimidate", "Flash Fire"]
+    }
   },
   "Poliwag": {
     "Forms": {
@@ -477,7 +595,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Water Absorb", "Damp"]
+    "Ability Slots": {
+      "pk3": ["Water Absorb", "Damp"]
+    }
   },
   "Poliwhirl": {
     "Forms": {
@@ -485,7 +605,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Water Absorb", "Damp"]
+    "Ability Slots": {
+      "pk3": ["Water Absorb", "Damp"]
+    }
   },
   "Poliwrath": {
     "Forms": {
@@ -493,7 +615,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Water Absorb", "Damp"]
+    "Ability Slots": {
+      "pk3": ["Water Absorb", "Damp"]
+    }
   },
   "Abra": {
     "Forms": {
@@ -501,7 +625,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Synchronize", "Inner Focus"]
+    "Ability Slots": {
+      "pk3": ["Synchronize", "Inner Focus"]
+    }
   },
   "Kadabra": {
     "Forms": {
@@ -509,7 +635,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Synchronize", "Inner Focus"]
+    "Ability Slots": {
+      "pk3": ["Synchronize", "Inner Focus"]
+    }
   },
   "Alakazam": {
     "Forms": {
@@ -517,7 +645,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Synchronize", "Inner Focus"]
+    "Ability Slots": {
+      "pk3": ["Synchronize", "Inner Focus"]
+    }
   },
   "Machop": {
     "Forms": {
@@ -525,7 +655,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Guts"]
+    "Ability Slots": {
+      "pk3": ["Guts", "None"]
+    }
   },
   "Machoke": {
     "Forms": {
@@ -533,7 +665,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Guts"]
+    "Ability Slots": {
+      "pk3": ["Guts", "None"]
+    }
   },
   "Machamp": {
     "Forms": {
@@ -541,7 +675,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Guts"]
+    "Ability Slots": {
+      "pk3": ["Guts", "None"]
+    }
   },
   "Bellsprout": {
     "Forms": {
@@ -549,7 +685,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Chlorophyll"]
+    "Ability Slots": {
+      "pk3": ["Chlorophyll", "None"]
+    }
   },
   "Weepinbell": {
     "Forms": {
@@ -557,7 +695,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Chlorophyll"]
+    "Ability Slots": {
+      "pk3": ["Chlorophyll", "None"]
+    }
   },
   "Victreebel": {
     "Forms": {
@@ -565,7 +705,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Chlorophyll"]
+    "Ability Slots": {
+      "pk3": ["Chlorophyll", "None"]
+    }
   },
   "Tentacool": {
     "Forms": {
@@ -573,7 +715,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Clear Body", "Liquid Ooze"]
+    "Ability Slots": {
+      "pk3": ["Clear Body", "Liquid Ooze"]
+    }
   },
   "Tentacruel": {
     "Forms": {
@@ -581,7 +725,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Clear Body", "Liquid Ooze"]
+    "Ability Slots": {
+      "pk3": ["Clear Body", "Liquid Ooze"]
+    }
   },
   "Geodude": {
     "Forms": {
@@ -589,7 +735,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Rock Head", "Sturdy"]
+    "Ability Slots": {
+      "pk3": ["Rock Head", "Sturdy"]
+    }
   },
   "Graveler": {
     "Forms": {
@@ -597,7 +745,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Rock Head", "Sturdy"]
+    "Ability Slots": {
+      "pk3": ["Rock Head", "Sturdy"]
+    }
   },
   "Golem": {
     "Forms": {
@@ -605,7 +755,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Rock Head", "Sturdy"]
+    "Ability Slots": {
+      "pk3": ["Rock Head", "Sturdy"]
+    }
   },
   "Ponyta": {
     "Forms": {
@@ -613,7 +765,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Run Away", "Flash Fire"]
+    "Ability Slots": {
+      "pk3": ["Run Away", "Flash Fire"]
+    }
   },
   "Rapidash": {
     "Forms": {
@@ -621,7 +775,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Run Away", "Flash Fire"]
+    "Ability Slots": {
+      "pk3": ["Run Away", "Flash Fire"]
+    }
   },
   "Slowpoke": {
     "Forms": {
@@ -629,7 +785,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Oblivious", "Own Tempo"]
+    "Ability Slots": {
+      "pk3": ["Oblivious", "Own Tempo"]
+    }
   },
   "Slowbro": {
     "Forms": {
@@ -637,7 +795,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Oblivious", "Own Tempo"]
+    "Ability Slots": {
+      "pk3": ["Oblivious", "Own Tempo"]
+    }
   },
   "Magnemite": {
     "Forms": {
@@ -645,7 +805,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Magnet Pull", "Sturdy"]
+    "Ability Slots": {
+      "pk3": ["Magnet Pull", "Sturdy"]
+    }
   },
   "Magneton": {
     "Forms": {
@@ -653,7 +815,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Magnet Pull", "Sturdy"]
+    "Ability Slots": {
+      "pk3": ["Magnet Pull", "Sturdy"]
+    }
   },
   "Farfetch’d": {
     "Forms": {
@@ -661,7 +825,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Keen Eye", "Inner Focus"]
+    "Ability Slots": {
+      "pk3": ["Keen Eye", "Inner Focus"]
+    }
   },
   "Doduo": {
     "Forms": {
@@ -669,7 +835,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Run Away", "Early Bird"]
+    "Ability Slots": {
+      "pk3": ["Run Away", "Early Bird"]
+    }
   },
   "Dodrio": {
     "Forms": {
@@ -677,7 +845,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Run Away", "Early Bird"]
+    "Ability Slots": {
+      "pk3": ["Run Away", "Early Bird"]
+    }
   },
   "Seel": {
     "Forms": {
@@ -685,7 +855,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Thick Fat"]
+    "Ability Slots": {
+      "pk3": ["Thick Fat", "None"]
+    }
   },
   "Dewgong": {
     "Forms": {
@@ -693,7 +865,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Thick Fat"]
+    "Ability Slots": {
+      "pk3": ["Thick Fat", "None"]
+    }
   },
   "Grimer": {
     "Forms": {
@@ -701,7 +875,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Stench", "Sticky Hold"]
+    "Ability Slots": {
+      "pk3": ["Stench", "Sticky Hold"]
+    }
   },
   "Muk": {
     "Forms": {
@@ -709,7 +885,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Stench", "Sticky Hold"]
+    "Ability Slots": {
+      "pk3": ["Stench", "Sticky Hold"]
+    }
   },
   "Shellder": {
     "Forms": {
@@ -717,7 +895,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Shell Armor"]
+    "Ability Slots": {
+      "pk3": ["Shell Armor", "None"]
+    }
   },
   "Cloyster": {
     "Forms": {
@@ -725,7 +905,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Shell Armor"]
+    "Ability Slots": {
+      "pk3": ["Shell Armor", "None"]
+    }
   },
   "Gastly": {
     "Forms": {
@@ -733,7 +915,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Levitate"]
+    "Ability Slots": {
+      "pk3": ["Levitate", "None"]
+    }
   },
   "Haunter": {
     "Forms": {
@@ -741,7 +925,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Levitate"]
+    "Ability Slots": {
+      "pk3": ["Levitate", "None"]
+    }
   },
   "Gengar": {
     "Forms": {
@@ -749,7 +935,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Levitate"]
+    "Ability Slots": {
+      "pk3": ["Levitate", "None"]
+    }
   },
   "Onix": {
     "Forms": {
@@ -757,7 +945,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Rock Head", "Sturdy"]
+    "Ability Slots": {
+      "pk3": ["Rock Head", "Sturdy"]
+    }
   },
   "Drowzee": {
     "Forms": {
@@ -765,7 +955,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Insomnia"]
+    "Ability Slots": {
+      "pk3": ["Insomnia", "None"]
+    }
   },
   "Hypno": {
     "Forms": {
@@ -773,7 +965,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Insomnia"]
+    "Ability Slots": {
+      "pk3": ["Insomnia", "None"]
+    }
   },
   "Krabby": {
     "Forms": {
@@ -781,7 +975,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Hyper Cutter", "Shell Armor"]
+    "Ability Slots": {
+      "pk3": ["Hyper Cutter", "Shell Armor"]
+    }
   },
   "Kingler": {
     "Forms": {
@@ -789,7 +985,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Hyper Cutter", "Shell Armor"]
+    "Ability Slots": {
+      "pk3": ["Hyper Cutter", "Shell Armor"]
+    }
   },
   "Voltorb": {
     "Forms": {
@@ -797,7 +995,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Soundproof", "Static"]
+    "Ability Slots": {
+      "pk3": ["Soundproof", "Static"]
+    }
   },
   "Electrode": {
     "Forms": {
@@ -805,7 +1005,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Soundproof", "Static"]
+    "Ability Slots": {
+      "pk3": ["Soundproof", "Static"]
+    }
   },
   "Exeggcute": {
     "Forms": {
@@ -813,7 +1015,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Chlorophyll"]
+    "Ability Slots": {
+      "pk3": ["Chlorophyll", "None"]
+    }
   },
   "Exeggutor": {
     "Forms": {
@@ -821,7 +1025,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Chlorophyll"]
+    "Ability Slots": {
+      "pk3": ["Chlorophyll", "None"]
+    }
   },
   "Cubone": {
     "Forms": {
@@ -829,7 +1035,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Rock Head", "Lightning Rod"]
+    "Ability Slots": {
+      "pk3": ["Rock Head", "Lightning Rod"]
+    }
   },
   "Marowak": {
     "Forms": {
@@ -837,7 +1045,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Rock Head", "Lightning Rod"]
+    "Ability Slots": {
+      "pk3": ["Rock Head", "Lightning Rod"]
+    }
   },
   "Hitmonlee": {
     "Forms": {
@@ -845,7 +1055,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Limber"]
+    "Ability Slots": {
+      "pk3": ["Limber", "None"]
+    }
   },
   "Hitmonchan": {
     "Forms": {
@@ -853,7 +1065,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Keen Eye"]
+    "Ability Slots": {
+      "pk3": ["Keen Eye", "None"]
+    }
   },
   "Lickitung": {
     "Forms": {
@@ -861,7 +1075,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Own Tempo", "Oblivious"]
+    "Ability Slots": {
+      "pk3": ["Own Tempo", "Oblivious"]
+    }
   },
   "Koffing": {
     "Forms": {
@@ -869,7 +1085,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Levitate"]
+    "Ability Slots": {
+      "pk3": ["Levitate", "None"]
+    }
   },
   "Weezing": {
     "Forms": {
@@ -877,7 +1095,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Levitate"]
+    "Ability Slots": {
+      "pk3": ["Levitate", "None"]
+    }
   },
   "Rhyhorn": {
     "Forms": {
@@ -885,7 +1105,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Lightning Rod", "Rock Head"]
+    "Ability Slots": {
+      "pk3": ["Lightning Rod", "Rock Head"]
+    }
   },
   "Rhydon": {
     "Forms": {
@@ -893,7 +1115,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Lightning Rod", "Rock Head"]
+    "Ability Slots": {
+      "pk3": ["Lightning Rod", "Rock Head"]
+    }
   },
   "Chansey": {
     "Forms": {
@@ -901,7 +1125,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Natural Cure", "Serene Grace"]
+    "Ability Slots": {
+      "pk3": ["Natural Cure", "Serene Grace"]
+    }
   },
   "Tangela": {
     "Forms": {
@@ -909,7 +1135,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Chlorophyll"]
+    "Ability Slots": {
+      "pk3": ["Chlorophyll", "None"]
+    }
   },
   "Kangaskhan": {
     "Forms": {
@@ -917,7 +1145,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Early Bird"]
+    "Ability Slots": {
+      "pk3": ["Early Bird", "None"]
+    }
   },
   "Horsea": {
     "Forms": {
@@ -925,7 +1155,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Swift Swim"]
+    "Ability Slots": {
+      "pk3": ["Swift Swim", "None"]
+    }
   },
   "Seadra": {
     "Forms": {
@@ -933,7 +1165,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Poison Point"]
+    "Ability Slots": {
+      "pk3": ["Poison Point", "None"]
+    }
   },
   "Goldeen": {
     "Forms": {
@@ -941,7 +1175,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Swift Swim", "Water Veil"]
+    "Ability Slots": {
+      "pk3": ["Swift Swim", "Water Veil"]
+    }
   },
   "Seaking": {
     "Forms": {
@@ -949,7 +1185,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Swift Swim", "Water Veil"]
+    "Ability Slots": {
+      "pk3": ["Swift Swim", "Water Veil"]
+    }
   },
   "Staryu": {
     "Forms": {
@@ -957,7 +1195,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Illuminate", "Natural Cure"]
+    "Ability Slots": {
+      "pk3": ["Illuminate", "Natural Cure"]
+    }
   },
   "Starmie": {
     "Forms": {
@@ -965,7 +1205,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Illuminate", "Natural Cure"]
+    "Ability Slots": {
+      "pk3": ["Illuminate", "Natural Cure"]
+    }
   },
   "Mr. Mime": {
     "Forms": {
@@ -973,7 +1215,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Soundproof"]
+    "Ability Slots": {
+      "pk3": ["Soundproof", "None"]
+    }
   },
   "Scyther": {
     "Forms": {
@@ -981,7 +1225,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Swarm"]
+    "Ability Slots": {
+      "pk3": ["Swarm", "None"]
+    }
   },
   "Jynx": {
     "Forms": {
@@ -989,7 +1235,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Oblivious"]
+    "Ability Slots": {
+      "pk3": ["Oblivious", "None"]
+    }
   },
   "Electabuzz": {
     "Forms": {
@@ -997,7 +1245,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Static"]
+    "Ability Slots": {
+      "pk3": ["Static", "None"]
+    }
   },
   "Magmar": {
     "Forms": {
@@ -1005,7 +1255,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Flame Body"]
+    "Ability Slots": {
+      "pk3": ["Flame Body", "None"]
+    }
   },
   "Pinsir": {
     "Forms": {
@@ -1013,7 +1265,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Hyper Cutter"]
+    "Ability Slots": {
+      "pk3": ["Hyper Cutter", "None"]
+    }
   },
   "Tauros": {
     "Forms": {
@@ -1021,7 +1275,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Intimidate"]
+    "Ability Slots": {
+      "pk3": ["Intimidate", "None"]
+    }
   },
   "Magikarp": {
     "Forms": {
@@ -1029,7 +1285,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Swift Swim"]
+    "Ability Slots": {
+      "pk3": ["Swift Swim", "None"]
+    }
   },
   "Gyarados": {
     "Forms": {
@@ -1037,7 +1295,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Intimidate"]
+    "Ability Slots": {
+      "pk3": ["Intimidate", "None"]
+    }
   },
   "Lapras": {
     "Forms": {
@@ -1045,7 +1305,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Water Absorb", "Shell Armor"]
+    "Ability Slots": {
+      "pk3": ["Water Absorb", "Shell Armor"]
+    }
   },
   "Ditto": {
     "Forms": {
@@ -1053,7 +1315,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Limber"]
+    "Ability Slots": {
+      "pk3": ["Limber", "None"]
+    }
   },
   "Eevee": {
     "Forms": {
@@ -1061,7 +1325,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Run Away"]
+    "Ability Slots": {
+      "pk3": ["Run Away", "None"]
+    }
   },
   "Vaporeon": {
     "Forms": {
@@ -1069,7 +1335,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Water Absorb"]
+    "Ability Slots": {
+      "pk3": ["Water Absorb", "None"]
+    }
   },
   "Jolteon": {
     "Forms": {
@@ -1077,7 +1345,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Volt Absorb"]
+    "Ability Slots": {
+      "pk3": ["Volt Absorb", "None"]
+    }
   },
   "Flareon": {
     "Forms": {
@@ -1085,7 +1355,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Flash Fire"]
+    "Ability Slots": {
+      "pk3": ["Flash Fire", "None"]
+    }
   },
   "Porygon": {
     "Forms": {
@@ -1093,7 +1365,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Trace"]
+    "Ability Slots": {
+      "pk3": ["Trace", "None"]
+    }
   },
   "Omanyte": {
     "Forms": {
@@ -1101,7 +1375,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Swift Swim", "Shell Armor"]
+    "Ability Slots": {
+      "pk3": ["Swift Swim", "Shell Armor"]
+    }
   },
   "Omastar": {
     "Forms": {
@@ -1109,7 +1385,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Swift Swim", "Shell Armor"]
+    "Ability Slots": {
+      "pk3": ["Swift Swim", "Shell Armor"]
+    }
   },
   "Kabuto": {
     "Forms": {
@@ -1117,7 +1395,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Swift Swim", "Battle Armor"]
+    "Ability Slots": {
+      "pk3": ["Swift Swim", "Battle Armor"]
+    }
   },
   "Kabutops": {
     "Forms": {
@@ -1125,7 +1405,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Swift Swim", "Battle Armor"]
+    "Ability Slots": {
+      "pk3": ["Swift Swim", "Battle Armor"]
+    }
   },
   "Aerodactyl": {
     "Forms": {
@@ -1133,7 +1415,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Rock Head", "Pressure"]
+    "Ability Slots": {
+      "pk3": ["Rock Head", "Pressure"]
+    }
   },
   "Snorlax": {
     "Forms": {
@@ -1141,7 +1425,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Immunity", "Thick Fat"]
+    "Ability Slots": {
+      "pk3": ["Immunity", "Thick Fat"]
+    }
   },
   "Articuno": {
     "Forms": {
@@ -1149,7 +1435,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Pressure"]
+    "Ability Slots": {
+      "pk3": ["Pressure", "None"]
+    }
   },
   "Zapdos": {
     "Forms": {
@@ -1157,7 +1445,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Pressure"]
+    "Ability Slots": {
+      "pk3": ["Pressure", "None"]
+    }
   },
   "Moltres": {
     "Forms": {
@@ -1165,7 +1455,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Pressure"]
+    "Ability Slots": {
+      "pk3": ["Pressure", "None"]
+    }
   },
   "Dratini": {
     "Forms": {
@@ -1173,7 +1465,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Shed Skin"]
+    "Ability Slots": {
+      "pk3": ["Shed Skin", "None"]
+    }
   },
   "Dragonair": {
     "Forms": {
@@ -1181,7 +1475,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Shed Skin"]
+    "Ability Slots": {
+      "pk3": ["Shed Skin", "None"]
+    }
   },
   "Dragonite": {
     "Forms": {
@@ -1189,7 +1485,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Inner Focus"]
+    "Ability Slots": {
+      "pk3": ["Inner Focus", "None"]
+    }
   },
   "Mewtwo": {
     "Forms": {
@@ -1197,7 +1495,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Pressure"]
+    "Ability Slots": {
+      "pk3": ["Pressure", "None"]
+    }
   },
   "Mew": {
     "Forms": {
@@ -1205,7 +1505,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Synchronize"]
+    "Ability Slots": {
+      "pk3": ["Synchronize", "None"]
+    }
   },
   "Chikorita": {
     "Forms": {
@@ -1213,7 +1515,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Overgrow"]
+    "Ability Slots": {
+      "pk3": ["Overgrow", "None"]
+    }
   },
   "Bayleef": {
     "Forms": {
@@ -1221,7 +1525,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Overgrow"]
+    "Ability Slots": {
+      "pk3": ["Overgrow", "None"]
+    }
   },
   "Meganium": {
     "Forms": {
@@ -1229,7 +1535,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Overgrow"]
+    "Ability Slots": {
+      "pk3": ["Overgrow", "None"]
+    }
   },
   "Cyndaquil": {
     "Forms": {
@@ -1237,7 +1545,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Blaze"]
+    "Ability Slots": {
+      "pk3": ["Blaze", "None"]
+    }
   },
   "Quilava": {
     "Forms": {
@@ -1245,7 +1555,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Blaze"]
+    "Ability Slots": {
+      "pk3": ["Blaze", "None"]
+    }
   },
   "Typhlosion": {
     "Forms": {
@@ -1253,7 +1565,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Blaze"]
+    "Ability Slots": {
+      "pk3": ["Blaze", "None"]
+    }
   },
   "Totodile": {
     "Forms": {
@@ -1261,7 +1575,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Torrent"]
+    "Ability Slots": {
+      "pk3": ["Torrent", "None"]
+    }
   },
   "Croconaw": {
     "Forms": {
@@ -1269,7 +1585,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Torrent"]
+    "Ability Slots": {
+      "pk3": ["Torrent", "None"]
+    }
   },
   "Feraligatr": {
     "Forms": {
@@ -1277,7 +1595,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Torrent"]
+    "Ability Slots": {
+      "pk3": ["Torrent", "None"]
+    }
   },
   "Sentret": {
     "Forms": {
@@ -1285,7 +1605,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Run Away", "Keen Eye"]
+    "Ability Slots": {
+      "pk3": ["Run Away", "Keen Eye"]
+    }
   },
   "Furret": {
     "Forms": {
@@ -1293,7 +1615,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Run Away", "Keen Eye"]
+    "Ability Slots": {
+      "pk3": ["Run Away", "Keen Eye"]
+    }
   },
   "Hoothoot": {
     "Forms": {
@@ -1301,7 +1625,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Insomnia", "Keen Eye"]
+    "Ability Slots": {
+      "pk3": ["Insomnia", "Keen Eye"]
+    }
   },
   "Noctowl": {
     "Forms": {
@@ -1309,7 +1635,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Insomnia", "Keen Eye"]
+    "Ability Slots": {
+      "pk3": ["Insomnia", "Keen Eye"]
+    }
   },
   "Ledyba": {
     "Forms": {
@@ -1317,7 +1645,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Swarm", "Early Bird"]
+    "Ability Slots": {
+      "pk3": ["Swarm", "Early Bird"]
+    }
   },
   "Ledian": {
     "Forms": {
@@ -1325,7 +1655,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Swarm", "Early Bird"]
+    "Ability Slots": {
+      "pk3": ["Swarm", "Early Bird"]
+    }
   },
   "Spinarak": {
     "Forms": {
@@ -1333,7 +1665,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Swarm", "Insomnia"]
+    "Ability Slots": {
+      "pk3": ["Swarm", "Insomnia"]
+    }
   },
   "Ariados": {
     "Forms": {
@@ -1341,7 +1675,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Swarm", "Insomnia"]
+    "Ability Slots": {
+      "pk3": ["Swarm", "Insomnia"]
+    }
   },
   "Crobat": {
     "Forms": {
@@ -1349,7 +1685,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Inner Focus"]
+    "Ability Slots": {
+      "pk3": ["Inner Focus", "None"]
+    }
   },
   "Chinchou": {
     "Forms": {
@@ -1357,7 +1695,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Volt Absorb", "Illuminate"]
+    "Ability Slots": {
+      "pk3": ["Volt Absorb", "Illuminate"]
+    }
   },
   "Lanturn": {
     "Forms": {
@@ -1365,7 +1705,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Volt Absorb", "Illuminate"]
+    "Ability Slots": {
+      "pk3": ["Volt Absorb", "Illuminate"]
+    }
   },
   "Pichu": {
     "Forms": {
@@ -1373,7 +1715,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Static"]
+    "Ability Slots": {
+      "pk3": ["Static", "None"]
+    }
   },
   "Cleffa": {
     "Forms": {
@@ -1381,7 +1725,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Cute Charm"]
+    "Ability Slots": {
+      "pk3": ["Cute Charm", "None"]
+    }
   },
   "Igglybuff": {
     "Forms": {
@@ -1389,7 +1735,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Cute Charm"]
+    "Ability Slots": {
+      "pk3": ["Cute Charm", "None"]
+    }
   },
   "Togepi": {
     "Forms": {
@@ -1397,7 +1745,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Hustle", "Serene Grace"]
+    "Ability Slots": {
+      "pk3": ["Hustle", "Serene Grace"]
+    }
   },
   "Togetic": {
     "Forms": {
@@ -1405,7 +1755,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Hustle", "Serene Grace"]
+    "Ability Slots": {
+      "pk3": ["Hustle", "Serene Grace"]
+    }
   },
   "Natu": {
     "Forms": {
@@ -1413,7 +1765,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Synchronize", "Early Bird"]
+    "Ability Slots": {
+      "pk3": ["Synchronize", "Early Bird"]
+    }
   },
   "Xatu": {
     "Forms": {
@@ -1421,7 +1775,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Synchronize", "Early Bird"]
+    "Ability Slots": {
+      "pk3": ["Synchronize", "Early Bird"]
+    }
   },
   "Mareep": {
     "Forms": {
@@ -1429,7 +1785,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Static"]
+    "Ability Slots": {
+      "pk3": ["Static", "None"]
+    }
   },
   "Flaaffy": {
     "Forms": {
@@ -1437,7 +1795,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Static"]
+    "Ability Slots": {
+      "pk3": ["Static", "None"]
+    }
   },
   "Ampharos": {
     "Forms": {
@@ -1445,7 +1805,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Static"]
+    "Ability Slots": {
+      "pk3": ["Static", "None"]
+    }
   },
   "Bellossom": {
     "Forms": {
@@ -1453,7 +1815,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Chlorophyll"]
+    "Ability Slots": {
+      "pk3": ["Chlorophyll", "None"]
+    }
   },
   "Marill": {
     "Forms": {
@@ -1461,7 +1825,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Thick Fat", "Huge Power"]
+    "Ability Slots": {
+      "pk3": ["Thick Fat", "Huge Power"]
+    }
   },
   "Azumarill": {
     "Forms": {
@@ -1469,7 +1835,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Thick Fat", "Huge Power"]
+    "Ability Slots": {
+      "pk3": ["Thick Fat", "Huge Power"]
+    }
   },
   "Sudowoodo": {
     "Forms": {
@@ -1477,7 +1845,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Sturdy", "Rock Head"]
+    "Ability Slots": {
+      "pk3": ["Sturdy", "Rock Head"]
+    }
   },
   "Politoed": {
     "Forms": {
@@ -1485,7 +1855,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Water Absorb", "Damp"]
+    "Ability Slots": {
+      "pk3": ["Water Absorb", "Damp"]
+    }
   },
   "Hoppip": {
     "Forms": {
@@ -1493,7 +1865,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Chlorophyll"]
+    "Ability Slots": {
+      "pk3": ["Chlorophyll", "None"]
+    }
   },
   "Skiploom": {
     "Forms": {
@@ -1501,7 +1875,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Chlorophyll"]
+    "Ability Slots": {
+      "pk3": ["Chlorophyll", "None"]
+    }
   },
   "Jumpluff": {
     "Forms": {
@@ -1509,7 +1885,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Chlorophyll"]
+    "Ability Slots": {
+      "pk3": ["Chlorophyll", "None"]
+    }
   },
   "Aipom": {
     "Forms": {
@@ -1517,7 +1895,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Run Away", "Pickup"]
+    "Ability Slots": {
+      "pk3": ["Run Away", "Pickup"]
+    }
   },
   "Sunkern": {
     "Forms": {
@@ -1525,7 +1905,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Chlorophyll"]
+    "Ability Slots": {
+      "pk3": ["Chlorophyll", "None"]
+    }
   },
   "Sunflora": {
     "Forms": {
@@ -1533,7 +1915,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Chlorophyll"]
+    "Ability Slots": {
+      "pk3": ["Chlorophyll", "None"]
+    }
   },
   "Yanma": {
     "Forms": {
@@ -1541,7 +1925,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Speed Boost", "Compound Eyes"]
+    "Ability Slots": {
+      "pk3": ["Speed Boost", "Compound Eyes"]
+    }
   },
   "Wooper": {
     "Forms": {
@@ -1549,7 +1935,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Damp", "Water Absorb"]
+    "Ability Slots": {
+      "pk3": ["Damp", "Water Absorb"]
+    }
   },
   "Quagsire": {
     "Forms": {
@@ -1557,7 +1945,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Damp", "Water Absorb"]
+    "Ability Slots": {
+      "pk3": ["Damp", "Water Absorb"]
+    }
   },
   "Espeon": {
     "Forms": {
@@ -1565,7 +1955,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Synchronize"]
+    "Ability Slots": {
+      "pk3": ["Synchronize", "None"]
+    }
   },
   "Umbreon": {
     "Forms": {
@@ -1573,7 +1965,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Synchronize"]
+    "Ability Slots": {
+      "pk3": ["Synchronize", "None"]
+    }
   },
   "Murkrow": {
     "Forms": {
@@ -1581,7 +1975,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Insomnia"]
+    "Ability Slots": {
+      "pk3": ["Insomnia", "None"]
+    }
   },
   "Slowking": {
     "Forms": {
@@ -1589,7 +1985,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Oblivious", "Own Tempo"]
+    "Ability Slots": {
+      "pk3": ["Oblivious", "Own Tempo"]
+    }
   },
   "Misdreavus": {
     "Forms": {
@@ -1597,7 +1995,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Levitate"]
+    "Ability Slots": {
+      "pk3": ["Levitate", "None"]
+    }
   },
   "Unown": {
     "Forms": {
@@ -1686,7 +2086,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Levitate"]
+    "Ability Slots": {
+      "pk3": ["Levitate", "None"]
+    }
   },
   "Wobbuffet": {
     "Forms": {
@@ -1694,7 +2096,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Shadow Tag"]
+    "Ability Slots": {
+      "pk3": ["Shadow Tag", "None"]
+    }
   },
   "Girafarig": {
     "Forms": {
@@ -1702,7 +2106,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Inner Focus", "Early Bird"]
+    "Ability Slots": {
+      "pk3": ["Inner Focus", "Early Bird"]
+    }
   },
   "Pineco": {
     "Forms": {
@@ -1710,7 +2116,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Sturdy"]
+    "Ability Slots": {
+      "pk3": ["Sturdy", "None"]
+    }
   },
   "Forretress": {
     "Forms": {
@@ -1718,7 +2126,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Sturdy"]
+    "Ability Slots": {
+      "pk3": ["Sturdy", "None"]
+    }
   },
   "Dunsparce": {
     "Forms": {
@@ -1726,7 +2136,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Serene Grace", "Run Away"]
+    "Ability Slots": {
+      "pk3": ["Serene Grace", "Run Away"]
+    }
   },
   "Gligar": {
     "Forms": {
@@ -1734,7 +2146,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Hyper Cutter", "Sand Veil"]
+    "Ability Slots": {
+      "pk3": ["Hyper Cutter", "Sand Veil"]
+    }
   },
   "Steelix": {
     "Forms": {
@@ -1742,7 +2156,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Rock Head", "Sturdy"]
+    "Ability Slots": {
+      "pk3": ["Rock Head", "Sturdy"]
+    }
   },
   "Snubbull": {
     "Forms": {
@@ -1750,7 +2166,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Intimidate", "Run Away"]
+    "Ability Slots": {
+      "pk3": ["Intimidate", "Run Away"]
+    }
   },
   "Granbull": {
     "Forms": {
@@ -1758,7 +2176,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Intimidate", "Intimidate"]
+    "Ability Slots": {
+      "pk3": ["Intimidate", "Intimidate"]
+    }
   },
   "Qwilfish": {
     "Forms": {
@@ -1766,7 +2186,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Poison Point", "Swift Swim"]
+    "Ability Slots": {
+      "pk3": ["Poison Point", "Swift Swim"]
+    }
   },
   "Scizor": {
     "Forms": {
@@ -1774,7 +2196,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Swarm"]
+    "Ability Slots": {
+      "pk3": ["Swarm", "None"]
+    }
   },
   "Shuckle": {
     "Forms": {
@@ -1782,7 +2206,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Sturdy"]
+    "Ability Slots": {
+      "pk3": ["Sturdy", "None"]
+    }
   },
   "Heracross": {
     "Forms": {
@@ -1790,7 +2216,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Swarm", "Guts"]
+    "Ability Slots": {
+      "pk3": ["Swarm", "Guts"]
+    }
   },
   "Sneasel": {
     "Forms": {
@@ -1798,7 +2226,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Inner Focus", "Keen Eye"]
+    "Ability Slots": {
+      "pk3": ["Inner Focus", "Keen Eye"]
+    }
   },
   "Teddiursa": {
     "Forms": {
@@ -1806,7 +2236,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Pickup"]
+    "Ability Slots": {
+      "pk3": ["Pickup", "None"]
+    }
   },
   "Ursaring": {
     "Forms": {
@@ -1814,7 +2246,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Guts"]
+    "Ability Slots": {
+      "pk3": ["Guts", "None"]
+    }
   },
   "Slugma": {
     "Forms": {
@@ -1822,7 +2256,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Magma Armor", "Flame Body"]
+    "Ability Slots": {
+      "pk3": ["Magma Armor", "Flame Body"]
+    }
   },
   "Magcargo": {
     "Forms": {
@@ -1830,7 +2266,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Magma Armor", "Flame Body"]
+    "Ability Slots": {
+      "pk3": ["Magma Armor", "Flame Body"]
+    }
   },
   "Swinub": {
     "Forms": {
@@ -1838,7 +2276,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Oblivious"]
+    "Ability Slots": {
+      "pk3": ["Oblivious", "None"]
+    }
   },
   "Piloswine": {
     "Forms": {
@@ -1846,7 +2286,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Oblivious"]
+    "Ability Slots": {
+      "pk3": ["Oblivious", "None"]
+    }
   },
   "Corsola": {
     "Forms": {
@@ -1854,7 +2296,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Hustle", "Natural Cure"]
+    "Ability Slots": {
+      "pk3": ["Hustle", "Natural Cure"]
+    }
   },
   "Remoraid": {
     "Forms": {
@@ -1862,7 +2306,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Hustle"]
+    "Ability Slots": {
+      "pk3": ["Hustle", "None"]
+    }
   },
   "Octillery": {
     "Forms": {
@@ -1870,7 +2316,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Suction Cups"]
+    "Ability Slots": {
+      "pk3": ["Suction Cups", "None"]
+    }
   },
   "Delibird": {
     "Forms": {
@@ -1878,7 +2326,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Vital Spirit", "Hustle"]
+    "Ability Slots": {
+      "pk3": ["Vital Spirit", "Hustle"]
+    }
   },
   "Mantine": {
     "Forms": {
@@ -1886,7 +2336,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Swift Swim", "Water Absorb"]
+    "Ability Slots": {
+      "pk3": ["Swift Swim", "Water Absorb"]
+    }
   },
   "Skarmory": {
     "Forms": {
@@ -1894,7 +2346,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Keen Eye", "Sturdy"]
+    "Ability Slots": {
+      "pk3": ["Keen Eye", "Sturdy"]
+    }
   },
   "Houndour": {
     "Forms": {
@@ -1902,7 +2356,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Early Bird", "Flash Fire"]
+    "Ability Slots": {
+      "pk3": ["Early Bird", "Flash Fire"]
+    }
   },
   "Houndoom": {
     "Forms": {
@@ -1910,7 +2366,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Early Bird", "Flash Fire"]
+    "Ability Slots": {
+      "pk3": ["Early Bird", "Flash Fire"]
+    }
   },
   "Kingdra": {
     "Forms": {
@@ -1918,7 +2376,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Swift Swim"]
+    "Ability Slots": {
+      "pk3": ["Swift Swim", "None"]
+    }
   },
   "Phanpy": {
     "Forms": {
@@ -1926,7 +2386,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Pickup"]
+    "Ability Slots": {
+      "pk3": ["Pickup", "None"]
+    }
   },
   "Donphan": {
     "Forms": {
@@ -1934,7 +2396,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Sturdy"]
+    "Ability Slots": {
+      "pk3": ["Sturdy", "None"]
+    }
   },
   "Porygon2": {
     "Forms": {
@@ -1942,7 +2406,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Trace"]
+    "Ability Slots": {
+      "pk3": ["Trace", "None"]
+    }
   },
   "Stantler": {
     "Forms": {
@@ -1950,7 +2416,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Intimidate"]
+    "Ability Slots": {
+      "pk3": ["Intimidate", "None"]
+    }
   },
   "Smeargle": {
     "Forms": {
@@ -1958,7 +2426,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Own Tempo"]
+    "Ability Slots": {
+      "pk3": ["Own Tempo", "None"]
+    }
   },
   "Tyrogue": {
     "Forms": {
@@ -1966,7 +2436,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Guts"]
+    "Ability Slots": {
+      "pk3": ["Guts", "None"]
+    }
   },
   "Hitmontop": {
     "Forms": {
@@ -1974,7 +2446,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Intimidate"]
+    "Ability Slots": {
+      "pk3": ["Intimidate", "None"]
+    }
   },
   "Smoochum": {
     "Forms": {
@@ -1982,7 +2456,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Oblivious"]
+    "Ability Slots": {
+      "pk3": ["Oblivious", "None"]
+    }
   },
   "Elekid": {
     "Forms": {
@@ -1990,7 +2466,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Static"]
+    "Ability Slots": {
+      "pk3": ["Static", "None"]
+    }
   },
   "Magby": {
     "Forms": {
@@ -1998,7 +2476,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Flame Body"]
+    "Ability Slots": {
+      "pk3": ["Flame Body", "None"]
+    }
   },
   "Miltank": {
     "Forms": {
@@ -2006,7 +2486,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Thick Fat"]
+    "Ability Slots": {
+      "pk3": ["Thick Fat", "None"]
+    }
   },
   "Blissey": {
     "Forms": {
@@ -2014,7 +2496,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Natural Cure", "Serene Grace"]
+    "Ability Slots": {
+      "pk3": ["Natural Cure", "Serene Grace"]
+    }
   },
   "Raikou": {
     "Forms": {
@@ -2022,7 +2506,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Pressure"]
+    "Ability Slots": {
+      "pk3": ["Pressure", "None"]
+    }
   },
   "Entei": {
     "Forms": {
@@ -2030,7 +2516,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Pressure"]
+    "Ability Slots": {
+      "pk3": ["Pressure", "None"]
+    }
   },
   "Suicune": {
     "Forms": {
@@ -2038,7 +2526,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Pressure"]
+    "Ability Slots": {
+      "pk3": ["Pressure", "None"]
+    }
   },
   "Larvitar": {
     "Forms": {
@@ -2046,7 +2536,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Guts"]
+    "Ability Slots": {
+      "pk3": ["Guts", "None"]
+    }
   },
   "Pupitar": {
     "Forms": {
@@ -2054,7 +2546,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Shed Skin"]
+    "Ability Slots": {
+      "pk3": ["Shed Skin", "None"]
+    }
   },
   "Tyranitar": {
     "Forms": {
@@ -2062,7 +2556,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Sand Stream"]
+    "Ability Slots": {
+      "pk3": ["Sand Stream", "None"]
+    }
   },
   "Lugia": {
     "Forms": {
@@ -2070,7 +2566,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Pressure"]
+    "Ability Slots": {
+      "pk3": ["Pressure", "None"]
+    }
   },
   "Ho-Oh": {
     "Forms": {
@@ -2078,7 +2576,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Pressure"]
+    "Ability Slots": {
+      "pk3": ["Pressure", "None"]
+    }
   },
   "Celebi": {
     "Forms": {
@@ -2086,7 +2586,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Natural Cure"]
+    "Ability Slots": {
+      "pk3": ["Natural Cure", "None"]
+    }
   },
   "Treecko": {
     "Indices": {
@@ -2097,7 +2599,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Overgrow"]
+    "Ability Slots": {
+      "pk3": ["Overgrow", "None"]
+    }
   },
   "Grovyle": {
     "Indices": {
@@ -2108,7 +2612,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Overgrow"]
+    "Ability Slots": {
+      "pk3": ["Overgrow", "None"]
+    }
   },
   "Sceptile": {
     "Indices": {
@@ -2119,7 +2625,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Overgrow"]
+    "Ability Slots": {
+      "pk3": ["Overgrow", "None"]
+    }
   },
   "Torchic": {
     "Indices": {
@@ -2130,7 +2638,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Blaze"]
+    "Ability Slots": {
+      "pk3": ["Blaze", "None"]
+    }
   },
   "Combusken": {
     "Indices": {
@@ -2141,7 +2651,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Blaze"]
+    "Ability Slots": {
+      "pk3": ["Blaze", "None"]
+    }
   },
   "Blaziken": {
     "Indices": {
@@ -2152,7 +2664,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Blaze"]
+    "Ability Slots": {
+      "pk3": ["Blaze", "None"]
+    }
   },
   "Mudkip": {
     "Indices": {
@@ -2163,7 +2677,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Torrent"]
+    "Ability Slots": {
+      "pk3": ["Torrent", "None"]
+    }
   },
   "Marshtomp": {
     "Indices": {
@@ -2174,7 +2690,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Torrent"]
+    "Ability Slots": {
+      "pk3": ["Torrent", "None"]
+    }
   },
   "Swampert": {
     "Indices": {
@@ -2185,7 +2703,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Torrent"]
+    "Ability Slots": {
+      "pk3": ["Torrent", "None"]
+    }
   },
   "Poochyena": {
     "Indices": {
@@ -2196,7 +2716,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Run Away"]
+    "Ability Slots": {
+      "pk3": ["Run Away", "None"]
+    }
   },
   "Mightyena": {
     "Indices": {
@@ -2207,7 +2729,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Intimidate"]
+    "Ability Slots": {
+      "pk3": ["Intimidate", "None"]
+    }
   },
   "Zigzagoon": {
     "Indices": {
@@ -2218,7 +2742,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Pickup"]
+    "Ability Slots": {
+      "pk3": ["Pickup", "None"]
+    }
   },
   "Linoone": {
     "Indices": {
@@ -2229,7 +2755,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Pickup"]
+    "Ability Slots": {
+      "pk3": ["Pickup", "None"]
+    }
   },
   "Wurmple": {
     "Indices": {
@@ -2240,7 +2768,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Shield Dust"]
+    "Ability Slots": {
+      "pk3": ["Shield Dust", "None"]
+    }
   },
   "Silcoon": {
     "Indices": {
@@ -2251,7 +2781,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Shed Skin"]
+    "Ability Slots": {
+      "pk3": ["Shed Skin", "None"]
+    }
   },
   "Beautifly": {
     "Indices": {
@@ -2262,7 +2794,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Swarm"]
+    "Ability Slots": {
+      "pk3": ["Swarm", "None"]
+    }
   },
   "Cascoon": {
     "Indices": {
@@ -2273,7 +2807,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Shed Skin"]
+    "Ability Slots": {
+      "pk3": ["Shed Skin", "None"]
+    }
   },
   "Dustox": {
     "Indices": {
@@ -2284,7 +2820,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Shield Dust"]
+    "Ability Slots": {
+      "pk3": ["Shield Dust", "None"]
+    }
   },
   "Lotad": {
     "Indices": {
@@ -2295,7 +2833,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Swift Swim", "Rain Dish"]
+    "Ability Slots": {
+      "pk3": ["Swift Swim", "Rain Dish"]
+    }
   },
   "Lombre": {
     "Indices": {
@@ -2306,7 +2846,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Swift Swim", "Rain Dish"]
+    "Ability Slots": {
+      "pk3": ["Swift Swim", "Rain Dish"]
+    }
   },
   "Ludicolo": {
     "Indices": {
@@ -2317,7 +2859,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Swift Swim", "Rain Dish"]
+    "Ability Slots": {
+      "pk3": ["Swift Swim", "Rain Dish"]
+    }
   },
   "Seedot": {
     "Indices": {
@@ -2328,7 +2872,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Chlorophyll", "Early Bird"]
+    "Ability Slots": {
+      "pk3": ["Chlorophyll", "Early Bird"]
+    }
   },
   "Nuzleaf": {
     "Indices": {
@@ -2339,7 +2885,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Chlorophyll", "Early Bird"]
+    "Ability Slots": {
+      "pk3": ["Chlorophyll", "Early Bird"]
+    }
   },
   "Shiftry": {
     "Indices": {
@@ -2350,7 +2898,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Chlorophyll", "Early Bird"]
+    "Ability Slots": {
+      "pk3": ["Chlorophyll", "Early Bird"]
+    }
   },
   "Taillow": {
     "Indices": {
@@ -2361,7 +2911,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Guts"]
+    "Ability Slots": {
+      "pk3": ["Guts", "None"]
+    }
   },
   "Swellow": {
     "Indices": {
@@ -2372,7 +2924,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Guts"]
+    "Ability Slots": {
+      "pk3": ["Guts", "None"]
+    }
   },
   "Wingull": {
     "Indices": {
@@ -2383,7 +2937,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Keen Eye"]
+    "Ability Slots": {
+      "pk3": ["Keen Eye", "None"]
+    }
   },
   "Pelipper": {
     "Indices": {
@@ -2394,7 +2950,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Keen Eye"]
+    "Ability Slots": {
+      "pk3": ["Keen Eye", "None"]
+    }
   },
   "Ralts": {
     "Indices": {
@@ -2405,7 +2963,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Synchronize", "Trace"]
+    "Ability Slots": {
+      "pk3": ["Synchronize", "Trace"]
+    }
   },
   "Kirlia": {
     "Indices": {
@@ -2416,7 +2976,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Synchronize", "Trace"]
+    "Ability Slots": {
+      "pk3": ["Synchronize", "Trace"]
+    }
   },
   "Gardevoir": {
     "Indices": {
@@ -2427,7 +2989,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Synchronize", "Trace"]
+    "Ability Slots": {
+      "pk3": ["Synchronize", "Trace"]
+    }
   },
   "Surskit": {
     "Indices": {
@@ -2438,7 +3002,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Swift Swim"]
+    "Ability Slots": {
+      "pk3": ["Swift Swim", "None"]
+    }
   },
   "Masquerain": {
     "Indices": {
@@ -2449,7 +3015,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Intimidate"]
+    "Ability Slots": {
+      "pk3": ["Intimidate", "None"]
+    }
   },
   "Shroomish": {
     "Indices": {
@@ -2460,7 +3028,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Effect Spore"]
+    "Ability Slots": {
+      "pk3": ["Effect Spore", "None"]
+    }
   },
   "Breloom": {
     "Indices": {
@@ -2471,7 +3041,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Effect Spore"]
+    "Ability Slots": {
+      "pk3": ["Effect Spore", "None"]
+    }
   },
   "Slakoth": {
     "Indices": {
@@ -2482,7 +3054,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Truant"]
+    "Ability Slots": {
+      "pk3": ["Truant", "None"]
+    }
   },
   "Vigoroth": {
     "Indices": {
@@ -2493,7 +3067,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Vital Spirit"]
+    "Ability Slots": {
+      "pk3": ["Vital Spirit", "None"]
+    }
   },
   "Slaking": {
     "Indices": {
@@ -2504,7 +3080,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Truant"]
+    "Ability Slots": {
+      "pk3": ["Truant", "None"]
+    }
   },
   "Nincada": {
     "Indices": {
@@ -2515,7 +3093,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Compound Eyes"]
+    "Ability Slots": {
+      "pk3": ["Compound Eyes", "None"]
+    }
   },
   "Ninjask": {
     "Indices": {
@@ -2526,7 +3106,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Speed Boost"]
+    "Ability Slots": {
+      "pk3": ["Speed Boost", "None"]
+    }
   },
   "Shedinja": {
     "Indices": {
@@ -2537,7 +3119,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Wonder Guard"]
+    "Ability Slots": {
+      "pk3": ["Wonder Guard", "None"]
+    }
   },
   "Whismur": {
     "Indices": {
@@ -2548,7 +3132,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Soundproof"]
+    "Ability Slots": {
+      "pk3": ["Soundproof", "None"]
+    }
   },
   "Loudred": {
     "Indices": {
@@ -2559,7 +3145,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Soundproof"]
+    "Ability Slots": {
+      "pk3": ["Soundproof", "None"]
+    }
   },
   "Exploud": {
     "Indices": {
@@ -2570,7 +3158,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Soundproof"]
+    "Ability Slots": {
+      "pk3": ["Soundproof", "None"]
+    }
   },
   "Makuhita": {
     "Indices": {
@@ -2581,7 +3171,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Thick Fat", "Guts"]
+    "Ability Slots": {
+      "pk3": ["Thick Fat", "Guts"]
+    }
   },
   "Hariyama": {
     "Indices": {
@@ -2592,7 +3184,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Thick Fat", "Guts"]
+    "Ability Slots": {
+      "pk3": ["Thick Fat", "Guts"]
+    }
   },
   "Azurill": {
     "Indices": {
@@ -2603,7 +3197,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Thick Fat", "Huge Power"]
+    "Ability Slots": {
+      "pk3": ["Thick Fat", "Huge Power"]
+    }
   },
   "Nosepass": {
     "Indices": {
@@ -2614,7 +3210,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Sturdy", "Magnet Pull"]
+    "Ability Slots": {
+      "pk3": ["Sturdy", "Magnet Pull"]
+    }
   },
   "Skitty": {
     "Indices": {
@@ -2625,7 +3223,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Cute Charm"]
+    "Ability Slots": {
+      "pk3": ["Cute Charm", "None"]
+    }
   },
   "Delcatty": {
     "Indices": {
@@ -2636,7 +3236,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Cute Charm"]
+    "Ability Slots": {
+      "pk3": ["Cute Charm", "None"]
+    }
   },
   "Sableye": {
     "Indices": {
@@ -2647,7 +3249,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Keen Eye"]
+    "Ability Slots": {
+      "pk3": ["Keen Eye", "None"]
+    }
   },
   "Mawile": {
     "Indices": {
@@ -2658,7 +3262,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Hyper Cutter", "Intimidate"]
+    "Ability Slots": {
+      "pk3": ["Hyper Cutter", "Intimidate"]
+    }
   },
   "Aron": {
     "Indices": {
@@ -2669,7 +3275,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Sturdy", "Rock Head"]
+    "Ability Slots": {
+      "pk3": ["Sturdy", "Rock Head"]
+    }
   },
   "Lairon": {
     "Indices": {
@@ -2680,7 +3288,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Sturdy", "Rock Head"]
+    "Ability Slots": {
+      "pk3": ["Sturdy", "Rock Head"]
+    }
   },
   "Aggron": {
     "Indices": {
@@ -2691,7 +3301,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Sturdy", "Rock Head"]
+    "Ability Slots": {
+      "pk3": ["Sturdy", "Rock Head"]
+    }
   },
   "Meditite": {
     "Indices": {
@@ -2702,7 +3314,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Pure Power"]
+    "Ability Slots": {
+      "pk3": ["Pure Power", "None"]
+    }
   },
   "Medicham": {
     "Indices": {
@@ -2713,7 +3327,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Pure Power"]
+    "Ability Slots": {
+      "pk3": ["Pure Power", "None"]
+    }
   },
   "Electrike": {
     "Indices": {
@@ -2724,7 +3340,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Static", "Lightning Rod"]
+    "Ability Slots": {
+      "pk3": ["Static", "Lightning Rod"]
+    }
   },
   "Manectric": {
     "Indices": {
@@ -2735,7 +3353,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Static", "Lightning Rod"]
+    "Ability Slots": {
+      "pk3": ["Static", "Lightning Rod"]
+    }
   },
   "Plusle": {
     "Indices": {
@@ -2746,7 +3366,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Plus"]
+    "Ability Slots": {
+      "pk3": ["Plus", "None"]
+    }
   },
   "Minun": {
     "Indices": {
@@ -2757,7 +3379,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Minus"]
+    "Ability Slots": {
+      "pk3": ["Minus", "None"]
+    }
   },
   "Volbeat": {
     "Indices": {
@@ -2768,7 +3392,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Illuminate", "Swarm"]
+    "Ability Slots": {
+      "pk3": ["Illuminate", "Swarm"]
+    }
   },
   "Illumise": {
     "Indices": {
@@ -2779,7 +3405,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Oblivious"]
+    "Ability Slots": {
+      "pk3": ["Oblivious", "None"]
+    }
   },
   "Roselia": {
     "Indices": {
@@ -2790,7 +3418,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Natural Cure", "Poison Point"]
+    "Ability Slots": {
+      "pk3": ["Natural Cure", "Poison Point"]
+    }
   },
   "Gulpin": {
     "Indices": {
@@ -2801,7 +3431,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Liquid Ooze", "Sticky Hold"]
+    "Ability Slots": {
+      "pk3": ["Liquid Ooze", "Sticky Hold"]
+    }
   },
   "Swalot": {
     "Indices": {
@@ -2812,7 +3444,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Liquid Ooze", "Sticky Hold"]
+    "Ability Slots": {
+      "pk3": ["Liquid Ooze", "Sticky Hold"]
+    }
   },
   "Carvanha": {
     "Indices": {
@@ -2823,7 +3457,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Rough Skin"]
+    "Ability Slots": {
+      "pk3": ["Rough Skin", "None"]
+    }
   },
   "Sharpedo": {
     "Indices": {
@@ -2834,7 +3470,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Rough Skin"]
+    "Ability Slots": {
+      "pk3": ["Rough Skin", "None"]
+    }
   },
   "Wailmer": {
     "Indices": {
@@ -2845,7 +3483,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Water Veil", "Oblivious"]
+    "Ability Slots": {
+      "pk3": ["Water Veil", "Oblivious"]
+    }
   },
   "Wailord": {
     "Indices": {
@@ -2856,7 +3496,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Water Veil", "Oblivious"]
+    "Ability Slots": {
+      "pk3": ["Water Veil", "Oblivious"]
+    }
   },
   "Numel": {
     "Indices": {
@@ -2867,7 +3509,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Oblivious"]
+    "Ability Slots": {
+      "pk3": ["Oblivious", "None"]
+    }
   },
   "Camerupt": {
     "Indices": {
@@ -2878,7 +3522,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Magma Armor"]
+    "Ability Slots": {
+      "pk3": ["Magma Armor", "None"]
+    }
   },
   "Torkoal": {
     "Indices": {
@@ -2889,7 +3535,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["White Smoke"]
+    "Ability Slots": {
+      "pk3": ["White Smoke", "None"]
+    }
   },
   "Spoink": {
     "Indices": {
@@ -2900,7 +3548,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Thick Fat", "Own Tempo"]
+    "Ability Slots": {
+      "pk3": ["Thick Fat", "Own Tempo"]
+    }
   },
   "Grumpig": {
     "Indices": {
@@ -2911,7 +3561,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Thick Fat", "Own Tempo"]
+    "Ability Slots": {
+      "pk3": ["Thick Fat", "Own Tempo"]
+    }
   },
   "Spinda": {
     "Indices": {
@@ -2922,7 +3574,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Own Tempo"]
+    "Ability Slots": {
+      "pk3": ["Own Tempo", "None"]
+    }
   },
   "Trapinch": {
     "Indices": {
@@ -2933,7 +3587,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Hyper Cutter", "Arena Trap"]
+    "Ability Slots": {
+      "pk3": ["Hyper Cutter", "Arena Trap"]
+    }
   },
   "Vibrava": {
     "Indices": {
@@ -2944,7 +3600,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Levitate", "Levitate"]
+    "Ability Slots": {
+      "pk3": ["Levitate", "Levitate"]
+    }
   },
   "Flygon": {
     "Indices": {
@@ -2955,7 +3613,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Levitate", "Levitate"]
+    "Ability Slots": {
+      "pk3": ["Levitate", "Levitate"]
+    }
   },
   "Cacnea": {
     "Indices": {
@@ -2966,7 +3626,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Sand Veil"]
+    "Ability Slots": {
+      "pk3": ["Sand Veil", "None"]
+    }
   },
   "Cacturne": {
     "Indices": {
@@ -2977,7 +3639,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Sand Veil"]
+    "Ability Slots": {
+      "pk3": ["Sand Veil", "None"]
+    }
   },
   "Swablu": {
     "Indices": {
@@ -2988,7 +3652,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Natural Cure"]
+    "Ability Slots": {
+      "pk3": ["Natural Cure", "None"]
+    }
   },
   "Altaria": {
     "Indices": {
@@ -2999,7 +3665,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Natural Cure"]
+    "Ability Slots": {
+      "pk3": ["Natural Cure", "None"]
+    }
   },
   "Zangoose": {
     "Indices": {
@@ -3010,7 +3678,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Immunity"]
+    "Ability Slots": {
+      "pk3": ["Immunity", "None"]
+    }
   },
   "Seviper": {
     "Indices": {
@@ -3021,7 +3691,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Shed Skin"]
+    "Ability Slots": {
+      "pk3": ["Shed Skin", "None"]
+    }
   },
   "Lunatone": {
     "Indices": {
@@ -3032,7 +3704,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Levitate"]
+    "Ability Slots": {
+      "pk3": ["Levitate", "None"]
+    }
   },
   "Solrock": {
     "Indices": {
@@ -3043,7 +3717,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Levitate"]
+    "Ability Slots": {
+      "pk3": ["Levitate", "None"]
+    }
   },
   "Barboach": {
     "Indices": {
@@ -3054,7 +3730,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Oblivious"]
+    "Ability Slots": {
+      "pk3": ["Oblivious", "None"]
+    }
   },
   "Whiscash": {
     "Indices": {
@@ -3065,7 +3743,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Oblivious"]
+    "Ability Slots": {
+      "pk3": ["Oblivious", "None"]
+    }
   },
   "Corphish": {
     "Indices": {
@@ -3076,7 +3756,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Hyper Cutter", "Shell Armor"]
+    "Ability Slots": {
+      "pk3": ["Hyper Cutter", "Shell Armor"]
+    }
   },
   "Crawdaunt": {
     "Indices": {
@@ -3087,7 +3769,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Hyper Cutter", "Shell Armor"]
+    "Ability Slots": {
+      "pk3": ["Hyper Cutter", "Shell Armor"]
+    }
   },
   "Baltoy": {
     "Indices": {
@@ -3098,7 +3782,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Levitate"]
+    "Ability Slots": {
+      "pk3": ["Levitate", "None"]
+    }
   },
   "Claydol": {
     "Indices": {
@@ -3109,7 +3795,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Levitate"]
+    "Ability Slots": {
+      "pk3": ["Levitate", "None"]
+    }
   },
   "Lileep": {
     "Indices": {
@@ -3120,7 +3808,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Suction Cups"]
+    "Ability Slots": {
+      "pk3": ["Suction Cups", "None"]
+    }
   },
   "Cradily": {
     "Indices": {
@@ -3131,7 +3821,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Suction Cups"]
+    "Ability Slots": {
+      "pk3": ["Suction Cups", "None"]
+    }
   },
   "Anorith": {
     "Indices": {
@@ -3142,7 +3834,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Battle Armor"]
+    "Ability Slots": {
+      "pk3": ["Battle Armor", "None"]
+    }
   },
   "Armaldo": {
     "Indices": {
@@ -3153,7 +3847,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Battle Armor"]
+    "Ability Slots": {
+      "pk3": ["Battle Armor", "None"]
+    }
   },
   "Feebas": {
     "Indices": {
@@ -3164,7 +3860,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Swift Swim"]
+    "Ability Slots": {
+      "pk3": ["Swift Swim", "None"]
+    }
   },
   "Milotic": {
     "Indices": {
@@ -3175,7 +3873,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Marvel Scale"]
+    "Ability Slots": {
+      "pk3": ["Marvel Scale", "None"]
+    }
   },
   "Castform": {
     "Indices": {
@@ -3195,7 +3895,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Forecast"]
+    "Ability Slots": {
+      "pk3": ["Forecast", "None"]
+    }
   },
   "Kecleon": {
     "Indices": {
@@ -3206,7 +3908,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Color Change"]
+    "Ability Slots": {
+      "pk3": ["Color Change", "None"]
+    }
   },
   "Shuppet": {
     "Indices": {
@@ -3217,7 +3921,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Insomnia"]
+    "Ability Slots": {
+      "pk3": ["Insomnia", "None"]
+    }
   },
   "Banette": {
     "Indices": {
@@ -3228,7 +3934,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Insomnia"]
+    "Ability Slots": {
+      "pk3": ["Insomnia", "None"]
+    }
   },
   "Duskull": {
     "Indices": {
@@ -3239,7 +3947,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Levitate"]
+    "Ability Slots": {
+      "pk3": ["Levitate", "None"]
+    }
   },
   "Dusclops": {
     "Indices": {
@@ -3250,7 +3960,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Pressure"]
+    "Ability Slots": {
+      "pk3": ["Pressure", "None"]
+    }
   },
   "Tropius": {
     "Indices": {
@@ -3261,7 +3973,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Chlorophyll"]
+    "Ability Slots": {
+      "pk3": ["Chlorophyll", "None"]
+    }
   },
   "Chimecho": {
     "Indices": {
@@ -3272,7 +3986,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Levitate"]
+    "Ability Slots": {
+      "pk3": ["Levitate", "None"]
+    }
   },
   "Absol": {
     "Indices": {
@@ -3283,18 +3999,22 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Pressure"]
+    "Ability Slots": {
+      "pk3": ["Pressure", "None"]
+    }
   },
   "Wynaut": {
     "Indices": {
-      "pk3": 360 //happens to have same index as National dex
+      "pk3": 360
     },
     "Forms": {
       "": {
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Shadow Tag"]
+    "Ability Slots": {
+      "pk3": ["Shadow Tag", "None"]
+    }
   },
   "Snorunt": {
     "Indices": {
@@ -3305,7 +4025,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Inner Focus"]
+    "Ability Slots": {
+      "pk3": ["Inner Focus", "None"]
+    }
   },
   "Glalie": {
     "Indices": {
@@ -3316,7 +4038,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Inner Focus"]
+    "Ability Slots": {
+      "pk3": ["Inner Focus", "None"]
+    }
   },
   "Spheal": {
     "Indices": {
@@ -3327,7 +4051,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Thick Fat"]
+    "Ability Slots": {
+      "pk3": ["Thick Fat", "None"]
+    }
   },
   "Sealeo": {
     "Indices": {
@@ -3338,7 +4064,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Thick Fat"]
+    "Ability Slots": {
+      "pk3": ["Thick Fat", "None"]
+    }
   },
   "Walrein": {
     "Indices": {
@@ -3349,7 +4077,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Thick Fat"]
+    "Ability Slots": {
+      "pk3": ["Thick Fat", "None"]
+    }
   },
   "Clamperl": {
     "Indices": {
@@ -3360,7 +4090,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Shell Armor"]
+    "Ability Slots": {
+      "pk3": ["Shell Armor", "None"]
+    }
   },
   "Huntail": {
     "Indices": {
@@ -3371,7 +4103,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Swift Swim"]
+    "Ability Slots": {
+      "pk3": ["Swift Swim", "None"]
+    }
   },
   "Gorebyss": {
     "Indices": {
@@ -3382,7 +4116,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Swift Swim"]
+    "Ability Slots": {
+      "pk3": ["Swift Swim", "None"]
+    }
   },
   "Relicanth": {
     "Indices": {
@@ -3393,7 +4129,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Swift Swim", "Rock Head"]
+    "Ability Slots": {
+      "pk3": ["Swift Swim", "Rock Head"]
+    }
   },
   "Luvdisc": {
     "Indices": {
@@ -3404,7 +4142,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Swift Swim"]
+    "Ability Slots": {
+      "pk3": ["Swift Swim", "None"]
+    }
   },
   "Bagon": {
     "Indices": {
@@ -3415,7 +4155,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Rock Head"]
+    "Ability Slots": {
+      "pk3": ["Rock Head", "None"]
+    }
   },
   "Shelgon": {
     "Indices": {
@@ -3426,7 +4168,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Rock Head"]
+    "Ability Slots": {
+      "pk3": ["Rock Head", "None"]
+    }
   },
   "Salamence": {
     "Indices": {
@@ -3437,7 +4181,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Intimidate"]
+    "Ability Slots": {
+      "pk3": ["Intimidate", "None"]
+    }
   },
   "Beldum": {
     "Indices": {
@@ -3448,7 +4194,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Clear Body"]
+    "Ability Slots": {
+      "pk3": ["Clear Body", "None"]
+    }
   },
   "Metang": {
     "Indices": {
@@ -3459,7 +4207,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Clear Body"]
+    "Ability Slots": {
+      "pk3": ["Clear Body", "None"]
+    }
   },
   "Metagross": {
     "Indices": {
@@ -3470,7 +4220,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Clear Body"]
+    "Ability Slots": {
+      "pk3": ["Clear Body", "None"]
+    }
   },
   "Regirock": {
     "Indices": {
@@ -3481,7 +4233,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Clear Body"]
+    "Ability Slots": {
+      "pk3": ["Clear Body", "None"]
+    }
   },
   "Regice": {
     "Indices": {
@@ -3492,7 +4246,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Clear Body"]
+    "Ability Slots": {
+      "pk3": ["Clear Body", "None"]
+    }
   },
   "Registeel": {
     "Indices": {
@@ -3503,7 +4259,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Clear Body"]
+    "Ability Slots": {
+      "pk3": ["Clear Body", "None"]
+    }
   },
   "Latias": {
     "Indices": {
@@ -3514,7 +4272,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Levitate"]
+    "Ability Slots": {
+      "pk3": ["Levitate", "None"]
+    }
   },
   "Latios": {
     "Indices": {
@@ -3525,7 +4285,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Levitate"]
+    "Ability Slots": {
+      "pk3": ["Levitate", "None"]
+    }
   },
   "Kyogre": {
     "Indices": {
@@ -3536,7 +4298,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Drizzle"]
+    "Ability Slots": {
+      "pk3": ["Drizzle", "None"]
+    }
   },
   "Groudon": {
     "Indices": {
@@ -3547,7 +4311,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Drought"]
+    "Ability Slots": {
+      "pk3": ["Drought", "None"]
+    }
   },
   "Rayquaza": {
     "Indices": {
@@ -3558,7 +4324,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Air Lock"]
+    "Ability Slots": {
+      "pk3": ["Air Lock", "None"]
+    }
   },
   "Jirachi": {
     "Indices": {
@@ -3569,7 +4337,9 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Serene Grace"]
+    "Ability Slots": {
+      "pk3": ["Serene Grace", "None"]
+    }
   },
   "Deoxys": {
     "Indices": {
@@ -3589,6 +4359,8 @@
         "Exists in": ["pk3"]
       }
     },
-    "Gen 3 Ability Slots": ["Pressure"]
+    "Ability Slots": {
+      "pk3": ["Pressure", "None"]
+    }
   }
 }
