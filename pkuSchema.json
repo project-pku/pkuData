@@ -58,6 +58,9 @@
     "Ability": {
       "type": ["string", "null"]
     },
+    "Ability Slot": {
+      "type": ["string", "null"]
+    },
     "Gigantamax Factor": {
       "type": ["boolean", "null"]
     },
