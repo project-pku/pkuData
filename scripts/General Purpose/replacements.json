@@ -13,10 +13,59 @@
     "DeepSeaScale": "Deep Sea Scale",
     "BlackGlasses": "Black Glasses",
     "NeverMeltIce": "Never-Melt Ice",
+    "TwistedSpoon": "Twisted Spoon",
     "Up-Grade": "Upgrade",
     "Stick": "Leek",
     "Itemfinder": "Dowsing Machine",
     "MysticTicket": "Mystic Ticket", //Custom
-    "AuroraTicket": "Aurora Ticket" //Custom
+    "AuroraTicket": "Aurora Ticket", //Custom
+
+    //Gen 4
+    "SecretPotion": "Secret Potion",
+    "Dowsing MCHN": "Dowsing Machine",
+    "SlowpokeTail": "Slowpoke Tail",
+    "SquirtBottle": "Squirt Bottle",
+    "Blu Apricorn": "Blue Apricorn",
+    "Ylw Apricorn": "Yellow Apricorn",
+    "Grn Apricorn": "Green Apricorn",
+    "Pnk Apricorn": "Pink Apricorn",
+    "Wht Apricorn": "White Apricorn",
+    "Blk Apricorn": "Black Apricorn",
+    "RageCandyBar": "Rage Candy Bar",
+
+    //Gen 5
+    "Health Wing": "Health Feather",
+    "Muscle Wing": "Muscle Feather",
+    "Resist Wing": "Resist Feather",
+    "Genius Wing": "Genius Feather",
+    "Clever Wing": "Clever Feather",
+    "Swift Wing": "Swift Feather",
+    "Pretty Wing": "Pretty Feather",
+    "BalmMushroom": "Balm Mushroom",
+    "X Special 2": "X Sp. Atk 2",
+    "X Defend 2": "X Defense 2",
+    "X Special 3": "X Sp. Atk 3",
+    "X Defend 3": "X Defense 3",
+    "X Special 6": "X Sp. Atk 6",
+    "X Defend 6": "X Defense 6",
+    "Colress MCHN": "Colress Machine",
+
+    //Gen 6
+    "Adventure Rules": "Adventure Guide",
+
+    //Uranium
+    "PST": "Pokémon Speech Translator",
+    "LAB KEY": "Lab Key",
+    "BBFerry Ticket": "BB Ferry Ticket"
+  },
+  "Moves": {
+    "ViceGrip": "Vise Grip",
+    "Vice Grip": "Vise Grip",
+    "SmokeScreen": "Smokescreen",
+    "Smoke Screen": "Smokescreen"
+  },
+  "Abilities": {
+    "Compound eyes": "Compound Eyes",
+    "Lightning rod": "Lightning Rod"
   }
 }

@@ -11,27 +11,31 @@
     "SubDexes":{
       "Main Series": "main-series/main-seriesMoveDex.json",
       "pk3": "main-series/gen-3/pk3MoveDex.json",
-      "Showdown": "showdown/showdownMoveDex.json"
+      "Showdown": "showdown/showdownMoveDex.json",
+      "Uranium": "essentials/Uranium/pkeUraniumMoveDex.json"
     }
   },
   "Ability": {
     "SubDexes":{
       "Main Series": "main-series/main-seriesAbilityDex.json",
       "pk3": "main-series/gen-3/pk3AbilityDex.json",
-      "Showdown": "showdown/showdownAbilityDex.json"
+      "Showdown": "showdown/showdownAbilityDex.json",
+      "Uranium": "essentials/Uranium/pkeUraniumAbilityDex.json"
     }
   },
   "Item": {
     "SubDexes":{
       "Main Series": "main-series/main-seriesItemDex.json",
       "pk3": "main-series/gen-3/pk3ItemDex.json",
-      "Showdown": "showdown/showdownItemDex.json"
+      "Showdown": "showdown/showdownItemDex.json",
+      "Uranium": "essentials/Uranium/pkeUraniumItemDex.json"
     }
   },
   "Ball": {
     "SubDexes":{
       "Main Series": "main-series/main-seriesBallDex.json",
-      "pk3": "main-series/gen-3/pk3BallDex.json"
+      "pk3": "main-series/gen-3/pk3BallDex.json",
+      "Uranium": "essentials/Uranium/pkeUraniumBallDex.json"
     }
   },
   "Format": {
@@ -47,7 +51,8 @@
   "Language": {
     "SubDexes":{
       "Main Series": "main-series/main-seriesLanguageDex.json",
-      "pk3": "main-series/gen-3/pk3LanguageDex.json"
+      "pk3": "main-series/gen-3/pk3LanguageDex.json",
+      "Uranium": "essentials/Uranium/pkeUraniumLanguageDex.json"
     }
   }
 }

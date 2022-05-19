@@ -44,9 +44,11 @@ def to_json(o, level=0):
 
 # start
 FORMAT = input("What's the name of the format? ")
-REPLACEMENTS = "" # see replacements.json (e.g. "Items")
+TYPE = input("What kind of dex? ")
 root = os.path.join(os.path.dirname(os.path.abspath(__file__)))
-replacements = commentjson.load(open(os.path.join(root, "replacements.json"), encoding="utf8"))[REPLACEMENTS]
+replacementJSON = commentjson.load(open(os.path.join(root, "replacements.json"), encoding="utf8"))
+replacements = replacementJSON[TYPE] if TYPE in replacementJSON else None
+
 with open(os.path.join(root, "input.txt"), encoding="utf8") as f:
   lines = f.readlines()
 
@@ -58,9 +60,10 @@ for line in lines:
     line = line[0:-1]
   #skip empty strings
   if line == "":
+    count = count+1
     continue
   #replace old spellings with new canonical ones
-  if line in replacements:
+  if replacements != None and line in replacements:
     line = replacements[line]
   #alert if duplicate found
   if line in final:

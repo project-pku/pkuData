@@ -1,68 +1,55 @@
 {
   "Japanese": {
     "Indices": {
-      "main-series": 1,
       "pkeUranium": 1
     },
-    "Exists in": ["pk3", "pkeUranium"]
+    "Exists in": ["pkeUranium"]
   },
   "English": {
     "Indices": {
-      "main-series": 2,
       "pkeUranium": 2
     },
-    "Exists in": ["pk3", "pkeUranium"]
+    "Exists in": ["pkeUranium"]
   },
   "French": {
     "Indices": {
-      "main-series": 3,
       "pkeUranium": 3
     },
-    "Exists in": ["pk3", "pkeUranium"]
+    "Exists in": ["pkeUranium"]
   },
   "Italian": {
     "Indices": {
-      "main-series": 4,
       "pkeUranium": 4
     },
-    "Exists in": ["pk3", "pkeUranium"]
+    "Exists in": ["pkeUranium"]
   },
   "German": {
     "Indices": {
-      "main-series": 5,
       "pkeUranium": 5
     },
-    "Exists in": ["pk3", "pkeUranium"]
+    "Exists in": ["pkeUranium"]
   },
   "Spanish": {
     "Indices": {
-      "main-series": 7,
       "pkeUranium": 7
     },
-    "Exists in": ["pk3", "pkeUranium"]
+    "Exists in": ["pkeUranium"]
   },
   "Korean": {
     "Indices": {
-      "main-series": 8,
       "pkeUranium": 8
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Portugese": {
+    "Indices": {
+      "pkeUranium": 9
     },
     "Exists in": ["pkeUranium"]
   },
   "Chinese Simplified": {
     "Indices": {
-      "main-series": 9,
       "pkeUranium": 10
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Chinese Traditional": {
-    "Indices": {
-      "main-series": 10
-    }
-  },
-  "Portugese": {
-    "Indices": {
-      "pkeUranium": 9
     },
     "Exists in": ["pkeUranium"]
   }

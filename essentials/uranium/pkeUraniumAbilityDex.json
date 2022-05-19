@@ -1,0 +1,1262 @@
+{
+  "None": {
+    "Indices": {
+      "pkeUranium": 0
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Stench": {
+    "Indices": {
+      "pkeUranium": 1
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Drizzle": {
+    "Indices": {
+      "pkeUranium": 2
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Speed Boost": {
+    "Indices": {
+      "pkeUranium": 3
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Battle Armor": {
+    "Indices": {
+      "pkeUranium": 4
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Sturdy": {
+    "Indices": {
+      "pkeUranium": 5
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Damp": {
+    "Indices": {
+      "pkeUranium": 6
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Limber": {
+    "Indices": {
+      "pkeUranium": 7
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Sand Veil": {
+    "Indices": {
+      "pkeUranium": 8
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Static": {
+    "Indices": {
+      "pkeUranium": 9
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Volt Absorb": {
+    "Indices": {
+      "pkeUranium": 10
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Water Absorb": {
+    "Indices": {
+      "pkeUranium": 11
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Oblivious": {
+    "Indices": {
+      "pkeUranium": 12
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Cloud Nine": {
+    "Indices": {
+      "pkeUranium": 13
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Compound Eyes": {
+    "Indices": {
+      "pkeUranium": 14
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Insomnia": {
+    "Indices": {
+      "pkeUranium": 15
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Color Change": {
+    "Indices": {
+      "pkeUranium": 16
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Immunity": {
+    "Indices": {
+      "pkeUranium": 17
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Flash Fire": {
+    "Indices": {
+      "pkeUranium": 18
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Shield Dust": {
+    "Indices": {
+      "pkeUranium": 19
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Own Tempo": {
+    "Indices": {
+      "pkeUranium": 20
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Suction Cups": {
+    "Indices": {
+      "pkeUranium": 21
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Intimidate": {
+    "Indices": {
+      "pkeUranium": 22
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Shadow Tag": {
+    "Indices": {
+      "pkeUranium": 23
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Rough Skin": {
+    "Indices": {
+      "pkeUranium": 24
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Wonder Guard": {
+    "Indices": {
+      "pkeUranium": 25
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Levitate": {
+    "Indices": {
+      "pkeUranium": 26
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Effect Spore": {
+    "Indices": {
+      "pkeUranium": 27
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Synchronize": {
+    "Indices": {
+      "pkeUranium": 28
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Clear Body": {
+    "Indices": {
+      "pkeUranium": 29
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Natural Cure": {
+    "Indices": {
+      "pkeUranium": 30
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Lightning Rod": {
+    "Indices": {
+      "pkeUranium": 31
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Serene Grace": {
+    "Indices": {
+      "pkeUranium": 32
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Swift Swim": {
+    "Indices": {
+      "pkeUranium": 33
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Chlorophyll": {
+    "Indices": {
+      "pkeUranium": 34
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Illuminate": {
+    "Indices": {
+      "pkeUranium": 35
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Trace": {
+    "Indices": {
+      "pkeUranium": 36
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Huge Power": {
+    "Indices": {
+      "pkeUranium": 37
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Poison Point": {
+    "Indices": {
+      "pkeUranium": 38
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Inner Focus": {
+    "Indices": {
+      "pkeUranium": 39
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Magma Armor": {
+    "Indices": {
+      "pkeUranium": 40
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Water Veil": {
+    "Indices": {
+      "pkeUranium": 41
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Magnet Pull": {
+    "Indices": {
+      "pkeUranium": 42
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Soundproof": {
+    "Indices": {
+      "pkeUranium": 43
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Rain Dish": {
+    "Indices": {
+      "pkeUranium": 44
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Sand Stream": {
+    "Indices": {
+      "pkeUranium": 45
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Pressure": {
+    "Indices": {
+      "pkeUranium": 46
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Thick Fat": {
+    "Indices": {
+      "pkeUranium": 47
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Early Bird": {
+    "Indices": {
+      "pkeUranium": 48
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Flame Body": {
+    "Indices": {
+      "pkeUranium": 49
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Run Away": {
+    "Indices": {
+      "pkeUranium": 50
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Keen Eye": {
+    "Indices": {
+      "pkeUranium": 51
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Hyper Cutter": {
+    "Indices": {
+      "pkeUranium": 52
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Pickup": {
+    "Indices": {
+      "pkeUranium": 53
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Truant": {
+    "Indices": {
+      "pkeUranium": 54
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Hustle": {
+    "Indices": {
+      "pkeUranium": 55
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Cute Charm": {
+    "Indices": {
+      "pkeUranium": 56
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Plus": {
+    "Indices": {
+      "pkeUranium": 57
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Minus": {
+    "Indices": {
+      "pkeUranium": 58
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Forecast": {
+    "Indices": {
+      "pkeUranium": 59
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Sticky Hold": {
+    "Indices": {
+      "pkeUranium": 60
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Shed Skin": {
+    "Indices": {
+      "pkeUranium": 61
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Guts": {
+    "Indices": {
+      "pkeUranium": 62
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Marvel Scale": {
+    "Indices": {
+      "pkeUranium": 63
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Liquid Ooze": {
+    "Indices": {
+      "pkeUranium": 64
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Overgrow": {
+    "Indices": {
+      "pkeUranium": 65
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Blaze": {
+    "Indices": {
+      "pkeUranium": 66
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Torrent": {
+    "Indices": {
+      "pkeUranium": 67
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Swarm": {
+    "Indices": {
+      "pkeUranium": 68
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Rock Head": {
+    "Indices": {
+      "pkeUranium": 69
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Drought": {
+    "Indices": {
+      "pkeUranium": 70
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Arena Trap": {
+    "Indices": {
+      "pkeUranium": 71
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Vital Spirit": {
+    "Indices": {
+      "pkeUranium": 72
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "White Smoke": {
+    "Indices": {
+      "pkeUranium": 73
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Pure Power": {
+    "Indices": {
+      "pkeUranium": 74
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Shell Armor": {
+    "Indices": {
+      "pkeUranium": 75
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Air Lock": {
+    "Indices": {
+      "pkeUranium": 76
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Tangled Feet": {
+    "Indices": {
+      "pkeUranium": 77
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Motor Drive": {
+    "Indices": {
+      "pkeUranium": 78
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Rivalry": {
+    "Indices": {
+      "pkeUranium": 79
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Steadfast": {
+    "Indices": {
+      "pkeUranium": 80
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Snow Cloak": {
+    "Indices": {
+      "pkeUranium": 81
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Gluttony": {
+    "Indices": {
+      "pkeUranium": 82
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Anger Point": {
+    "Indices": {
+      "pkeUranium": 83
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Unburden": {
+    "Indices": {
+      "pkeUranium": 84
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Heatproof": {
+    "Indices": {
+      "pkeUranium": 85
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Simple": {
+    "Indices": {
+      "pkeUranium": 86
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Dry Skin": {
+    "Indices": {
+      "pkeUranium": 87
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Download": {
+    "Indices": {
+      "pkeUranium": 88
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Iron Fist": {
+    "Indices": {
+      "pkeUranium": 89
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Poison Heal": {
+    "Indices": {
+      "pkeUranium": 90
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Adaptability": {
+    "Indices": {
+      "pkeUranium": 91
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Skill Link": {
+    "Indices": {
+      "pkeUranium": 92
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Hydration": {
+    "Indices": {
+      "pkeUranium": 93
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Solar Power": {
+    "Indices": {
+      "pkeUranium": 94
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Quick Feet": {
+    "Indices": {
+      "pkeUranium": 95
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Normalize": {
+    "Indices": {
+      "pkeUranium": 96
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Sniper": {
+    "Indices": {
+      "pkeUranium": 97
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Magic Guard": {
+    "Indices": {
+      "pkeUranium": 98
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "No Guard": {
+    "Indices": {
+      "pkeUranium": 99
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Stall": {
+    "Indices": {
+      "pkeUranium": 100
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Technician": {
+    "Indices": {
+      "pkeUranium": 101
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Leaf Guard": {
+    "Indices": {
+      "pkeUranium": 102
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Klutz": {
+    "Indices": {
+      "pkeUranium": 103
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Mold Breaker": {
+    "Indices": {
+      "pkeUranium": 104
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Super Luck": {
+    "Indices": {
+      "pkeUranium": 105
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Aftermath": {
+    "Indices": {
+      "pkeUranium": 106
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Anticipation": {
+    "Indices": {
+      "pkeUranium": 107
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Forewarn": {
+    "Indices": {
+      "pkeUranium": 108
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Unaware": {
+    "Indices": {
+      "pkeUranium": 109
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Tinted Lens": {
+    "Indices": {
+      "pkeUranium": 110
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Filter": {
+    "Indices": {
+      "pkeUranium": 111
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Slow Start": {
+    "Indices": {
+      "pkeUranium": 112
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Scrappy": {
+    "Indices": {
+      "pkeUranium": 113
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Storm Drain": {
+    "Indices": {
+      "pkeUranium": 114
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Ice Body": {
+    "Indices": {
+      "pkeUranium": 115
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Solid Rock": {
+    "Indices": {
+      "pkeUranium": 116
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Snow Warning": {
+    "Indices": {
+      "pkeUranium": 117
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Honey Gather": {
+    "Indices": {
+      "pkeUranium": 118
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Frisk": {
+    "Indices": {
+      "pkeUranium": 119
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Reckless": {
+    "Indices": {
+      "pkeUranium": 120
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Multitype": {
+    "Indices": {
+      "pkeUranium": 121
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Flower Gift": {
+    "Indices": {
+      "pkeUranium": 122
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Bad Dreams": {
+    "Indices": {
+      "pkeUranium": 123
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Pickpocket": {
+    "Indices": {
+      "pkeUranium": 124
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Sheer Force": {
+    "Indices": {
+      "pkeUranium": 125
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Contrary": {
+    "Indices": {
+      "pkeUranium": 126
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Unnerve": {
+    "Indices": {
+      "pkeUranium": 127
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Defiant": {
+    "Indices": {
+      "pkeUranium": 128
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Defeatist": {
+    "Indices": {
+      "pkeUranium": 129
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Cursed Body": {
+    "Indices": {
+      "pkeUranium": 130
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Healer": {
+    "Indices": {
+      "pkeUranium": 131
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Friend Guard": {
+    "Indices": {
+      "pkeUranium": 132
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Weak Armor": {
+    "Indices": {
+      "pkeUranium": 133
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Heavy Metal": {
+    "Indices": {
+      "pkeUranium": 134
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Light Metal": {
+    "Indices": {
+      "pkeUranium": 135
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Multiscale": {
+    "Indices": {
+      "pkeUranium": 136
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Toxic Boost": {
+    "Indices": {
+      "pkeUranium": 137
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Flare Boost": {
+    "Indices": {
+      "pkeUranium": 138
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Harvest": {
+    "Indices": {
+      "pkeUranium": 139
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Telepathy": {
+    "Indices": {
+      "pkeUranium": 140
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Moody": {
+    "Indices": {
+      "pkeUranium": 141
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Overcoat": {
+    "Indices": {
+      "pkeUranium": 142
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Poison Touch": {
+    "Indices": {
+      "pkeUranium": 143
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Regenerator": {
+    "Indices": {
+      "pkeUranium": 144
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Big Pecks": {
+    "Indices": {
+      "pkeUranium": 145
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Sand Rush": {
+    "Indices": {
+      "pkeUranium": 146
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Wonder Skin": {
+    "Indices": {
+      "pkeUranium": 147
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Analytic": {
+    "Indices": {
+      "pkeUranium": 148
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Illusion": {
+    "Indices": {
+      "pkeUranium": 149
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Imposter": {
+    "Indices": {
+      "pkeUranium": 150
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Infiltrator": {
+    "Indices": {
+      "pkeUranium": 151
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Mummy": {
+    "Indices": {
+      "pkeUranium": 152
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Moxie": {
+    "Indices": {
+      "pkeUranium": 153
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Justified": {
+    "Indices": {
+      "pkeUranium": 154
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Rattled": {
+    "Indices": {
+      "pkeUranium": 155
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Magic Bounce": {
+    "Indices": {
+      "pkeUranium": 156
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Sap Sipper": {
+    "Indices": {
+      "pkeUranium": 157
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Prankster": {
+    "Indices": {
+      "pkeUranium": 158
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Sand Force": {
+    "Indices": {
+      "pkeUranium": 159
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Iron Barbs": {
+    "Indices": {
+      "pkeUranium": 160
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Zen Mode": {
+    "Indices": {
+      "pkeUranium": 161
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Victory Star": {
+    "Indices": {
+      "pkeUranium": 162
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Turboblaze": {
+    "Indices": {
+      "pkeUranium": 163
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Teravolt": {
+    "Indices": {
+      "pkeUranium": 164
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Aerilate": {
+    "Indices": {
+      "pkeUranium": 165
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Aroma Veil": {
+    "Indices": {
+      "pkeUranium": 166
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Aura Break": {
+    "Indices": {
+      "pkeUranium": 167
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Bulletproof": {
+    "Indices": {
+      "pkeUranium": 168
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Cheek Pouch": {
+    "Indices": {
+      "pkeUranium": 169
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Competitive": {
+    "Indices": {
+      "pkeUranium": 170
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Dark Aura": {
+    "Indices": {
+      "pkeUranium": 171
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Fairy Aura": {
+    "Indices": {
+      "pkeUranium": 172
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Flower Veil": {
+    "Indices": {
+      "pkeUranium": 173
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Fur Coat": {
+    "Indices": {
+      "pkeUranium": 174
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Gale Wings": {
+    "Indices": {
+      "pkeUranium": 175
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Gooey": {
+    "Indices": {
+      "pkeUranium": 176
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Grass Pelt": {
+    "Indices": {
+      "pkeUranium": 177
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Magician": {
+    "Indices": {
+      "pkeUranium": 178
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Mega Launcher": {
+    "Indices": {
+      "pkeUranium": 179
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Parental Bond": {
+    "Indices": {
+      "pkeUranium": 180
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Pixilate": {
+    "Indices": {
+      "pkeUranium": 181
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Protean": {
+    "Indices": {
+      "pkeUranium": 182
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Refrigerate": {
+    "Indices": {
+      "pkeUranium": 183
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Stance Change": {
+    "Indices": {
+      "pkeUranium": 184
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Strong Jaw": {
+    "Indices": {
+      "pkeUranium": 185
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Sweet Veil": {
+    "Indices": {
+      "pkeUranium": 186
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Symbiosis": {
+    "Indices": {
+      "pkeUranium": 187
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Tough Claws": {
+    "Indices": {
+      "pkeUranium": 188
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Delta Stream": {
+    "Indices": {
+      "pkeUranium": 189
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Primordial Sea": {
+    "Indices": {
+      "pkeUranium": 190
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Desolate Land": {
+    "Indices": {
+      "pkeUranium": 191
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Sharp Coral": {
+    "Indices": {
+      "pkeUranium": 192
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Lazy": {
+    "Indices": {
+      "pkeUranium": 193
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Rebuild": {
+    "Indices": {
+      "pkeUranium": 194
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Petrify": {
+    "Indices": {
+      "pkeUranium": 195
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Infuriate": {
+    "Indices": {
+      "pkeUranium": 196
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Elementalist": {
+    "Indices": {
+      "pkeUranium": 197
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Energizate": {
+    "Indices": {
+      "pkeUranium": 198
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Acceleration": {
+    "Indices": {
+      "pkeUranium": 199
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Blood Lust": {
+    "Indices": {
+      "pkeUranium": 200
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Atomizate": {
+    "Indices": {
+      "pkeUranium": 201
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Lead Skin": {
+    "Indices": {
+      "pkeUranium": 202
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Deep Freeze": {
+    "Indices": {
+      "pkeUranium": 203
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Stormbringer": {
+    "Indices": {
+      "pkeUranium": 204
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Quick Charge": {
+    "Indices": {
+      "pkeUranium": 205
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Sound Boost": {
+    "Indices": {
+      "pkeUranium": 206
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Disenchant": {
+    "Indices": {
+      "pkeUranium": 207
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Geiger Sense": {
+    "Indices": {
+      "pkeUranium": 208
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Chernobyl": {
+    "Indices": {
+      "pkeUranium": 209
+    },
+    "Exists in": ["pkeUranium"]
+  }
+}

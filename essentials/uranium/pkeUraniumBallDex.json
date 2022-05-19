@@ -1,181 +1,147 @@
 {
-  "Master Ball": {
+  "Poké Ball": {
     "Indices": {
-      "main-series": 1,
-      "pkeUranium": 4
+      "pkeUranium": 0
     },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Ultra Ball": {
-    "Indices": {
-      "main-series": 2,
-      "pkeUranium": 3
-    },
-    "Exists in": ["pk3", "pkeUranium"]
+    "Exists in": ["pkeUranium"]
   },
   "Great Ball": {
     "Indices": {
-      "main-series": 3,
       "pkeUranium": 1
     },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Poké Ball": {
-    "Indices": {
-      "main-series": 4,
-      "pkeUranium": 0
-    },
-    "Exists in": ["pk3", "pkeUranium"]
+    "Exists in": ["pkeUranium"]
   },
   "Safari Ball": {
     "Indices": {
-      "main-series": 5,
       "pkeUranium": 2
     },
-    "Exists in": ["pk3", "pkeUranium"]
+    "Exists in": ["pkeUranium"]
+  },
+  "Ultra Ball": {
+    "Indices": {
+      "pkeUranium": 3
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Master Ball": {
+    "Indices": {
+      "pkeUranium": 4
+    },
+    "Exists in": ["pkeUranium"]
   },
   "Net Ball": {
     "Indices": {
-      "main-series": 6,
       "pkeUranium": 5
     },
-    "Exists in": ["pk3", "pkeUranium"]
+    "Exists in": ["pkeUranium"]
   },
   "Dive Ball": {
     "Indices": {
-      "main-series": 7,
       "pkeUranium": 6
     },
-    "Exists in": ["pk3", "pkeUranium"]
+    "Exists in": ["pkeUranium"]
   },
   "Nest Ball": {
     "Indices": {
-      "main-series": 8,
       "pkeUranium": 7
     },
-    "Exists in": ["pk3", "pkeUranium"]
+    "Exists in": ["pkeUranium"]
   },
   "Repeat Ball": {
     "Indices": {
-      "main-series": 9,
       "pkeUranium": 8
     },
-    "Exists in": ["pk3", "pkeUranium"]
+    "Exists in": ["pkeUranium"]
   },
   "Timer Ball": {
     "Indices": {
-      "main-series": 10,
       "pkeUranium": 9
     },
-    "Exists in": ["pk3", "pkeUranium"]
+    "Exists in": ["pkeUranium"]
   },
   "Luxury Ball": {
     "Indices": {
-      "main-series": 11,
       "pkeUranium": 10
     },
-    "Exists in": ["pk3", "pkeUranium"]
+    "Exists in": ["pkeUranium"]
   },
   "Premier Ball": {
     "Indices": {
-      "main-series": 12,
       "pkeUranium": 11
     },
-    "Exists in": ["pk3", "pkeUranium"]
+    "Exists in": ["pkeUranium"]
   },
   "Dusk Ball": {
     "Indices": {
-      "main-series": 13,
       "pkeUranium": 12
     },
     "Exists in": ["pkeUranium"]
   },
   "Heal Ball": {
     "Indices": {
-      "main-series": 14,
       "pkeUranium": 13
     },
     "Exists in": ["pkeUranium"]
   },
   "Quick Ball": {
     "Indices": {
-      "main-series": 15,
       "pkeUranium": 14
     },
     "Exists in": ["pkeUranium"]
   },
   "Cherish Ball": {
     "Indices": {
-      "main-series": 16,
       "pkeUranium": 15
     },
     "Exists in": ["pkeUranium"]
   },
   "Fast Ball": {
     "Indices": {
-      "main-series": 17,
       "pkeUranium": 16
     },
     "Exists in": ["pkeUranium"]
   },
   "Level Ball": {
     "Indices": {
-      "main-series": 18,
       "pkeUranium": 17
     },
     "Exists in": ["pkeUranium"]
   },
   "Lure Ball": {
     "Indices": {
-      "main-series": 19,
       "pkeUranium": 18
     },
     "Exists in": ["pkeUranium"]
   },
   "Heavy Ball": {
     "Indices": {
-      "main-series": 20,
       "pkeUranium": 19
     },
     "Exists in": ["pkeUranium"]
   },
   "Love Ball": {
     "Indices": {
-      "main-series": 21,
       "pkeUranium": 20
     },
     "Exists in": ["pkeUranium"]
   },
   "Friend Ball": {
     "Indices": {
-      "main-series": 22,
       "pkeUranium": 21
     },
     "Exists in": ["pkeUranium"]
   },
   "Moon Ball": {
     "Indices": {
-      "main-series": 23,
       "pkeUranium": 22
     },
     "Exists in": ["pkeUranium"]
   },
   "Sport Ball": {
     "Indices": {
-      "main-series": 24,
       "pkeUranium": 23
     },
     "Exists in": ["pkeUranium"]
-  },
-  "Dream Ball": {
-    "Indices": {
-      "main-series": 25
-    }
-  },
-  "Beast Ball": {
-    "Indices": {
-      "main-series": 26
-    }
   },
   "Nuclear Ball": {
     "Indices": {
