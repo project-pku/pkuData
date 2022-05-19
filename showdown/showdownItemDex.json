@@ -1,5 +1,12 @@
-// This file is updated as of 12/4/21. Check against https://github.com/smogon/pokemon-showdown/blob/master/data/items.ts
+// This file is updated as of 5/19/22. Check against https://github.com/smogon/pokemon-showdown/blob/master/data/items.ts
 {
+  "None": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": null
+    }
+  },
+
   // Main series
   "Abomasite": {
     "Exists in": ["Showdown"],

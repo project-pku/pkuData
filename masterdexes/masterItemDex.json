@@ -1,4 +1,11 @@
 {
+  "None": {
+    "Indices": {
+      "main-series": 0,
+      "Showdown": null
+    },
+    "Exists in": ["pk3", "Showdown"]
+  },
   "Master Ball": {
     "Indices": {
       "main-series": 1,
