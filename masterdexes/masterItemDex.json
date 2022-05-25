@@ -1,2253 +1,4121 @@
 {
   "None": {
     "Indices": {
-      "main-series": 0,
+      "pkeUranium": 0,
       "Showdown": null,
-      "pkeUranium": 0
+      "main-series": 0
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Master Ball": {
-    "Indices": {
-      "main-series": 1,
-      "Showdown": "Master Ball",
-      "pkeUranium": 208
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Ultra Ball": {
-    "Indices": {
-      "main-series": 2,
-      "Showdown": "Ultra Ball",
-      "pkeUranium": 209
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Great Ball": {
-    "Indices": {
-      "main-series": 3,
-      "Showdown": "Great Ball",
-      "pkeUranium": 210
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Poké Ball": {
-    "Indices": {
-      "main-series": 4,
-      "Showdown": "Poke Ball",
-      "pkeUranium": 211
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Safari Ball": {
-    "Indices": {
-      "main-series": 5,
-      "Showdown": "Safari Ball",
-      "pkeUranium": 212
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Net Ball": {
-    "Indices": {
-      "main-series": 6,
-      "Showdown": "Net Ball",
-      "pkeUranium": 213
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Dive Ball": {
-    "Indices": {
-      "main-series": 7,
-      "Showdown": "Dive Ball",
-      "pkeUranium": 214
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Nest Ball": {
-    "Indices": {
-      "main-series": 8,
-      "Showdown": "Nest Ball",
-      "pkeUranium": 215
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Repeat Ball": {
-    "Indices": {
-      "main-series": 9,
-      "Showdown": "Repeat Ball",
-      "pkeUranium": 216
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Timer Ball": {
-    "Indices": {
-      "main-series": 10,
-      "Showdown": "Timer Ball",
-      "pkeUranium": 217
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Luxury Ball": {
-    "Indices": {
-      "main-series": 11,
-      "Showdown": "Luxury Ball",
-      "pkeUranium": 218
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Premier Ball": {
-    "Indices": {
-      "main-series": 12,
-      "Showdown": "Premier Ball",
-      "pkeUranium": 219
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Potion": {
-    "Indices": {
-      "pk3": 13,
-      "pkeUranium": 170
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Antidote": {
-    "Indices": {
-      "pk3": 14,
-      "pkeUranium": 176
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Burn Heal": {
-    "Indices": {
-      "pk3": 15,
-      "pkeUranium": 177
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Ice Heal": {
-    "Indices": {
-      "pk3": 16,
-      "pkeUranium": 178
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Awakening": {
-    "Indices": {
-      "pk3": 17,
-      "pkeUranium": 179
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Paralyze Heal": {
-    "Indices": {
-      "pk3": 18,
-      "pkeUranium": 180
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Full Restore": {
-    "Indices": {
-      "pk3": 19,
-      "pkeUranium": 174
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Max Potion": {
-    "Indices": {
-      "pk3": 20,
-      "pkeUranium": 173
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Hyper Potion": {
-    "Indices": {
-      "pk3": 21,
-      "pkeUranium": 172
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Super Potion": {
-    "Indices": {
-      "pk3": 22,
-      "pkeUranium": 171
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Full Heal": {
-    "Indices": {
-      "pk3": 23,
-      "pkeUranium": 181
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Revive": {
-    "Indices": {
-      "pk3": 24,
-      "pkeUranium": 184
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Max Revive": {
-    "Indices": {
-      "pk3": 25,
-      "pkeUranium": 185
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Fresh Water": {
-    "Indices": {
-      "pk3": 26,
-      "pkeUranium": 187
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Soda Pop": {
-    "Indices": {
-      "pk3": 27,
-      "pkeUranium": 188
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Lemonade": {
-    "Indices": {
-      "pk3": 28,
-      "pkeUranium": 189
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Moomoo Milk": {
-    "Indices": {
-      "pk3": 29,
-      "pkeUranium": 190
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Energy Powder": {
-    "Indices": {
-      "pk3": 30,
-      "Showdown": "Energy Powder",
-      "pkeUranium": 191
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Energy Root": {
-    "Indices": {
-      "pk3": 31,
-      "pkeUranium": 192
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Heal Powder": {
-    "Indices": {
-      "pk3": 32,
-      "pkeUranium": 193
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Revival Herb": {
-    "Indices": {
-      "pk3": 33,
-      "pkeUranium": 194
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Ether": {
-    "Indices": {
-      "pk3": 34,
-      "pkeUranium": 195
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Max Ether": {
-    "Indices": {
-      "pk3": 35,
-      "pkeUranium": 196
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Elixir": {
-    "Indices": {
-      "pk3": 36,
-      "pkeUranium": 197
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Max Elixir": {
-    "Indices": {
-      "pk3": 37,
-      "pkeUranium": 198
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Lava Cookie": {
-    "Indices": {
-      "pk3": 38,
-      "pkeUranium": 182
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Blue Flute": {
-    "Indices": {
-      "pk3": 39,
-      "pkeUranium": 419
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Yellow Flute": {
-    "Indices": {
-      "pk3": 40,
-      "pkeUranium": 420
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Red Flute": {
-    "Indices": {
-      "pk3": 41,
-      "pkeUranium": 421
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Black Flute": {
-    "Indices": {
-      "pk3": 42,
-      "pkeUranium": 4
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "White Flute": {
-    "Indices": {
-      "pk3": 43,
-      "pkeUranium": 5
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Berry Juice": {
-    "Indices": {
-      "pk3": 44,
-      "Showdown": "Berry Juice",
-      "pkeUranium": 186
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Sacred Ash": {
-    "Indices": {
-      "pk3": 45,
-      "pkeUranium": 175
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Shoal Salt": {
-    "Indices": {
-      "pk3": 46,
-      "pkeUranium": 38
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Shoal Shell": {
-    "Indices": {
-      "pk3": 47,
-      "pkeUranium": 39
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Red Shard": {
-    "Indices": {
-      "pk3": 48,
-      "pkeUranium": 8
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Blue Shard": {
-    "Indices": {
-      "pk3": 49,
-      "pkeUranium": 9
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Yellow Shard": {
-    "Indices": {
-      "pk3": 50,
-      "pkeUranium": 10
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Green Shard": {
-    "Indices": {
-      "pk3": 51,
-      "pkeUranium": 11
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "HP Up": {
-    "Indices": {
-      "pk3": 63,
-      "pkeUranium": 199
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Protein": {
-    "Indices": {
-      "pk3": 64,
-      "pkeUranium": 200
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Iron": {
-    "Indices": {
-      "pk3": 65,
-      "pkeUranium": 201
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Carbos": {
-    "Indices": {
-      "pk3": 66,
-      "pkeUranium": 202
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Calcium": {
-    "Indices": {
-      "pk3": 67,
-      "pkeUranium": 203
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Rare Candy": {
-    "Indices": {
-      "pk3": 68,
-      "pkeUranium": 207
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "PP Up": {
-    "Indices": {
-      "pk3": 69,
-      "pkeUranium": 205
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Zinc": {
-    "Indices": {
-      "pk3": 70,
-      "pkeUranium": 204
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "PP Max": {
-    "Indices": {
-      "pk3": 71,
-      "pkeUranium": 206
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Guard Spec.": {
-    "Indices": {
-      "pk3": 73,
-      "pkeUranium": 416
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Dire Hit": {
-    "Indices": {
-      "pk3": 74,
-      "pkeUranium": 415
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "X Attack": {
-    "Indices": {
-      "pk3": 75,
-      "pkeUranium": 409
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "X Defense": {
-    "Indices": {
-      "pk3": 76,
-      "pkeUranium": 410
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "X Speed": {
-    "Indices": {
-      "pk3": 77,
-      "pkeUranium": 413
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "X Accuracy": {
-    "Indices": {
-      "pk3": 78,
-      "pkeUranium": 414
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "X Sp. Atk": {
-    "Indices": {
-      "pk3": 79,
-      "pkeUranium": 411
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Poké Doll": {
-    "Indices": {
-      "pk3": 80,
-      "pkeUranium": 417
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Fluffy Tail": {
-    "Indices": {
-      "pk3": 81,
-      "pkeUranium": 418
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Super Repel": {
-    "Indices": {
-      "pk3": 83,
-      "pkeUranium": 2
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Max Repel": {
-    "Indices": {
-      "pk3": 84,
-      "pkeUranium": 3
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Escape Rope": {
-    "Indices": {
-      "pk3": 85,
-      "pkeUranium": 7
-    },
-    "Exists in": ["pk3", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Repel": {
     "Indices": {
-      "pk3": 86,
-      "pkeUranium": 1
+      "pkeUranium": 1,
+      "pk3": 86
     },
-    "Exists in": ["pk3", "pkeUranium"]
+    "Exists in": ["pkeUranium", "pk3"]
   },
-  "Sun Stone": {
+  "Super Repel": {
     "Indices": {
-      "pk3": 93,
-      "Showdown": "Sun Stone",
-      "pkeUranium": 17
+      "pkeUranium": 2,
+      "pk3": 83
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "pk3"]
   },
-  "Moon Stone": {
+  "Max Repel": {
     "Indices": {
-      "pk3": 94,
-      "Showdown": "Moon Stone",
-      "pkeUranium": 16
+      "pkeUranium": 3,
+      "pk3": 84
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Black Flute": {
+    "Indices": {
+      "pkeUranium": 4,
+      "pk3": 42
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "White Flute": {
+    "Indices": {
+      "pkeUranium": 5,
+      "pk3": 43
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Honey": {
+    "Indices": {
+      "pkeUranium": 6
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Escape Rope": {
+    "Indices": {
+      "pkeUranium": 7,
+      "pk3": 85
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Red Shard": {
+    "Indices": {
+      "pkeUranium": 8,
+      "pk3": 48
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Blue Shard": {
+    "Indices": {
+      "pkeUranium": 9,
+      "pk3": 49
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Yellow Shard": {
+    "Indices": {
+      "pkeUranium": 10,
+      "pk3": 50
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Green Shard": {
+    "Indices": {
+      "pkeUranium": 11,
+      "pk3": 51
+    },
+    "Exists in": ["pkeUranium", "pk3"]
   },
   "Fire Stone": {
     "Indices": {
-      "pk3": 95,
+      "pkeUranium": 12,
       "Showdown": "Fire Stone",
-      "pkeUranium": 12
+      "pk3": 95
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Thunder Stone": {
-    "Indices": {
-      "pk3": 96,
-      "Showdown": "Thunder Stone",
-      "pkeUranium": 14
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Water Stone": {
     "Indices": {
-      "pk3": 97,
+      "pkeUranium": 13,
       "Showdown": "Water Stone",
-      "pkeUranium": 13
+      "pk3": 97
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Thunder Stone": {
+    "Indices": {
+      "pkeUranium": 14,
+      "Showdown": "Thunder Stone",
+      "pk3": 96
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Leaf Stone": {
     "Indices": {
-      "pk3": 98,
+      "pkeUranium": 15,
       "Showdown": "Leaf Stone",
-      "pkeUranium": 15
+      "pk3": 98
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
-  "Tiny Mushroom": {
+  "Moon Stone": {
     "Indices": {
-      "pk3": 103,
-      "pkeUranium": 29
+      "pkeUranium": 16,
+      "Showdown": "Moon Stone",
+      "pk3": 94
     },
-    "Exists in": ["pk3", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
-  "Big Mushroom": {
+  "Sun Stone": {
     "Indices": {
-      "pk3": 104,
-      "pkeUranium": 30
+      "pkeUranium": 17,
+      "Showdown": "Sun Stone",
+      "pk3": 93
     },
-    "Exists in": ["pk3", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
-  "Pearl": {
+  "Shiny Stone": {
     "Indices": {
-      "pk3": 106,
-      "pkeUranium": 31
+      "pkeUranium": 18,
+      "Showdown": "Shiny Stone"
     },
-    "Exists in": ["pk3", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
-  "Big Pearl": {
+  "Dusk Stone": {
     "Indices": {
-      "pk3": 107,
-      "pkeUranium": 32
+      "pkeUranium": 19,
+      "Showdown": "Dusk Stone"
     },
-    "Exists in": ["pk3", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
-  "Stardust": {
+  "Dawn Stone": {
     "Indices": {
-      "pk3": 108,
-      "pkeUranium": 33
+      "pkeUranium": 20,
+      "Showdown": "Dawn Stone"
     },
-    "Exists in": ["pk3", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
-  "Star Piece": {
+  "Oval Stone": {
     "Indices": {
-      "pk3": 109,
-      "pkeUranium": 34
+      "pkeUranium": 21,
+      "Showdown": "Oval Stone"
     },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Nugget": {
-    "Indices": {
-      "pk3": 110,
-      "pkeUranium": 35
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Heart Scale": {
-    "Indices": {
-      "pk3": 111,
-      "pkeUranium": 36
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Orange Mail": {
-    "Indices": {
-      "pk3": 121,
-      "pkeUranium": 397
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Harbor Mail": {
-    "Indices": {
-      "pk3": 122,
-      "pkeUranium": 398
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Glitter Mail": {
-    "Indices": {
-      "pk3": 123,
-      "pkeUranium": 399
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Mech Mail": {
-    "Indices": {
-      "pk3": 124,
-      "pkeUranium": 400
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Wood Mail": {
-    "Indices": {
-      "pk3": 125,
-      "pkeUranium": 401
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Wave Mail": {
-    "Indices": {
-      "pk3": 126,
-      "pkeUranium": 402
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Bead Mail": {
-    "Indices": {
-      "pk3": 127,
-      "pkeUranium": 403
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Shadow Mail": {
-    "Indices": {
-      "pk3": 128,
-      "pkeUranium": 404
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Tropic Mail": {
-    "Indices": {
-      "pk3": 129,
-      "pkeUranium": 405
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Dream Mail": {
-    "Indices": {
-      "pk3": 130,
-      "pkeUranium": 406
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Fab Mail": {
-    "Indices": {
-      "pk3": 131,
-      "pkeUranium": 407
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Retro Mail": {
-    "Indices": {
-      "pk3": 132,
-      "pkeUranium": 408
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Cheri Berry": {
-    "Indices": {
-      "pk3": 133,
-      "Showdown": "Cheri Berry",
-      "pkeUranium": 333
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Chesto Berry": {
-    "Indices": {
-      "pk3": 134,
-      "Showdown": "Chesto Berry",
-      "pkeUranium": 334
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Pecha Berry": {
-    "Indices": {
-      "pk3": 135,
-      "Showdown": "Pecha Berry",
-      "pkeUranium": 335
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Rawst Berry": {
-    "Indices": {
-      "pk3": 136,
-      "Showdown": "Rawst Berry",
-      "pkeUranium": 336
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Aspear Berry": {
-    "Indices": {
-      "pk3": 137,
-      "Showdown": "Aspear Berry",
-      "pkeUranium": 337
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Leppa Berry": {
-    "Indices": {
-      "pk3": 138,
-      "Showdown": "Leppa Berry",
-      "pkeUranium": 338
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Oran Berry": {
-    "Indices": {
-      "pk3": 139,
-      "Showdown": "Oran Berry",
-      "pkeUranium": 339
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Persim Berry": {
-    "Indices": {
-      "pk3": 140,
-      "Showdown": "Persim Berry",
-      "pkeUranium": 340
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Lum Berry": {
-    "Indices": {
-      "pk3": 141,
-      "Showdown": "Lum Berry",
-      "pkeUranium": 341
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Sitrus Berry": {
-    "Indices": {
-      "pk3": 142,
-      "Showdown": "Sitrus Berry",
-      "pkeUranium": 342
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Figy Berry": {
-    "Indices": {
-      "pk3": 143,
-      "Showdown": "Figy Berry",
-      "pkeUranium": 343
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Wiki Berry": {
-    "Indices": {
-      "pk3": 144,
-      "Showdown": "Wiki Berry",
-      "pkeUranium": 344
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Mago Berry": {
-    "Indices": {
-      "pk3": 145,
-      "Showdown": "Mago Berry",
-      "pkeUranium": 345
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Aguav Berry": {
-    "Indices": {
-      "pk3": 146,
-      "Showdown": "Aguav Berry",
-      "pkeUranium": 346
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Iapapa Berry": {
-    "Indices": {
-      "pk3": 147,
-      "Showdown": "Iapapa Berry",
-      "pkeUranium": 347
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Razz Berry": {
-    "Indices": {
-      "pk3": 148,
-      "Showdown": "Razz Berry",
-      "pkeUranium": 348
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Bluk Berry": {
-    "Indices": {
-      "pk3": 149,
-      "Showdown": "Bluk Berry",
-      "pkeUranium": 349
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Nanab Berry": {
-    "Indices": {
-      "pk3": 150,
-      "Showdown": "Nanab Berry",
-      "pkeUranium": 350
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Wepear Berry": {
-    "Indices": {
-      "pk3": 151,
-      "Showdown": "Wepear Berry",
-      "pkeUranium": 351
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Pinap Berry": {
-    "Indices": {
-      "pk3": 152,
-      "Showdown": "Pinap Berry",
-      "pkeUranium": 352
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Pomeg Berry": {
-    "Indices": {
-      "pk3": 153,
-      "Showdown": "Pomeg Berry",
-      "pkeUranium": 353
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Kelpsy Berry": {
-    "Indices": {
-      "pk3": 154,
-      "Showdown": "Kelpsy Berry",
-      "pkeUranium": 354
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Qualot Berry": {
-    "Indices": {
-      "pk3": 155,
-      "Showdown": "Qualot Berry",
-      "pkeUranium": 355
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Hondew Berry": {
-    "Indices": {
-      "pk3": 156,
-      "Showdown": "Hondew Berry",
-      "pkeUranium": 356
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Grepa Berry": {
-    "Indices": {
-      "pk3": 157,
-      "Showdown": "Grepa Berry",
-      "pkeUranium": 357
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Tamato Berry": {
-    "Indices": {
-      "pk3": 158,
-      "Showdown": "Tamato Berry",
-      "pkeUranium": 358
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Cornn Berry": {
-    "Indices": {
-      "pk3": 159,
-      "Showdown": "Cornn Berry",
-      "pkeUranium": 359
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Magost Berry": {
-    "Indices": {
-      "pk3": 160,
-      "Showdown": "Magost Berry",
-      "pkeUranium": 360
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Rabuta Berry": {
-    "Indices": {
-      "pk3": 161,
-      "Showdown": "Rabuta Berry",
-      "pkeUranium": 361
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Nomel Berry": {
-    "Indices": {
-      "pk3": 162,
-      "Showdown": "Nomel Berry",
-      "pkeUranium": 362
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Spelon Berry": {
-    "Indices": {
-      "pk3": 163,
-      "Showdown": "Spelon Berry",
-      "pkeUranium": 363
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Pamtre Berry": {
-    "Indices": {
-      "pk3": 164,
-      "Showdown": "Pamtre Berry",
-      "pkeUranium": 364
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Watmel Berry": {
-    "Indices": {
-      "pk3": 165,
-      "Showdown": "Watmel Berry",
-      "pkeUranium": 365
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Durin Berry": {
-    "Indices": {
-      "pk3": 166,
-      "Showdown": "Durin Berry",
-      "pkeUranium": 366
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Belue Berry": {
-    "Indices": {
-      "pk3": 167,
-      "Showdown": "Belue Berry",
-      "pkeUranium": 367
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Liechi Berry": {
-    "Indices": {
-      "pk3": 168,
-      "Showdown": "Liechi Berry",
-      "pkeUranium": 385
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Ganlon Berry": {
-    "Indices": {
-      "pk3": 169,
-      "Showdown": "Ganlon Berry",
-      "pkeUranium": 386
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Salac Berry": {
-    "Indices": {
-      "pk3": 170,
-      "Showdown": "Salac Berry",
-      "pkeUranium": 387
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Petaya Berry": {
-    "Indices": {
-      "pk3": 171,
-      "Showdown": "Petaya Berry",
-      "pkeUranium": 388
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Apicot Berry": {
-    "Indices": {
-      "pk3": 172,
-      "Showdown": "Apicot Berry",
-      "pkeUranium": 389
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Lansat Berry": {
-    "Indices": {
-      "pk3": 173,
-      "Showdown": "Lansat Berry",
-      "pkeUranium": 390
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Starf Berry": {
-    "Indices": {
-      "pk3": 174,
-      "Showdown": "Starf Berry",
-      "pkeUranium": 391
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Enigma Berry": {
-    "Indices": {
-      "pk3": 175,
-      "Showdown": "Enigma Berry",
-      "pkeUranium": 392
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Bright Powder": {
-    "Indices": {
-      "pk3": 179,
-      "Showdown": "Bright Powder",
-      "pkeUranium": 52
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "White Herb": {
-    "Indices": {
-      "pk3": 180,
-      "Showdown": "White Herb",
-      "pkeUranium": 53
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Macho Brace": {
-    "Indices": {
-      "pk3": 181,
-      "Showdown": "Macho Brace",
-      "pkeUranium": 98
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Exp. Share": {
-    "Indices": {
-      "pk3": 182,
-      "pkeUranium": 54
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Quick Claw": {
-    "Indices": {
-      "pk3": 183,
-      "Showdown": "Quick Claw",
-      "pkeUranium": 55
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Soothe Bell": {
-    "Indices": {
-      "pk3": 184,
-      "pkeUranium": 56
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Mental Herb": {
-    "Indices": {
-      "pk3": 185,
-      "Showdown": "Mental Herb",
-      "pkeUranium": 57
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Choice Band": {
-    "Indices": {
-      "pk3": 186,
-      "Showdown": "Choice Band",
-      "pkeUranium": 90
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "King's Rock": {
-    "Indices": {
-      "pk3": 187,
-      "Showdown": "King's Rock",
-      "pkeUranium": 58
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Silver Powder": {
-    "Indices": {
-      "pk3": 188,
-      "Showdown": "Silver Powder",
-      "pkeUranium": 59
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Amulet Coin": {
-    "Indices": {
-      "pk3": 189,
-      "pkeUranium": 60
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Cleanse Tag": {
-    "Indices": {
-      "pk3": 190,
-      "pkeUranium": 61
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Soul Dew": {
-    "Indices": {
-      "pk3": 191,
-      "Showdown": "Soul Dew",
-      "pkeUranium": 151
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Deep Sea Tooth": {
-    "Indices": {
-      "pk3": 192,
-      "Showdown": "Deep Sea Tooth",
-      "pkeUranium": 152
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Deep Sea Scale": {
-    "Indices": {
-      "pk3": 193,
-      "Showdown": "Deep Sea Scale",
-      "pkeUranium": 153
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Smoke Ball": {
-    "Indices": {
-      "pk3": 194,
-      "pkeUranium": 62
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Everstone": {
-    "Indices": {
-      "pk3": 195,
-      "pkeUranium": 63
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Focus Band": {
-    "Indices": {
-      "pk3": 196,
-      "Showdown": "Focus Band",
-      "pkeUranium": 64
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Lucky Egg": {
-    "Indices": {
-      "pk3": 197,
-      "pkeUranium": 65
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Scope Lens": {
-    "Indices": {
-      "pk3": 198,
-      "Showdown": "Scope Lens",
-      "pkeUranium": 66
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Metal Coat": {
-    "Indices": {
-      "pk3": 199,
-      "Showdown": "Metal Coat",
-      "pkeUranium": 69
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Leftovers": {
-    "Indices": {
-      "pk3": 200,
-      "Showdown": "Leftovers",
-      "pkeUranium": 70
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Dragon Scale": {
-    "Indices": {
-      "pk3": 201,
-      "Showdown": "Dragon Scale",
-      "pkeUranium": 71
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Light Ball": {
-    "Indices": {
-      "pk3": 202,
-      "Showdown": "Light Ball",
-      "pkeUranium": 145
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Soft Sand": {
-    "Indices": {
-      "pk3": 203,
-      "Showdown": "Soft Sand",
-      "pkeUranium": 114
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Hard Stone": {
-    "Indices": {
-      "pk3": 204,
-      "Showdown": "Hard Stone",
-      "pkeUranium": 115
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Miracle Seed": {
-    "Indices": {
-      "pk3": 205,
-      "Showdown": "Miracle Seed",
-      "pkeUranium": 116
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Black Glasses": {
-    "Indices": {
-      "pk3": 206,
-      "Showdown": "Black Glasses",
-      "pkeUranium": 117
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Black Belt": {
-    "Indices": {
-      "pk3": 207,
-      "Showdown": "Black Belt",
-      "pkeUranium": 118
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Magnet": {
-    "Indices": {
-      "pk3": 208,
-      "Showdown": "Magnet",
-      "pkeUranium": 119
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Mystic Water": {
-    "Indices": {
-      "pk3": 209,
-      "Showdown": "Mystic Water",
-      "pkeUranium": 120
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Sharp Beak": {
-    "Indices": {
-      "pk3": 210,
-      "Showdown": "Sharp Beak",
-      "pkeUranium": 121
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Poison Barb": {
-    "Indices": {
-      "pk3": 211,
-      "Showdown": "Poison Barb",
-      "pkeUranium": 122
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Never-Melt Ice": {
-    "Indices": {
-      "pk3": 212,
-      "Showdown": "Never-Melt Ice",
-      "pkeUranium": 123
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Spell Tag": {
-    "Indices": {
-      "pk3": 213,
-      "Showdown": "Spell Tag",
-      "pkeUranium": 124
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Twisted Spoon": {
-    "Indices": {
-      "pk3": 214,
-      "Showdown": "Twisted Spoon",
-      "pkeUranium": 125
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Charcoal": {
-    "Indices": {
-      "pk3": 215,
-      "Showdown": "Charcoal",
-      "pkeUranium": 126
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Dragon Fang": {
-    "Indices": {
-      "pk3": 216,
-      "Showdown": "Dragon Fang",
-      "pkeUranium": 127
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Silk Scarf": {
-    "Indices": {
-      "pk3": 217,
-      "Showdown": "Silk Scarf",
-      "pkeUranium": 128
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Upgrade": {
-    "Indices": {
-      "pk3": 218,
-      "pkeUranium": 157
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Shell Bell": {
-    "Indices": {
-      "pk3": 219,
-      "Showdown": "Shell Bell",
-      "pkeUranium": 72
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Sea Incense": {
-    "Indices": {
-      "pk3": 220,
-      "Showdown": "Sea Incense",
-      "pkeUranium": 105
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Lax Incense": {
-    "Indices": {
-      "pk3": 221,
-      "Showdown": "Lax Incense",
-      "pkeUranium": 106
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Lucky Punch": {
-    "Indices": {
-      "pk3": 222,
-      "Showdown": "Lucky Punch",
-      "pkeUranium": 146
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Metal Powder": {
-    "Indices": {
-      "pk3": 223,
-      "Showdown": "Metal Powder",
-      "pkeUranium": 147
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Thick Club": {
-    "Indices": {
-      "pk3": 224,
-      "Showdown": "Thick Club",
-      "pkeUranium": 149
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Leek": {
-    "Indices": {
-      "pk3": 225,
-      "Showdown": "Leek",
-      "pkeUranium": 150
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Red Scarf": {
-    "Indices": {
-      "pk3": 254,
-      "pkeUranium": 165
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Blue Scarf": {
-    "Indices": {
-      "pk3": 255,
-      "pkeUranium": 166
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Pink Scarf": {
-    "Indices": {
-      "pk3": 256,
-      "pkeUranium": 167
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Green Scarf": {
-    "Indices": {
-      "pk3": 257,
-      "pkeUranium": 168
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Yellow Scarf": {
-    "Indices": {
-      "pk3": 258,
-      "pkeUranium": 169
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Mach Bike": {
-    "Indices": {
-      "pk3": 259
-    },
-    "Exists in": ["pk3"]
-  },
-  "Coin Case": {
-    "Indices": {
-      "pk3": 260,
-      "pkeUranium": 429
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Dowsing Machine": {
-    "Indices": {
-      "pk3": 261,
-      "pkeUranium": 426
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Old Rod": {
-    "Indices": {
-      "pk3": 262,
-      "pkeUranium": 423
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Good Rod": {
-    "Indices": {
-      "pk3": 263,
-      "pkeUranium": 424
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Super Rod": {
-    "Indices": {
-      "pk3": 264,
-      "pkeUranium": 425
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "S.S. Tidal Ticket": {
-    "Indices": {
-      "pk3": 265
-    },
-    "Exists in": ["pk3"]
-  },
-  "S.S. Anne Ticket": {
-    "Indices": {
-      "pk3": 265
-    },
-    "Exists in": ["pk3"]
-  },
-  "Contest Pass": {
-    "Indices": {
-      "pk3": 266,
-      "pkeUranium": 453
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Wailmer Pail": {
-    "Indices": {
-      "pk3": 268
-    },
-    "Exists in": ["pk3"]
-  },
-  "Devon Goods": {
-    "Indices": {
-      "pk3": 269
-    },
-    "Exists in": ["pk3"]
-  },
-  "Soot Sack": {
-    "Indices": {
-      "pk3": 270,
-      "pkeUranium": 431
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Basement Key": {
-    "Indices": {
-      "pk3": 271,
-      "pkeUranium": 471
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Acro Bike": {
-    "Indices": {
-      "pk3": 272
-    },
-    "Exists in": ["pk3"]
-  },
-  "Pokéblock Case": {
-    "Indices": {
-      "pk3": 273
-    },
-    "Exists in": ["pk3"]
-  },
-  "Letter": {
-    "Indices": {
-      "pk3": 274
-    },
-    "Exists in": ["pk3"]
-  },
-  "Eon Ticket": {
-    "Indices": {
-      "pk3": 275
-    },
-    "Exists in": ["pk3"]
-  },
-  "Red Orb": {
-    "Indices": {
-      "pk3": 276,
-      "Showdown": "Red Orb",
-      "pkeUranium": 486
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Blue Orb": {
-    "Indices": {
-      "pk3": 277,
-      "Showdown": "Blue Orb",
-      "pkeUranium": 487
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Scanner": {
-    "Indices": {
-      "pk3": 278
-    },
-    "Exists in": ["pk3"]
-  },
-  "Go-Goggles": {
-    "Indices": {
-      "pk3": 279
-    },
-    "Exists in": ["pk3"]
-  },
-  "Meteorite": {
-    "Indices": {
-      "pk3": 280
-    },
-    "Exists in": ["pk3"]
-  },
-  "Rm. 1 Key": {
-    "Indices": {
-      "pk3": 281
-    },
-    "Exists in": ["pk3"]
-  },
-  "Rm. 2 Key": {
-    "Indices": {
-      "pk3": 282
-    },
-    "Exists in": ["pk3"]
-  },
-  "Rm. 4 Key": {
-    "Indices": {
-      "pk3": 283
-    },
-    "Exists in": ["pk3"]
-  },
-  "Rm. 6 Key": {
-    "Indices": {
-      "pk3": 284
-    },
-    "Exists in": ["pk3"]
-  },
-  "Storage Key": {
-    "Indices": {
-      "pk3": 285,
-      "pkeUranium": 459
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Root Fossil": {
-    "Indices": {
-      "pk3": 286,
-      "Showdown": "Root Fossil",
-      "pkeUranium": 25
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Claw Fossil": {
-    "Indices": {
-      "pk3": 287,
-      "Showdown": "Claw Fossil",
-      "pkeUranium": 26
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Devon Scope": {
-    "Indices": {
-      "pk3": 288
-    },
-    "Exists in": ["pk3"]
-  },
-  "TM01": {
-    "Indices": {
-      "pk3": 289,
-      "pkeUranium": 233
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM02": {
-    "Indices": {
-      "pk3": 290,
-      "pkeUranium": 234
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM03": {
-    "Indices": {
-      "pk3": 291,
-      "pkeUranium": 235
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM04": {
-    "Indices": {
-      "pk3": 292,
-      "pkeUranium": 236
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM05": {
-    "Indices": {
-      "pk3": 293,
-      "pkeUranium": 237
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM06": {
-    "Indices": {
-      "pk3": 294,
-      "pkeUranium": 238
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM07": {
-    "Indices": {
-      "pk3": 295,
-      "pkeUranium": 239
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM08": {
-    "Indices": {
-      "pk3": 296,
-      "pkeUranium": 240
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM09": {
-    "Indices": {
-      "pk3": 297,
-      "pkeUranium": 241
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM10": {
-    "Indices": {
-      "pk3": 298,
-      "pkeUranium": 242
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM11": {
-    "Indices": {
-      "pk3": 299,
-      "pkeUranium": 243
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM12": {
-    "Indices": {
-      "pk3": 300,
-      "pkeUranium": 244
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM13": {
-    "Indices": {
-      "pk3": 301,
-      "pkeUranium": 245
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM14": {
-    "Indices": {
-      "pk3": 302,
-      "pkeUranium": 246
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM15": {
-    "Indices": {
-      "pk3": 303,
-      "pkeUranium": 247
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM16": {
-    "Indices": {
-      "pk3": 304,
-      "pkeUranium": 248
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM17": {
-    "Indices": {
-      "pk3": 305,
-      "pkeUranium": 249
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM18": {
-    "Indices": {
-      "pk3": 306,
-      "pkeUranium": 250
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM19": {
-    "Indices": {
-      "pk3": 307,
-      "pkeUranium": 251
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM20": {
-    "Indices": {
-      "pk3": 308,
-      "pkeUranium": 252
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM21": {
-    "Indices": {
-      "pk3": 309,
-      "pkeUranium": 253
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM22": {
-    "Indices": {
-      "pk3": 310,
-      "pkeUranium": 254
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM23": {
-    "Indices": {
-      "pk3": 311,
-      "pkeUranium": 255
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM24": {
-    "Indices": {
-      "pk3": 312,
-      "pkeUranium": 256
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM25": {
-    "Indices": {
-      "pk3": 313,
-      "pkeUranium": 257
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM26": {
-    "Indices": {
-      "pk3": 314,
-      "pkeUranium": 258
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM27": {
-    "Indices": {
-      "pk3": 315,
-      "pkeUranium": 259
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM28": {
-    "Indices": {
-      "pk3": 316,
-      "pkeUranium": 260
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM29": {
-    "Indices": {
-      "pk3": 317,
-      "pkeUranium": 261
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM30": {
-    "Indices": {
-      "pk3": 318,
-      "pkeUranium": 262
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM31": {
-    "Indices": {
-      "pk3": 319,
-      "pkeUranium": 263
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM32": {
-    "Indices": {
-      "pk3": 320,
-      "pkeUranium": 264
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM33": {
-    "Indices": {
-      "pk3": 321,
-      "pkeUranium": 265
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM34": {
-    "Indices": {
-      "pk3": 322,
-      "pkeUranium": 266
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM35": {
-    "Indices": {
-      "pk3": 323,
-      "pkeUranium": 267
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM36": {
-    "Indices": {
-      "pk3": 324,
-      "pkeUranium": 268
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM37": {
-    "Indices": {
-      "pk3": 325,
-      "pkeUranium": 269
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM38": {
-    "Indices": {
-      "pk3": 326,
-      "pkeUranium": 270
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM39": {
-    "Indices": {
-      "pk3": 327,
-      "pkeUranium": 271
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM40": {
-    "Indices": {
-      "pk3": 328,
-      "pkeUranium": 272
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM41": {
-    "Indices": {
-      "pk3": 329,
-      "pkeUranium": 273
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM42": {
-    "Indices": {
-      "pk3": 330,
-      "pkeUranium": 274
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM43": {
-    "Indices": {
-      "pk3": 331,
-      "pkeUranium": 275
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM44": {
-    "Indices": {
-      "pk3": 332,
-      "pkeUranium": 276
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM45": {
-    "Indices": {
-      "pk3": 333,
-      "pkeUranium": 277
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM46": {
-    "Indices": {
-      "pk3": 334,
-      "pkeUranium": 278
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM47": {
-    "Indices": {
-      "pk3": 335,
-      "pkeUranium": 279
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM48": {
-    "Indices": {
-      "pk3": 336,
-      "pkeUranium": 280
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM49": {
-    "Indices": {
-      "pk3": 337,
-      "pkeUranium": 281
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "TM50": {
-    "Indices": {
-      "pk3": 338,
-      "pkeUranium": 282
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "HM01": {
-    "Indices": {
-      "pk3": 339,
-      "pkeUranium": 325
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "HM02": {
-    "Indices": {
-      "pk3": 340,
-      "pkeUranium": 326
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "HM03": {
-    "Indices": {
-      "pk3": 341,
-      "pkeUranium": 327
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "HM04": {
-    "Indices": {
-      "pk3": 342,
-      "pkeUranium": 328
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "HM05": {
-    "Indices": {
-      "pk3": 343,
-      "pkeUranium": 329
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "HM06": {
-    "Indices": {
-      "pk3": 344,
-      "pkeUranium": 330
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "HM07": {
-    "Indices": {
-      "pk3": 345,
-      "pkeUranium": 331
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "HM08": {
-    "Indices": {
-      "pk3": 346,
-      "pkeUranium": 332
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Oak's Parcel": {
-    "Indices": {
-      "pk3": 349
-    },
-    "Exists in": ["pk3"]
-  },
-  "Poké Flute": {
-    "Indices": {
-      "pk3": 350
-    },
-    "Exists in": ["pk3"]
-  },
-  "Secret Key": {
-    "Indices": {
-      "pk3": 351,
-      "pkeUranium": 463
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Bike Voucher": {
-    "Indices": {
-      "pk3": 352
-    },
-    "Exists in": ["pk3"]
-  },
-  "Gold Teeth": {
-    "Indices": {
-      "pk3": 353
-    },
-    "Exists in": ["pk3"]
-  },
-  "Old Amber": {
-    "Indices": {
-      "pk3": 354,
-      "Showdown": "Old Amber",
-      "pkeUranium": 24
-    },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
-  },
-  "Card Key": {
-    "Indices": {
-      "pk3": 355,
-      "pkeUranium": 470
-    },
-    "Exists in": ["pk3", "pkeUranium"]
-  },
-  "Lift Key": {
-    "Indices": {
-      "pk3": 356
-    },
-    "Exists in": ["pk3"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Helix Fossil": {
     "Indices": {
-      "pk3": 357,
+      "pkeUranium": 22,
       "Showdown": "Helix Fossil",
-      "pkeUranium": 22
+      "pk3": 357
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Dome Fossil": {
     "Indices": {
-      "pk3": 358,
+      "pkeUranium": 23,
       "Showdown": "Dome Fossil",
-      "pkeUranium": 23
+      "pk3": 358
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
-  "Silph Scope": {
+  "Old Amber": {
     "Indices": {
-      "pk3": 359,
-      "pkeUranium": 489
+      "pkeUranium": 24,
+      "Showdown": "Old Amber",
+      "pk3": 354
     },
-    "Exists in": ["pk3", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Root Fossil": {
+    "Indices": {
+      "pkeUranium": 25,
+      "Showdown": "Root Fossil",
+      "pk3": 286
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Claw Fossil": {
+    "Indices": {
+      "pkeUranium": 26,
+      "Showdown": "Claw Fossil",
+      "pk3": 287
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Armor Fossil": {
+    "Indices": {
+      "pkeUranium": 27,
+      "Showdown": "Armor Fossil"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Skull Fossil": {
+    "Indices": {
+      "pkeUranium": 28,
+      "Showdown": "Skull Fossil"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Tiny Mushroom": {
+    "Indices": {
+      "pkeUranium": 29,
+      "pk3": 103
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Big Mushroom": {
+    "Indices": {
+      "pkeUranium": 30,
+      "pk3": 104
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Pearl": {
+    "Indices": {
+      "pkeUranium": 31,
+      "pk3": 106
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Big Pearl": {
+    "Indices": {
+      "pkeUranium": 32,
+      "pk3": 107
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Stardust": {
+    "Indices": {
+      "pkeUranium": 33,
+      "pk3": 108
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Star Piece": {
+    "Indices": {
+      "pkeUranium": 34,
+      "pk3": 109
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Nugget": {
+    "Indices": {
+      "pkeUranium": 35,
+      "pk3": 110
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Heart Scale": {
+    "Indices": {
+      "pkeUranium": 36,
+      "pk3": 111
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Rare Bone": {
+    "Indices": {
+      "pkeUranium": 37,
+      "Showdown": "Rare Bone"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Shoal Salt": {
+    "Indices": {
+      "pkeUranium": 38,
+      "pk3": 46
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Shoal Shell": {
+    "Indices": {
+      "pkeUranium": 39,
+      "pk3": 47
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Odd Keystone": {
+    "Indices": {
+      "pkeUranium": 40
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Growth Mulch": {
+    "Indices": {
+      "pkeUranium": 41
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Damp Mulch": {
+    "Indices": {
+      "pkeUranium": 42
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Stable Mulch": {
+    "Indices": {
+      "pkeUranium": 43
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Gooey Mulch": {
+    "Indices": {
+      "pkeUranium": 44
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Red Apricorn": {
+    "Indices": {
+      "pkeUranium": 45
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Yellow Apricorn": {
+    "Indices": {
+      "pkeUranium": 46
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Blue Apricorn": {
+    "Indices": {
+      "pkeUranium": 47
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Green Apricorn": {
+    "Indices": {
+      "pkeUranium": 48
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Pink Apricorn": {
+    "Indices": {
+      "pkeUranium": 49
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "White Apricorn": {
+    "Indices": {
+      "pkeUranium": 50
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Black Apricorn": {
+    "Indices": {
+      "pkeUranium": 51
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Bright Powder": {
+    "Indices": {
+      "pkeUranium": 52,
+      "Showdown": "Bright Powder",
+      "pk3": 179
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "White Herb": {
+    "Indices": {
+      "pkeUranium": 53,
+      "Showdown": "White Herb",
+      "pk3": 180
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Exp. Share": {
+    "Indices": {
+      "pkeUranium": 54,
+      "pk3": 182
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Quick Claw": {
+    "Indices": {
+      "pkeUranium": 55,
+      "Showdown": "Quick Claw",
+      "pk3": 183
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Soothe Bell": {
+    "Indices": {
+      "pkeUranium": 56,
+      "pk3": 184
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Mental Herb": {
+    "Indices": {
+      "pkeUranium": 57,
+      "Showdown": "Mental Herb",
+      "pk3": 185
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "King's Rock": {
+    "Indices": {
+      "pkeUranium": 58,
+      "Showdown": "King's Rock",
+      "pk3": 187
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Silver Powder": {
+    "Indices": {
+      "pkeUranium": 59,
+      "Showdown": "Silver Powder",
+      "pk3": 188
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Amulet Coin": {
+    "Indices": {
+      "pkeUranium": 60,
+      "pk3": 189
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Cleanse Tag": {
+    "Indices": {
+      "pkeUranium": 61,
+      "pk3": 190
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Smoke Ball": {
+    "Indices": {
+      "pkeUranium": 62,
+      "pk3": 194
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Everstone": {
+    "Indices": {
+      "pkeUranium": 63,
+      "pk3": 195
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Focus Band": {
+    "Indices": {
+      "pkeUranium": 64,
+      "Showdown": "Focus Band",
+      "pk3": 196
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Lucky Egg": {
+    "Indices": {
+      "pkeUranium": 65,
+      "pk3": 197
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Scope Lens": {
+    "Indices": {
+      "pkeUranium": 66,
+      "Showdown": "Scope Lens",
+      "pk3": 198
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Wide Lens": {
+    "Indices": {
+      "pkeUranium": 67,
+      "Showdown": "Wide Lens"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Zoom Lens": {
+    "Indices": {
+      "pkeUranium": 68,
+      "Showdown": "Zoom Lens"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Metal Coat": {
+    "Indices": {
+      "pkeUranium": 69,
+      "Showdown": "Metal Coat",
+      "pk3": 199
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Leftovers": {
+    "Indices": {
+      "pkeUranium": 70,
+      "Showdown": "Leftovers",
+      "pk3": 200
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Dragon Scale": {
+    "Indices": {
+      "pkeUranium": 71,
+      "Showdown": "Dragon Scale",
+      "pk3": 201
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Shell Bell": {
+    "Indices": {
+      "pkeUranium": 72,
+      "Showdown": "Shell Bell",
+      "pk3": 219
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Muscle Band": {
+    "Indices": {
+      "pkeUranium": 73,
+      "Showdown": "Muscle Band"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Wise Glasses": {
+    "Indices": {
+      "pkeUranium": 74,
+      "Showdown": "Wise Glasses"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Expert Belt": {
+    "Indices": {
+      "pkeUranium": 75,
+      "Showdown": "Expert Belt"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Life Orb": {
+    "Indices": {
+      "pkeUranium": 76,
+      "Showdown": "Life Orb"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Power Herb": {
+    "Indices": {
+      "pkeUranium": 77,
+      "Showdown": "Power Herb"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Toxic Orb": {
+    "Indices": {
+      "pkeUranium": 78,
+      "Showdown": "Toxic Orb"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Flame Orb": {
+    "Indices": {
+      "pkeUranium": 79,
+      "Showdown": "Flame Orb"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Focus Sash": {
+    "Indices": {
+      "pkeUranium": 80,
+      "Showdown": "Focus Sash"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Metronome": {
+    "Indices": {
+      "pkeUranium": 81,
+      "Showdown": "Metronome"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Iron Ball": {
+    "Indices": {
+      "pkeUranium": 82,
+      "Showdown": "Iron Ball"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Lagging Tail": {
+    "Indices": {
+      "pkeUranium": 83,
+      "Showdown": "Lagging Tail"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Destiny Knot": {
+    "Indices": {
+      "pkeUranium": 84,
+      "Showdown": "Destiny Knot"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Black Sludge": {
+    "Indices": {
+      "pkeUranium": 85,
+      "Showdown": "Black Sludge"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Grip Claw": {
+    "Indices": {
+      "pkeUranium": 86,
+      "Showdown": "Grip Claw"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Sticky Barb": {
+    "Indices": {
+      "pkeUranium": 87,
+      "Showdown": "Sticky Barb"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Shed Shell": {
+    "Indices": {
+      "pkeUranium": 88,
+      "Showdown": "Shed Shell"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Big Root": {
+    "Indices": {
+      "pkeUranium": 89,
+      "Showdown": "Big Root"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Choice Band": {
+    "Indices": {
+      "pkeUranium": 90,
+      "Showdown": "Choice Band",
+      "pk3": 186
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Choice Specs": {
+    "Indices": {
+      "pkeUranium": 91,
+      "Showdown": "Choice Specs"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Choice Scarf": {
+    "Indices": {
+      "pkeUranium": 92,
+      "Showdown": "Choice Scarf"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Light Clay": {
+    "Indices": {
+      "pkeUranium": 93,
+      "Showdown": "Light Clay"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Icy Rock": {
+    "Indices": {
+      "pkeUranium": 94,
+      "Showdown": "Icy Rock"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Smooth Rock": {
+    "Indices": {
+      "pkeUranium": 95,
+      "Showdown": "Smooth Rock"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Heat Rock": {
+    "Indices": {
+      "pkeUranium": 96,
+      "Showdown": "Heat Rock"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Damp Rock": {
+    "Indices": {
+      "pkeUranium": 97,
+      "Showdown": "Damp Rock"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Macho Brace": {
+    "Indices": {
+      "pkeUranium": 98,
+      "Showdown": "Macho Brace",
+      "pk3": 181
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Power Bracer": {
+    "Indices": {
+      "pkeUranium": 99,
+      "Showdown": "Power Bracer"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Power Belt": {
+    "Indices": {
+      "pkeUranium": 100,
+      "Showdown": "Power Belt"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Power Lens": {
+    "Indices": {
+      "pkeUranium": 101,
+      "Showdown": "Power Lens"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Power Band": {
+    "Indices": {
+      "pkeUranium": 102,
+      "Showdown": "Power Band"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Power Anklet": {
+    "Indices": {
+      "pkeUranium": 103,
+      "Showdown": "Power Anklet"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Power Weight": {
+    "Indices": {
+      "pkeUranium": 104,
+      "Showdown": "Power Weight"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Sea Incense": {
+    "Indices": {
+      "pkeUranium": 105,
+      "Showdown": "Sea Incense",
+      "pk3": 220
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Lax Incense": {
+    "Indices": {
+      "pkeUranium": 106,
+      "Showdown": "Lax Incense",
+      "pk3": 221
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Odd Incense": {
+    "Indices": {
+      "pkeUranium": 107,
+      "Showdown": "Odd Incense"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Rock Incense": {
+    "Indices": {
+      "pkeUranium": 108,
+      "Showdown": "Rock Incense"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Full Incense": {
+    "Indices": {
+      "pkeUranium": 109,
+      "Showdown": "Full Incense"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Wave Incense": {
+    "Indices": {
+      "pkeUranium": 110,
+      "Showdown": "Wave Incense"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Rose Incense": {
+    "Indices": {
+      "pkeUranium": 111,
+      "Showdown": "Rose Incense"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Luck Incense": {
+    "Indices": {
+      "pkeUranium": 112
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Pure Incense": {
+    "Indices": {
+      "pkeUranium": 113
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Soft Sand": {
+    "Indices": {
+      "pkeUranium": 114,
+      "Showdown": "Soft Sand",
+      "pk3": 203
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Hard Stone": {
+    "Indices": {
+      "pkeUranium": 115,
+      "Showdown": "Hard Stone",
+      "pk3": 204
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Miracle Seed": {
+    "Indices": {
+      "pkeUranium": 116,
+      "Showdown": "Miracle Seed",
+      "pk3": 205
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Black Glasses": {
+    "Indices": {
+      "pkeUranium": 117,
+      "Showdown": "Black Glasses",
+      "pk3": 206
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Black Belt": {
+    "Indices": {
+      "pkeUranium": 118,
+      "Showdown": "Black Belt",
+      "pk3": 207
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Magnet": {
+    "Indices": {
+      "pkeUranium": 119,
+      "Showdown": "Magnet",
+      "pk3": 208
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Mystic Water": {
+    "Indices": {
+      "pkeUranium": 120,
+      "Showdown": "Mystic Water",
+      "pk3": 209
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Sharp Beak": {
+    "Indices": {
+      "pkeUranium": 121,
+      "Showdown": "Sharp Beak",
+      "pk3": 210
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Poison Barb": {
+    "Indices": {
+      "pkeUranium": 122,
+      "Showdown": "Poison Barb",
+      "pk3": 211
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Never-Melt Ice": {
+    "Indices": {
+      "pkeUranium": 123,
+      "Showdown": "Never-Melt Ice",
+      "pk3": 212
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Spell Tag": {
+    "Indices": {
+      "pkeUranium": 124,
+      "Showdown": "Spell Tag",
+      "pk3": 213
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Twisted Spoon": {
+    "Indices": {
+      "pkeUranium": 125,
+      "Showdown": "Twisted Spoon",
+      "pk3": 214
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Charcoal": {
+    "Indices": {
+      "pkeUranium": 126,
+      "Showdown": "Charcoal",
+      "pk3": 215
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Dragon Fang": {
+    "Indices": {
+      "pkeUranium": 127,
+      "Showdown": "Dragon Fang",
+      "pk3": 216
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Silk Scarf": {
+    "Indices": {
+      "pkeUranium": 128,
+      "Showdown": "Silk Scarf",
+      "pk3": 217
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Flame Plate": {
+    "Indices": {
+      "pkeUranium": 129,
+      "Showdown": "Flame Plate"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Splash Plate": {
+    "Indices": {
+      "pkeUranium": 130,
+      "Showdown": "Splash Plate"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Zap Plate": {
+    "Indices": {
+      "pkeUranium": 131,
+      "Showdown": "Zap Plate"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Meadow Plate": {
+    "Indices": {
+      "pkeUranium": 132,
+      "Showdown": "Meadow Plate"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Icicle Plate": {
+    "Indices": {
+      "pkeUranium": 133,
+      "Showdown": "Icicle Plate"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Fist Plate": {
+    "Indices": {
+      "pkeUranium": 134,
+      "Showdown": "Fist Plate"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Toxic Plate": {
+    "Indices": {
+      "pkeUranium": 135,
+      "Showdown": "Toxic Plate"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Earth Plate": {
+    "Indices": {
+      "pkeUranium": 136,
+      "Showdown": "Earth Plate"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Sky Plate": {
+    "Indices": {
+      "pkeUranium": 137,
+      "Showdown": "Sky Plate"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Mind Plate": {
+    "Indices": {
+      "pkeUranium": 138,
+      "Showdown": "Mind Plate"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Insect Plate": {
+    "Indices": {
+      "pkeUranium": 139,
+      "Showdown": "Insect Plate"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Stone Plate": {
+    "Indices": {
+      "pkeUranium": 140,
+      "Showdown": "Stone Plate"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Spooky Plate": {
+    "Indices": {
+      "pkeUranium": 141,
+      "Showdown": "Spooky Plate"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Draco Plate": {
+    "Indices": {
+      "pkeUranium": 142,
+      "Showdown": "Draco Plate"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Dread Plate": {
+    "Indices": {
+      "pkeUranium": 143,
+      "Showdown": "Dread Plate"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Iron Plate": {
+    "Indices": {
+      "pkeUranium": 144,
+      "Showdown": "Iron Plate"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Light Ball": {
+    "Indices": {
+      "pkeUranium": 145,
+      "Showdown": "Light Ball",
+      "pk3": 202
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Lucky Punch": {
+    "Indices": {
+      "pkeUranium": 146,
+      "Showdown": "Lucky Punch",
+      "pk3": 222
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Metal Powder": {
+    "Indices": {
+      "pkeUranium": 147,
+      "Showdown": "Metal Powder",
+      "pk3": 223
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Quick Powder": {
+    "Indices": {
+      "pkeUranium": 148,
+      "Showdown": "Quick Powder"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Thick Club": {
+    "Indices": {
+      "pkeUranium": 149,
+      "Showdown": "Thick Club",
+      "pk3": 224
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Leek": {
+    "Indices": {
+      "pkeUranium": 150,
+      "Showdown": "Leek",
+      "pk3": 225
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Soul Dew": {
+    "Indices": {
+      "pkeUranium": 151,
+      "Showdown": "Soul Dew",
+      "pk3": 191
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Deep Sea Tooth": {
+    "Indices": {
+      "pkeUranium": 152,
+      "Showdown": "Deep Sea Tooth",
+      "pk3": 192
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Deep Sea Scale": {
+    "Indices": {
+      "pkeUranium": 153,
+      "Showdown": "Deep Sea Scale",
+      "pk3": 193
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Adamant Orb": {
+    "Indices": {
+      "pkeUranium": 154,
+      "Showdown": "Adamant Orb"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Lustrous Orb": {
+    "Indices": {
+      "pkeUranium": 155,
+      "Showdown": "Lustrous Orb"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Griseous Orb": {
+    "Indices": {
+      "pkeUranium": 156,
+      "Showdown": "Griseous Orb"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Upgrade": {
+    "Indices": {
+      "pkeUranium": 157,
+      "pk3": 218
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Dubious Disc": {
+    "Indices": {
+      "pkeUranium": 158,
+      "Showdown": "Dubious Disc"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Protector": {
+    "Indices": {
+      "pkeUranium": 159,
+      "Showdown": "Protector"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Electirizer": {
+    "Indices": {
+      "pkeUranium": 160,
+      "Showdown": "Electirizer"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Magmarizer": {
+    "Indices": {
+      "pkeUranium": 161,
+      "Showdown": "Magmarizer"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Reaper Cloth": {
+    "Indices": {
+      "pkeUranium": 162,
+      "Showdown": "Reaper Cloth"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Razor Claw": {
+    "Indices": {
+      "pkeUranium": 163,
+      "Showdown": "Razor Claw"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Razor Fang": {
+    "Indices": {
+      "pkeUranium": 164,
+      "Showdown": "Razor Fang"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Red Scarf": {
+    "Indices": {
+      "pkeUranium": 165,
+      "pk3": 254
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Blue Scarf": {
+    "Indices": {
+      "pkeUranium": 166,
+      "pk3": 255
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Pink Scarf": {
+    "Indices": {
+      "pkeUranium": 167,
+      "pk3": 256
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Green Scarf": {
+    "Indices": {
+      "pkeUranium": 168,
+      "pk3": 257
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Yellow Scarf": {
+    "Indices": {
+      "pkeUranium": 169,
+      "pk3": 258
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Potion": {
+    "Indices": {
+      "pkeUranium": 170,
+      "pk3": 13
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Super Potion": {
+    "Indices": {
+      "pkeUranium": 171,
+      "pk3": 22
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Hyper Potion": {
+    "Indices": {
+      "pkeUranium": 172,
+      "pk3": 21
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Max Potion": {
+    "Indices": {
+      "pkeUranium": 173,
+      "pk3": 20
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Full Restore": {
+    "Indices": {
+      "pkeUranium": 174,
+      "pk3": 19
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Sacred Ash": {
+    "Indices": {
+      "pkeUranium": 175,
+      "pk3": 45
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Antidote": {
+    "Indices": {
+      "pkeUranium": 176,
+      "pk3": 14
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Burn Heal": {
+    "Indices": {
+      "pkeUranium": 177,
+      "pk3": 15
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Ice Heal": {
+    "Indices": {
+      "pkeUranium": 178,
+      "pk3": 16
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Awakening": {
+    "Indices": {
+      "pkeUranium": 179,
+      "pk3": 17
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Paralyze Heal": {
+    "Indices": {
+      "pkeUranium": 180,
+      "pk3": 18
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Full Heal": {
+    "Indices": {
+      "pkeUranium": 181,
+      "pk3": 23
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Lava Cookie": {
+    "Indices": {
+      "pkeUranium": 182,
+      "pk3": 38
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Old Gateau": {
+    "Indices": {
+      "pkeUranium": 183
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Revive": {
+    "Indices": {
+      "pkeUranium": 184,
+      "pk3": 24
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Max Revive": {
+    "Indices": {
+      "pkeUranium": 185,
+      "pk3": 25
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Berry Juice": {
+    "Indices": {
+      "pkeUranium": 186,
+      "Showdown": "Berry Juice",
+      "pk3": 44
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Fresh Water": {
+    "Indices": {
+      "pkeUranium": 187,
+      "pk3": 26
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Soda Pop": {
+    "Indices": {
+      "pkeUranium": 188,
+      "pk3": 27
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Lemonade": {
+    "Indices": {
+      "pkeUranium": 189,
+      "pk3": 28
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Moomoo Milk": {
+    "Indices": {
+      "pkeUranium": 190,
+      "pk3": 29
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Energy Powder": {
+    "Indices": {
+      "pkeUranium": 191,
+      "Showdown": "Energy Powder",
+      "pk3": 30
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Energy Root": {
+    "Indices": {
+      "pkeUranium": 192,
+      "pk3": 31
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Heal Powder": {
+    "Indices": {
+      "pkeUranium": 193,
+      "pk3": 32
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Revival Herb": {
+    "Indices": {
+      "pkeUranium": 194,
+      "pk3": 33
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Ether": {
+    "Indices": {
+      "pkeUranium": 195,
+      "pk3": 34
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Max Ether": {
+    "Indices": {
+      "pkeUranium": 196,
+      "pk3": 35
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Elixir": {
+    "Indices": {
+      "pkeUranium": 197,
+      "pk3": 36
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Max Elixir": {
+    "Indices": {
+      "pkeUranium": 198,
+      "pk3": 37
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "HP Up": {
+    "Indices": {
+      "pkeUranium": 199,
+      "pk3": 63
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Protein": {
+    "Indices": {
+      "pkeUranium": 200,
+      "pk3": 64
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Iron": {
+    "Indices": {
+      "pkeUranium": 201,
+      "pk3": 65
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Carbos": {
+    "Indices": {
+      "pkeUranium": 202,
+      "pk3": 66
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Calcium": {
+    "Indices": {
+      "pkeUranium": 203,
+      "pk3": 67
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Zinc": {
+    "Indices": {
+      "pkeUranium": 204,
+      "pk3": 70
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "PP Up": {
+    "Indices": {
+      "pkeUranium": 205,
+      "pk3": 69
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "PP Max": {
+    "Indices": {
+      "pkeUranium": 206,
+      "pk3": 71
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Rare Candy": {
+    "Indices": {
+      "pkeUranium": 207,
+      "pk3": 68
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Master Ball": {
+    "Indices": {
+      "pkeUranium": 208,
+      "Showdown": "Master Ball",
+      "main-series": 1
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Ultra Ball": {
+    "Indices": {
+      "pkeUranium": 209,
+      "Showdown": "Ultra Ball",
+      "main-series": 2
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Great Ball": {
+    "Indices": {
+      "pkeUranium": 210,
+      "Showdown": "Great Ball",
+      "main-series": 3
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Poké Ball": {
+    "Indices": {
+      "pkeUranium": 211,
+      "Showdown": "Poke Ball",
+      "main-series": 4
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Safari Ball": {
+    "Indices": {
+      "pkeUranium": 212,
+      "Showdown": "Safari Ball",
+      "main-series": 5
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Net Ball": {
+    "Indices": {
+      "pkeUranium": 213,
+      "Showdown": "Net Ball",
+      "main-series": 6
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Dive Ball": {
+    "Indices": {
+      "pkeUranium": 214,
+      "Showdown": "Dive Ball",
+      "main-series": 7
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Nest Ball": {
+    "Indices": {
+      "pkeUranium": 215,
+      "Showdown": "Nest Ball",
+      "main-series": 8
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Repeat Ball": {
+    "Indices": {
+      "pkeUranium": 216,
+      "Showdown": "Repeat Ball",
+      "main-series": 9
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Timer Ball": {
+    "Indices": {
+      "pkeUranium": 217,
+      "Showdown": "Timer Ball",
+      "main-series": 10
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Luxury Ball": {
+    "Indices": {
+      "pkeUranium": 218,
+      "Showdown": "Luxury Ball",
+      "main-series": 11
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Premier Ball": {
+    "Indices": {
+      "pkeUranium": 219,
+      "Showdown": "Premier Ball",
+      "main-series": 12
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Dusk Ball": {
+    "Indices": {
+      "pkeUranium": 220,
+      "Showdown": "Dusk Ball"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Heal Ball": {
+    "Indices": {
+      "pkeUranium": 221,
+      "Showdown": "Heal Ball"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Quick Ball": {
+    "Indices": {
+      "pkeUranium": 222,
+      "Showdown": "Quick Ball"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Cherish Ball": {
+    "Indices": {
+      "pkeUranium": 223,
+      "Showdown": "Cherish Ball"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Fast Ball": {
+    "Indices": {
+      "pkeUranium": 224,
+      "Showdown": "Fast Ball"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Level Ball": {
+    "Indices": {
+      "pkeUranium": 225,
+      "Showdown": "Level Ball"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Lure Ball": {
+    "Indices": {
+      "pkeUranium": 226,
+      "Showdown": "Lure Ball"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Heavy Ball": {
+    "Indices": {
+      "pkeUranium": 227,
+      "Showdown": "Heavy Ball"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Love Ball": {
+    "Indices": {
+      "pkeUranium": 228,
+      "Showdown": "Love Ball"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Friend Ball": {
+    "Indices": {
+      "pkeUranium": 229,
+      "Showdown": "Friend Ball"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Moon Ball": {
+    "Indices": {
+      "pkeUranium": 230,
+      "Showdown": "Moon Ball"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Sport Ball": {
+    "Indices": {
+      "pkeUranium": 231,
+      "Showdown": "Sport Ball"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Park Ball": {
+    "Indices": {
+      "pkeUranium": 232,
+      "Showdown": "Park Ball"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "TM01": {
+    "Indices": {
+      "pkeUranium": 233,
+      "pk3": 289
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM02": {
+    "Indices": {
+      "pkeUranium": 234,
+      "pk3": 290
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM03": {
+    "Indices": {
+      "pkeUranium": 235,
+      "pk3": 291
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM04": {
+    "Indices": {
+      "pkeUranium": 236,
+      "pk3": 292
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM05": {
+    "Indices": {
+      "pkeUranium": 237,
+      "pk3": 293
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM06": {
+    "Indices": {
+      "pkeUranium": 238,
+      "pk3": 294
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM07": {
+    "Indices": {
+      "pkeUranium": 239,
+      "pk3": 295
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM08": {
+    "Indices": {
+      "pkeUranium": 240,
+      "pk3": 296
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM09": {
+    "Indices": {
+      "pkeUranium": 241,
+      "pk3": 297
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM10": {
+    "Indices": {
+      "pkeUranium": 242,
+      "pk3": 298
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM11": {
+    "Indices": {
+      "pkeUranium": 243,
+      "pk3": 299
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM12": {
+    "Indices": {
+      "pkeUranium": 244,
+      "pk3": 300
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM13": {
+    "Indices": {
+      "pkeUranium": 245,
+      "pk3": 301
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM14": {
+    "Indices": {
+      "pkeUranium": 246,
+      "pk3": 302
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM15": {
+    "Indices": {
+      "pkeUranium": 247,
+      "pk3": 303
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM16": {
+    "Indices": {
+      "pkeUranium": 248,
+      "pk3": 304
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM17": {
+    "Indices": {
+      "pkeUranium": 249,
+      "pk3": 305
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM18": {
+    "Indices": {
+      "pkeUranium": 250,
+      "pk3": 306
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM19": {
+    "Indices": {
+      "pkeUranium": 251,
+      "pk3": 307
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM20": {
+    "Indices": {
+      "pkeUranium": 252,
+      "pk3": 308
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM21": {
+    "Indices": {
+      "pkeUranium": 253,
+      "pk3": 309
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM22": {
+    "Indices": {
+      "pkeUranium": 254,
+      "pk3": 310
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM23": {
+    "Indices": {
+      "pkeUranium": 255,
+      "pk3": 311
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM24": {
+    "Indices": {
+      "pkeUranium": 256,
+      "pk3": 312
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM25": {
+    "Indices": {
+      "pkeUranium": 257,
+      "pk3": 313
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM26": {
+    "Indices": {
+      "pkeUranium": 258,
+      "pk3": 314
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM27": {
+    "Indices": {
+      "pkeUranium": 259,
+      "pk3": 315
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM28": {
+    "Indices": {
+      "pkeUranium": 260,
+      "pk3": 316
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM29": {
+    "Indices": {
+      "pkeUranium": 261,
+      "pk3": 317
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM30": {
+    "Indices": {
+      "pkeUranium": 262,
+      "pk3": 318
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM31": {
+    "Indices": {
+      "pkeUranium": 263,
+      "pk3": 319
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM32": {
+    "Indices": {
+      "pkeUranium": 264,
+      "pk3": 320
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM33": {
+    "Indices": {
+      "pkeUranium": 265,
+      "pk3": 321
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM34": {
+    "Indices": {
+      "pkeUranium": 266,
+      "pk3": 322
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM35": {
+    "Indices": {
+      "pkeUranium": 267,
+      "pk3": 323
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM36": {
+    "Indices": {
+      "pkeUranium": 268,
+      "pk3": 324
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM37": {
+    "Indices": {
+      "pkeUranium": 269,
+      "pk3": 325
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM38": {
+    "Indices": {
+      "pkeUranium": 270,
+      "pk3": 326
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM39": {
+    "Indices": {
+      "pkeUranium": 271,
+      "pk3": 327
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM40": {
+    "Indices": {
+      "pkeUranium": 272,
+      "pk3": 328
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM41": {
+    "Indices": {
+      "pkeUranium": 273,
+      "pk3": 329
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM42": {
+    "Indices": {
+      "pkeUranium": 274,
+      "pk3": 330
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM43": {
+    "Indices": {
+      "pkeUranium": 275,
+      "pk3": 331
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM44": {
+    "Indices": {
+      "pkeUranium": 276,
+      "pk3": 332
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM45": {
+    "Indices": {
+      "pkeUranium": 277,
+      "pk3": 333
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM46": {
+    "Indices": {
+      "pkeUranium": 278,
+      "pk3": 334
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM47": {
+    "Indices": {
+      "pkeUranium": 279,
+      "pk3": 335
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM48": {
+    "Indices": {
+      "pkeUranium": 280,
+      "pk3": 336
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM49": {
+    "Indices": {
+      "pkeUranium": 281,
+      "pk3": 337
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM50": {
+    "Indices": {
+      "pkeUranium": 282,
+      "pk3": 338
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM51": {
+    "Indices": {
+      "pkeUranium": 283
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM52": {
+    "Indices": {
+      "pkeUranium": 284
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM53": {
+    "Indices": {
+      "pkeUranium": 285
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM54": {
+    "Indices": {
+      "pkeUranium": 286
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM55": {
+    "Indices": {
+      "pkeUranium": 287
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM56": {
+    "Indices": {
+      "pkeUranium": 288
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM57": {
+    "Indices": {
+      "pkeUranium": 289
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM58": {
+    "Indices": {
+      "pkeUranium": 290
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM59": {
+    "Indices": {
+      "pkeUranium": 291
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM60": {
+    "Indices": {
+      "pkeUranium": 292
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM61": {
+    "Indices": {
+      "pkeUranium": 293
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM62": {
+    "Indices": {
+      "pkeUranium": 294
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM63": {
+    "Indices": {
+      "pkeUranium": 295
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM64": {
+    "Indices": {
+      "pkeUranium": 296
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM65": {
+    "Indices": {
+      "pkeUranium": 297
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM66": {
+    "Indices": {
+      "pkeUranium": 298
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM67": {
+    "Indices": {
+      "pkeUranium": 299
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM68": {
+    "Indices": {
+      "pkeUranium": 300
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM69": {
+    "Indices": {
+      "pkeUranium": 301
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM70": {
+    "Indices": {
+      "pkeUranium": 302
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM71": {
+    "Indices": {
+      "pkeUranium": 303
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM72": {
+    "Indices": {
+      "pkeUranium": 304
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM73": {
+    "Indices": {
+      "pkeUranium": 305
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM74": {
+    "Indices": {
+      "pkeUranium": 306
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM75": {
+    "Indices": {
+      "pkeUranium": 307
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM76": {
+    "Indices": {
+      "pkeUranium": 308
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM77": {
+    "Indices": {
+      "pkeUranium": 309
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM78": {
+    "Indices": {
+      "pkeUranium": 310
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM79": {
+    "Indices": {
+      "pkeUranium": 311
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM80": {
+    "Indices": {
+      "pkeUranium": 312
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM81": {
+    "Indices": {
+      "pkeUranium": 313
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM82": {
+    "Indices": {
+      "pkeUranium": 314
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM83": {
+    "Indices": {
+      "pkeUranium": 315
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM84": {
+    "Indices": {
+      "pkeUranium": 316
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM85": {
+    "Indices": {
+      "pkeUranium": 317
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM86": {
+    "Indices": {
+      "pkeUranium": 318
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM87": {
+    "Indices": {
+      "pkeUranium": 319
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM88": {
+    "Indices": {
+      "pkeUranium": 320
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM89": {
+    "Indices": {
+      "pkeUranium": 321
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM90": {
+    "Indices": {
+      "pkeUranium": 322
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM91": {
+    "Indices": {
+      "pkeUranium": 323
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM92": {
+    "Indices": {
+      "pkeUranium": 324
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "HM01": {
+    "Indices": {
+      "pkeUranium": 325,
+      "pk3": 339
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "HM02": {
+    "Indices": {
+      "pkeUranium": 326,
+      "pk3": 340
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "HM03": {
+    "Indices": {
+      "pkeUranium": 327,
+      "pk3": 341
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "HM04": {
+    "Indices": {
+      "pkeUranium": 328,
+      "pk3": 342
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "HM05": {
+    "Indices": {
+      "pkeUranium": 329,
+      "pk3": 343
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "HM06": {
+    "Indices": {
+      "pkeUranium": 330,
+      "pk3": 344
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "HM07": {
+    "Indices": {
+      "pkeUranium": 331,
+      "pk3": 345
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "HM08": {
+    "Indices": {
+      "pkeUranium": 332,
+      "pk3": 346
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Cheri Berry": {
+    "Indices": {
+      "pkeUranium": 333,
+      "Showdown": "Cheri Berry",
+      "pk3": 133
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Chesto Berry": {
+    "Indices": {
+      "pkeUranium": 334,
+      "Showdown": "Chesto Berry",
+      "pk3": 134
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Pecha Berry": {
+    "Indices": {
+      "pkeUranium": 335,
+      "Showdown": "Pecha Berry",
+      "pk3": 135
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Rawst Berry": {
+    "Indices": {
+      "pkeUranium": 336,
+      "Showdown": "Rawst Berry",
+      "pk3": 136
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Aspear Berry": {
+    "Indices": {
+      "pkeUranium": 337,
+      "Showdown": "Aspear Berry",
+      "pk3": 137
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Leppa Berry": {
+    "Indices": {
+      "pkeUranium": 338,
+      "Showdown": "Leppa Berry",
+      "pk3": 138
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Oran Berry": {
+    "Indices": {
+      "pkeUranium": 339,
+      "Showdown": "Oran Berry",
+      "pk3": 139
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Persim Berry": {
+    "Indices": {
+      "pkeUranium": 340,
+      "Showdown": "Persim Berry",
+      "pk3": 140
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Lum Berry": {
+    "Indices": {
+      "pkeUranium": 341,
+      "Showdown": "Lum Berry",
+      "pk3": 141
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Sitrus Berry": {
+    "Indices": {
+      "pkeUranium": 342,
+      "Showdown": "Sitrus Berry",
+      "pk3": 142
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Figy Berry": {
+    "Indices": {
+      "pkeUranium": 343,
+      "Showdown": "Figy Berry",
+      "pk3": 143
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Wiki Berry": {
+    "Indices": {
+      "pkeUranium": 344,
+      "Showdown": "Wiki Berry",
+      "pk3": 144
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Mago Berry": {
+    "Indices": {
+      "pkeUranium": 345,
+      "Showdown": "Mago Berry",
+      "pk3": 145
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Aguav Berry": {
+    "Indices": {
+      "pkeUranium": 346,
+      "Showdown": "Aguav Berry",
+      "pk3": 146
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Iapapa Berry": {
+    "Indices": {
+      "pkeUranium": 347,
+      "Showdown": "Iapapa Berry",
+      "pk3": 147
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Razz Berry": {
+    "Indices": {
+      "pkeUranium": 348,
+      "Showdown": "Razz Berry",
+      "pk3": 148
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Bluk Berry": {
+    "Indices": {
+      "pkeUranium": 349,
+      "Showdown": "Bluk Berry",
+      "pk3": 149
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Nanab Berry": {
+    "Indices": {
+      "pkeUranium": 350,
+      "Showdown": "Nanab Berry",
+      "pk3": 150
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Wepear Berry": {
+    "Indices": {
+      "pkeUranium": 351,
+      "Showdown": "Wepear Berry",
+      "pk3": 151
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Pinap Berry": {
+    "Indices": {
+      "pkeUranium": 352,
+      "Showdown": "Pinap Berry",
+      "pk3": 152
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Pomeg Berry": {
+    "Indices": {
+      "pkeUranium": 353,
+      "Showdown": "Pomeg Berry",
+      "pk3": 153
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Kelpsy Berry": {
+    "Indices": {
+      "pkeUranium": 354,
+      "Showdown": "Kelpsy Berry",
+      "pk3": 154
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Qualot Berry": {
+    "Indices": {
+      "pkeUranium": 355,
+      "Showdown": "Qualot Berry",
+      "pk3": 155
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Hondew Berry": {
+    "Indices": {
+      "pkeUranium": 356,
+      "Showdown": "Hondew Berry",
+      "pk3": 156
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Grepa Berry": {
+    "Indices": {
+      "pkeUranium": 357,
+      "Showdown": "Grepa Berry",
+      "pk3": 157
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Tamato Berry": {
+    "Indices": {
+      "pkeUranium": 358,
+      "Showdown": "Tamato Berry",
+      "pk3": 158
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Cornn Berry": {
+    "Indices": {
+      "pkeUranium": 359,
+      "Showdown": "Cornn Berry",
+      "pk3": 159
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Magost Berry": {
+    "Indices": {
+      "pkeUranium": 360,
+      "Showdown": "Magost Berry",
+      "pk3": 160
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Rabuta Berry": {
+    "Indices": {
+      "pkeUranium": 361,
+      "Showdown": "Rabuta Berry",
+      "pk3": 161
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Nomel Berry": {
+    "Indices": {
+      "pkeUranium": 362,
+      "Showdown": "Nomel Berry",
+      "pk3": 162
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Spelon Berry": {
+    "Indices": {
+      "pkeUranium": 363,
+      "Showdown": "Spelon Berry",
+      "pk3": 163
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Pamtre Berry": {
+    "Indices": {
+      "pkeUranium": 364,
+      "Showdown": "Pamtre Berry",
+      "pk3": 164
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Watmel Berry": {
+    "Indices": {
+      "pkeUranium": 365,
+      "Showdown": "Watmel Berry",
+      "pk3": 165
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Durin Berry": {
+    "Indices": {
+      "pkeUranium": 366,
+      "Showdown": "Durin Berry",
+      "pk3": 166
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Belue Berry": {
+    "Indices": {
+      "pkeUranium": 367,
+      "Showdown": "Belue Berry",
+      "pk3": 167
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Occa Berry": {
+    "Indices": {
+      "pkeUranium": 368,
+      "Showdown": "Occa Berry"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Passho Berry": {
+    "Indices": {
+      "pkeUranium": 369,
+      "Showdown": "Passho Berry"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Wacan Berry": {
+    "Indices": {
+      "pkeUranium": 370,
+      "Showdown": "Wacan Berry"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Rindo Berry": {
+    "Indices": {
+      "pkeUranium": 371,
+      "Showdown": "Rindo Berry"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Yache Berry": {
+    "Indices": {
+      "pkeUranium": 372,
+      "Showdown": "Yache Berry"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Chople Berry": {
+    "Indices": {
+      "pkeUranium": 373,
+      "Showdown": "Chople Berry"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Kebia Berry": {
+    "Indices": {
+      "pkeUranium": 374,
+      "Showdown": "Kebia Berry"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Shuca Berry": {
+    "Indices": {
+      "pkeUranium": 375,
+      "Showdown": "Shuca Berry"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Coba Berry": {
+    "Indices": {
+      "pkeUranium": 376,
+      "Showdown": "Coba Berry"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Payapa Berry": {
+    "Indices": {
+      "pkeUranium": 377,
+      "Showdown": "Payapa Berry"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Tanga Berry": {
+    "Indices": {
+      "pkeUranium": 378,
+      "Showdown": "Tanga Berry"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Charti Berry": {
+    "Indices": {
+      "pkeUranium": 379,
+      "Showdown": "Charti Berry"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Kasib Berry": {
+    "Indices": {
+      "pkeUranium": 380,
+      "Showdown": "Kasib Berry"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Haban Berry": {
+    "Indices": {
+      "pkeUranium": 381,
+      "Showdown": "Haban Berry"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Colbur Berry": {
+    "Indices": {
+      "pkeUranium": 382,
+      "Showdown": "Colbur Berry"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Babiri Berry": {
+    "Indices": {
+      "pkeUranium": 383,
+      "Showdown": "Babiri Berry"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Chilan Berry": {
+    "Indices": {
+      "pkeUranium": 384,
+      "Showdown": "Chilan Berry"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Liechi Berry": {
+    "Indices": {
+      "pkeUranium": 385,
+      "Showdown": "Liechi Berry",
+      "pk3": 168
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Ganlon Berry": {
+    "Indices": {
+      "pkeUranium": 386,
+      "Showdown": "Ganlon Berry",
+      "pk3": 169
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Salac Berry": {
+    "Indices": {
+      "pkeUranium": 387,
+      "Showdown": "Salac Berry",
+      "pk3": 170
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Petaya Berry": {
+    "Indices": {
+      "pkeUranium": 388,
+      "Showdown": "Petaya Berry",
+      "pk3": 171
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Apicot Berry": {
+    "Indices": {
+      "pkeUranium": 389,
+      "Showdown": "Apicot Berry",
+      "pk3": 172
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Lansat Berry": {
+    "Indices": {
+      "pkeUranium": 390,
+      "Showdown": "Lansat Berry",
+      "pk3": 173
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Starf Berry": {
+    "Indices": {
+      "pkeUranium": 391,
+      "Showdown": "Starf Berry",
+      "pk3": 174
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Enigma Berry": {
+    "Indices": {
+      "pkeUranium": 392,
+      "Showdown": "Enigma Berry",
+      "pk3": 175
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Micle Berry": {
+    "Indices": {
+      "pkeUranium": 393,
+      "Showdown": "Micle Berry"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Custap Berry": {
+    "Indices": {
+      "pkeUranium": 394,
+      "Showdown": "Custap Berry"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Jaboca Berry": {
+    "Indices": {
+      "pkeUranium": 395,
+      "Showdown": "Jaboca Berry"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Rowap Berry": {
+    "Indices": {
+      "pkeUranium": 396,
+      "Showdown": "Rowap Berry"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Orange Mail": {
+    "Indices": {
+      "pkeUranium": 397,
+      "pk3": 121
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Harbor Mail": {
+    "Indices": {
+      "pkeUranium": 398,
+      "pk3": 122
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Glitter Mail": {
+    "Indices": {
+      "pkeUranium": 399,
+      "pk3": 123
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Mech Mail": {
+    "Indices": {
+      "pkeUranium": 400,
+      "pk3": 124
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Wood Mail": {
+    "Indices": {
+      "pkeUranium": 401,
+      "pk3": 125
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Wave Mail": {
+    "Indices": {
+      "pkeUranium": 402,
+      "pk3": 126
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Bead Mail": {
+    "Indices": {
+      "pkeUranium": 403,
+      "pk3": 127
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Shadow Mail": {
+    "Indices": {
+      "pkeUranium": 404,
+      "pk3": 128
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Tropic Mail": {
+    "Indices": {
+      "pkeUranium": 405,
+      "pk3": 129
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Dream Mail": {
+    "Indices": {
+      "pkeUranium": 406,
+      "pk3": 130
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Fab Mail": {
+    "Indices": {
+      "pkeUranium": 407,
+      "pk3": 131
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Retro Mail": {
+    "Indices": {
+      "pkeUranium": 408,
+      "pk3": 132
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "X Attack": {
+    "Indices": {
+      "pkeUranium": 409,
+      "pk3": 75
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "X Defense": {
+    "Indices": {
+      "pkeUranium": 410,
+      "pk3": 76
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "X Sp. Atk": {
+    "Indices": {
+      "pkeUranium": 411,
+      "pk3": 79
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "X Sp. Def": {
+    "Indices": {
+      "pkeUranium": 412
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "X Speed": {
+    "Indices": {
+      "pkeUranium": 413,
+      "pk3": 77
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "X Accuracy": {
+    "Indices": {
+      "pkeUranium": 414,
+      "pk3": 78
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Dire Hit": {
+    "Indices": {
+      "pkeUranium": 415,
+      "pk3": 74
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Guard Spec.": {
+    "Indices": {
+      "pkeUranium": 416,
+      "pk3": 73
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Poké Doll": {
+    "Indices": {
+      "pkeUranium": 417,
+      "pk3": 80
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Fluffy Tail": {
+    "Indices": {
+      "pkeUranium": 418,
+      "pk3": 81
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Blue Flute": {
+    "Indices": {
+      "pkeUranium": 419,
+      "pk3": 39
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Yellow Flute": {
+    "Indices": {
+      "pkeUranium": 420,
+      "pk3": 40
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Red Flute": {
+    "Indices": {
+      "pkeUranium": 421,
+      "pk3": 41
+    },
+    "Exists in": ["pkeUranium", "pk3"]
   },
   "Bicycle": {
     "Indices": {
-      "pk3": 360,
-      "pkeUranium": 422
+      "pkeUranium": 422,
+      "pk3": 360
     },
-    "Exists in": ["pk3", "pkeUranium"]
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Old Rod": {
+    "Indices": {
+      "pkeUranium": 423,
+      "pk3": 262
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Good Rod": {
+    "Indices": {
+      "pkeUranium": 424,
+      "pk3": 263
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Super Rod": {
+    "Indices": {
+      "pkeUranium": 425,
+      "pk3": 264
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Dowsing Machine": {
+    "Indices": {
+      "pkeUranium": 426,
+      "pk3": 261
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "TM96": {
+    "Indices": {
+      "pkeUranium": 427
+    },
+    "Exists in": ["pkeUranium"]
   },
   "Town Map": {
     "Indices": {
-      "pk3": 361,
-      "pkeUranium": 428
+      "pkeUranium": 428,
+      "pk3": 361
     },
-    "Exists in": ["pk3", "pkeUranium"]
+    "Exists in": ["pkeUranium", "pk3"]
   },
-  "VS Seeker": {
+  "Coin Case": {
     "Indices": {
-      "pk3": 362
+      "pkeUranium": 429,
+      "pk3": 260
     },
-    "Exists in": ["pk3"]
+    "Exists in": ["pkeUranium", "pk3"]
   },
-  "Fame Checker": {
+  "Gracidea": {
     "Indices": {
-      "pk3": 363
+      "pkeUranium": 430
     },
-    "Exists in": ["pk3"]
+    "Exists in": ["pkeUranium"]
   },
-  "TM Case": {
+  "Soot Sack": {
     "Indices": {
-      "pk3": 364
+      "pkeUranium": 431,
+      "pk3": 270
     },
-    "Exists in": ["pk3"]
+    "Exists in": ["pkeUranium", "pk3"]
   },
-  "Berry Pouch": {
+  "Explorer Kit": {
     "Indices": {
-      "pk3": 365
+      "pkeUranium": 432
     },
-    "Exists in": ["pk3"]
+    "Exists in": ["pkeUranium"]
   },
-  "Teachy TV": {
+  "Loot Sack": {
     "Indices": {
-      "pk3": 366
+      "pkeUranium": 433
     },
-    "Exists in": ["pk3"]
+    "Exists in": ["pkeUranium"]
   },
-  "Tri-Pass": {
+  "Rule Book": {
     "Indices": {
-      "pk3": 367
+      "pkeUranium": 434
     },
-    "Exists in": ["pk3"]
+    "Exists in": ["pkeUranium"]
   },
-  "Rainbow Pass": {
+  "Point Card": {
     "Indices": {
-      "pk3": 368
+      "pkeUranium": 435
     },
-    "Exists in": ["pk3"]
+    "Exists in": ["pkeUranium"]
   },
-  "Tea": {
+  "Journal": {
     "Indices": {
-      "pk3": 369
+      "pkeUranium": 436
     },
-    "Exists in": ["pk3"]
+    "Exists in": ["pkeUranium"]
   },
-  "Mystic Ticket": {
+  "Seal Case": {
     "Indices": {
-      "pk3": 370
+      "pkeUranium": 437
     },
-    "Exists in": ["pk3"]
+    "Exists in": ["pkeUranium"]
   },
-  "Aurora Ticket": {
+  "Fashion Case": {
     "Indices": {
-      "pk3": 371
+      "pkeUranium": 438
     },
-    "Exists in": ["pk3"]
+    "Exists in": ["pkeUranium"]
   },
-  "Powder Jar": {
+  "Seal Bag": {
     "Indices": {
-      "pk3": 372
+      "pkeUranium": 439
     },
-    "Exists in": ["pk3"]
+    "Exists in": ["pkeUranium"]
   },
-  "Ruby": {
+  "Pal Pad": {
     "Indices": {
-      "pk3": 373
+      "pkeUranium": 440
     },
-    "Exists in": ["pk3"]
+    "Exists in": ["pkeUranium"]
   },
-  "Sapphire": {
+  "Works Key": {
     "Indices": {
-      "pk3": 374
+      "pkeUranium": 441
     },
-    "Exists in": ["pk3"]
+    "Exists in": ["pkeUranium"]
   },
-  "Magma Emblem": {
+  "Old Charm": {
     "Indices": {
-      "pk3": 375
+      "pkeUranium": 442
     },
-    "Exists in": ["pk3"]
+    "Exists in": ["pkeUranium"]
   },
-  "Old Sea Map": {
+  "Galactic Key": {
     "Indices": {
-      "pk3": 376
+      "pkeUranium": 443
     },
-    "Exists in": ["pk3"]
+    "Exists in": ["pkeUranium"]
+  },
+  "Red Chain": {
+    "Indices": {
+      "pkeUranium": 444
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Sprayduck": {
+    "Indices": {
+      "pkeUranium": 445
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Poffin Case": {
+    "Indices": {
+      "pkeUranium": 446
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Suite Key": {
+    "Indices": {
+      "pkeUranium": 447
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Oak's Letter": {
+    "Indices": {
+      "pkeUranium": 448
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Lunar Wing": {
+    "Indices": {
+      "pkeUranium": 449
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Member Card": {
+    "Indices": {
+      "pkeUranium": 450
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Azure Flute": {
+    "Indices": {
+      "pkeUranium": 451
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "BB Ferry Ticket": {
+    "Indices": {
+      "pkeUranium": 452
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Contest Pass": {
+    "Indices": {
+      "pkeUranium": 453,
+      "pk3": 266
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Magma Stone": {
+    "Indices": {
+      "pkeUranium": 454
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Parcel": {
+    "Indices": {
+      "pkeUranium": 455
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Coupon 1": {
+    "Indices": {
+      "pkeUranium": 456
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Coupon 2": {
+    "Indices": {
+      "pkeUranium": 457
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Coupon 3": {
+    "Indices": {
+      "pkeUranium": 458
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Storage Key": {
+    "Indices": {
+      "pkeUranium": 459,
+      "pk3": 285
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Secret Potion": {
+    "Indices": {
+      "pkeUranium": 460
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Vs. Seeker": {
+    "Indices": {
+      "pkeUranium": 461
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Vs. Recorder": {
+    "Indices": {
+      "pkeUranium": 462
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Secret Key": {
+    "Indices": {
+      "pkeUranium": 463,
+      "pk3": 351
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Apricorn Box": {
+    "Indices": {
+      "pkeUranium": 464
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Unown Report": {
+    "Indices": {
+      "pkeUranium": 465
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Berry Pots": {
+    "Indices": {
+      "pkeUranium": 466
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Blue Card": {
+    "Indices": {
+      "pkeUranium": 467
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Slowpoke Tail": {
+    "Indices": {
+      "pkeUranium": 468
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Clear Bell": {
+    "Indices": {
+      "pkeUranium": 469
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Card Key": {
+    "Indices": {
+      "pkeUranium": 470,
+      "pk3": 355
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Basement Key": {
+    "Indices": {
+      "pkeUranium": 471,
+      "pk3": 271
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Squirtbottle": {
+    "Indices": {
+      "pkeUranium": 472
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Red Scale": {
+    "Indices": {
+      "pkeUranium": 473
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Lost Item": {
+    "Indices": {
+      "pkeUranium": 474
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Pass": {
+    "Indices": {
+      "pkeUranium": 475
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Machine Part": {
+    "Indices": {
+      "pkeUranium": 476
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Silver Wing": {
+    "Indices": {
+      "pkeUranium": 477
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Rainbow Wing": {
+    "Indices": {
+      "pkeUranium": 478
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Mystery Egg": {
+    "Indices": {
+      "pkeUranium": 479
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Photo Album": {
+    "Indices": {
+      "pkeUranium": 480
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "GB Sounds": {
+    "Indices": {
+      "pkeUranium": 481
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Tidal Bell": {
+    "Indices": {
+      "pkeUranium": 482
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Rage Candy Bar": {
+    "Indices": {
+      "pkeUranium": 483
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Jade Orb": {
+    "Indices": {
+      "pkeUranium": 484
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Lock Capsule": {
+    "Indices": {
+      "pkeUranium": 485
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Red Orb": {
+    "Indices": {
+      "pkeUranium": 486,
+      "Showdown": "Red Orb",
+      "pk3": 276
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Blue Orb": {
+    "Indices": {
+      "pkeUranium": 487,
+      "Showdown": "Blue Orb",
+      "pk3": 277
+    },
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
+  },
+  "Enigma Stone": {
+    "Indices": {
+      "pkeUranium": 488
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Silph Scope": {
+    "Indices": {
+      "pkeUranium": 489,
+      "pk3": 359
+    },
+    "Exists in": ["pkeUranium", "pk3"]
+  },
+  "Lab Key": {
+    "Indices": {
+      "pkeUranium": 490
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Poké Radar": {
+    "Indices": {
+      "pkeUranium": 491
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Sticker Case": {
+    "Indices": {
+      "pkeUranium": 492
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Atom Ball": {
+    "Indices": {
+      "pkeUranium": 493
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "T.U.R Ticket": {
+    "Indices": {
+      "pkeUranium": 494
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Pokémon Speech Translator": {
+    "Indices": {
+      "pkeUranium": 495
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Coconut Milk": {
+    "Indices": {
+      "pkeUranium": 496
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Jungle's Crown": {
+    "Indices": {
+      "pkeUranium": 497
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Royal Jelly": {
+    "Indices": {
+      "pkeUranium": 498
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Bug Spray": {
+    "Indices": {
+      "pkeUranium": 499
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Acai Berry": {
+    "Indices": {
+      "pkeUranium": 500
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Bacu Berry": {
+    "Indices": {
+      "pkeUranium": 501
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Cupu Berry": {
+    "Indices": {
+      "pkeUranium": 502
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Guara Berry": {
+    "Indices": {
+      "pkeUranium": 503
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Hair Fossil": {
+    "Indices": {
+      "pkeUranium": 504
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Tusk Fossil": {
+    "Indices": {
+      "pkeUranium": 505
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Moss Shard": {
+    "Indices": {
+      "pkeUranium": 506
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Ice Shard": {
+    "Indices": {
+      "pkeUranium": 507
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Pretty Ribbon": {
+    "Indices": {
+      "pkeUranium": 508
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Mega Bracelet": {
+    "Indices": {
+      "pkeUranium": 509
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Metalynxite": {
+    "Indices": {
+      "pkeUranium": 510
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Archillesite": {
+    "Indices": {
+      "pkeUranium": 511
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Electruxolite": {
+    "Indices": {
+      "pkeUranium": 512
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Gyaradosite": {
+    "Indices": {
+      "pkeUranium": 513,
+      "Showdown": "Gyaradosite"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Ampharosite": {
+    "Indices": {
+      "pkeUranium": 514,
+      "Showdown": "Ampharosite"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Baariettite": {
+    "Indices": {
+      "pkeUranium": 515
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Drilgannite": {
+    "Indices": {
+      "pkeUranium": 516
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Sableyeite": {
+    "Indices": {
+      "pkeUranium": 517
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Inflagetite": {
+    "Indices": {
+      "pkeUranium": 518
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Dramsamaite": {
+    "Indices": {
+      "pkeUranium": 519
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Daikatunite": {
+    "Indices": {
+      "pkeUranium": 520
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM93": {
+    "Indices": {
+      "pkeUranium": 521
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM94": {
+    "Indices": {
+      "pkeUranium": 522
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Bike Wheel": {
+    "Indices": {
+      "pkeUranium": 523
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Carrot Wine": {
+    "Indices": {
+      "pkeUranium": 524
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Secret Note": {
+    "Indices": {
+      "pkeUranium": 525
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Syrentideite": {
+    "Indices": {
+      "pkeUranium": 526
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Unidentified Fallen Object": {
+    "Indices": {
+      "pkeUranium": 527
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM95": {
+    "Indices": {
+      "pkeUranium": 528
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Boxing Gloves": {
+    "Indices": {
+      "pkeUranium": 529
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Eviolite": {
+    "Indices": {
+      "pkeUranium": 530,
+      "Showdown": "Eviolite"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Fire Gem": {
+    "Indices": {
+      "pkeUranium": 531,
+      "Showdown": "Fire Gem"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Water Gem": {
+    "Indices": {
+      "pkeUranium": 532,
+      "Showdown": "Water Gem"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Electric Gem": {
+    "Indices": {
+      "pkeUranium": 533,
+      "Showdown": "Electric Gem"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Grass Gem": {
+    "Indices": {
+      "pkeUranium": 534,
+      "Showdown": "Grass Gem"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Ice Gem": {
+    "Indices": {
+      "pkeUranium": 535,
+      "Showdown": "Ice Gem"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Fighting Gem": {
+    "Indices": {
+      "pkeUranium": 536,
+      "Showdown": "Fighting Gem"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Poison Gem": {
+    "Indices": {
+      "pkeUranium": 537,
+      "Showdown": "Poison Gem"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Ground Gem": {
+    "Indices": {
+      "pkeUranium": 538,
+      "Showdown": "Ground Gem"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Flying Gem": {
+    "Indices": {
+      "pkeUranium": 539,
+      "Showdown": "Flying Gem"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Psychic Gem": {
+    "Indices": {
+      "pkeUranium": 540,
+      "Showdown": "Psychic Gem"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Bug Gem": {
+    "Indices": {
+      "pkeUranium": 541,
+      "Showdown": "Bug Gem"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Rock Gem": {
+    "Indices": {
+      "pkeUranium": 542,
+      "Showdown": "Rock Gem"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Ghost Gem": {
+    "Indices": {
+      "pkeUranium": 543,
+      "Showdown": "Ghost Gem"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Dragon Gem": {
+    "Indices": {
+      "pkeUranium": 544,
+      "Showdown": "Dragon Gem"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Dark Gem": {
+    "Indices": {
+      "pkeUranium": 545,
+      "Showdown": "Dark Gem"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Steel Gem": {
+    "Indices": {
+      "pkeUranium": 546,
+      "Showdown": "Steel Gem"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Normal Gem": {
+    "Indices": {
+      "pkeUranium": 547,
+      "Showdown": "Normal Gem"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Whimsicottite": {
+    "Indices": {
+      "pkeUranium": 548
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Arbokite": {
+    "Indices": {
+      "pkeUranium": 549
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Yoshitaka's Letter": {
+    "Indices": {
+      "pkeUranium": 550
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Rocky Helmet": {
+    "Indices": {
+      "pkeUranium": 551,
+      "Showdown": "Rocky Helmet"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Eject Button": {
+    "Indices": {
+      "pkeUranium": 552,
+      "Showdown": "Eject Button"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Red Card": {
+    "Indices": {
+      "pkeUranium": 553,
+      "Showdown": "Red Card"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Float Stone": {
+    "Indices": {
+      "pkeUranium": 554,
+      "Showdown": "Float Stone"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Binding Band": {
+    "Indices": {
+      "pkeUranium": 555,
+      "Showdown": "Binding Band"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Absorb Bulb": {
+    "Indices": {
+      "pkeUranium": 556,
+      "Showdown": "Absorb Bulb"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Cell Battery": {
+    "Indices": {
+      "pkeUranium": 557,
+      "Showdown": "Cell Battery"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Ring Target": {
+    "Indices": {
+      "pkeUranium": 558,
+      "Showdown": "Ring Target"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Air Balloon": {
+    "Indices": {
+      "pkeUranium": 559,
+      "Showdown": "Air Balloon"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Assault Vest": {
+    "Indices": {
+      "pkeUranium": 560,
+      "Showdown": "Assault Vest"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Fairy Gem": {
+    "Indices": {
+      "pkeUranium": 561,
+      "Showdown": "Fairy Gem"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Prison Bottle": {
+    "Indices": {
+      "pkeUranium": 562
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Luminous Moss": {
+    "Indices": {
+      "pkeUranium": 563,
+      "Showdown": "Luminous Moss"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Weakness Policy": {
+    "Indices": {
+      "pkeUranium": 564,
+      "Showdown": "Weakness Policy"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Pixie Plate": {
+    "Indices": {
+      "pkeUranium": 565,
+      "Showdown": "Pixie Plate"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Roseli Berry": {
+    "Indices": {
+      "pkeUranium": 566,
+      "Showdown": "Roseli Berry"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Kee Berry": {
+    "Indices": {
+      "pkeUranium": 567,
+      "Showdown": "Kee Berry"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Maranga Berry": {
+    "Indices": {
+      "pkeUranium": 568,
+      "Showdown": "Maranga Berry"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Snowball": {
+    "Indices": {
+      "pkeUranium": 569,
+      "Showdown": "Snowball"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Safety Goggles": {
+    "Indices": {
+      "pkeUranium": 570,
+      "Showdown": "Safety Goggles"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Hafli Berry": {
+    "Indices": {
+      "pkeUranium": 571
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Kellyn's Letter": {
+    "Indices": {
+      "pkeUranium": 572
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Burnt Notebook": {
+    "Indices": {
+      "pkeUranium": 573
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Rusty Key": {
+    "Indices": {
+      "pkeUranium": 574
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Power Glove": {
+    "Indices": {
+      "pkeUranium": 575
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Nuclear Ball": {
+    "Indices": {
+      "pkeUranium": 576
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Sachet": {
+    "Indices": {
+      "pkeUranium": 577,
+      "Showdown": "Sachet"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Power Cell": {
+    "Indices": {
+      "pkeUranium": 578
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Maria's Key": {
+    "Indices": {
+      "pkeUranium": 579
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Oval Charm": {
+    "Indices": {
+      "pkeUranium": 580
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Shiny Charm": {
+    "Indices": {
+      "pkeUranium": 581
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Aromatic Herb": {
+    "Indices": {
+      "pkeUranium": 582
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Air Mail": {
+    "Indices": {
+      "pkeUranium": 583
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Gengarite": {
+    "Indices": {
+      "pkeUranium": 584,
+      "Showdown": "Gengarite"
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Uranium Core": {
+    "Indices": {
+      "pkeUranium": 585
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Kiricornite": {
+    "Indices": {
+      "pkeUranium": 586
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Gold Fossil": {
+    "Indices": {
+      "pkeUranium": 587
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM97": {
+    "Indices": {
+      "pkeUranium": 588
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM98": {
+    "Indices": {
+      "pkeUranium": 589
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM99": {
+    "Indices": {
+      "pkeUranium": 590
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "TM100": {
+    "Indices": {
+      "pkeUranium": 591
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Surfboard": {
+    "Indices": {
+      "pkeUranium": 592
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Scuba Gear": {
+    "Indices": {
+      "pkeUranium": 593
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Climbing Pick": {
+    "Indices": {
+      "pkeUranium": 594
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Rich Mulch": {
+    "Indices": {
+      "pkeUranium": 595
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Sprinklotad": {
+    "Indices": {
+      "pkeUranium": 596
+    },
+    "Exists in": ["pkeUranium"]
+  },
+  "Quadcopter": {
+    "Indices": {
+      "pkeUranium": 597
+    },
+    "Exists in": ["pkeUranium"]
   },
   "Abomasite": {
     "Exists in": ["Showdown"],
@@ -2259,20 +4127,6 @@
     "Exists in": ["Showdown"],
     "Indices": {
       "Showdown": "Absolite"
-    }
-  },
-  "Absorb Bulb": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Absorb Bulb",
-      "pkeUranium": 556
-    }
-  },
-  "Adamant Orb": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Adamant Orb",
-      "pkeUranium": 154
     }
   },
   "Adrenaline Orb": {
@@ -2293,13 +4147,6 @@
       "Showdown": "Aggronite"
     }
   },
-  "Air Balloon": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Air Balloon",
-      "pkeUranium": 559
-    }
-  },
   "Alakazite": {
     "Exists in": ["Showdown"],
     "Indices": {
@@ -2318,38 +4165,10 @@
       "Showdown": "Altarianite"
     }
   },
-  "Ampharosite": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Ampharosite",
-      "pkeUranium": 514
-    }
-  },
-  "Armor Fossil": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Armor Fossil",
-      "pkeUranium": 27
-    }
-  },
-  "Assault Vest": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Assault Vest",
-      "pkeUranium": 560
-    }
-  },
   "Audinite": {
     "Exists in": ["Showdown"],
     "Indices": {
       "Showdown": "Audinite"
-    }
-  },
-  "Babiri Berry": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Babiri Berry",
-      "pkeUranium": 383
     }
   },
   "Banettite": {
@@ -2376,27 +4195,6 @@
       "Showdown": "Berry Sweet"
     }
   },
-  "Big Root": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Big Root",
-      "pkeUranium": 89
-    }
-  },
-  "Binding Band": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Binding Band",
-      "pkeUranium": 555
-    }
-  },
-  "Black Sludge": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Black Sludge",
-      "pkeUranium": 85
-    }
-  },
   "Blastoisinite": {
     "Exists in": ["Showdown"],
     "Indices": {
@@ -2419,13 +4217,6 @@
     "Exists in": ["Showdown"],
     "Indices": {
       "Showdown": "Bottle Cap"
-    }
-  },
-  "Bug Gem": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Bug Gem",
-      "pkeUranium": 541
     }
   },
   "Bug Memory": {
@@ -2452,13 +4243,6 @@
       "Showdown": "Cameruptite"
     }
   },
-  "Cell Battery": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Cell Battery",
-      "pkeUranium": 557
-    }
-  },
   "Charizardite X": {
     "Exists in": ["Showdown"],
     "Indices": {
@@ -2469,27 +4253,6 @@
     "Exists in": ["Showdown"],
     "Indices": {
       "Showdown": "Charizardite Y"
-    }
-  },
-  "Charti Berry": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Charti Berry",
-      "pkeUranium": 379
-    }
-  },
-  "Cherish Ball": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Cherish Ball",
-      "pkeUranium": 223
-    }
-  },
-  "Chilan Berry": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Chilan Berry",
-      "pkeUranium": 384
     }
   },
   "Chill Drive": {
@@ -2504,45 +4267,10 @@
       "Showdown": "Chipped Pot"
     }
   },
-  "Choice Scarf": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Choice Scarf",
-      "pkeUranium": 92
-    }
-  },
-  "Choice Specs": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Choice Specs",
-      "pkeUranium": 91
-    }
-  },
-  "Chople Berry": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Chople Berry",
-      "pkeUranium": 373
-    }
-  },
   "Clover Sweet": {
     "Exists in": ["Showdown"],
     "Indices": {
       "Showdown": "Clover Sweet"
-    }
-  },
-  "Coba Berry": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Coba Berry",
-      "pkeUranium": 376
-    }
-  },
-  "Colbur Berry": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Colbur Berry",
-      "pkeUranium": 382
     }
   },
   "Cover Fossil": {
@@ -2557,27 +4285,6 @@
       "Showdown": "Cracked Pot"
     }
   },
-  "Custap Berry": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Custap Berry",
-      "pkeUranium": 394
-    }
-  },
-  "Damp Rock": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Damp Rock",
-      "pkeUranium": 97
-    }
-  },
-  "Dark Gem": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Dark Gem",
-      "pkeUranium": 545
-    }
-  },
   "Dark Memory": {
     "Exists in": ["Showdown"],
     "Indices": {
@@ -2590,24 +4297,10 @@
       "Showdown": "Darkinium Z"
     }
   },
-  "Dawn Stone": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Dawn Stone",
-      "pkeUranium": 20
-    }
-  },
   "Decidium Z": {
     "Exists in": ["Showdown"],
     "Indices": {
       "Showdown": "Decidium Z"
-    }
-  },
-  "Destiny Knot": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Destiny Knot",
-      "pkeUranium": 84
     }
   },
   "Diancite": {
@@ -2622,20 +4315,6 @@
       "Showdown": "Douse Drive"
     }
   },
-  "Draco Plate": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Draco Plate",
-      "pkeUranium": 142
-    }
-  },
-  "Dragon Gem": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Dragon Gem",
-      "pkeUranium": 544
-    }
-  },
   "Dragon Memory": {
     "Exists in": ["Showdown"],
     "Indices": {
@@ -2648,45 +4327,10 @@
       "Showdown": "Dragonium Z"
     }
   },
-  "Dread Plate": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Dread Plate",
-      "pkeUranium": 143
-    }
-  },
   "Dream Ball": {
     "Exists in": ["Showdown"],
     "Indices": {
       "Showdown": "Dream Ball"
-    }
-  },
-  "Dubious Disc": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Dubious Disc",
-      "pkeUranium": 158
-    }
-  },
-  "Dusk Ball": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Dusk Ball",
-      "pkeUranium": 220
-    }
-  },
-  "Dusk Stone": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Dusk Stone",
-      "pkeUranium": 19
-    }
-  },
-  "Earth Plate": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Earth Plate",
-      "pkeUranium": 136
     }
   },
   "Eevium Z": {
@@ -2695,31 +4339,10 @@
       "Showdown": "Eevium Z"
     }
   },
-  "Eject Button": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Eject Button",
-      "pkeUranium": 552
-    }
-  },
   "Eject Pack": {
     "Exists in": ["Showdown"],
     "Indices": {
       "Showdown": "Eject Pack"
-    }
-  },
-  "Electirizer": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Electirizer",
-      "pkeUranium": 160
-    }
-  },
-  "Electric Gem": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Electric Gem",
-      "pkeUranium": 533
     }
   },
   "Electric Memory": {
@@ -2740,51 +4363,16 @@
       "Showdown": "Electrium Z"
     }
   },
-  "Eviolite": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Eviolite",
-      "pkeUranium": 530
-    }
-  },
-  "Expert Belt": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Expert Belt",
-      "pkeUranium": 75
-    }
-  },
   "Fairium Z": {
     "Exists in": ["Showdown"],
     "Indices": {
       "Showdown": "Fairium Z"
     }
   },
-  "Fairy Gem": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Fairy Gem",
-      "pkeUranium": 561
-    }
-  },
   "Fairy Memory": {
     "Exists in": ["Showdown"],
     "Indices": {
       "Showdown": "Fairy Memory"
-    }
-  },
-  "Fast Ball": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Fast Ball",
-      "pkeUranium": 224
-    }
-  },
-  "Fighting Gem": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Fighting Gem",
-      "pkeUranium": 536
     }
   },
   "Fighting Memory": {
@@ -2799,13 +4387,6 @@
       "Showdown": "Fightinium Z"
     }
   },
-  "Fire Gem": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Fire Gem",
-      "pkeUranium": 531
-    }
-  },
   "Fire Memory": {
     "Exists in": ["Showdown"],
     "Indices": {
@@ -2818,45 +4399,10 @@
       "Showdown": "Firium Z"
     }
   },
-  "Fist Plate": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Fist Plate",
-      "pkeUranium": 134
-    }
-  },
-  "Flame Orb": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Flame Orb",
-      "pkeUranium": 79
-    }
-  },
-  "Flame Plate": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Flame Plate",
-      "pkeUranium": 129
-    }
-  },
-  "Float Stone": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Float Stone",
-      "pkeUranium": 554
-    }
-  },
   "Flower Sweet": {
     "Exists in": ["Showdown"],
     "Indices": {
       "Showdown": "Flower Sweet"
-    }
-  },
-  "Flying Gem": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Flying Gem",
-      "pkeUranium": 539
     }
   },
   "Flying Memory": {
@@ -2869,13 +4415,6 @@
     "Exists in": ["Showdown"],
     "Indices": {
       "Showdown": "Flyinium Z"
-    }
-  },
-  "Focus Sash": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Focus Sash",
-      "pkeUranium": 80
     }
   },
   "Fossilized Bird": {
@@ -2900,20 +4439,6 @@
     "Exists in": ["Showdown"],
     "Indices": {
       "Showdown": "Fossilized Fish"
-    }
-  },
-  "Friend Ball": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Friend Ball",
-      "pkeUranium": 229
-    }
-  },
-  "Full Incense": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Full Incense",
-      "pkeUranium": 109
     }
   },
   "Galarica Cuff": {
@@ -2946,20 +4471,6 @@
       "Showdown": "Gardevoirite"
     }
   },
-  "Gengarite": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Gengarite",
-      "pkeUranium": 584
-    }
-  },
-  "Ghost Gem": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Ghost Gem",
-      "pkeUranium": 543
-    }
-  },
   "Ghost Memory": {
     "Exists in": ["Showdown"],
     "Indices": {
@@ -2984,13 +4495,6 @@
       "Showdown": "Gold Bottle Cap"
     }
   },
-  "Grass Gem": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Grass Gem",
-      "pkeUranium": 534
-    }
-  },
   "Grass Memory": {
     "Exists in": ["Showdown"],
     "Indices": {
@@ -3009,27 +4513,6 @@
       "Showdown": "Grassy Seed"
     }
   },
-  "Grip Claw": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Grip Claw",
-      "pkeUranium": 86
-    }
-  },
-  "Griseous Orb": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Griseous Orb",
-      "pkeUranium": 156
-    }
-  },
-  "Ground Gem": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Ground Gem",
-      "pkeUranium": 538
-    }
-  },
   "Ground Memory": {
     "Exists in": ["Showdown"],
     "Indices": {
@@ -3040,41 +4523,6 @@
     "Exists in": ["Showdown"],
     "Indices": {
       "Showdown": "Groundium Z"
-    }
-  },
-  "Gyaradosite": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Gyaradosite",
-      "pkeUranium": 513
-    }
-  },
-  "Haban Berry": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Haban Berry",
-      "pkeUranium": 381
-    }
-  },
-  "Heal Ball": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Heal Ball",
-      "pkeUranium": 221
-    }
-  },
-  "Heat Rock": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Heat Rock",
-      "pkeUranium": 96
-    }
-  },
-  "Heavy Ball": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Heavy Ball",
-      "pkeUranium": 227
     }
   },
   "Heavy-Duty Boots": {
@@ -3095,13 +4543,6 @@
       "Showdown": "Houndoominite"
     }
   },
-  "Ice Gem": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Ice Gem",
-      "pkeUranium": 535
-    }
-  },
   "Ice Memory": {
     "Exists in": ["Showdown"],
     "Indices": {
@@ -3114,24 +4555,10 @@
       "Showdown": "Ice Stone"
     }
   },
-  "Icicle Plate": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Icicle Plate",
-      "pkeUranium": 133
-    }
-  },
   "Icium Z": {
     "Exists in": ["Showdown"],
     "Indices": {
       "Showdown": "Icium Z"
-    }
-  },
-  "Icy Rock": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Icy Rock",
-      "pkeUranium": 94
     }
   },
   "Incinium Z": {
@@ -3140,59 +4567,10 @@
       "Showdown": "Incinium Z"
     }
   },
-  "Insect Plate": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Insect Plate",
-      "pkeUranium": 139
-    }
-  },
-  "Iron Ball": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Iron Ball",
-      "pkeUranium": 82
-    }
-  },
-  "Iron Plate": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Iron Plate",
-      "pkeUranium": 144
-    }
-  },
-  "Jaboca Berry": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Jaboca Berry",
-      "pkeUranium": 395
-    }
-  },
   "Jaw Fossil": {
     "Exists in": ["Showdown"],
     "Indices": {
       "Showdown": "Jaw Fossil"
-    }
-  },
-  "Kasib Berry": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Kasib Berry",
-      "pkeUranium": 380
-    }
-  },
-  "Kebia Berry": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Kebia Berry",
-      "pkeUranium": 374
-    }
-  },
-  "Kee Berry": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Kee Berry",
-      "pkeUranium": 567
     }
   },
   "Kangaskhanite": {
@@ -3207,13 +4585,6 @@
       "Showdown": "Kommonium Z"
     }
   },
-  "Lagging Tail": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Lagging Tail",
-      "pkeUranium": 83
-    }
-  },
   "Latiasite": {
     "Exists in": ["Showdown"],
     "Indices": {
@@ -3226,38 +4597,10 @@
       "Showdown": "Latiosite"
     }
   },
-  "Level Ball": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Level Ball",
-      "pkeUranium": 225
-    }
-  },
-  "Life Orb": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Life Orb",
-      "pkeUranium": 76
-    }
-  },
-  "Light Clay": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Light Clay",
-      "pkeUranium": 93
-    }
-  },
   "Lopunnite": {
     "Exists in": ["Showdown"],
     "Indices": {
       "Showdown": "Lopunnite"
-    }
-  },
-  "Love Ball": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Love Ball",
-      "pkeUranium": 228
     }
   },
   "Love Sweet": {
@@ -3272,44 +4615,16 @@
       "Showdown": "Lucarionite"
     }
   },
-  "Luminous Moss": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Luminous Moss",
-      "pkeUranium": 563
-    }
-  },
   "Lunalium Z": {
     "Exists in": ["Showdown"],
     "Indices": {
       "Showdown": "Lunalium Z"
     }
   },
-  "Lure Ball": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Lure Ball",
-      "pkeUranium": 226
-    }
-  },
-  "Lustrous Orb": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Lustrous Orb",
-      "pkeUranium": 155
-    }
-  },
   "Lycanium Z": {
     "Exists in": ["Showdown"],
     "Indices": {
       "Showdown": "Lycanium Z"
-    }
-  },
-  "Magmarizer": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Magmarizer",
-      "pkeUranium": 161
     }
   },
   "Mail": {
@@ -3324,13 +4639,6 @@
       "Showdown": "Manectite"
     }
   },
-  "Maranga Berry": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Maranga Berry",
-      "pkeUranium": 568
-    }
-  },
   "Marshadium Z": {
     "Exists in": ["Showdown"],
     "Indices": {
@@ -3343,13 +4651,6 @@
       "Showdown": "Mawilite"
     }
   },
-  "Meadow Plate": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Meadow Plate",
-      "pkeUranium": 132
-    }
-  },
   "Medichamite": {
     "Exists in": ["Showdown"],
     "Indices": {
@@ -3360,13 +4661,6 @@
     "Exists in": ["Showdown"],
     "Indices": {
       "Showdown": "Metagrossite"
-    }
-  },
-  "Metronome": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Metronome",
-      "pkeUranium": 81
     }
   },
   "Mewnium Z": {
@@ -3387,24 +4681,10 @@
       "Showdown": "Mewtwonite Y"
     }
   },
-  "Micle Berry": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Micle Berry",
-      "pkeUranium": 393
-    }
-  },
   "Mimikium Z": {
     "Exists in": ["Showdown"],
     "Indices": {
       "Showdown": "Mimikium Z"
-    }
-  },
-  "Mind Plate": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Mind Plate",
-      "pkeUranium": 138
     }
   },
   "Misty Seed": {
@@ -3413,73 +4693,10 @@
       "Showdown": "Misty Seed"
     }
   },
-  "Moon Ball": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Moon Ball",
-      "pkeUranium": 230
-    }
-  },
-  "Muscle Band": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Muscle Band",
-      "pkeUranium": 73
-    }
-  },
-  "Normal Gem": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Normal Gem",
-      "pkeUranium": 547
-    }
-  },
   "Normalium Z": {
     "Exists in": ["Showdown"],
     "Indices": {
       "Showdown": "Normalium Z"
-    }
-  },
-  "Occa Berry": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Occa Berry",
-      "pkeUranium": 368
-    }
-  },
-  "Odd Incense": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Odd Incense",
-      "pkeUranium": 107
-    }
-  },
-  "Oval Stone": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Oval Stone",
-      "pkeUranium": 21
-    }
-  },
-  "Park Ball": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Park Ball",
-      "pkeUranium": 232
-    }
-  },
-  "Passho Berry": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Passho Berry",
-      "pkeUranium": 369
-    }
-  },
-  "Payapa Berry": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Payapa Berry",
-      "pkeUranium": 377
     }
   },
   "Pidgeotite": {
@@ -3506,24 +4723,10 @@
       "Showdown": "Pinsirite"
     }
   },
-  "Pixie Plate": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Pixie Plate",
-      "pkeUranium": 565
-    }
-  },
   "Plume Fossil": {
     "Exists in": ["Showdown"],
     "Indices": {
       "Showdown": "Plume Fossil"
-    }
-  },
-  "Poison Gem": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Poison Gem",
-      "pkeUranium": 537
     }
   },
   "Poison Memory": {
@@ -3536,55 +4739,6 @@
     "Exists in": ["Showdown"],
     "Indices": {
       "Showdown": "Poisonium Z"
-    }
-  },
-  "Power Anklet": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Power Anklet",
-      "pkeUranium": 103
-    }
-  },
-  "Power Band": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Power Band",
-      "pkeUranium": 102
-    }
-  },
-  "Power Belt": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Power Belt",
-      "pkeUranium": 100
-    }
-  },
-  "Power Bracer": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Power Bracer",
-      "pkeUranium": 99
-    }
-  },
-  "Power Herb": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Power Herb",
-      "pkeUranium": 77
-    }
-  },
-  "Power Lens": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Power Lens",
-      "pkeUranium": 101
-    }
-  },
-  "Power Weight": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Power Weight",
-      "pkeUranium": 104
     }
   },
   "Primarium Z": {
@@ -3605,20 +4759,6 @@
       "Showdown": "Protective Pads"
     }
   },
-  "Protector": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Protector",
-      "pkeUranium": 159
-    }
-  },
-  "Psychic Gem": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Psychic Gem",
-      "pkeUranium": 540
-    }
-  },
   "Psychic Memory": {
     "Exists in": ["Showdown"],
     "Indices": {
@@ -3637,87 +4777,10 @@
       "Showdown": "Psychium Z"
     }
   },
-  "Quick Ball": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Quick Ball",
-      "pkeUranium": 222
-    }
-  },
-  "Quick Powder": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Quick Powder",
-      "pkeUranium": 148
-    }
-  },
-  "Rare Bone": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Rare Bone",
-      "pkeUranium": 37
-    }
-  },
-  "Razor Claw": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Razor Claw",
-      "pkeUranium": 163
-    }
-  },
-  "Razor Fang": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Razor Fang",
-      "pkeUranium": 164
-    }
-  },
-  "Reaper Cloth": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Reaper Cloth",
-      "pkeUranium": 162
-    }
-  },
-  "Red Card": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Red Card",
-      "pkeUranium": 553
-    }
-  },
   "Ribbon Sweet": {
     "Exists in": ["Showdown"],
     "Indices": {
       "Showdown": "Ribbon Sweet"
-    }
-  },
-  "Rindo Berry": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Rindo Berry",
-      "pkeUranium": 371
-    }
-  },
-  "Ring Target": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Ring Target",
-      "pkeUranium": 558
-    }
-  },
-  "Rock Gem": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Rock Gem",
-      "pkeUranium": 542
-    }
-  },
-  "Rock Incense": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Rock Incense",
-      "pkeUranium": 108
     }
   },
   "Rock Memory": {
@@ -3732,38 +4795,10 @@
       "Showdown": "Rockium Z"
     }
   },
-  "Rocky Helmet": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Rocky Helmet",
-      "pkeUranium": 551
-    }
-  },
   "Room Service": {
     "Exists in": ["Showdown"],
     "Indices": {
       "Showdown": "Room Service"
-    }
-  },
-  "Rose Incense": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Rose Incense",
-      "pkeUranium": 111
-    }
-  },
-  "Roseli Berry": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Roseli Berry",
-      "pkeUranium": 566
-    }
-  },
-  "Rowap Berry": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Rowap Berry",
-      "pkeUranium": 396
     }
   },
   "Rusted Shield": {
@@ -3782,20 +4817,6 @@
     "Exists in": ["Showdown"],
     "Indices": {
       "Showdown": "Sablenite"
-    }
-  },
-  "Sachet": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Sachet",
-      "pkeUranium": 577
-    }
-  },
-  "Safety Goggles": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Safety Goggles",
-      "pkeUranium": 570
     }
   },
   "Sail Fossil": {
@@ -3828,45 +4849,10 @@
       "Showdown": "Sharpedonite"
     }
   },
-  "Shed Shell": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Shed Shell",
-      "pkeUranium": 88
-    }
-  },
-  "Shiny Stone": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Shiny Stone",
-      "pkeUranium": 18
-    }
-  },
   "Shock Drive": {
     "Exists in": ["Showdown"],
     "Indices": {
       "Showdown": "Shock Drive"
-    }
-  },
-  "Shuca Berry": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Shuca Berry",
-      "pkeUranium": 375
-    }
-  },
-  "Skull Fossil": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Skull Fossil",
-      "pkeUranium": 28
-    }
-  },
-  "Sky Plate": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Sky Plate",
-      "pkeUranium": 137
     }
   },
   "Slowbronite": {
@@ -3875,51 +4861,16 @@
       "Showdown": "Slowbronite"
     }
   },
-  "Smooth Rock": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Smooth Rock",
-      "pkeUranium": 95
-    }
-  },
   "Snorlium Z": {
     "Exists in": ["Showdown"],
     "Indices": {
       "Showdown": "Snorlium Z"
     }
   },
-  "Snowball": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Snowball",
-      "pkeUranium": 569
-    }
-  },
   "Solganium Z": {
     "Exists in": ["Showdown"],
     "Indices": {
       "Showdown": "Solganium Z"
-    }
-  },
-  "Splash Plate": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Splash Plate",
-      "pkeUranium": 130
-    }
-  },
-  "Spooky Plate": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Spooky Plate",
-      "pkeUranium": 141
-    }
-  },
-  "Sport Ball": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Sport Ball",
-      "pkeUranium": 231
     }
   },
   "Star Sweet": {
@@ -3932,13 +4883,6 @@
     "Exists in": ["Showdown"],
     "Indices": {
       "Showdown": "Steelixite"
-    }
-  },
-  "Steel Gem": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Steel Gem",
-      "pkeUranium": 546
     }
   },
   "Steel Memory": {
@@ -3959,20 +4903,6 @@
       "Showdown": "Stick"
     }
   },
-  "Sticky Barb": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Sticky Barb",
-      "pkeUranium": 87
-    }
-  },
-  "Stone Plate": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Stone Plate",
-      "pkeUranium": 140
-    }
-  },
   "Strawberry Sweet": {
     "Exists in": ["Showdown"],
     "Indices": {
@@ -3989,13 +4919,6 @@
     "Exists in": ["Showdown"],
     "Indices": {
       "Showdown": "Sweet Apple"
-    }
-  },
-  "Tanga Berry": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Tanga Berry",
-      "pkeUranium": 378
     }
   },
   "Tapunium Z": {
@@ -4020,20 +4943,6 @@
     "Exists in": ["Showdown"],
     "Indices": {
       "Showdown": "Throat Spray"
-    }
-  },
-  "Toxic Orb": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Toxic Orb",
-      "pkeUranium": 78
-    }
-  },
-  "Toxic Plate": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Toxic Plate",
-      "pkeUranium": 135
     }
   },
   "TR00": {
@@ -4666,20 +5575,6 @@
       "Showdown": "Venusaurite"
     }
   },
-  "Wacan Berry": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Wacan Berry",
-      "pkeUranium": 370
-    }
-  },
-  "Water Gem": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Water Gem",
-      "pkeUranium": 532
-    }
-  },
   "Water Memory": {
     "Exists in": ["Showdown"],
     "Indices": {
@@ -4692,59 +5587,10 @@
       "Showdown": "Waterium Z"
     }
   },
-  "Wave Incense": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Wave Incense",
-      "pkeUranium": 110
-    }
-  },
-  "Weakness Policy": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Weakness Policy",
-      "pkeUranium": 564
-    }
-  },
   "Whipped Dream": {
     "Exists in": ["Showdown"],
     "Indices": {
       "Showdown": "Whipped Dream"
-    }
-  },
-  "Wide Lens": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Wide Lens",
-      "pkeUranium": 67
-    }
-  },
-  "Wise Glasses": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Wise Glasses",
-      "pkeUranium": 74
-    }
-  },
-  "Yache Berry": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Yache Berry",
-      "pkeUranium": 372
-    }
-  },
-  "Zap Plate": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Zap Plate",
-      "pkeUranium": 131
-    }
-  },
-  "Zoom Lens": {
-    "Exists in": ["Showdown", "pkeUranium"],
-    "Indices": {
-      "Showdown": "Zoom Lens",
-      "pkeUranium": 68
     }
   },
   "Berserk Gene": {
@@ -4837,1072 +5683,226 @@
       "Showdown": "Vile Vial"
     }
   },
-  "Honey": {
+  "Mach Bike": {
     "Indices": {
-      "pkeUranium": 6
+      "pk3": 259
     },
-    "Exists in": ["pkeUranium"]
+    "Exists in": ["pk3"]
   },
-  "Odd Keystone": {
+  "S.S. Tidal Ticket": {
     "Indices": {
-      "pkeUranium": 40
+      "pk3": 265
     },
-    "Exists in": ["pkeUranium"]
+    "Exists in": ["pk3"]
   },
-  "Growth Mulch": {
+  "S.S. Anne Ticket": {
     "Indices": {
-      "pkeUranium": 41
+      "pk3": 265
     },
-    "Exists in": ["pkeUranium"]
+    "Exists in": ["pk3"]
   },
-  "Damp Mulch": {
+  "Wailmer Pail": {
     "Indices": {
-      "pkeUranium": 42
+      "pk3": 268
     },
-    "Exists in": ["pkeUranium"]
+    "Exists in": ["pk3"]
   },
-  "Stable Mulch": {
+  "Devon Goods": {
     "Indices": {
-      "pkeUranium": 43
+      "pk3": 269
     },
-    "Exists in": ["pkeUranium"]
+    "Exists in": ["pk3"]
   },
-  "Gooey Mulch": {
+  "Acro Bike": {
     "Indices": {
-      "pkeUranium": 44
+      "pk3": 272
     },
-    "Exists in": ["pkeUranium"]
+    "Exists in": ["pk3"]
   },
-  "Red Apricorn": {
+  "Pokéblock Case": {
     "Indices": {
-      "pkeUranium": 45
+      "pk3": 273
     },
-    "Exists in": ["pkeUranium"]
+    "Exists in": ["pk3"]
   },
-  "Yellow Apricorn": {
+  "Letter": {
     "Indices": {
-      "pkeUranium": 46
+      "pk3": 274
     },
-    "Exists in": ["pkeUranium"]
+    "Exists in": ["pk3"]
   },
-  "Blue Apricorn": {
+  "Eon Ticket": {
     "Indices": {
-      "pkeUranium": 47
+      "pk3": 275
     },
-    "Exists in": ["pkeUranium"]
+    "Exists in": ["pk3"]
   },
-  "Green Apricorn": {
+  "Scanner": {
     "Indices": {
-      "pkeUranium": 48
+      "pk3": 278
     },
-    "Exists in": ["pkeUranium"]
+    "Exists in": ["pk3"]
   },
-  "Pink Apricorn": {
+  "Go-Goggles": {
     "Indices": {
-      "pkeUranium": 49
+      "pk3": 279
     },
-    "Exists in": ["pkeUranium"]
+    "Exists in": ["pk3"]
   },
-  "White Apricorn": {
+  "Meteorite": {
     "Indices": {
-      "pkeUranium": 50
+      "pk3": 280
     },
-    "Exists in": ["pkeUranium"]
+    "Exists in": ["pk3"]
   },
-  "Black Apricorn": {
+  "Rm. 1 Key": {
     "Indices": {
-      "pkeUranium": 51
+      "pk3": 281
     },
-    "Exists in": ["pkeUranium"]
+    "Exists in": ["pk3"]
   },
-  "Luck Incense": {
+  "Rm. 2 Key": {
     "Indices": {
-      "pkeUranium": 112
+      "pk3": 282
     },
-    "Exists in": ["pkeUranium"]
+    "Exists in": ["pk3"]
   },
-  "Pure Incense": {
+  "Rm. 4 Key": {
     "Indices": {
-      "pkeUranium": 113
+      "pk3": 283
     },
-    "Exists in": ["pkeUranium"]
+    "Exists in": ["pk3"]
   },
-  "Old Gateau": {
+  "Rm. 6 Key": {
     "Indices": {
-      "pkeUranium": 183
+      "pk3": 284
     },
-    "Exists in": ["pkeUranium"]
+    "Exists in": ["pk3"]
   },
-  "TM51": {
+  "Devon Scope": {
     "Indices": {
-      "pkeUranium": 283
+      "pk3": 288
     },
-    "Exists in": ["pkeUranium"]
+    "Exists in": ["pk3"]
   },
-  "TM52": {
+  "Oak's Parcel": {
     "Indices": {
-      "pkeUranium": 284
+      "pk3": 349
     },
-    "Exists in": ["pkeUranium"]
+    "Exists in": ["pk3"]
   },
-  "TM53": {
+  "Poké Flute": {
     "Indices": {
-      "pkeUranium": 285
+      "pk3": 350
     },
-    "Exists in": ["pkeUranium"]
+    "Exists in": ["pk3"]
   },
-  "TM54": {
+  "Bike Voucher": {
     "Indices": {
-      "pkeUranium": 286
+      "pk3": 352
     },
-    "Exists in": ["pkeUranium"]
+    "Exists in": ["pk3"]
   },
-  "TM55": {
+  "Gold Teeth": {
     "Indices": {
-      "pkeUranium": 287
+      "pk3": 353
     },
-    "Exists in": ["pkeUranium"]
+    "Exists in": ["pk3"]
   },
-  "TM56": {
+  "Lift Key": {
     "Indices": {
-      "pkeUranium": 288
+      "pk3": 356
     },
-    "Exists in": ["pkeUranium"]
+    "Exists in": ["pk3"]
   },
-  "TM57": {
+  "VS Seeker": {
     "Indices": {
-      "pkeUranium": 289
+      "pk3": 362
     },
-    "Exists in": ["pkeUranium"]
+    "Exists in": ["pk3"]
   },
-  "TM58": {
+  "Fame Checker": {
     "Indices": {
-      "pkeUranium": 290
+      "pk3": 363
     },
-    "Exists in": ["pkeUranium"]
+    "Exists in": ["pk3"]
   },
-  "TM59": {
+  "TM Case": {
     "Indices": {
-      "pkeUranium": 291
+      "pk3": 364
     },
-    "Exists in": ["pkeUranium"]
+    "Exists in": ["pk3"]
   },
-  "TM60": {
+  "Berry Pouch": {
     "Indices": {
-      "pkeUranium": 292
+      "pk3": 365
     },
-    "Exists in": ["pkeUranium"]
+    "Exists in": ["pk3"]
   },
-  "TM61": {
+  "Teachy TV": {
     "Indices": {
-      "pkeUranium": 293
+      "pk3": 366
     },
-    "Exists in": ["pkeUranium"]
+    "Exists in": ["pk3"]
   },
-  "TM62": {
+  "Tri-Pass": {
     "Indices": {
-      "pkeUranium": 294
+      "pk3": 367
     },
-    "Exists in": ["pkeUranium"]
+    "Exists in": ["pk3"]
   },
-  "TM63": {
+  "Rainbow Pass": {
     "Indices": {
-      "pkeUranium": 295
+      "pk3": 368
     },
-    "Exists in": ["pkeUranium"]
+    "Exists in": ["pk3"]
   },
-  "TM64": {
+  "Tea": {
     "Indices": {
-      "pkeUranium": 296
+      "pk3": 369
     },
-    "Exists in": ["pkeUranium"]
+    "Exists in": ["pk3"]
   },
-  "TM65": {
+  "Mystic Ticket": {
     "Indices": {
-      "pkeUranium": 297
+      "pk3": 370
     },
-    "Exists in": ["pkeUranium"]
+    "Exists in": ["pk3"]
   },
-  "TM66": {
+  "Aurora Ticket": {
     "Indices": {
-      "pkeUranium": 298
+      "pk3": 371
     },
-    "Exists in": ["pkeUranium"]
+    "Exists in": ["pk3"]
   },
-  "TM67": {
+  "Powder Jar": {
     "Indices": {
-      "pkeUranium": 299
+      "pk3": 372
     },
-    "Exists in": ["pkeUranium"]
+    "Exists in": ["pk3"]
   },
-  "TM68": {
+  "Ruby": {
     "Indices": {
-      "pkeUranium": 300
+      "pk3": 373
     },
-    "Exists in": ["pkeUranium"]
+    "Exists in": ["pk3"]
   },
-  "TM69": {
+  "Sapphire": {
     "Indices": {
-      "pkeUranium": 301
+      "pk3": 374
     },
-    "Exists in": ["pkeUranium"]
+    "Exists in": ["pk3"]
   },
-  "TM70": {
+  "Magma Emblem": {
     "Indices": {
-      "pkeUranium": 302
+      "pk3": 375
     },
-    "Exists in": ["pkeUranium"]
+    "Exists in": ["pk3"]
   },
-  "TM71": {
+  "Old Sea Map": {
     "Indices": {
-      "pkeUranium": 303
+      "pk3": 376
     },
-    "Exists in": ["pkeUranium"]
-  },
-  "TM72": {
-    "Indices": {
-      "pkeUranium": 304
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "TM73": {
-    "Indices": {
-      "pkeUranium": 305
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "TM74": {
-    "Indices": {
-      "pkeUranium": 306
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "TM75": {
-    "Indices": {
-      "pkeUranium": 307
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "TM76": {
-    "Indices": {
-      "pkeUranium": 308
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "TM77": {
-    "Indices": {
-      "pkeUranium": 309
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "TM78": {
-    "Indices": {
-      "pkeUranium": 310
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "TM79": {
-    "Indices": {
-      "pkeUranium": 311
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "TM80": {
-    "Indices": {
-      "pkeUranium": 312
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "TM81": {
-    "Indices": {
-      "pkeUranium": 313
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "TM82": {
-    "Indices": {
-      "pkeUranium": 314
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "TM83": {
-    "Indices": {
-      "pkeUranium": 315
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "TM84": {
-    "Indices": {
-      "pkeUranium": 316
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "TM85": {
-    "Indices": {
-      "pkeUranium": 317
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "TM86": {
-    "Indices": {
-      "pkeUranium": 318
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "TM87": {
-    "Indices": {
-      "pkeUranium": 319
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "TM88": {
-    "Indices": {
-      "pkeUranium": 320
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "TM89": {
-    "Indices": {
-      "pkeUranium": 321
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "TM90": {
-    "Indices": {
-      "pkeUranium": 322
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "TM91": {
-    "Indices": {
-      "pkeUranium": 323
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "TM92": {
-    "Indices": {
-      "pkeUranium": 324
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "X Sp. Def": {
-    "Indices": {
-      "pkeUranium": 412
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "TM96": {
-    "Indices": {
-      "pkeUranium": 427
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Gracidea": {
-    "Indices": {
-      "pkeUranium": 430
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Explorer Kit": {
-    "Indices": {
-      "pkeUranium": 432
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Loot Sack": {
-    "Indices": {
-      "pkeUranium": 433
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Rule Book": {
-    "Indices": {
-      "pkeUranium": 434
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Point Card": {
-    "Indices": {
-      "pkeUranium": 435
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Journal": {
-    "Indices": {
-      "pkeUranium": 436
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Seal Case": {
-    "Indices": {
-      "pkeUranium": 437
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Fashion Case": {
-    "Indices": {
-      "pkeUranium": 438
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Seal Bag": {
-    "Indices": {
-      "pkeUranium": 439
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Pal Pad": {
-    "Indices": {
-      "pkeUranium": 440
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Works Key": {
-    "Indices": {
-      "pkeUranium": 441
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Old Charm": {
-    "Indices": {
-      "pkeUranium": 442
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Galactic Key": {
-    "Indices": {
-      "pkeUranium": 443
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Red Chain": {
-    "Indices": {
-      "pkeUranium": 444
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Sprayduck": {
-    "Indices": {
-      "pkeUranium": 445
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Poffin Case": {
-    "Indices": {
-      "pkeUranium": 446
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Suite Key": {
-    "Indices": {
-      "pkeUranium": 447
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Oak's Letter": {
-    "Indices": {
-      "pkeUranium": 448
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Lunar Wing": {
-    "Indices": {
-      "pkeUranium": 449
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Member Card": {
-    "Indices": {
-      "pkeUranium": 450
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Azure Flute": {
-    "Indices": {
-      "pkeUranium": 451
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "BB Ferry Ticket": {
-    "Indices": {
-      "pkeUranium": 452
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Magma Stone": {
-    "Indices": {
-      "pkeUranium": 454
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Parcel": {
-    "Indices": {
-      "pkeUranium": 455
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Coupon 1": {
-    "Indices": {
-      "pkeUranium": 456
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Coupon 2": {
-    "Indices": {
-      "pkeUranium": 457
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Coupon 3": {
-    "Indices": {
-      "pkeUranium": 458
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Secret Potion": {
-    "Indices": {
-      "pkeUranium": 460
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Vs. Seeker": {
-    "Indices": {
-      "pkeUranium": 461
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Vs. Recorder": {
-    "Indices": {
-      "pkeUranium": 462
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Apricorn Box": {
-    "Indices": {
-      "pkeUranium": 464
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Unown Report": {
-    "Indices": {
-      "pkeUranium": 465
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Berry Pots": {
-    "Indices": {
-      "pkeUranium": 466
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Blue Card": {
-    "Indices": {
-      "pkeUranium": 467
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Slowpoke Tail": {
-    "Indices": {
-      "pkeUranium": 468
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Clear Bell": {
-    "Indices": {
-      "pkeUranium": 469
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Squirtbottle": {
-    "Indices": {
-      "pkeUranium": 472
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Red Scale": {
-    "Indices": {
-      "pkeUranium": 473
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Lost Item": {
-    "Indices": {
-      "pkeUranium": 474
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Pass": {
-    "Indices": {
-      "pkeUranium": 475
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Machine Part": {
-    "Indices": {
-      "pkeUranium": 476
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Silver Wing": {
-    "Indices": {
-      "pkeUranium": 477
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Rainbow Wing": {
-    "Indices": {
-      "pkeUranium": 478
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Mystery Egg": {
-    "Indices": {
-      "pkeUranium": 479
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Photo Album": {
-    "Indices": {
-      "pkeUranium": 480
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "GB Sounds": {
-    "Indices": {
-      "pkeUranium": 481
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Tidal Bell": {
-    "Indices": {
-      "pkeUranium": 482
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Rage Candy Bar": {
-    "Indices": {
-      "pkeUranium": 483
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Jade Orb": {
-    "Indices": {
-      "pkeUranium": 484
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Lock Capsule": {
-    "Indices": {
-      "pkeUranium": 485
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Enigma Stone": {
-    "Indices": {
-      "pkeUranium": 488
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Lab Key": {
-    "Indices": {
-      "pkeUranium": 490
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Poké Radar": {
-    "Indices": {
-      "pkeUranium": 491
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Sticker Case": {
-    "Indices": {
-      "pkeUranium": 492
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Atom Ball": {
-    "Indices": {
-      "pkeUranium": 493
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "T.U.R Ticket": {
-    "Indices": {
-      "pkeUranium": 494
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Pokémon Speech Translator": {
-    "Indices": {
-      "pkeUranium": 495
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Coconut Milk": {
-    "Indices": {
-      "pkeUranium": 496
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Jungle's Crown": {
-    "Indices": {
-      "pkeUranium": 497
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Royal Jelly": {
-    "Indices": {
-      "pkeUranium": 498
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Bug Spray": {
-    "Indices": {
-      "pkeUranium": 499
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Acai Berry": {
-    "Indices": {
-      "pkeUranium": 500
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Bacu Berry": {
-    "Indices": {
-      "pkeUranium": 501
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Cupu Berry": {
-    "Indices": {
-      "pkeUranium": 502
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Guara Berry": {
-    "Indices": {
-      "pkeUranium": 503
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Hair Fossil": {
-    "Indices": {
-      "pkeUranium": 504
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Tusk Fossil": {
-    "Indices": {
-      "pkeUranium": 505
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Moss Shard": {
-    "Indices": {
-      "pkeUranium": 506
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Ice Shard": {
-    "Indices": {
-      "pkeUranium": 507
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Pretty Ribbon": {
-    "Indices": {
-      "pkeUranium": 508
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Mega Bracelet": {
-    "Indices": {
-      "pkeUranium": 509
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Metalynxite": {
-    "Indices": {
-      "pkeUranium": 510
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Archillesite": {
-    "Indices": {
-      "pkeUranium": 511
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Electruxolite": {
-    "Indices": {
-      "pkeUranium": 512
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Baariettite": {
-    "Indices": {
-      "pkeUranium": 515
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Drilgannite": {
-    "Indices": {
-      "pkeUranium": 516
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Sableyeite": {
-    "Indices": {
-      "pkeUranium": 517
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Inflagetite": {
-    "Indices": {
-      "pkeUranium": 518
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Dramsamaite": {
-    "Indices": {
-      "pkeUranium": 519
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Daikatunite": {
-    "Indices": {
-      "pkeUranium": 520
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "TM93": {
-    "Indices": {
-      "pkeUranium": 521
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "TM94": {
-    "Indices": {
-      "pkeUranium": 522
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Bike Wheel": {
-    "Indices": {
-      "pkeUranium": 523
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Carrot Wine": {
-    "Indices": {
-      "pkeUranium": 524
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Secret Note": {
-    "Indices": {
-      "pkeUranium": 525
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Syrentideite": {
-    "Indices": {
-      "pkeUranium": 526
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Unidentified Fallen Object": {
-    "Indices": {
-      "pkeUranium": 527
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "TM95": {
-    "Indices": {
-      "pkeUranium": 528
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Boxing Gloves": {
-    "Indices": {
-      "pkeUranium": 529
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Whimsicottite": {
-    "Indices": {
-      "pkeUranium": 548
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Arbokite": {
-    "Indices": {
-      "pkeUranium": 549
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Yoshitaka's Letter": {
-    "Indices": {
-      "pkeUranium": 550
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Prison Bottle": {
-    "Indices": {
-      "pkeUranium": 562
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Hafli Berry": {
-    "Indices": {
-      "pkeUranium": 571
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Kellyn's Letter": {
-    "Indices": {
-      "pkeUranium": 572
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Burnt Notebook": {
-    "Indices": {
-      "pkeUranium": 573
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Rusty Key": {
-    "Indices": {
-      "pkeUranium": 574
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Power Glove": {
-    "Indices": {
-      "pkeUranium": 575
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Nuclear Ball": {
-    "Indices": {
-      "pkeUranium": 576
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Power Cell": {
-    "Indices": {
-      "pkeUranium": 578
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Maria's Key": {
-    "Indices": {
-      "pkeUranium": 579
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Oval Charm": {
-    "Indices": {
-      "pkeUranium": 580
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Shiny Charm": {
-    "Indices": {
-      "pkeUranium": 581
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Aromatic Herb": {
-    "Indices": {
-      "pkeUranium": 582
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Air Mail": {
-    "Indices": {
-      "pkeUranium": 583
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Uranium Core": {
-    "Indices": {
-      "pkeUranium": 585
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Kiricornite": {
-    "Indices": {
-      "pkeUranium": 586
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Gold Fossil": {
-    "Indices": {
-      "pkeUranium": 587
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "TM97": {
-    "Indices": {
-      "pkeUranium": 588
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "TM98": {
-    "Indices": {
-      "pkeUranium": 589
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "TM99": {
-    "Indices": {
-      "pkeUranium": 590
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "TM100": {
-    "Indices": {
-      "pkeUranium": 591
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Surfboard": {
-    "Indices": {
-      "pkeUranium": 592
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Scuba Gear": {
-    "Indices": {
-      "pkeUranium": 593
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Climbing Pick": {
-    "Indices": {
-      "pkeUranium": 594
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Rich Mulch": {
-    "Indices": {
-      "pkeUranium": 595
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Sprinklotad": {
-    "Indices": {
-      "pkeUranium": 596
-    },
-    "Exists in": ["pkeUranium"]
-  },
-  "Quadcopter": {
-    "Indices": {
-      "pkeUranium": 597
-    },
-    "Exists in": ["pkeUranium"]
+    "Exists in": ["pk3"]
   }
 }

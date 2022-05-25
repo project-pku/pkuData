@@ -66,7 +66,8 @@ for key in dexlist:
   # merge datadexes
   first = True
   base = None
-  for x in dexlist[key]["SubDexes"]:
+  # reverse order (so that earlier dexes have precedent i.e. override later ones.)
+  for x in reversed(dexlist[key]["SubDexes"]):
     sdex = commentjson.load(open(os.path.join(root, dexlist[key]["SubDexes"][x]), encoding="utf8"))
     if first:
       base = sdex

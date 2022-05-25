@@ -1,2096 +1,1540 @@
 {
   "None": {
     "Indices": {
-      "main-series": 0,
+      "pkeUranium": 0,
       "Showdown": "No Ability",
-      "pkeUranium": 0
+      "main-series": 0
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Stench": {
     "Indices": {
-      "main-series": 1,
+      "pkeUranium": 1,
       "Showdown": "Stench",
-      "pkeUranium": 1
+      "main-series": 1
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Drizzle": {
     "Indices": {
-      "main-series": 2,
+      "pkeUranium": 2,
       "Showdown": "Drizzle",
-      "pkeUranium": 2
+      "main-series": 2
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Speed Boost": {
     "Indices": {
-      "main-series": 3,
+      "pkeUranium": 3,
       "Showdown": "Speed Boost",
-      "pkeUranium": 3
+      "main-series": 3
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Battle Armor": {
     "Indices": {
-      "main-series": 4,
+      "pkeUranium": 4,
       "Showdown": "Battle Armor",
-      "pkeUranium": 4
+      "main-series": 4
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Sturdy": {
     "Indices": {
-      "main-series": 5,
+      "pkeUranium": 5,
       "Showdown": "Sturdy",
-      "pkeUranium": 5
+      "main-series": 5
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Damp": {
     "Indices": {
-      "main-series": 6,
+      "pkeUranium": 6,
       "Showdown": "Damp",
-      "pkeUranium": 6
+      "main-series": 6
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Limber": {
     "Indices": {
-      "main-series": 7,
+      "pkeUranium": 7,
       "Showdown": "Limber",
-      "pkeUranium": 7
+      "main-series": 7
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Sand Veil": {
     "Indices": {
-      "main-series": 8,
+      "pkeUranium": 8,
       "Showdown": "Sand Veil",
-      "pkeUranium": 8
+      "main-series": 8
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Static": {
     "Indices": {
-      "main-series": 9,
+      "pkeUranium": 9,
       "Showdown": "Static",
-      "pkeUranium": 9
+      "main-series": 9
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Volt Absorb": {
     "Indices": {
-      "main-series": 10,
+      "pkeUranium": 10,
       "Showdown": "Volt Absorb",
-      "pkeUranium": 10
+      "main-series": 10
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Water Absorb": {
     "Indices": {
-      "main-series": 11,
+      "pkeUranium": 11,
       "Showdown": "Water Absorb",
-      "pkeUranium": 11
+      "main-series": 11
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Oblivious": {
     "Indices": {
-      "main-series": 12,
+      "pkeUranium": 12,
       "Showdown": "Oblivious",
-      "pkeUranium": 12
+      "main-series": 12
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Cloud Nine": {
     "Indices": {
-      "main-series": 13,
+      "pkeUranium": 13,
       "Showdown": "Cloud Nine",
-      "pkeUranium": 13
+      "main-series": 13
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Compound Eyes": {
     "Indices": {
-      "main-series": 14,
+      "pkeUranium": 14,
       "Showdown": "Compound Eyes",
-      "pkeUranium": 14
+      "main-series": 14
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Insomnia": {
     "Indices": {
-      "main-series": 15,
+      "pkeUranium": 15,
       "Showdown": "Insomnia",
-      "pkeUranium": 15
+      "main-series": 15
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Color Change": {
     "Indices": {
-      "main-series": 16,
+      "pkeUranium": 16,
       "Showdown": "Color Change",
-      "pkeUranium": 16
+      "main-series": 16
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Immunity": {
     "Indices": {
-      "main-series": 17,
+      "pkeUranium": 17,
       "Showdown": "Immunity",
-      "pkeUranium": 17
+      "main-series": 17
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Flash Fire": {
     "Indices": {
-      "main-series": 18,
+      "pkeUranium": 18,
       "Showdown": "Flash Fire",
-      "pkeUranium": 18
+      "main-series": 18
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Shield Dust": {
     "Indices": {
-      "main-series": 19,
+      "pkeUranium": 19,
       "Showdown": "Shield Dust",
-      "pkeUranium": 19
+      "main-series": 19
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Own Tempo": {
     "Indices": {
-      "main-series": 20,
+      "pkeUranium": 20,
       "Showdown": "Own Tempo",
-      "pkeUranium": 20
+      "main-series": 20
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Suction Cups": {
     "Indices": {
-      "main-series": 21,
+      "pkeUranium": 21,
       "Showdown": "Suction Cups",
-      "pkeUranium": 21
+      "main-series": 21
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Intimidate": {
     "Indices": {
-      "main-series": 22,
+      "pkeUranium": 22,
       "Showdown": "Intimidate",
-      "pkeUranium": 22
+      "main-series": 22
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Shadow Tag": {
     "Indices": {
-      "main-series": 23,
+      "pkeUranium": 23,
       "Showdown": "Shadow Tag",
-      "pkeUranium": 23
+      "main-series": 23
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Rough Skin": {
     "Indices": {
-      "main-series": 24,
+      "pkeUranium": 24,
       "Showdown": "Rough Skin",
-      "pkeUranium": 24
+      "main-series": 24
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Wonder Guard": {
     "Indices": {
-      "main-series": 25,
+      "pkeUranium": 25,
       "Showdown": "Wonder Guard",
-      "pkeUranium": 25
+      "main-series": 25
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Levitate": {
     "Indices": {
-      "main-series": 26,
+      "pkeUranium": 26,
       "Showdown": "Levitate",
-      "pkeUranium": 26
+      "main-series": 26
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Effect Spore": {
     "Indices": {
-      "main-series": 27,
+      "pkeUranium": 27,
       "Showdown": "Effect Spore",
-      "pkeUranium": 27
+      "main-series": 27
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Synchronize": {
     "Indices": {
-      "main-series": 28,
+      "pkeUranium": 28,
       "Showdown": "Synchronize",
-      "pkeUranium": 28
+      "main-series": 28
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Clear Body": {
     "Indices": {
-      "main-series": 29,
+      "pkeUranium": 29,
       "Showdown": "Clear Body",
-      "pkeUranium": 29
+      "main-series": 29
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Natural Cure": {
     "Indices": {
-      "main-series": 30,
+      "pkeUranium": 30,
       "Showdown": "Natural Cure",
-      "pkeUranium": 30
+      "main-series": 30
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Lightning Rod": {
     "Indices": {
-      "main-series": 31,
+      "pkeUranium": 31,
       "Showdown": "Lightning Rod",
-      "pkeUranium": 31
+      "main-series": 31
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Serene Grace": {
     "Indices": {
-      "main-series": 32,
+      "pkeUranium": 32,
       "Showdown": "Serene Grace",
-      "pkeUranium": 32
+      "main-series": 32
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Swift Swim": {
     "Indices": {
-      "main-series": 33,
+      "pkeUranium": 33,
       "Showdown": "Swift Swim",
-      "pkeUranium": 33
+      "main-series": 33
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Chlorophyll": {
     "Indices": {
-      "main-series": 34,
+      "pkeUranium": 34,
       "Showdown": "Chlorophyll",
-      "pkeUranium": 34
+      "main-series": 34
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Illuminate": {
     "Indices": {
-      "main-series": 35,
+      "pkeUranium": 35,
       "Showdown": "Illuminate",
-      "pkeUranium": 35
+      "main-series": 35
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Trace": {
     "Indices": {
-      "main-series": 36,
+      "pkeUranium": 36,
       "Showdown": "Trace",
-      "pkeUranium": 36
+      "main-series": 36
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Huge Power": {
     "Indices": {
-      "main-series": 37,
+      "pkeUranium": 37,
       "Showdown": "Huge Power",
-      "pkeUranium": 37
+      "main-series": 37
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Poison Point": {
     "Indices": {
-      "main-series": 38,
+      "pkeUranium": 38,
       "Showdown": "Poison Point",
-      "pkeUranium": 38
+      "main-series": 38
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Inner Focus": {
     "Indices": {
-      "main-series": 39,
+      "pkeUranium": 39,
       "Showdown": "Inner Focus",
-      "pkeUranium": 39
+      "main-series": 39
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Magma Armor": {
     "Indices": {
-      "main-series": 40,
+      "pkeUranium": 40,
       "Showdown": "Magma Armor",
-      "pkeUranium": 40
+      "main-series": 40
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Water Veil": {
     "Indices": {
-      "main-series": 41,
+      "pkeUranium": 41,
       "Showdown": "Water Veil",
-      "pkeUranium": 41
+      "main-series": 41
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Magnet Pull": {
     "Indices": {
-      "main-series": 42,
+      "pkeUranium": 42,
       "Showdown": "Magnet Pull",
-      "pkeUranium": 42
+      "main-series": 42
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Soundproof": {
     "Indices": {
-      "main-series": 43,
+      "pkeUranium": 43,
       "Showdown": "Soundproof",
-      "pkeUranium": 43
+      "main-series": 43
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Rain Dish": {
     "Indices": {
-      "main-series": 44,
+      "pkeUranium": 44,
       "Showdown": "Rain Dish",
-      "pkeUranium": 44
+      "main-series": 44
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Sand Stream": {
     "Indices": {
-      "main-series": 45,
+      "pkeUranium": 45,
       "Showdown": "Sand Stream",
-      "pkeUranium": 45
+      "main-series": 45
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Pressure": {
     "Indices": {
-      "main-series": 46,
+      "pkeUranium": 46,
       "Showdown": "Pressure",
-      "pkeUranium": 46
+      "main-series": 46
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Thick Fat": {
     "Indices": {
-      "main-series": 47,
+      "pkeUranium": 47,
       "Showdown": "Thick Fat",
-      "pkeUranium": 47
+      "main-series": 47
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Early Bird": {
     "Indices": {
-      "main-series": 48,
+      "pkeUranium": 48,
       "Showdown": "Early Bird",
-      "pkeUranium": 48
+      "main-series": 48
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Flame Body": {
     "Indices": {
-      "main-series": 49,
+      "pkeUranium": 49,
       "Showdown": "Flame Body",
-      "pkeUranium": 49
+      "main-series": 49
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Run Away": {
     "Indices": {
-      "main-series": 50,
+      "pkeUranium": 50,
       "Showdown": "Run Away",
-      "pkeUranium": 50
+      "main-series": 50
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Keen Eye": {
     "Indices": {
-      "main-series": 51,
+      "pkeUranium": 51,
       "Showdown": "Keen Eye",
-      "pkeUranium": 51
+      "main-series": 51
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Hyper Cutter": {
     "Indices": {
-      "main-series": 52,
+      "pkeUranium": 52,
       "Showdown": "Hyper Cutter",
-      "pkeUranium": 52
+      "main-series": 52
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Pickup": {
     "Indices": {
-      "main-series": 53,
+      "pkeUranium": 53,
       "Showdown": "Pickup",
-      "pkeUranium": 53
+      "main-series": 53
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Truant": {
     "Indices": {
-      "main-series": 54,
+      "pkeUranium": 54,
       "Showdown": "Truant",
-      "pkeUranium": 54
+      "main-series": 54
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Hustle": {
     "Indices": {
-      "main-series": 55,
+      "pkeUranium": 55,
       "Showdown": "Hustle",
-      "pkeUranium": 55
+      "main-series": 55
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Cute Charm": {
     "Indices": {
-      "main-series": 56,
+      "pkeUranium": 56,
       "Showdown": "Cute Charm",
-      "pkeUranium": 56
+      "main-series": 56
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Plus": {
     "Indices": {
-      "main-series": 57,
+      "pkeUranium": 57,
       "Showdown": "Plus",
-      "pkeUranium": 57
+      "main-series": 57
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Minus": {
     "Indices": {
-      "main-series": 58,
+      "pkeUranium": 58,
       "Showdown": "Minus",
-      "pkeUranium": 58
+      "main-series": 58
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Forecast": {
     "Indices": {
-      "main-series": 59,
+      "pkeUranium": 59,
       "Showdown": "Forecast",
-      "pkeUranium": 59
+      "main-series": 59
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Sticky Hold": {
     "Indices": {
-      "main-series": 60,
+      "pkeUranium": 60,
       "Showdown": "Sticky Hold",
-      "pkeUranium": 60
+      "main-series": 60
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Shed Skin": {
     "Indices": {
-      "main-series": 61,
+      "pkeUranium": 61,
       "Showdown": "Shed Skin",
-      "pkeUranium": 61
+      "main-series": 61
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Guts": {
     "Indices": {
-      "main-series": 62,
+      "pkeUranium": 62,
       "Showdown": "Guts",
-      "pkeUranium": 62
+      "main-series": 62
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Marvel Scale": {
     "Indices": {
-      "main-series": 63,
+      "pkeUranium": 63,
       "Showdown": "Marvel Scale",
-      "pkeUranium": 63
+      "main-series": 63
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Liquid Ooze": {
     "Indices": {
-      "main-series": 64,
+      "pkeUranium": 64,
       "Showdown": "Liquid Ooze",
-      "pkeUranium": 64
+      "main-series": 64
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Overgrow": {
     "Indices": {
-      "main-series": 65,
+      "pkeUranium": 65,
       "Showdown": "Overgrow",
-      "pkeUranium": 65
+      "main-series": 65
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Blaze": {
     "Indices": {
-      "main-series": 66,
+      "pkeUranium": 66,
       "Showdown": "Blaze",
-      "pkeUranium": 66
+      "main-series": 66
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Torrent": {
     "Indices": {
-      "main-series": 67,
+      "pkeUranium": 67,
       "Showdown": "Torrent",
-      "pkeUranium": 67
+      "main-series": 67
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Swarm": {
     "Indices": {
-      "main-series": 68,
+      "pkeUranium": 68,
       "Showdown": "Swarm",
-      "pkeUranium": 68
+      "main-series": 68
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Rock Head": {
     "Indices": {
-      "main-series": 69,
+      "pkeUranium": 69,
       "Showdown": "Rock Head",
-      "pkeUranium": 69
+      "main-series": 69
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Drought": {
     "Indices": {
-      "main-series": 70,
+      "pkeUranium": 70,
       "Showdown": "Drought",
-      "pkeUranium": 70
+      "main-series": 70
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Arena Trap": {
     "Indices": {
-      "main-series": 71,
+      "pkeUranium": 71,
       "Showdown": "Arena Trap",
-      "pkeUranium": 71
+      "main-series": 71
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Vital Spirit": {
     "Indices": {
-      "main-series": 72,
+      "pkeUranium": 72,
       "Showdown": "Vital Spirit",
-      "pkeUranium": 72
+      "main-series": 72
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "White Smoke": {
     "Indices": {
-      "main-series": 73,
+      "pkeUranium": 73,
       "Showdown": "White Smoke",
-      "pkeUranium": 73
+      "main-series": 73
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Pure Power": {
     "Indices": {
-      "main-series": 74,
+      "pkeUranium": 74,
       "Showdown": "Pure Power",
-      "pkeUranium": 74
+      "main-series": 74
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Shell Armor": {
     "Indices": {
-      "main-series": 75,
+      "pkeUranium": 75,
       "Showdown": "Shell Armor",
-      "pkeUranium": 75
+      "main-series": 75
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Air Lock": {
     "Indices": {
-      "main-series": 76,
-      "pk3": 77,
+      "pkeUranium": 76,
       "Showdown": "Air Lock",
-      "pkeUranium": 76
+      "pk3": 77,
+      "main-series": 76
     },
-    "Exists in": ["pk3", "Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown", "pk3"]
   },
   "Tangled Feet": {
     "Indices": {
-      "main-series": 77,
+      "pkeUranium": 77,
       "Showdown": "Tangled Feet",
-      "pkeUranium": 77
+      "main-series": 77
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Motor Drive": {
     "Indices": {
-      "main-series": 78,
+      "pkeUranium": 78,
       "Showdown": "Motor Drive",
-      "pkeUranium": 78
+      "main-series": 78
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Rivalry": {
     "Indices": {
-      "main-series": 79,
+      "pkeUranium": 79,
       "Showdown": "Rivalry",
-      "pkeUranium": 79
+      "main-series": 79
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Steadfast": {
     "Indices": {
-      "main-series": 80,
+      "pkeUranium": 80,
       "Showdown": "Steadfast",
-      "pkeUranium": 80
+      "main-series": 80
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Snow Cloak": {
     "Indices": {
-      "main-series": 81,
+      "pkeUranium": 81,
       "Showdown": "Snow Cloak",
-      "pkeUranium": 81
+      "main-series": 81
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Gluttony": {
     "Indices": {
-      "main-series": 82,
+      "pkeUranium": 82,
       "Showdown": "Gluttony",
-      "pkeUranium": 82
+      "main-series": 82
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Anger Point": {
     "Indices": {
-      "main-series": 83,
+      "pkeUranium": 83,
       "Showdown": "Anger Point",
-      "pkeUranium": 83
+      "main-series": 83
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Unburden": {
     "Indices": {
-      "main-series": 84,
+      "pkeUranium": 84,
       "Showdown": "Unburden",
-      "pkeUranium": 84
+      "main-series": 84
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Heatproof": {
     "Indices": {
-      "main-series": 85,
+      "pkeUranium": 85,
       "Showdown": "Heatproof",
-      "pkeUranium": 85
+      "main-series": 85
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Simple": {
     "Indices": {
-      "main-series": 86,
+      "pkeUranium": 86,
       "Showdown": "Simple",
-      "pkeUranium": 86
+      "main-series": 86
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Dry Skin": {
     "Indices": {
-      "main-series": 87,
+      "pkeUranium": 87,
       "Showdown": "Dry Skin",
-      "pkeUranium": 87
+      "main-series": 87
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Download": {
     "Indices": {
-      "main-series": 88,
+      "pkeUranium": 88,
       "Showdown": "Download",
-      "pkeUranium": 88
+      "main-series": 88
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Iron Fist": {
     "Indices": {
-      "main-series": 89,
+      "pkeUranium": 89,
       "Showdown": "Iron Fist",
-      "pkeUranium": 89
+      "main-series": 89
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Poison Heal": {
     "Indices": {
-      "main-series": 90,
+      "pkeUranium": 90,
       "Showdown": "Poison Heal",
-      "pkeUranium": 90
+      "main-series": 90
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Adaptability": {
     "Indices": {
-      "main-series": 91,
+      "pkeUranium": 91,
       "Showdown": "Adaptability",
-      "pkeUranium": 91
+      "main-series": 91
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Skill Link": {
     "Indices": {
-      "main-series": 92,
+      "pkeUranium": 92,
       "Showdown": "Skill Link",
-      "pkeUranium": 92
+      "main-series": 92
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Hydration": {
     "Indices": {
-      "main-series": 93,
+      "pkeUranium": 93,
       "Showdown": "Hydration",
-      "pkeUranium": 93
+      "main-series": 93
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Solar Power": {
     "Indices": {
-      "main-series": 94,
+      "pkeUranium": 94,
       "Showdown": "Solar Power",
-      "pkeUranium": 94
+      "main-series": 94
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Quick Feet": {
     "Indices": {
-      "main-series": 95,
+      "pkeUranium": 95,
       "Showdown": "Quick Feet",
-      "pkeUranium": 95
+      "main-series": 95
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Normalize": {
     "Indices": {
-      "main-series": 96,
+      "pkeUranium": 96,
       "Showdown": "Normalize",
-      "pkeUranium": 96
+      "main-series": 96
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Sniper": {
     "Indices": {
-      "main-series": 97,
+      "pkeUranium": 97,
       "Showdown": "Sniper",
-      "pkeUranium": 97
+      "main-series": 97
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Magic Guard": {
     "Indices": {
-      "main-series": 98,
+      "pkeUranium": 98,
       "Showdown": "Magic Guard",
-      "pkeUranium": 98
+      "main-series": 98
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "No Guard": {
     "Indices": {
-      "main-series": 99,
+      "pkeUranium": 99,
       "Showdown": "No Guard",
-      "pkeUranium": 99
+      "main-series": 99
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Stall": {
     "Indices": {
-      "main-series": 100,
+      "pkeUranium": 100,
       "Showdown": "Stall",
-      "pkeUranium": 100
+      "main-series": 100
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Technician": {
     "Indices": {
-      "main-series": 101,
+      "pkeUranium": 101,
       "Showdown": "Technician",
-      "pkeUranium": 101
+      "main-series": 101
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Leaf Guard": {
     "Indices": {
-      "main-series": 102,
+      "pkeUranium": 102,
       "Showdown": "Leaf Guard",
-      "pkeUranium": 102
+      "main-series": 102
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Klutz": {
     "Indices": {
-      "main-series": 103,
+      "pkeUranium": 103,
       "Showdown": "Klutz",
-      "pkeUranium": 103
+      "main-series": 103
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Mold Breaker": {
     "Indices": {
-      "main-series": 104,
+      "pkeUranium": 104,
       "Showdown": "Mold Breaker",
-      "pkeUranium": 104
+      "main-series": 104
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Super Luck": {
     "Indices": {
-      "main-series": 105,
+      "pkeUranium": 105,
       "Showdown": "Super Luck",
-      "pkeUranium": 105
+      "main-series": 105
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Aftermath": {
     "Indices": {
-      "main-series": 106,
+      "pkeUranium": 106,
       "Showdown": "Aftermath",
-      "pkeUranium": 106
+      "main-series": 106
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Anticipation": {
     "Indices": {
-      "main-series": 107,
+      "pkeUranium": 107,
       "Showdown": "Anticipation",
-      "pkeUranium": 107
+      "main-series": 107
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Forewarn": {
     "Indices": {
-      "main-series": 108,
+      "pkeUranium": 108,
       "Showdown": "Forewarn",
-      "pkeUranium": 108
+      "main-series": 108
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Unaware": {
     "Indices": {
-      "main-series": 109,
+      "pkeUranium": 109,
       "Showdown": "Unaware",
-      "pkeUranium": 109
+      "main-series": 109
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Tinted Lens": {
     "Indices": {
-      "main-series": 110,
+      "pkeUranium": 110,
       "Showdown": "Tinted Lens",
-      "pkeUranium": 110
+      "main-series": 110
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Filter": {
     "Indices": {
-      "main-series": 111,
+      "pkeUranium": 111,
       "Showdown": "Filter",
-      "pkeUranium": 111
+      "main-series": 111
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Slow Start": {
     "Indices": {
-      "main-series": 112,
+      "pkeUranium": 112,
       "Showdown": "Slow Start",
-      "pkeUranium": 112
+      "main-series": 112
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Scrappy": {
     "Indices": {
-      "main-series": 113,
+      "pkeUranium": 113,
       "Showdown": "Scrappy",
-      "pkeUranium": 113
+      "main-series": 113
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Storm Drain": {
     "Indices": {
-      "main-series": 114,
+      "pkeUranium": 114,
       "Showdown": "Storm Drain",
-      "pkeUranium": 114
+      "main-series": 114
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Ice Body": {
     "Indices": {
-      "main-series": 115,
+      "pkeUranium": 115,
       "Showdown": "Ice Body",
-      "pkeUranium": 115
+      "main-series": 115
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Solid Rock": {
     "Indices": {
-      "main-series": 116,
+      "pkeUranium": 116,
       "Showdown": "Solid Rock",
-      "pkeUranium": 116
+      "main-series": 116
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Snow Warning": {
     "Indices": {
-      "main-series": 117,
+      "pkeUranium": 117,
       "Showdown": "Snow Warning",
-      "pkeUranium": 117
+      "main-series": 117
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Honey Gather": {
     "Indices": {
-      "main-series": 118,
+      "pkeUranium": 118,
       "Showdown": "Honey Gather",
-      "pkeUranium": 118
+      "main-series": 118
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Frisk": {
     "Indices": {
-      "main-series": 119,
+      "pkeUranium": 119,
       "Showdown": "Frisk",
-      "pkeUranium": 119
+      "main-series": 119
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Reckless": {
     "Indices": {
-      "main-series": 120,
+      "pkeUranium": 120,
       "Showdown": "Reckless",
-      "pkeUranium": 120
+      "main-series": 120
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Multitype": {
     "Indices": {
-      "main-series": 121,
+      "pkeUranium": 121,
       "Showdown": "Multitype",
-      "pkeUranium": 121
+      "main-series": 121
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Flower Gift": {
     "Indices": {
-      "main-series": 122,
+      "pkeUranium": 122,
       "Showdown": "Flower Gift",
-      "pkeUranium": 122
+      "main-series": 122
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Bad Dreams": {
     "Indices": {
-      "main-series": 123,
+      "pkeUranium": 123,
       "Showdown": "Bad Dreams",
-      "pkeUranium": 123
+      "main-series": 123
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Pickpocket": {
     "Indices": {
-      "main-series": 124,
+      "pkeUranium": 124,
       "Showdown": "Pickpocket",
-      "pkeUranium": 124
+      "main-series": 124
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Sheer Force": {
     "Indices": {
-      "main-series": 125,
+      "pkeUranium": 125,
       "Showdown": "Sheer Force",
-      "pkeUranium": 125
+      "main-series": 125
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Contrary": {
     "Indices": {
-      "main-series": 126,
+      "pkeUranium": 126,
       "Showdown": "Contrary",
-      "pkeUranium": 126
+      "main-series": 126
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Unnerve": {
     "Indices": {
-      "main-series": 127,
+      "pkeUranium": 127,
       "Showdown": "Unnerve",
-      "pkeUranium": 127
+      "main-series": 127
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Defiant": {
     "Indices": {
-      "main-series": 128,
+      "pkeUranium": 128,
       "Showdown": "Defiant",
-      "pkeUranium": 128
+      "main-series": 128
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Defeatist": {
     "Indices": {
-      "main-series": 129,
+      "pkeUranium": 129,
       "Showdown": "Defeatist",
-      "pkeUranium": 129
+      "main-series": 129
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Cursed Body": {
     "Indices": {
-      "main-series": 130,
+      "pkeUranium": 130,
       "Showdown": "Cursed Body",
-      "pkeUranium": 130
+      "main-series": 130
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Healer": {
     "Indices": {
-      "main-series": 131,
+      "pkeUranium": 131,
       "Showdown": "Healer",
-      "pkeUranium": 131
+      "main-series": 131
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Friend Guard": {
     "Indices": {
-      "main-series": 132,
+      "pkeUranium": 132,
       "Showdown": "Friend Guard",
-      "pkeUranium": 132
+      "main-series": 132
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Weak Armor": {
     "Indices": {
-      "main-series": 133,
+      "pkeUranium": 133,
       "Showdown": "Weak Armor",
-      "pkeUranium": 133
+      "main-series": 133
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Heavy Metal": {
     "Indices": {
-      "main-series": 134,
+      "pkeUranium": 134,
       "Showdown": "Heavy Metal",
-      "pkeUranium": 134
+      "main-series": 134
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Light Metal": {
     "Indices": {
-      "main-series": 135,
+      "pkeUranium": 135,
       "Showdown": "Light Metal",
-      "pkeUranium": 135
+      "main-series": 135
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Multiscale": {
     "Indices": {
-      "main-series": 136,
+      "pkeUranium": 136,
       "Showdown": "Multiscale",
-      "pkeUranium": 136
+      "main-series": 136
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Toxic Boost": {
     "Indices": {
-      "main-series": 137,
+      "pkeUranium": 137,
       "Showdown": "Toxic Boost",
-      "pkeUranium": 137
+      "main-series": 137
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Flare Boost": {
     "Indices": {
-      "main-series": 138,
+      "pkeUranium": 138,
       "Showdown": "Flare Boost",
-      "pkeUranium": 138
+      "main-series": 138
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Harvest": {
     "Indices": {
-      "main-series": 139,
+      "pkeUranium": 139,
       "Showdown": "Harvest",
-      "pkeUranium": 139
+      "main-series": 139
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Telepathy": {
     "Indices": {
-      "main-series": 140,
+      "pkeUranium": 140,
       "Showdown": "Telepathy",
-      "pkeUranium": 140
+      "main-series": 140
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Moody": {
     "Indices": {
-      "main-series": 141,
+      "pkeUranium": 141,
       "Showdown": "Moody",
-      "pkeUranium": 141
+      "main-series": 141
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Overcoat": {
     "Indices": {
-      "main-series": 142,
+      "pkeUranium": 142,
       "Showdown": "Overcoat",
-      "pkeUranium": 142
+      "main-series": 142
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Poison Touch": {
     "Indices": {
-      "main-series": 143,
+      "pkeUranium": 143,
       "Showdown": "Poison Touch",
-      "pkeUranium": 143
+      "main-series": 143
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Regenerator": {
     "Indices": {
-      "main-series": 144,
+      "pkeUranium": 144,
       "Showdown": "Regenerator",
-      "pkeUranium": 144
+      "main-series": 144
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Big Pecks": {
     "Indices": {
-      "main-series": 145,
+      "pkeUranium": 145,
       "Showdown": "Big Pecks",
-      "pkeUranium": 145
+      "main-series": 145
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Sand Rush": {
     "Indices": {
-      "main-series": 146,
+      "pkeUranium": 146,
       "Showdown": "Sand Rush",
-      "pkeUranium": 146
+      "main-series": 146
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Wonder Skin": {
     "Indices": {
-      "main-series": 147,
+      "pkeUranium": 147,
       "Showdown": "Wonder Skin",
-      "pkeUranium": 147
+      "main-series": 147
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Analytic": {
     "Indices": {
-      "main-series": 148,
+      "pkeUranium": 148,
       "Showdown": "Analytic",
-      "pkeUranium": 148
+      "main-series": 148
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Illusion": {
     "Indices": {
-      "main-series": 149,
+      "pkeUranium": 149,
       "Showdown": "Illusion",
-      "pkeUranium": 149
+      "main-series": 149
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Imposter": {
     "Indices": {
-      "main-series": 150,
+      "pkeUranium": 150,
       "Showdown": "Imposter",
-      "pkeUranium": 150
+      "main-series": 150
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Infiltrator": {
     "Indices": {
-      "main-series": 151,
+      "pkeUranium": 151,
       "Showdown": "Infiltrator",
-      "pkeUranium": 151
+      "main-series": 151
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Mummy": {
     "Indices": {
-      "main-series": 152,
+      "pkeUranium": 152,
       "Showdown": "Mummy",
-      "pkeUranium": 152
+      "main-series": 152
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Moxie": {
     "Indices": {
-      "main-series": 153,
+      "pkeUranium": 153,
       "Showdown": "Moxie",
-      "pkeUranium": 153
+      "main-series": 153
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Justified": {
     "Indices": {
-      "main-series": 154,
+      "pkeUranium": 154,
       "Showdown": "Justified",
-      "pkeUranium": 154
+      "main-series": 154
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Rattled": {
     "Indices": {
-      "main-series": 155,
+      "pkeUranium": 155,
       "Showdown": "Rattled",
-      "pkeUranium": 155
+      "main-series": 155
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Magic Bounce": {
     "Indices": {
-      "main-series": 156,
+      "pkeUranium": 156,
       "Showdown": "Magic Bounce",
-      "pkeUranium": 156
+      "main-series": 156
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Sap Sipper": {
     "Indices": {
-      "main-series": 157,
+      "pkeUranium": 157,
       "Showdown": "Sap Sipper",
-      "pkeUranium": 157
+      "main-series": 157
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Prankster": {
     "Indices": {
-      "main-series": 158,
+      "pkeUranium": 158,
       "Showdown": "Prankster",
-      "pkeUranium": 158
+      "main-series": 158
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Sand Force": {
     "Indices": {
-      "main-series": 159,
+      "pkeUranium": 159,
       "Showdown": "Sand Force",
-      "pkeUranium": 159
+      "main-series": 159
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Iron Barbs": {
     "Indices": {
-      "main-series": 160,
+      "pkeUranium": 160,
       "Showdown": "Iron Barbs",
-      "pkeUranium": 160
+      "main-series": 160
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Zen Mode": {
     "Indices": {
-      "main-series": 161,
+      "pkeUranium": 161,
       "Showdown": "Zen Mode",
-      "pkeUranium": 161
+      "main-series": 161
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Victory Star": {
     "Indices": {
-      "main-series": 162,
+      "pkeUranium": 162,
       "Showdown": "Victory Star",
-      "pkeUranium": 162
+      "main-series": 162
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Turboblaze": {
     "Indices": {
-      "main-series": 163,
+      "pkeUranium": 163,
       "Showdown": "Turboblaze",
-      "pkeUranium": 163
+      "main-series": 163
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Teravolt": {
     "Indices": {
-      "main-series": 164,
+      "pkeUranium": 164,
       "Showdown": "Teravolt",
-      "pkeUranium": 164
+      "main-series": 164
     },
-    "Exists in": ["Showdown", "pkeUranium"]
-  },
-  "Aroma Veil": {
-    "Indices": {
-      "main-series": 165,
-      "Showdown": "Aroma Veil",
-      "pkeUranium": 166
-    },
-    "Exists in": ["Showdown", "pkeUranium"]
-  },
-  "Flower Veil": {
-    "Indices": {
-      "main-series": 166,
-      "Showdown": "Flower Veil",
-      "pkeUranium": 173
-    },
-    "Exists in": ["Showdown", "pkeUranium"]
-  },
-  "Cheek Pouch": {
-    "Indices": {
-      "main-series": 167,
-      "Showdown": "Cheek Pouch",
-      "pkeUranium": 169
-    },
-    "Exists in": ["Showdown", "pkeUranium"]
-  },
-  "Protean": {
-    "Indices": {
-      "main-series": 168,
-      "Showdown": "Protean",
-      "pkeUranium": 182
-    },
-    "Exists in": ["Showdown", "pkeUranium"]
-  },
-  "Fur Coat": {
-    "Indices": {
-      "main-series": 169,
-      "Showdown": "Fur Coat",
-      "pkeUranium": 174
-    },
-    "Exists in": ["Showdown", "pkeUranium"]
-  },
-  "Magician": {
-    "Indices": {
-      "main-series": 170,
-      "Showdown": "Magician",
-      "pkeUranium": 178
-    },
-    "Exists in": ["Showdown", "pkeUranium"]
-  },
-  "Bulletproof": {
-    "Indices": {
-      "main-series": 171,
-      "Showdown": "Bulletproof",
-      "pkeUranium": 168
-    },
-    "Exists in": ["Showdown", "pkeUranium"]
-  },
-  "Competitive": {
-    "Indices": {
-      "main-series": 172,
-      "Showdown": "Competitive",
-      "pkeUranium": 170
-    },
-    "Exists in": ["Showdown", "pkeUranium"]
-  },
-  "Strong Jaw": {
-    "Indices": {
-      "main-series": 173,
-      "Showdown": "Strong Jaw",
-      "pkeUranium": 185
-    },
-    "Exists in": ["Showdown", "pkeUranium"]
-  },
-  "Refrigerate": {
-    "Indices": {
-      "main-series": 174,
-      "Showdown": "Refrigerate",
-      "pkeUranium": 183
-    },
-    "Exists in": ["Showdown", "pkeUranium"]
-  },
-  "Sweet Veil": {
-    "Indices": {
-      "main-series": 175,
-      "Showdown": "Sweet Veil",
-      "pkeUranium": 186
-    },
-    "Exists in": ["Showdown", "pkeUranium"]
-  },
-  "Stance Change": {
-    "Indices": {
-      "main-series": 176,
-      "Showdown": "Stance Change",
-      "pkeUranium": 184
-    },
-    "Exists in": ["Showdown", "pkeUranium"]
-  },
-  "Gale Wings": {
-    "Indices": {
-      "main-series": 177,
-      "Showdown": "Gale Wings",
-      "pkeUranium": 175
-    },
-    "Exists in": ["Showdown", "pkeUranium"]
-  },
-  "Mega Launcher": {
-    "Indices": {
-      "main-series": 178,
-      "Showdown": "Mega Launcher",
-      "pkeUranium": 179
-    },
-    "Exists in": ["Showdown", "pkeUranium"]
-  },
-  "Grass Pelt": {
-    "Indices": {
-      "main-series": 179,
-      "Showdown": "Grass Pelt",
-      "pkeUranium": 177
-    },
-    "Exists in": ["Showdown", "pkeUranium"]
-  },
-  "Symbiosis": {
-    "Indices": {
-      "main-series": 180,
-      "Showdown": "Symbiosis",
-      "pkeUranium": 187
-    },
-    "Exists in": ["Showdown", "pkeUranium"]
-  },
-  "Tough Claws": {
-    "Indices": {
-      "main-series": 181,
-      "Showdown": "Tough Claws",
-      "pkeUranium": 188
-    },
-    "Exists in": ["Showdown", "pkeUranium"]
-  },
-  "Pixilate": {
-    "Indices": {
-      "main-series": 182,
-      "Showdown": "Pixilate",
-      "pkeUranium": 181
-    },
-    "Exists in": ["Showdown", "pkeUranium"]
-  },
-  "Gooey": {
-    "Indices": {
-      "main-series": 183,
-      "Showdown": "Gooey",
-      "pkeUranium": 176
-    },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Aerilate": {
     "Indices": {
-      "main-series": 184,
+      "pkeUranium": 165,
       "Showdown": "Aerilate",
-      "pkeUranium": 165
+      "main-series": 184
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
-  "Parental Bond": {
+  "Aroma Veil": {
     "Indices": {
-      "main-series": 185,
-      "Showdown": "Parental Bond",
-      "pkeUranium": 180
+      "pkeUranium": 166,
+      "Showdown": "Aroma Veil",
+      "main-series": 165
     },
-    "Exists in": ["Showdown", "pkeUranium"]
-  },
-  "Dark Aura": {
-    "Indices": {
-      "main-series": 186,
-      "Showdown": "Dark Aura",
-      "pkeUranium": 171
-    },
-    "Exists in": ["Showdown", "pkeUranium"]
-  },
-  "Fairy Aura": {
-    "Indices": {
-      "main-series": 187,
-      "Showdown": "Fairy Aura",
-      "pkeUranium": 172
-    },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Aura Break": {
     "Indices": {
-      "main-series": 188,
+      "pkeUranium": 167,
       "Showdown": "Aura Break",
-      "pkeUranium": 167
+      "main-series": 188
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
-  "Primordial Sea": {
+  "Bulletproof": {
     "Indices": {
-      "main-series": 189,
-      "Showdown": "Primordial Sea",
-      "pkeUranium": 190
+      "pkeUranium": 168,
+      "Showdown": "Bulletproof",
+      "main-series": 171
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
-  "Desolate Land": {
+  "Cheek Pouch": {
     "Indices": {
-      "main-series": 190,
-      "Showdown": "Desolate Land",
-      "pkeUranium": 191
+      "pkeUranium": 169,
+      "Showdown": "Cheek Pouch",
+      "main-series": 167
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Competitive": {
+    "Indices": {
+      "pkeUranium": 170,
+      "Showdown": "Competitive",
+      "main-series": 172
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Dark Aura": {
+    "Indices": {
+      "pkeUranium": 171,
+      "Showdown": "Dark Aura",
+      "main-series": 186
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Fairy Aura": {
+    "Indices": {
+      "pkeUranium": 172,
+      "Showdown": "Fairy Aura",
+      "main-series": 187
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Flower Veil": {
+    "Indices": {
+      "pkeUranium": 173,
+      "Showdown": "Flower Veil",
+      "main-series": 166
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Fur Coat": {
+    "Indices": {
+      "pkeUranium": 174,
+      "Showdown": "Fur Coat",
+      "main-series": 169
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Gale Wings": {
+    "Indices": {
+      "pkeUranium": 175,
+      "Showdown": "Gale Wings",
+      "main-series": 177
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Gooey": {
+    "Indices": {
+      "pkeUranium": 176,
+      "Showdown": "Gooey",
+      "main-series": 183
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Grass Pelt": {
+    "Indices": {
+      "pkeUranium": 177,
+      "Showdown": "Grass Pelt",
+      "main-series": 179
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Magician": {
+    "Indices": {
+      "pkeUranium": 178,
+      "Showdown": "Magician",
+      "main-series": 170
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Mega Launcher": {
+    "Indices": {
+      "pkeUranium": 179,
+      "Showdown": "Mega Launcher",
+      "main-series": 178
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Parental Bond": {
+    "Indices": {
+      "pkeUranium": 180,
+      "Showdown": "Parental Bond",
+      "main-series": 185
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Pixilate": {
+    "Indices": {
+      "pkeUranium": 181,
+      "Showdown": "Pixilate",
+      "main-series": 182
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Protean": {
+    "Indices": {
+      "pkeUranium": 182,
+      "Showdown": "Protean",
+      "main-series": 168
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Refrigerate": {
+    "Indices": {
+      "pkeUranium": 183,
+      "Showdown": "Refrigerate",
+      "main-series": 174
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Stance Change": {
+    "Indices": {
+      "pkeUranium": 184,
+      "Showdown": "Stance Change",
+      "main-series": 176
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Strong Jaw": {
+    "Indices": {
+      "pkeUranium": 185,
+      "Showdown": "Strong Jaw",
+      "main-series": 173
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Sweet Veil": {
+    "Indices": {
+      "pkeUranium": 186,
+      "Showdown": "Sweet Veil",
+      "main-series": 175
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Symbiosis": {
+    "Indices": {
+      "pkeUranium": 187,
+      "Showdown": "Symbiosis",
+      "main-series": 180
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
+  },
+  "Tough Claws": {
+    "Indices": {
+      "pkeUranium": 188,
+      "Showdown": "Tough Claws",
+      "main-series": 181
+    },
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Delta Stream": {
     "Indices": {
-      "main-series": 191,
+      "pkeUranium": 189,
       "Showdown": "Delta Stream",
-      "pkeUranium": 189
+      "main-series": 191
     },
-    "Exists in": ["Showdown", "pkeUranium"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
-  "Stamina": {
+  "Primordial Sea": {
     "Indices": {
-      "main-series": 192,
-      "Showdown": "Stamina"
+      "pkeUranium": 190,
+      "Showdown": "Primordial Sea",
+      "main-series": 189
     },
-    "Exists in": ["Showdown"]
+    "Exists in": ["pkeUranium", "Showdown"]
   },
-  "Wimp Out": {
+  "Desolate Land": {
     "Indices": {
-      "main-series": 193,
-      "Showdown": "Wimp Out"
+      "pkeUranium": 191,
+      "Showdown": "Desolate Land",
+      "main-series": 190
     },
-    "Exists in": ["Showdown"]
-  },
-  "Emergency Exit": {
-    "Indices": {
-      "main-series": 194,
-      "Showdown": "Emergency Exit"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Water Compaction": {
-    "Indices": {
-      "main-series": 195,
-      "Showdown": "Water Compaction"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Merciless": {
-    "Indices": {
-      "main-series": 196,
-      "Showdown": "Merciless"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Shields Down": {
-    "Indices": {
-      "main-series": 197,
-      "Showdown": "Shields Down"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Stakeout": {
-    "Indices": {
-      "main-series": 198,
-      "Showdown": "Stakeout"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Water Bubble": {
-    "Indices": {
-      "main-series": 199,
-      "Showdown": "Water Bubble"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Steelworker": {
-    "Indices": {
-      "main-series": 200,
-      "Showdown": "Steelworker"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Berserk": {
-    "Indices": {
-      "main-series": 201,
-      "Showdown": "Berserk"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Slush Rush": {
-    "Indices": {
-      "main-series": 202,
-      "Showdown": "Slush Rush"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Long Reach": {
-    "Indices": {
-      "main-series": 203,
-      "Showdown": "Long Reach"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Liquid Voice": {
-    "Indices": {
-      "main-series": 204,
-      "Showdown": "Liquid Voice"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Triage": {
-    "Indices": {
-      "main-series": 205,
-      "Showdown": "Triage"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Galvanize": {
-    "Indices": {
-      "main-series": 206,
-      "Showdown": "Galvanize"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Surge Surfer": {
-    "Indices": {
-      "main-series": 207,
-      "Showdown": "Surge Surfer"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Schooling": {
-    "Indices": {
-      "main-series": 208,
-      "Showdown": "Schooling"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Disguise": {
-    "Indices": {
-      "main-series": 209,
-      "Showdown": "Disguise"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Battle Bond": {
-    "Indices": {
-      "main-series": 210,
-      "Showdown": "Battle Bond"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Power Construct": {
-    "Indices": {
-      "main-series": 211,
-      "Showdown": "Power Construct"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Corrosion": {
-    "Indices": {
-      "main-series": 212,
-      "Showdown": "Corrosion"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Comatose": {
-    "Indices": {
-      "main-series": 213,
-      "Showdown": "Comatose"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Queenly Majesty": {
-    "Indices": {
-      "main-series": 214,
-      "Showdown": "Queenly Majesty"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Innards Out": {
-    "Indices": {
-      "main-series": 215,
-      "Showdown": "Innards Out"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Dancer": {
-    "Indices": {
-      "main-series": 216,
-      "Showdown": "Dancer"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Battery": {
-    "Indices": {
-      "main-series": 217,
-      "Showdown": "Battery"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Fluffy": {
-    "Indices": {
-      "main-series": 218,
-      "Showdown": "Fluffy"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Dazzling": {
-    "Indices": {
-      "main-series": 219,
-      "Showdown": "Dazzling"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Soul-Heart": {
-    "Indices": {
-      "main-series": 220,
-      "Showdown": "Soul-Heart"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Tangling Hair": {
-    "Indices": {
-      "main-series": 221,
-      "Showdown": "Tangling Hair"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Receiver": {
-    "Indices": {
-      "main-series": 222,
-      "Showdown": "Receiver"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Power of Alchemy": {
-    "Indices": {
-      "main-series": 223,
-      "Showdown": "Power of Alchemy"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Beast Boost": {
-    "Indices": {
-      "main-series": 224,
-      "Showdown": "Beast Boost"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "RKS System": {
-    "Indices": {
-      "main-series": 225,
-      "Showdown": "RKS System"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Electric Surge": {
-    "Indices": {
-      "main-series": 226,
-      "Showdown": "Electric Surge"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Psychic Surge": {
-    "Indices": {
-      "main-series": 227,
-      "Showdown": "Psychic Surge"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Misty Surge": {
-    "Indices": {
-      "main-series": 228,
-      "Showdown": "Misty Surge"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Grassy Surge": {
-    "Indices": {
-      "main-series": 229,
-      "Showdown": "Grassy Surge"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Full Metal Body": {
-    "Indices": {
-      "main-series": 230,
-      "Showdown": "Full Metal Body"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Shadow Shield": {
-    "Indices": {
-      "main-series": 231,
-      "Showdown": "Shadow Shield"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Prism Armor": {
-    "Indices": {
-      "main-series": 232,
-      "Showdown": "Prism Armor"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Neuroforce": {
-    "Indices": {
-      "main-series": 233,
-      "Showdown": "Neuroforce"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Intrepid Sword": {
-    "Indices": {
-      "main-series": 234,
-      "Showdown": "Intrepid Sword"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Dauntless Shield": {
-    "Indices": {
-      "main-series": 235,
-      "Showdown": "Dauntless Shield"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Libero": {
-    "Indices": {
-      "main-series": 236,
-      "Showdown": "Libero"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Ball Fetch": {
-    "Indices": {
-      "main-series": 237,
-      "Showdown": "Ball Fetch"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Cotton Down": {
-    "Indices": {
-      "main-series": 238,
-      "Showdown": "Cotton Down"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Propeller Tail": {
-    "Indices": {
-      "main-series": 239,
-      "Showdown": "Propeller Tail"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Mirror Armor": {
-    "Indices": {
-      "main-series": 240,
-      "Showdown": "Mirror Armor"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Gulp Missile": {
-    "Indices": {
-      "main-series": 241,
-      "Showdown": "Gulp Missile"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Stalwart": {
-    "Indices": {
-      "main-series": 242,
-      "Showdown": "Stalwart"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Steam Engine": {
-    "Indices": {
-      "main-series": 243,
-      "Showdown": "Steam Engine"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Punk Rock": {
-    "Indices": {
-      "main-series": 244,
-      "Showdown": "Punk Rock"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Sand Spit": {
-    "Indices": {
-      "main-series": 245,
-      "Showdown": "Sand Spit"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Ice Scales": {
-    "Indices": {
-      "main-series": 246,
-      "Showdown": "Ice Scales"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Ripen": {
-    "Indices": {
-      "main-series": 247,
-      "Showdown": "Ripen"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Ice Face": {
-    "Indices": {
-      "main-series": 248,
-      "Showdown": "Ice Face"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Power Spot": {
-    "Indices": {
-      "main-series": 249,
-      "Showdown": "Power Spot"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Mimicry": {
-    "Indices": {
-      "main-series": 250,
-      "Showdown": "Mimicry"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Screen Cleaner": {
-    "Indices": {
-      "main-series": 251,
-      "Showdown": "Screen Cleaner"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Steely Spirit": {
-    "Indices": {
-      "main-series": 252,
-      "Showdown": "Steely Spirit"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Perish Body": {
-    "Indices": {
-      "main-series": 253,
-      "Showdown": "Perish Body"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Wandering Spirit": {
-    "Indices": {
-      "main-series": 254,
-      "Showdown": "Wandering Spirit"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Gorilla Tactics": {
-    "Indices": {
-      "main-series": 255,
-      "Showdown": "Gorilla Tactics"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Neutralizing Gas": {
-    "Indices": {
-      "main-series": 256,
-      "Showdown": "Neutralizing Gas"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Pastel Veil": {
-    "Indices": {
-      "main-series": 257,
-      "Showdown": "Pastel Veil"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Hunger Switch": {
-    "Indices": {
-      "main-series": 258,
-      "Showdown": "Hunger Switch"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Quick Draw": {
-    "Indices": {
-      "main-series": 259,
-      "Showdown": "Quick Draw"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Unseen Fist": {
-    "Indices": {
-      "main-series": 260,
-      "Showdown": "Unseen Fist"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Curious Medicine": {
-    "Indices": {
-      "main-series": 261,
-      "Showdown": "Curious Medicine"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Transistor": {
-    "Indices": {
-      "main-series": 262,
-      "Showdown": "Transistor"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Dragon's Maw": {
-    "Indices": {
-      "main-series": 263,
-      "Showdown": "Dragon's Maw"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Chilling Neigh": {
-    "Indices": {
-      "main-series": 264,
-      "Showdown": "Chilling Neigh"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Grim Neigh": {
-    "Indices": {
-      "main-series": 265,
-      "Showdown": "Grim Neigh"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "As One (Glastrier)": {
-    "Indices": {
-      "main-series": 266,
-      "Showdown": "As One (Glastrier)"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "As One (Spectrier)": {
-    "Indices": {
-      "main-series": 267,
-      "Showdown": "As One (Spectrier)"
-    },
-    "Exists in": ["Showdown"]
-  },
-  "Cacophony": {
-    "Indices": {
-      "pk3": 76
-    },
-    "Exists in": ["pk3"]
-  },
-  "Mountaineer": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Mountaineer"
-    }
-  },
-  "Rebound": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Rebound"
-    }
-  },
-  "Persistent": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Persistent"
-    }
+    "Exists in": ["pkeUranium", "Showdown"]
   },
   "Sharp Coral": {
     "Indices": {
@@ -2199,5 +1643,561 @@
       "pkeUranium": 209
     },
     "Exists in": ["pkeUranium"]
+  },
+  "As One (Glastrier)": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "As One (Glastrier)",
+      "main-series": 266
+    }
+  },
+  "As One (Spectrier)": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "As One (Spectrier)",
+      "main-series": 267
+    }
+  },
+  "Ball Fetch": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Ball Fetch",
+      "main-series": 237
+    }
+  },
+  "Battery": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Battery",
+      "main-series": 217
+    }
+  },
+  "Battle Bond": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Battle Bond",
+      "main-series": 210
+    }
+  },
+  "Beast Boost": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Beast Boost",
+      "main-series": 224
+    }
+  },
+  "Berserk": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Berserk",
+      "main-series": 201
+    }
+  },
+  "Chilling Neigh": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Chilling Neigh",
+      "main-series": 264
+    }
+  },
+  "Comatose": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Comatose",
+      "main-series": 213
+    }
+  },
+  "Corrosion": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Corrosion",
+      "main-series": 212
+    }
+  },
+  "Cotton Down": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Cotton Down",
+      "main-series": 238
+    }
+  },
+  "Curious Medicine": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Curious Medicine",
+      "main-series": 261
+    }
+  },
+  "Dancer": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Dancer",
+      "main-series": 216
+    }
+  },
+  "Dauntless Shield": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Dauntless Shield",
+      "main-series": 235
+    }
+  },
+  "Dazzling": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Dazzling",
+      "main-series": 219
+    }
+  },
+  "Disguise": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Disguise",
+      "main-series": 209
+    }
+  },
+  "Dragon's Maw": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Dragon's Maw",
+      "main-series": 263
+    }
+  },
+  "Electric Surge": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Electric Surge",
+      "main-series": 226
+    }
+  },
+  "Emergency Exit": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Emergency Exit",
+      "main-series": 194
+    }
+  },
+  "Fluffy": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Fluffy",
+      "main-series": 218
+    }
+  },
+  "Full Metal Body": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Full Metal Body",
+      "main-series": 230
+    }
+  },
+  "Galvanize": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Galvanize",
+      "main-series": 206
+    }
+  },
+  "Gorilla Tactics": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Gorilla Tactics",
+      "main-series": 255
+    }
+  },
+  "Grassy Surge": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Grassy Surge",
+      "main-series": 229
+    }
+  },
+  "Grim Neigh": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Grim Neigh",
+      "main-series": 265
+    }
+  },
+  "Gulp Missile": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Gulp Missile",
+      "main-series": 241
+    }
+  },
+  "Hunger Switch": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Hunger Switch",
+      "main-series": 258
+    }
+  },
+  "Ice Face": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Ice Face",
+      "main-series": 248
+    }
+  },
+  "Ice Scales": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Ice Scales",
+      "main-series": 246
+    }
+  },
+  "Innards Out": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Innards Out",
+      "main-series": 215
+    }
+  },
+  "Intrepid Sword": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Intrepid Sword",
+      "main-series": 234
+    }
+  },
+  "Libero": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Libero",
+      "main-series": 236
+    }
+  },
+  "Liquid Voice": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Liquid Voice",
+      "main-series": 204
+    }
+  },
+  "Long Reach": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Long Reach",
+      "main-series": 203
+    }
+  },
+  "Merciless": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Merciless",
+      "main-series": 196
+    }
+  },
+  "Mimicry": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Mimicry",
+      "main-series": 250
+    }
+  },
+  "Mirror Armor": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Mirror Armor",
+      "main-series": 240
+    }
+  },
+  "Misty Surge": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Misty Surge",
+      "main-series": 228
+    }
+  },
+  "Neuroforce": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Neuroforce",
+      "main-series": 233
+    }
+  },
+  "Neutralizing Gas": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Neutralizing Gas",
+      "main-series": 256
+    }
+  },
+  "Pastel Veil": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Pastel Veil",
+      "main-series": 257
+    }
+  },
+  "Perish Body": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Perish Body",
+      "main-series": 253
+    }
+  },
+  "Power Construct": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Power Construct",
+      "main-series": 211
+    }
+  },
+  "Power of Alchemy": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Power of Alchemy",
+      "main-series": 223
+    }
+  },
+  "Power Spot": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Power Spot",
+      "main-series": 249
+    }
+  },
+  "Prism Armor": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Prism Armor",
+      "main-series": 232
+    }
+  },
+  "Propeller Tail": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Propeller Tail",
+      "main-series": 239
+    }
+  },
+  "Psychic Surge": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Psychic Surge",
+      "main-series": 227
+    }
+  },
+  "Punk Rock": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Punk Rock",
+      "main-series": 244
+    }
+  },
+  "Queenly Majesty": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Queenly Majesty",
+      "main-series": 214
+    }
+  },
+  "Quick Draw": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Quick Draw",
+      "main-series": 259
+    }
+  },
+  "Receiver": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Receiver",
+      "main-series": 222
+    }
+  },
+  "Ripen": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Ripen",
+      "main-series": 247
+    }
+  },
+  "RKS System": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "RKS System",
+      "main-series": 225
+    }
+  },
+  "Sand Spit": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Sand Spit",
+      "main-series": 245
+    }
+  },
+  "Schooling": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Schooling",
+      "main-series": 208
+    }
+  },
+  "Screen Cleaner": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Screen Cleaner",
+      "main-series": 251
+    }
+  },
+  "Shadow Shield": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Shadow Shield",
+      "main-series": 231
+    }
+  },
+  "Shields Down": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Shields Down",
+      "main-series": 197
+    }
+  },
+  "Slush Rush": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Slush Rush",
+      "main-series": 202
+    }
+  },
+  "Soul-Heart": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Soul-Heart",
+      "main-series": 220
+    }
+  },
+  "Stakeout": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Stakeout",
+      "main-series": 198
+    }
+  },
+  "Stalwart": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Stalwart",
+      "main-series": 242
+    }
+  },
+  "Stamina": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Stamina",
+      "main-series": 192
+    }
+  },
+  "Steam Engine": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Steam Engine",
+      "main-series": 243
+    }
+  },
+  "Steelworker": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Steelworker",
+      "main-series": 200
+    }
+  },
+  "Steely Spirit": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Steely Spirit",
+      "main-series": 252
+    }
+  },
+  "Surge Surfer": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Surge Surfer",
+      "main-series": 207
+    }
+  },
+  "Tangling Hair": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Tangling Hair",
+      "main-series": 221
+    }
+  },
+  "Transistor": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Transistor",
+      "main-series": 262
+    }
+  },
+  "Triage": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Triage",
+      "main-series": 205
+    }
+  },
+  "Unseen Fist": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Unseen Fist",
+      "main-series": 260
+    }
+  },
+  "Wandering Spirit": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Wandering Spirit",
+      "main-series": 254
+    }
+  },
+  "Water Bubble": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Water Bubble",
+      "main-series": 199
+    }
+  },
+  "Water Compaction": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Water Compaction",
+      "main-series": 195
+    }
+  },
+  "Wimp Out": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Wimp Out",
+      "main-series": 193
+    }
+  },
+  "Mountaineer": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Mountaineer"
+    }
+  },
+  "Rebound": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Rebound"
+    }
+  },
+  "Persistent": {
+    "Exists in": ["Showdown"],
+    "Indices": {
+      "Showdown": "Persistent"
+    }
+  },
+  "Cacophony": {
+    "Indices": {
+      "pk3": 76
+    },
+    "Exists in": ["pk3"]
   }
 }
