@@ -1,0 +1,2012 @@
+{
+  "1":{
+    "Species": "Orchynx",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [4,65],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "2":{
+    "Species": "Metalynx",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": 510,
+    "Form Names": ["","Méga"],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [4,65],
+    "Alt Form Abilities": [null,[85,85,85,85,85,85],null,null,null,null]
+  },
+  "3":{
+    "Species": "Raptorche",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [49,66],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "4":{
+    "Species": "Archille",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": 511,
+    "Form Names": ["","Méga"],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [49,66],
+    "Alt Form Abilities": [null,[70,70,70,70,70,70],null,null,null,null]
+  },
+  "5":{
+    "Species": "Eletux",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [9,67],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "6":{
+    "Species": "Electruxo",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": 512,
+    "Form Names": ["","Méga"],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [9,67],
+    "Alt Form Abilities": [null,[2,2,2,2,2,2],null,null,null,null]
+  },
+  "7":{
+    "Species": "Tamulot",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["","Nucléaire"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [50,53,95],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "8":{
+    "Species": "Taminétique",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["","Nucléaire"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [50,53,95],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "9":{
+    "Species": "Mésignol",
+    "Gender Byte": 127,
+    "Growth Rate": 3,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [145,148,141],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "10":{
+    "Species": "Pinserelle",
+    "Gender Byte": 127,
+    "Growth Rate": 3,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [145,148,141],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "11":{
+    "Species": "Hironbelle",
+    "Gender Byte": 127,
+    "Growth Rate": 3,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [145,148,141],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "12":{
+    "Species": "Chenourson",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [68,30,156],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "13":{
+    "Species": "Gracillule",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [68,30,156],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "14":{
+    "Species": "Nimflora",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [68,30,156],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "15":{
+    "Species": "Embryfer",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [5,69,125],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "16":{
+    "Species": "Métalifaon",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [5,69,125],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "17":{
+    "Species": "Cervacier",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [5,69,125],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "18":{
+    "Species": "Glaizard",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [8,71,159],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "19":{
+    "Species": "Terzard",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [8,71,159],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "20":{
+    "Species": "Tonemi",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["","Nucléaire"],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [26,26],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "21":{
+    "Species": "Togrocrok",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["","Nucléaire"],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [22,153],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "22":{
+    "Species": "Insolourdo",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [32,50,155],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "23":{
+    "Species": "Incéleste",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [32,13],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "24":{
+    "Species": "Venouille",
+    "Gender Byte": 127,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [29,6,11],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "25":{
+    "Species": "Croason",
+    "Gender Byte": 127,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [29,6,11],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "26":{
+    "Species": "Cyanobuf",
+    "Gender Byte": 127,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [29,6,11],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "27":{
+    "Species": "Magicarpe",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["",null,"Nucléaire"],
+    "Valid Slots": [0,2,3],
+    "Abilities at Slots": [33,155,153],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "28":{
+    "Species": "Leviator",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": 513,
+    "Form Names": ["","Méga","Nucléaire","Méga Nucléaire"],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [22,153],
+    "Alt Form Abilities": [null,[104,104,104,104,104,104],null,[104,104,104,104,104,104],null,null]
+  },
+  "29":{
+    "Species": "Félidèle",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Christmas"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [22,56,119],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "30":{
+    "Species": "Félancé",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Christmas"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [22,56,119],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "31":{
+    "Species": "Féligre",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Christmas"],
+    "Valid Slots": [0],
+    "Abilities at Slots": [193],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "32":{
+    "Species": "Férosinge",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [72,83,128],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "33":{
+    "Species": "Colossinge",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [72,83,128],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "34":{
+    "Species": "Mastossinge",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [196,133],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "35":{
+    "Species": "Chouetton",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["","Nucléaire"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [32,15,110],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "36":{
+    "Species": "Minulotte",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["","Nucléaire"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [32,15,110],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "37":{
+    "Species": "Nénupiot",
+    "Gender Byte": 127,
+    "Growth Rate": 3,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [33,44,20],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "38":{
+    "Species": "Lombre",
+    "Gender Byte": 127,
+    "Growth Rate": 3,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [33,44,20],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "39":{
+    "Species": "Ludicolo",
+    "Gender Byte": 127,
+    "Growth Rate": 3,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [33,44,20],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "40":{
+    "Species": "Fourmigni",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [68],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "41":{
+    "Species": "Flamagarde",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [97],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "42":{
+    "Species": "Cervelon",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [33,69,140],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "43":{
+    "Species": "Cerebron",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [33,69,140],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "44":{
+    "Species": "Abo",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["",null,"Nucléaire"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [22,61,127],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "45":{
+    "Species": "Arbok",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": 549,
+    "Form Names": ["","Méga","Nucléaire","Méga Nucléaire"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [22,61,127],
+    "Alt Form Abilities": [null,[195,195,195,195,195,195],null,[195,195,195,195,195,195],null,null]
+  },
+  "46":{
+    "Species": "Tanoctur",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["","Nucléaire"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [62,50,188],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "47":{
+    "Species": "Tanurex",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["","Nucléaire"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [62,153,188],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "48":{
+    "Species": "Sponimouss",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [68],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "49":{
+    "Species": "Sponarius",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [11],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "50":{
+    "Species": "Phénincelle",
+    "Gender Byte": 127,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": ["","Nucléaire"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [18,145,49],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "51":{
+    "Species": "Phénardent",
+    "Gender Byte": 127,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": ["","Nucléaire"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [18,145,49],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "52":{
+    "Species": "Phénoyant",
+    "Gender Byte": 127,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": ["","Nucléaire"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [18,145,49],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "53":{
+    "Species": "Gerblitz",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["","Nucléaire"],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [205,10],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "54":{
+    "Species": "Comite",
+    "Gender Byte": 255,
+    "Growth Rate": 1,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [55,5,36],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "55":{
+    "Species": "Cométéore",
+    "Gender Byte": 255,
+    "Growth Rate": 1,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [101,5,36],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "56":{
+    "Species": "Astronite",
+    "Gender Byte": 255,
+    "Growth Rate": 1,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [101,5,36],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "57":{
+    "Species": "Wattouat",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [9],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "58":{
+    "Species": "Lainergie",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [9],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "59":{
+    "Species": "Pharamp",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": 514,
+    "Form Names": ["","Méga"],
+    "Valid Slots": [0],
+    "Abilities at Slots": [9],
+    "Alt Form Abilities": [null,[104,104,104,104,104,104],null,null,null,null]
+  },
+  "60":{
+    "Species": "Ombrouton",
+    "Gender Byte": 63,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": ["",null,"Nucléaire"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [62,153,22],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "61":{
+    "Species": "Tenouton",
+    "Gender Byte": 63,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": ["",null,"Nucléaire"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [62,153,22],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "62":{
+    "Species": "Cauchebouk",
+    "Gender Byte": 63,
+    "Growth Rate": 4,
+    "Mega Stone": 515,
+    "Form Names": ["","Méga","Nucléaire","Méga Nucléaire"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [62,153,22],
+    "Alt Form Abilities": [null,[200,200,200,200,200,200],null,[200,200,200,200,200,200],null,[200,200,200,200,200,200]]
+  },
+  "63":{
+    "Species": "Ouvriclair",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [68],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "64":{
+    "Species": "Elecricière",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [10],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "65":{
+    "Species": "Sangsure",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["","Nucléaire"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [61,151,140],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "66":{
+    "Species": "Asparasit",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["","Nucléaire"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [61,151,140],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "67":{
+    "Species": "Canilune",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [104,62,128],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "68":{
+    "Species": "Hérolune",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [104,62,128],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "69":{
+    "Species": "Minyan",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Halloween"],
+    "Valid Slots": [0,2,3],
+    "Abilities at Slots": [200,143,3],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "70":{
+    "Species": "Vilucard",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Halloween"],
+    "Valid Slots": [0,2,3],
+    "Abilities at Slots": [200,143,3],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "71":{
+    "Species": "Mustébouée",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [33,41],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "72":{
+    "Species": "Mustéflott",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [33,41],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "73":{
+    "Species": "Tauperceur",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [31,146,104],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "74":{
+    "Species": "Tauperfore",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": 516,
+    "Form Names": ["","Méga"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [31,146,104],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "75":{
+    "Species": "Scorplane",
+    "Gender Byte": 127,
+    "Growth Rate": 3,
+    "Mega Stone": null,
+    "Form Names": ["","Nucléaire"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [52,8,17],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "76":{
+    "Species": "Scorvol",
+    "Gender Byte": 127,
+    "Growth Rate": 3,
+    "Mega Stone": null,
+    "Form Names": ["","Nucléaire"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [52,8,90],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "77":{
+    "Species": "Ténéfix",
+    "Gender Byte": 127,
+    "Growth Rate": 3,
+    "Mega Stone": 517,
+    "Form Names": ["","Méga"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [51,100,158],
+    "Alt Form Abilities": [null,[156,156,156,156,156,156],null,[156,156,156,156,156,156],null,[156,156,156,156,156,156]]
+  },
+  "78":{
+    "Species": "Cocrabe",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Halloween"],
+    "Valid Slots": [0,1,2,3],
+    "Abilities at Slots": [8,34,139,111],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "79":{
+    "Species": "Cocapode",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Halloween"],
+    "Valid Slots": [0,1,2,3],
+    "Abilities at Slots": [8,34,139,111],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "80":{
+    "Species": "Cocancer",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Halloween"],
+    "Valid Slots": [0,1,2,3],
+    "Abilities at Slots": [8,34,139,111],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "81":{
+    "Species": "Corayon",
+    "Gender Byte": 191,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": ["","Nucléaire"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [55,30,144],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "82":{
+    "Species": "Coréci",
+    "Gender Byte": 191,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": ["","Nucléaire"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [192,30,144],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "83":{
+    "Species": "Noctanguille",
+    "Gender Byte": 31,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["","Nucléaire"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [33,185,22],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "84":{
+    "Species": "Sombrequin",
+    "Gender Byte": 31,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["","Nucléaire"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [33,185,22],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "85":{
+    "Species": "Escarseau",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [75,8,45],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "86":{
+    "Species": "Sablargot",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [75,8,45],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "87":{
+    "Species": "Bastiropode",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [75,8,45],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "88":{
+    "Species": "Nupin",
+    "Gender Byte": 255,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": ["","Nucléaire"],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [34,94],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "89":{
+    "Species": "Gellin",
+    "Gender Byte": 255,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": ["","Nucléaire"],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [34,94],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "90":{
+    "Species": "Doudouvet",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [158,151,34],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "91":{
+    "Species": "Farfaduvet",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": 548,
+    "Form Names": ["","Méga"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [158,151,34],
+    "Alt Form Abilities": [null,[144,144,144,144,144,144],null,null,null,null]
+  },
+  "92":{
+    "Species": "Feuforêve",
+    "Gender Byte": 127,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [26],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "93":{
+    "Species": "Magirêve",
+    "Gender Byte": 127,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [26],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "94":{
+    "Species": "Reptagrif",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["","Nucléaire"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [79,61,188],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "95":{
+    "Species": "Glimaçon",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Easter"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [33,30,117],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "96":{
+    "Species": "Limiceberg",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Easter"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [33,30,117],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "97":{
+    "Species": "S51",
+    "Gender Byte": 255,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,null,"Easter"],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [26,148],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "98":{
+    "Species": "S51-A",
+    "Gender Byte": 255,
+    "Growth Rate": 5,
+    "Mega Stone": 527,
+    "Form Names": ["","Méga"],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [26,148],
+    "Alt Form Abilities": [null,[179,179,179,179,179,179],null,null,null,[179,179,179,179,179,179]]
+  },
+  "99":{
+    "Species": "Paraudio",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["","Nucléaire"],
+    "Valid Slots": [0,1],
+    "Abilities at Slots": [43,206],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "100":{
+    "Species": "Paraboum",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["","Nucléaire"],
+    "Valid Slots": [0,1],
+    "Abilities at Slots": [43,206],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "101":{
+    "Species": "Tigrasier",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [18],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "102":{
+    "Species": "Enflaguépar",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": 518,
+    "Form Names": ["","Méga"],
+    "Valid Slots": [0],
+    "Abilities at Slots": [199],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "103":{
+    "Species": "Chiminion",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Halloween"],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [195,126],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "104":{
+    "Species": "Chimaconda",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Halloween"],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [195,126],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "105":{
+    "Species": "Titiki",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [72,89,101],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "106":{
+    "Species": "Frikitiki",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [72,89,101],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "107":{
+    "Species": "Nymfolan",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [19,14,21],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "108":{
+    "Species": "Libellarpie",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [153,175,84],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "109":{
+    "Species": "Galicoatl",
+    "Gender Byte": 127,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [157,102,34],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "110":{
+    "Species": "Quetzoral",
+    "Gender Byte": 127,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [157,102,34],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "111":{
+    "Species": "Coatliquot",
+    "Gender Byte": 127,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [26,34],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "112":{
+    "Species": "Tracton",
+    "Gender Byte": 255,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Christmas"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [3,78,148],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "113":{
+    "Species": "Dermagel",
+    "Gender Byte": 31,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [116,81,5],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "114":{
+    "Species": "Dermafrost",
+    "Gender Byte": 31,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [116,81,5],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "115":{
+    "Species": "Ohmaï",
+    "Gender Byte": 31,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [198,78,69],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "116":{
+    "Species": "Ampaï",
+    "Gender Byte": 31,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [198,78,69],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "117":{
+    "Species": "Titanice",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Halloween"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [108,115,117],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "118":{
+    "Species": "Frinaï",
+    "Gender Byte": 127,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [33,39,125],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "119":{
+    "Species": "Saidine",
+    "Gender Byte": 127,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [33,39,125],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "120":{
+    "Species": "Kathona",
+    "Gender Byte": 127,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [33,39,125],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "121":{
+    "Species": "Selkid",
+    "Gender Byte": 254,
+    "Growth Rate": 3,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1],
+    "Abilities at Slots": [56,33],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "122":{
+    "Species": "Sirénaïade",
+    "Gender Byte": 254,
+    "Growth Rate": 3,
+    "Mega Stone": 526,
+    "Form Names": ["","Méga"],
+    "Valid Slots": [0,1],
+    "Abilities at Slots": [56,33],
+    "Alt Form Abilities": [null,[181,181,181,181,181,181],null,null,null,null]
+  },
+  "123":{
+    "Species": "Fluvetin",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1],
+    "Abilities at Slots": [131,166],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "124":{
+    "Species": "Cocotine",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1],
+    "Abilities at Slots": [131,166],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "125":{
+    "Species": "Miasmédic",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1],
+    "Abilities at Slots": [131,143],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "126":{
+    "Species": "Lapojack",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Pâques"],
+    "Valid Slots": [0,1,2,3],
+    "Abilities at Slots": [98,39,39,181],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "127":{
+    "Species": "Vinotinger",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Pâques"],
+    "Valid Slots": [0,1,2,3],
+    "Abilities at Slots": [98,39,39,181],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "128":{
+    "Species": "Duplicat",
+    "Gender Byte": 255,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1],
+    "Abilities at Slots": [158,36],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "129":{
+    "Species": "Evoli",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [50,91,107],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "130":{
+    "Species": "Aquali",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [11,93],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "131":{
+    "Species": "Voltali",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [10,95],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "132":{
+    "Species": "Pyroli",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [18,62],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "133":{
+    "Species": "Mentali",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [28,156],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "134":{
+    "Species": "Noctali",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [28,39],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "135":{
+    "Species": "Phyllali",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [102,34],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "136":{
+    "Species": "Givrali",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [81,115],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "137":{
+    "Species": "Nymphali",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [56,181],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "138":{
+    "Species": "Urali",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [201,208],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "139":{
+    "Species": "Ratsy",
+    "Gender Byte": 31,
+    "Growth Rate": 3,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [15,95,53],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "140":{
+    "Species": "Raffiti",
+    "Gender Byte": 31,
+    "Growth Rate": 3,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [15,95,53],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "141":{
+    "Species": "Gargryph",
+    "Gender Byte": 255,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Anniversary"],
+    "Valid Slots": [0],
+    "Abilities at Slots": [194],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "142":{
+    "Species": "Maskesté",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["",null,"Nuclear",null,"Halloween"],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [149,28],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "143":{
+    "Species": "Dramsama",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": 519,
+    "Form Names": ["","Méga"],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [149,28],
+    "Alt Form Abilities": [null,[123,123,123,123,123,123],null,[123,123,123,123,123,123],null,[123,123,123,123,123,123]]
+  },
+  "144":{
+    "Species": "Antarki",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [35,158],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "145":{
+    "Species": "Chupacabro",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["","Nucléaire"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [38,143,55],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "146":{
+    "Species": "Luttacabra",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["","Nucléaire"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [38,143,55],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "147":{
+    "Species": "Fantochaine",
+    "Gender Byte": 255,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Christmas"],
+    "Valid Slots": [0,1],
+    "Abilities at Slots": [23,130],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "148":{
+    "Species": "Déchainote",
+    "Gender Byte": 255,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Christmas"],
+    "Valid Slots": [0,1],
+    "Abilities at Slots": [23,130],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "149":{
+    "Species": "Pelugel",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Noël"],
+    "Valid Slots": [0],
+    "Abilities at Slots": [81],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "150":{
+    "Species": "Alpico",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Noël"],
+    "Valid Slots": [0,1],
+    "Abilities at Slots": [170,101],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "151":{
+    "Species": "Andésol",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Noël"],
+    "Valid Slots": [0,1],
+    "Abilities at Slots": [117,79],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "152":{
+    "Species": "Glarvon",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [115],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "153":{
+    "Species": "Coconfroi",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [115],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "154":{
+    "Species": "Mosthrazote",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [203],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "155":{
+    "Species": "Fourrugon",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1],
+    "Abilities at Slots": [47,174],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "156":{
+    "Species": "Fafniver",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1],
+    "Abilities at Slots": [47,174],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "157":{
+    "Species": "Crevanon",
+    "Gender Byte": 127,
+    "Growth Rate": 2,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [97],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "158":{
+    "Species": "Krilvolver",
+    "Gender Byte": 127,
+    "Growth Rate": 2,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [97],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "159":{
+    "Species": "Lavurène",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1],
+    "Abilities at Slots": [40,91],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "160":{
+    "Species": "Trublios",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [113],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "161":{
+    "Species": "Flibustibia",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [113],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "162":{
+    "Species": "Squelitaine",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [26],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "163":{
+    "Species": "Stenowatt",
+    "Gender Byte": 127,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [78,3,199],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "164":{
+    "Species": "Gaminor",
+    "Gender Byte": 31,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Anniversary"],
+    "Valid Slots": [0,1],
+    "Abilities at Slots": [4,29],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "165":{
+    "Species": "Oriclaque",
+    "Gender Byte": 31,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Anniversary"],
+    "Valid Slots": [0,1],
+    "Abilities at Slots": [4,29],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "166":{
+    "Species": "Elébave",
+    "Gender Byte": 31,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": ["","Nucléaire"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [176,64,144],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "167":{
+    "Species": "Myxetric",
+    "Gender Byte": 31,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": ["","Nucléaire"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [176,64,144],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "168":{
+    "Species": "Xénomite",
+    "Gender Byte": 191,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1],
+    "Abilities at Slots": [6,106],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "169":{
+    "Species": "Xénogène",
+    "Gender Byte": 191,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1],
+    "Abilities at Slots": [6,106],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "170":{
+    "Species": "Xénoreine",
+    "Gender Byte": 191,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1],
+    "Abilities at Slots": [6,106],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "171":{
+    "Species": "Hazma",
+    "Gender Byte": 255,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Anniversary"],
+    "Valid Slots": [0],
+    "Abilities at Slots": [202],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "172":{
+    "Species": "Cafaranium",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [202],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "173":{
+    "Species": "Minicorne",
+    "Gender Byte": 191,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [56,95,128],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "174":{
+    "Species": "Kiricorne",
+    "Gender Byte": 191,
+    "Growth Rate": 4,
+    "Mega Stone": 586,
+    "Form Names": ["","Méga"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [56,95,128],
+    "Alt Form Abilities": [null,[156,156,156,156,156,156],null,null,null,null]
+  },
+  "175":{
+    "Species": "Katacorne",
+    "Gender Byte": 191,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [104,95,128],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "176":{
+    "Species": "Luxi",
+    "Gender Byte": 31,
+    "Growth Rate": 3,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [105,144],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "177":{
+    "Species": "Luxor",
+    "Gender Byte": 31,
+    "Growth Rate": 3,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [105,144],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "178":{
+    "Species": "Luxelong",
+    "Gender Byte": 31,
+    "Growth Rate": 3,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [105,144],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "179":{
+    "Species": "Praseopunk",
+    "Gender Byte": 255,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [57],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "180":{
+    "Species": "Neopunk",
+    "Gender Byte": 255,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [58],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "181":{
+    "Species": "Solevro",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1],
+    "Abilities at Slots": [22,153],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "182":{
+    "Species": "Terrapin",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1],
+    "Abilities at Slots": [22,153],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "183":{
+    "Species": "Sismolièvre",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1],
+    "Abilities at Slots": [22,153],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "184":{
+    "Species": "Voltillon",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Easter"],
+    "Valid Slots": [0],
+    "Abilities at Slots": [10],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "185":{
+    "Species": "Voltasu",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Easter"],
+    "Valid Slots": [0],
+    "Abilities at Slots": [10],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "186":{
+    "Species": "Yatagaryu",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Easter"],
+    "Valid Slots": [0],
+    "Abilities at Slots": [204],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "187":{
+    "Species": "Farfadem",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Christmas"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [128,22,207],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "188":{
+    "Species": "Déchéange",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Christmas"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [128,22,207],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "189":{
+    "Species": "Béliaddon",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Christmas"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [128,22,207],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "190":{
+    "Species": "Seikamater",
+    "Gender Byte": 254,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [197],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "191":{
+    "Species": "Marmail",
+    "Gender Byte": 255,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [154],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "192":{
+    "Species": "Baitatao",
+    "Gender Byte": 255,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [46],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "193":{
+    "Species": "Leviathao",
+    "Gender Byte": 255,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [46],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "194":{
+    "Species": "Krakanao",
+    "Gender Byte": 255,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [46],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "195":{
+    "Species": "Lanthan",
+    "Gender Byte": 255,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [125],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "196":{
+    "Species": "Actan",
+    "Gender Byte": 255,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["","Nucléaire"],
+    "Valid Slots": [0],
+    "Abilities at Slots": [22],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "197":{
+    "Species": "Urayne",
+    "Gender Byte": 255,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["Alpha","Beta","Gamma"],
+    "Valid Slots": [0],
+    "Abilities at Slots": [208],
+    "Alt Form Abilities": [null,null,[209,209,209,209,209,209],null,null,null]
+  },
+  "198":{
+    "Species": "Aotius",
+    "Gender Byte": 255,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [46],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "199":{
+    "Species": "Mutios",
+    "Gender Byte": 255,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [46],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "200":{
+    "Species": "Zephy",
+    "Gender Byte": 254,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [26],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "201":{
+    "Species": "Ectoplasma",
+    "Gender Byte": 127,
+    "Growth Rate": 3,
+    "Mega Stone": null,
+    "Form Names": ["","Méga"],
+    "Valid Slots": [0],
+    "Abilities at Slots": [26],
+    "Alt Form Abilities": [null,[23,23,23,23,23,23],null,null,null,null]
+  }
+}

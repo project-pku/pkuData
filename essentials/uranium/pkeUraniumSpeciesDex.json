@@ -1,0 +1,5889 @@
+{
+  "Orchynx": {
+    "Indices": {
+      "pkeUranium": 1
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Battle Armor", null, "Overgrow"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 7 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Orchynx",
+      "German": "Orchilux",
+      "Spanish": "Orchynx",
+      "Portuguese": "Orchynx",
+      "Chinese Simplified": "罗兰猫"
+    }
+  },
+  "Metalynx": {
+    "Indices": {
+      "pkeUranium": 2
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Battle Armor", null, "Overgrow"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Metalynxite"
+          }
+        }
+      },
+      "Mega": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"],
+        "Ability Slots": ["Heatproof", null, "Heatproof"]
+      }
+    },
+    "Gender Ratio": "Male 7 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Metalynx",
+      "German": "Metallux",
+      "Spanish": "Metalynx",
+      "Portuguese": "Metalynx",
+      "Chinese Simplified": "绿甲猫"
+    }
+  },
+  "Raptorch": {
+    "Indices": {
+      "pkeUranium": 3
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Flame Body", null, "Blaze"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 7 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Raptorche",
+      "German": "Rapackel",
+      "Spanish": "Raptorch",
+      "Portuguese": "Raptorch",
+      "Chinese Simplified": "火炬龙"
+    }
+  },
+  "Archilles": {
+    "Indices": {
+      "pkeUranium": 4
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Flame Body", null, "Blaze"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Archillesite"
+          }
+        }
+      },
+      "Mega": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"],
+        "Ability Slots": ["Drought", null, "Drought"]
+      }
+    },
+    "Gender Ratio": "Male 7 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Archille",
+      "German": "Archilles",
+      "Spanish": "Archilles",
+      "Portuguese": "Archilles",
+      "Chinese Simplified": "巨焰龙"
+    }
+  },
+  "Eletux": {
+    "Indices": {
+      "pkeUranium": 5
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Static", null, "Torrent"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 7 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Eletux",
+      "German": "Eletuss",
+      "Spanish": "Eletux",
+      "Portuguese": "Eletux",
+      "Chinese Simplified": "蓝电马"
+    }
+  },
+  "Electruxo": {
+    "Indices": {
+      "pkeUranium": 6
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Static", null, "Torrent"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Electruxolite"
+          }
+        }
+      },
+      "Mega": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"],
+        "Ability Slots": ["Drizzle", null, "Drizzle"]
+      }
+    },
+    "Gender Ratio": "Male 7 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Electruxo",
+      "German": "Elektruxo",
+      "Spanish": "Electruxo",
+      "Portuguese": "Electruxo",
+      "Chinese Simplified": "游雷马"
+    }
+  },
+  "Chyinmunk": {
+    "Indices": {
+      "pkeUranium": 7
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Run Away", "Pickup", "Quick Feet"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      },
+      "Nuclear": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Tamulot",
+      "German": "Schinmunk",
+      "Spanish": "Chyinmunk",
+      "Portuguese": "Chyinmunk",
+      "Chinese Simplified": "小栗鼠"
+    }
+  },
+  "Kinetmunk": {
+    "Indices": {
+      "pkeUranium": 8
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Run Away", "Pickup", "Quick Feet"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      },
+      "Nuclear": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Taminétique",
+      "German": "Kinetmunk",
+      "Spanish": "Kinetmunk",
+      "Portuguese": "Kinetmunk",
+      "Chinese Simplified": "跃动鼠"
+    }
+  },
+  "Birbie": {
+    "Indices": {
+      "pkeUranium": 9
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Big Pecks", "Analytic", "Moody"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Slow",
+    "Names": {
+      "French": "Mésignol",
+      "German": "Birbie",
+      "Spanish": "Birbie",
+      "Portuguese": "Birbie",
+      "Chinese Simplified": "回乡雀"
+    }
+  },
+  "Aveden": {
+    "Indices": {
+      "pkeUranium": 10
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Big Pecks", "Analytic", "Moody"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Slow",
+    "Names": {
+      "French": "Pinserelle",
+      "German": "Aveden",
+      "Spanish": "Aveden",
+      "Portuguese": "Aveden",
+      "Chinese Simplified": "伊甸鸟"
+    }
+  },
+  "Splendifowl": {
+    "Indices": {
+      "pkeUranium": 11
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Big Pecks", "Analytic", "Moody"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Slow",
+    "Names": {
+      "French": "Hironbelle",
+      "German": "Fabelvogel",
+      "Spanish": "Splendifowl",
+      "Portuguese": "Splendifowl",
+      "Chinese Simplified": "炫羽鹰"
+    }
+  },
+  "Cubbug": {
+    "Indices": {
+      "pkeUranium": 12
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Swarm", "Natural Cure", "Magic Bounce"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Chenourson",
+      "German": "Knuddeläfer",
+      "Spanish": "Cubbug",
+      "Portuguese": "Cubbug",
+      "Chinese Simplified": "叶衣虫"
+    }
+  },
+  "Cubblfly": {
+    "Indices": {
+      "pkeUranium": 13
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Swarm", "Natural Cure", "Magic Bounce"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Gracillule",
+      "German": "Knuddeling",
+      "Spanish": "Cubblfly",
+      "Portuguese": "Cubblfly",
+      "Chinese Simplified": "樱粉蝶"
+    }
+  },
+  "Nimflora": {
+    "Indices": {
+      "pkeUranium": 14
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Swarm", "Natural Cure", "Magic Bounce"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Nimflora",
+      "German": "Nimflora",
+      "Spanish": "Nimflora",
+      "Portuguese": "Nimflora",
+      "Chinese Simplified": "妖仙蝶"
+    }
+  },
+  "Barewl": {
+    "Indices": {
+      "pkeUranium": 15
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Sturdy", "Rock Head", "Sheer Force"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Embryfer",
+      "German": "Rollerz",
+      "Spanish": "Barewl",
+      "Portuguese": "Barewl",
+      "Chinese Simplified": "顽石鹿"
+    }
+  },
+  "Dearewl": {
+    "Indices": {
+      "pkeUranium": 16
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Sturdy", "Rock Head", "Sheer Force"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Métalifaon",
+      "German": "Elcherz",
+      "Spanish": "Dearewl",
+      "Portuguese": "Dearewl",
+      "Chinese Simplified": "钢加鹿"
+    }
+  },
+  "Gararewl": {
+    "Indices": {
+      "pkeUranium": 17
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Sturdy", "Rock Head", "Sheer Force"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Cervacier",
+      "German": "Giraferz",
+      "Spanish": "Gararewl",
+      "Portuguese": "Gararewl",
+      "Chinese Simplified": "钢齿鹿"
+    }
+  },
+  "Grozard": {
+    "Indices": {
+      "pkeUranium": 18
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Sand Veil", "Arena Trap", "Sand Force"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Glaizard",
+      "German": "Erdechs",
+      "Spanish": "Grozard",
+      "Portuguese": "Grozard",
+      "Chinese Simplified": "钻地蜥"
+    }
+  },
+  "Terlard": {
+    "Indices": {
+      "pkeUranium": 19
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Sand Veil", "Arena Trap", "Sand Force"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Terzard",
+      "German": "Natterra",
+      "Spanish": "Terlard",
+      "Portuguese": "Terlard",
+      "Chinese Simplified": "双头地蛟"
+    }
+  },
+  "Tonemy": {
+    "Indices": {
+      "pkeUranium": 20
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Levitate", null, "Levitate"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      },
+      "Nuclear": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Tonemi",
+      "German": "Giffind",
+      "Spanish": "Tonemy",
+      "Portuguese": "Tonemy",
+      "Chinese Simplified": "小毒丸"
+    }
+  },
+  "Tofurang": {
+    "Indices": {
+      "pkeUranium": 21
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Intimidate", null, "Moxie"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      },
+      "Nuclear": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Togrocrok",
+      "German": "Giffang",
+      "Spanish": "Tofurang",
+      "Portuguese": "Tofurang",
+      "Chinese Simplified": "猛颚兽"
+    }
+  },
+  "Dunsparce": {
+    "Indices": {
+      "pkeUranium": 22
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Serene Grace", "Run Away", "Rattled"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Insolourdo",
+      "German": "Dummisel",
+      "Spanish": "Dunsparce",
+      "Portuguese": "Dunsparce",
+      "Chinese Simplified": "土龙弟弟"
+    }
+  },
+  "Dunseraph": {
+    "Indices": {
+      "pkeUranium": 23
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Serene Grace", null, "Cloud Nine"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Incéleste",
+      "German": "Seraphalb",
+      "Spanish": "Dunseraph",
+      "Portuguese": "Dunseraph",
+      "Chinese Simplified": "天翼土龙"
+    }
+  },
+  "Fortog": {
+    "Indices": {
+      "pkeUranium": 24
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Clear Body", "Damp", "Water Absorb"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Fast",
+    "Names": {
+      "French": "Venouille",
+      "German": "Fortosch",
+      "Spanish": "Fortog",
+      "Portuguese": "Fortog",
+      "Chinese Simplified": "壮壮蛙"
+    }
+  },
+  "Folerog": {
+    "Indices": {
+      "pkeUranium": 25
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Clear Body", "Damp", "Water Absorb"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Fast",
+    "Names": {
+      "French": "Croason",
+      "German": "Toxirosch",
+      "Spanish": "Folerog",
+      "Portuguese": "Folerog",
+      "Chinese Simplified": "寻水蟾"
+    }
+  },
+  "Blubelrog": {
+    "Indices": {
+      "pkeUranium": 26
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Clear Body", "Damp", "Water Absorb"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Fast",
+    "Names": {
+      "French": "Cyanobuf",
+      "German": "Blubbelrosch",
+      "Spanish": "Blubelrog",
+      "Portuguese": "Blubelrog",
+      "Chinese Simplified": "毒蟾老大"
+    }
+  },
+  "Magikarp": {
+    "Indices": {
+      "pkeUranium": 27
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Swift Swim", null, "Rattled", "Moxie"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      },
+      "Nuclear": {
+        "Form Indices": {
+          "pkeUranium": 2
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Magicarpe",
+      "German": "Karpador",
+      "Spanish": "Magikarp",
+      "Portuguese": "Magikarp",
+      "Chinese Simplified": "鲤鱼王"
+    }
+  },
+  "Gyarados": {
+    "Indices": {
+      "pkeUranium": 28
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Intimidate", null, "Moxie"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Gyaradosite"
+          }
+        }
+      },
+      "Mega": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"],
+        "Ability Slots": ["Mold Breaker", null, "Mold Breaker"]
+      },
+      "Nuclear": {
+        "Form Indices": {
+          "pkeUranium": 2
+        },
+        "Exists in": ["pkeUranium"],
+        "In-Battle Form Changes": {
+          "Mega|Nuclear": {
+            "Type": "Mega",
+            "Item": "Gyaradosite"
+          }
+        }
+      },
+      "Mega|Nuclear": {
+        "Form Indices": {
+          "pkeUranium": 3
+        },
+        "Exists in": ["pkeUranium"],
+        "Ability Slots": ["Mold Breaker", null, "Mold Breaker"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Leviator",
+      "German": "Garados",
+      "Spanish": "Gyarados",
+      "Portuguese": "Gyarados",
+      "Chinese Simplified": "暴鲤龙"
+    }
+  },
+  "Feleng": {
+    "Indices": {
+      "pkeUranium": 29
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Intimidate", "Cute Charm", "Frisk"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "Appearance": {
+          "Christmas": {
+            "Form Indices": {
+              "pkeUranium": 3
+            }
+          }
+        }
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Félidèle",
+      "German": "Feleng",
+      "Spanish": "Feleng",
+      "Portuguese": "Feleng",
+      "Chinese Simplified": "卖萌猫"
+    }
+  },
+  "Felunge": {
+    "Indices": {
+      "pkeUranium": 30
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Intimidate", "Cute Charm", "Frisk"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "Appearance": {
+          "Christmas": {
+            "Form Indices": {
+              "pkeUranium": 3
+            }
+          }
+        }
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Félancé",
+      "German": "Felunge",
+      "Spanish": "Felunge",
+      "Portuguese": "Felunge",
+      "Chinese Simplified": "猎刺猫"
+    }
+  },
+  "Feliger": {
+    "Indices": {
+      "pkeUranium": 31
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Lazy"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "Appearance": {
+          "Christmas": {
+            "Form Indices": {
+              "pkeUranium": 3
+            }
+          }
+        }
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Féligre",
+      "German": "Feliger",
+      "Spanish": "Feliger",
+      "Portuguese": "Feliger",
+      "Chinese Simplified": "虎虎猫"
+    }
+  },
+  "Mankey": {
+    "Indices": {
+      "pkeUranium": 32
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Vital Spirit", "Anger Point", "Defiant"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Férosinge",
+      "German": "Menki",
+      "Spanish": "Mankey",
+      "Portuguese": "Mankey",
+      "Chinese Simplified": "猴怪"
+    }
+  },
+  "Primeape": {
+    "Indices": {
+      "pkeUranium": 33
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Vital Spirit", "Anger Point", "Defiant"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Colossinge",
+      "German": "Rasaff",
+      "Spanish": "Primeape",
+      "Portuguese": "Primeape",
+      "Chinese Simplified": "火爆猴"
+    }
+  },
+  "Empirilla": {
+    "Indices": {
+      "pkeUranium": 34
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Infuriate", null, "Weak Armor"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Mastossinge",
+      "German": "Imperilla",
+      "Spanish": "Empirilla",
+      "Portuguese": "Empirilla",
+      "Chinese Simplified": "暴君猴"
+    }
+  },
+  "Owten": {
+    "Indices": {
+      "pkeUranium": 35
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Serene Grace", "Insomnia", "Tinted Lens"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "Appearance": {
+          "Anniversary": {
+            "Form Indices": {
+              "pkeUranium": 3
+            }
+          }
+        }
+      },
+      "Nuclear": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Chouetton",
+      "German": "Eultze",
+      "Spanish": "Owten",
+      "Portuguese": "Owten",
+      "Chinese Simplified": "小猫鹰"
+    }
+  },
+  "Eshouten": {
+    "Indices": {
+      "pkeUranium": 36
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Serene Grace", "Insomnia", "Tinted Lens"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "Appearance": {
+          "Anniversary": {
+            "Form Indices": {
+              "pkeUranium": 3
+            }
+          }
+        }
+      },
+      "Nuclear": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Minulotte",
+      "German": "Eschreitze",
+      "Spanish": "Eshouten",
+      "Portuguese": "Eshouten",
+      "Chinese Simplified": "高吼猫鹰"
+    }
+  },
+  "Lotad": {
+    "Indices": {
+      "pkeUranium": 37
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Swift Swim", "Rain Dish", "Own Tempo"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Slow",
+    "Names": {
+      "French": "Nénupiot",
+      "German": "Loturzel",
+      "Spanish": "Lotad",
+      "Portuguese": "Lotad",
+      "Chinese Simplified": "莲叶童子"
+    }
+  },
+  "Lombre": {
+    "Indices": {
+      "pkeUranium": 38
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Swift Swim", "Rain Dish", "Own Tempo"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Slow",
+    "Names": {
+      "French": "Lombre",
+      "German": "Lombrero",
+      "Spanish": "Lombre",
+      "Portuguese": "Lombre",
+      "Chinese Simplified": "莲帽小童"
+    }
+  },
+  "Ludicolo": {
+    "Indices": {
+      "pkeUranium": 39
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Swift Swim", "Rain Dish", "Own Tempo"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Slow",
+    "Names": {
+      "French": "Ludicolo",
+      "German": "Kappalores",
+      "Spanish": "Ludicolo",
+      "Portuguese": "Ludicolo",
+      "Chinese Simplified": "乐天河童"
+    }
+  },
+  "Smore": {
+    "Indices": {
+      "pkeUranium": 40
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Swarm"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 7 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Fourmigni",
+      "German": "Schmäfer",
+      "Spanish": "Smore",
+      "Portuguese": "Smore",
+      "Chinese Simplified": "烟棉蚁"
+    }
+  },
+  "Firoke": {
+    "Indices": {
+      "pkeUranium": 41
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Sniper"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 7 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Flamagarde",
+      "German": "Feurau",
+      "Spanish": "Firoke",
+      "Portuguese": "Firoke",
+      "Chinese Simplified": "烽火蚁"
+    }
+  },
+  "Brailip": {
+    "Indices": {
+      "pkeUranium": 42
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Swift Swim", "Rock Head", "Telepathy"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Cervelon",
+      "German": "Gehilip",
+      "Spanish": "Brailip",
+      "Portuguese": "Brailip",
+      "Chinese Simplified": "核脑鱼"
+    }
+  },
+  "Brainoar": {
+    "Indices": {
+      "pkeUranium": 43
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Swift Swim", "Rock Head", "Telepathy"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Cerebron",
+      "German": "Gehiemen",
+      "Spanish": "Brainoar",
+      "Portuguese": "Brainoar",
+      "Chinese Simplified": "脑白鳗"
+    }
+  },
+  "Ekans": {
+    "Indices": {
+      "pkeUranium": 44
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Intimidate", "Shed Skin", "Unnerve"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      },
+      "Nuclear": {
+        "Form Indices": {
+          "pkeUranium": 2
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Abo",
+      "German": "Rettan",
+      "Spanish": "Ekans",
+      "Portuguese": "Ekans",
+      "Chinese Simplified": "阿柏蛇"
+    }
+  },
+  "Arbok": {
+    "Indices": {
+      "pkeUranium": 45
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Intimidate", "Shed Skin", "Unnerve"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Arbokite"
+          }
+        }
+      },
+      "Mega": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"],
+        "Ability Slots": ["Petrify", "Petrify", "Petrify"]
+      },
+      "Nuclear": {
+        "Form Indices": {
+          "pkeUranium": 2
+        },
+        "Exists in": ["pkeUranium"],
+        "In-Battle Form Changes": {
+          "Mega|Nuclear": {
+            "Type": "Mega",
+            "Item": "Arbokite"
+          }
+        }
+      },
+      "Mega|Nuclear": {
+        "Form Indices": {
+          "pkeUranium": 3
+        },
+        "Exists in": ["pkeUranium"],
+        "Ability Slots": ["Petrify", "Petrify", "Petrify"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Arbok",
+      "German": "Arbok",
+      "Spanish": "Arbok",
+      "Portuguese": "Arbok",
+      "Chinese Simplified": "阿柏怪"
+    }
+  },
+  "Tancoon": {
+    "Indices": {
+      "pkeUranium": 46
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Guts", "Run Away", "Tough Claws"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "Appearance": {
+          "Christmas": {
+            "Form Indices": {
+              "pkeUranium": 3
+            }
+          }
+        }
+      },
+      "Nuclear": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Tanoctur",
+      "German": "Maruki",
+      "Spanish": "Tancoon",
+      "Portuguese": "Tancoon",
+      "Chinese Simplified": "浣狸"
+    }
+  },
+  "Tanscure": {
+    "Indices": {
+      "pkeUranium": 47
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Guts", "Moxie", "Tough Claws"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "Appearance": {
+          "Christmas": {
+            "Form Indices": {
+              "pkeUranium": 3
+            }
+          }
+        }
+      },
+      "Nuclear": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Tanurex",
+      "German": "Mardog",
+      "Spanish": "Tanscure",
+      "Portuguese": "Tanscure",
+      "Chinese Simplified": "棕隐狸"
+    }
+  },
+  "Sponee": {
+    "Indices": {
+      "pkeUranium": 48
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Swarm"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 7 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Sponimouss",
+      "German": "Floswam",
+      "Spanish": "Sponee",
+      "Portuguese": "Sponee",
+      "Chinese Simplified": "水蛛儿"
+    }
+  },
+  "Sponaree": {
+    "Indices": {
+      "pkeUranium": 49
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Water Absorb"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 7 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Sponarius",
+      "German": "Swamaree",
+      "Spanish": "Sponaree",
+      "Portuguese": "Sponaree",
+      "Chinese Simplified": "海绵蛛"
+    }
+  },
+  "Pahar": {
+    "Indices": {
+      "pkeUranium": 50
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Flash Fire", "Big Pecks", "Flame Body"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      },
+      "Nuclear": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Fast",
+    "Names": {
+      "French": "Phénincelle",
+      "German": "Pahar",
+      "Spanish": "Pahar",
+      "Portuguese": "Pahar",
+      "Chinese Simplified": "火雏鹦"
+    }
+  },
+  "Palij": {
+    "Indices": {
+      "pkeUranium": 51
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Flash Fire", "Big Pecks", "Flame Body"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      },
+      "Nuclear": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Fast",
+    "Names": {
+      "French": "Phénardent",
+      "German": "Palij",
+      "Spanish": "Palij",
+      "Portuguese": "Palij",
+      "Chinese Simplified": "火羽鹦"
+    }
+  },
+  "Pajay": {
+    "Indices": {
+      "pkeUranium": 52
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Flash Fire", "Big Pecks", "Flame Body"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      },
+      "Nuclear": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Fast",
+    "Names": {
+      "French": "Phénoyant",
+      "German": "Pajay",
+      "Spanish": "Pajay",
+      "Portuguese": "Pajay",
+      "Chinese Simplified": "浴火鸟"
+    }
+  },
+  "Jerbolta": {
+    "Indices": {
+      "pkeUranium": 53
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Quick Charge", null, "Volt Absorb"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      },
+      "Nuclear": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Gerblitz",
+      "German": "Jerbitza",
+      "Spanish": "Jerbolta",
+      "Portuguese": "Jerbolta",
+      "Chinese Simplified": "电跳鼠"
+    }
+  },
+  "Comite": {
+    "Indices": {
+      "pkeUranium": 54
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Hustle", "Sturdy", "Trace"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "All Genderless",
+    "Growth Rate": "Erratic",
+    "Names": {
+      "French": "Comite",
+      "German": "Komerit",
+      "Spanish": "Comite",
+      "Portuguese": "Comite",
+      "Chinese Simplified": "流星岩"
+    }
+  },
+  "Cometeor": {
+    "Indices": {
+      "pkeUranium": 55
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Technician", "Sturdy", "Trace"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "All Genderless",
+    "Growth Rate": "Erratic",
+    "Names": {
+      "French": "Cométéore",
+      "German": "Kometeor",
+      "Spanish": "Cometeor",
+      "Portuguese": "Cometeor",
+      "Chinese Simplified": "彗星岩"
+    }
+  },
+  "Astronite": {
+    "Indices": {
+      "pkeUranium": 56
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Technician", "Sturdy", "Trace"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "All Genderless",
+    "Growth Rate": "Erratic",
+    "Names": {
+      "French": "Astronite",
+      "German": "Astrorit",
+      "Spanish": "Astronite",
+      "Portuguese": "Astronite",
+      "Chinese Simplified": "宇航岩"
+    }
+  },
+  "Mareep": {
+    "Indices": {
+      "pkeUranium": 57
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Static"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Wattouat",
+      "German": "Voltilamm",
+      "Spanish": "Mareep",
+      "Portuguese": "Mareep",
+      "Chinese Simplified": "咩利羊"
+    }
+  },
+  "Flaaffy": {
+    "Indices": {
+      "pkeUranium": 58
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Static"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Lainergie",
+      "German": "Waaty",
+      "Spanish": "Flaaffy",
+      "Portuguese": "Flaaffy",
+      "Chinese Simplified": "绵绵"
+    }
+  },
+  "Ampharos": {
+    "Indices": {
+      "pkeUranium": 59
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Static"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Ampharosite"
+          }
+        }
+      },
+      "Mega": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"],
+        "Ability Slots": ["Mold Breaker"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Pharamp",
+      "German": "Ampharos",
+      "Spanish": "Ampharos",
+      "Portuguese": "Ampharos",
+      "Chinese Simplified": "电龙"
+    }
+  },
+  "Baashaun": {
+    "Indices": {
+      "pkeUranium": 60
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Guts", "Moxie", "Intimidate"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "Appearance": {
+          "Halloween": {
+            "Form Indices": {
+              "pkeUranium": 4
+            }
+          }
+        }
+      },
+      "Nuclear": {
+        "Form Indices": {
+          "pkeUranium": 2
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 3 Female 1",
+    "Growth Rate": "Fast",
+    "Names": {
+      "French": "Ombrouton",
+      "German": "Bäshaun",
+      "Spanish": "Baashaun",
+      "Portuguese": "Baashaun",
+      "Chinese Simplified": "肖恩咩"
+    }
+  },
+  "Baaschaf": {
+    "Indices": {
+      "pkeUranium": 61
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Guts", "Moxie", "Intimidate"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "Appearance": {
+          "Halloween": {
+            "Form Indices": {
+              "pkeUranium": 4
+            }
+          }
+        }
+      },
+      "Nuclear": {
+        "Form Indices": {
+          "pkeUranium": 2
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 3 Female 1",
+    "Growth Rate": "Fast",
+    "Names": {
+      "French": "Tenouton",
+      "German": "Bäschaf",
+      "Spanish": "Baaschaf",
+      "Portuguese": "Baaschaf",
+      "Chinese Simplified": "坏咩咩"
+    }
+  },
+  "Baariette": {
+    "Indices": {
+      "pkeUranium": 62
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Guts", "Moxie", "Intimidate"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Baariettite"
+          }
+        },
+        "Appearance": {
+          "Halloween": {
+            "Form Indices": {
+              "pkeUranium": 4
+            }
+          }
+        }
+      },
+      "Mega": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"],
+        "Ability Slots": ["Blood Lust", "Blood Lust", "Blood Lust"],
+        "Appearance": {
+          "Halloween": {
+            "Form Indices": {
+              "pkeUranium": 5
+            }
+          }
+        }
+      },
+      "Nuclear": {
+        "Form Indices": {
+          "pkeUranium": 2
+        },
+        "Exists in": ["pkeUranium"],
+        "In-Battle Form Changes": {
+          "Mega|Nuclear": {
+            "Type": "Mega",
+            "Item": "Baariettite"
+          }
+        }
+      },
+      "Mega|Nuclear": {
+        "Form Indices": {
+          "pkeUranium": 3
+        },
+        "Exists in": ["pkeUranium"],
+        "Ability Slots": ["Blood Lust", "Blood Lust", "Blood Lust"]
+      }
+    },
+    "Gender Ratio": "Male 3 Female 1",
+    "Growth Rate": "Fast",
+    "Names": {
+      "French": "Cauchebouk",
+      "German": "Bämon",
+      "Spanish": "Baariette",
+      "Portuguese": "Baariette",
+      "Chinese Simplified": "战魔咩"
+    }
+  },
+  "Tricwe": {
+    "Indices": {
+      "pkeUranium": 63
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Swarm"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 7 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Ouvriclair",
+      "German": "Amiene",
+      "Spanish": "Tricwe",
+      "Portuguese": "Tricwe",
+      "Chinese Simplified": "戏法蛛"
+    }
+  },
+  "Harylect": {
+    "Indices": {
+      "pkeUranium": 64
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Volt Absorb"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 7 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Elecricière",
+      "German": "Heleksekt",
+      "Spanish": "Harylect",
+      "Portuguese": "Harylect",
+      "Chinese Simplified": "电绒蛛"
+    }
+  },
+  "Costraw": {
+    "Indices": {
+      "pkeUranium": 65
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Shed Skin", "Infiltrator", "Telepathy"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      },
+      "Nuclear": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Sangsure",
+      "German": "Säuregel",
+      "Spanish": "Costraw",
+      "Portuguese": "Costraw",
+      "Chinese Simplified": "吸管虫"
+    }
+  },
+  "Trawpint": {
+    "Indices": {
+      "pkeUranium": 66
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Shed Skin", "Infiltrator", "Telepathy"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      },
+      "Nuclear": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Asparasit",
+      "German": "Blugegel",
+      "Spanish": "Trawpint",
+      "Portuguese": "Trawpint",
+      "Chinese Simplified": "鸩壶龙"
+    }
+  },
+  "Lunapup": {
+    "Indices": {
+      "pkeUranium": 67
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Mold Breaker", "Guts", "Defiant"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Canilune",
+      "German": "Lunalpe",
+      "Spanish": "Lunapup",
+      "Portuguese": "Lunapup",
+      "Chinese Simplified": "月野狗"
+    }
+  },
+  "Herolune": {
+    "Indices": {
+      "pkeUranium": 68
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Mold Breaker", "Guts", "Defiant"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Hérolune",
+      "German": "Lunoheld",
+      "Spanish": "Herolune",
+      "Portuguese": "Herolune",
+      "Chinese Simplified": "英月狗"
+    }
+  },
+  "Minyan": {
+    "Indices": {
+      "pkeUranium": 69
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Blood Lust", null, "Poison Touch", "Speed Boost"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "Appearance": {
+          "Halloween": {
+            "Form Indices": {
+              "pkeUranium": 3
+            }
+          }
+        }
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Minyan",
+      "German": "Minyan",
+      "Spanish": "Minyan",
+      "Portuguese": "Minyan",
+      "Chinese Simplified": "调皮蝠"
+    }
+  },
+  "Vilucard": {
+    "Indices": {
+      "pkeUranium": 70
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Blood Lust", null, "Poison Touch", "Speed Boost"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "Appearance": {
+          "Halloween": {
+            "Form Indices": {
+              "pkeUranium": 3
+            }
+          }
+        }
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Vilucard",
+      "German": "Schurkard",
+      "Spanish": "Vilucard",
+      "Portuguese": "Vilucard",
+      "Chinese Simplified": "魔王蝠"
+    }
+  },
+  "Buizel": {
+    "Indices": {
+      "pkeUranium": 71
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Swift Swim", null, "Water Veil"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Mustébouée",
+      "German": "Bamelin",
+      "Spanish": "Buizel",
+      "Portuguese": "Buizel",
+      "Chinese Simplified": "泳圈鼬"
+    }
+  },
+  "Floatzel": {
+    "Indices": {
+      "pkeUranium": 72
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Swift Swim", null, "Water Veil"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Mustéflott",
+      "German": "Bojelin",
+      "Spanish": "Floatzel",
+      "Portuguese": "Floatzel",
+      "Chinese Simplified": "浮潜鼬"
+    }
+  },
+  "Modrille": {
+    "Indices": {
+      "pkeUranium": 73
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Lightning Rod", "Sand Rush", "Mold Breaker"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Tauperceur",
+      "German": "Mawore",
+      "Spanish": "Modrille",
+      "Portuguese": "Modrille",
+      "Chinese Simplified": "钻头鼹鼠"
+    }
+  },
+  "Drilgann": {
+    "Indices": {
+      "pkeUranium": 74
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Lightning Rod", "Sand Rush", "Mold Breaker"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Drilgannite"
+          }
+        }
+      },
+      "Mega": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Tauperfore",
+      "German": "Borgann",
+      "Spanish": "Drilgann",
+      "Portuguese": "Drilgann",
+      "Chinese Simplified": "超钻鼹鼠"
+    }
+  },
+  "Gligar": {
+    "Indices": {
+      "pkeUranium": 75
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Hyper Cutter", "Sand Veil", "Immunity"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      },
+      "Nuclear": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Slow",
+    "Names": {
+      "French": "Scorplane",
+      "German": "Skorgla",
+      "Spanish": "Gligar",
+      "Portuguese": "Gligar",
+      "Chinese Simplified": "天蝎"
+    }
+  },
+  "Gliscor": {
+    "Indices": {
+      "pkeUranium": 76
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Hyper Cutter", "Sand Veil", "Poison Heal"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      },
+      "Nuclear": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Slow",
+    "Names": {
+      "French": "Scorvol",
+      "German": "Skorgro",
+      "Spanish": "Gliscor",
+      "Portuguese": "Gliscor",
+      "Chinese Simplified": "天蝎王"
+    }
+  },
+  "Sableye": {
+    "Indices": {
+      "pkeUranium": 77
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Keen Eye", "Stall", "Prankster"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Sableyeite"
+          }
+        },
+        "Appearance": {
+          "Christmas": {
+            "Form Indices": {
+              "pkeUranium": 4
+            }
+          }
+        }
+      },
+      "Mega": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"],
+        "Ability Slots": ["Magic Bounce", "Magic Bounce", "Magic Bounce"],
+        "Appearance": {
+          "Christmas": {
+            "Form Indices": {
+              "pkeUranium": 5
+            }
+          }
+        }
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Slow",
+    "Names": {
+      "French": "Ténéfix",
+      "German": "Zobiris",
+      "Spanish": "Sableye",
+      "Portuguese": "Sableye",
+      "Chinese Simplified": "勾魂眼"
+    }
+  },
+  "Cocaran": {
+    "Indices": {
+      "pkeUranium": 78
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Sand Veil", "Chlorophyll", "Harvest", "Filter"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "Appearance": {
+          "Halloween": {
+            "Form Indices": {
+              "pkeUranium": 3
+            }
+          }
+        }
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Cocrabe",
+      "German": "Kokoran",
+      "Spanish": "Cocaran",
+      "Portuguese": "Cocaran",
+      "Chinese Simplified": "椰子蟹"
+    }
+  },
+  "Cararalm": {
+    "Indices": {
+      "pkeUranium": 79
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Sand Veil", "Chlorophyll", "Harvest", "Filter"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "Appearance": {
+          "Halloween": {
+            "Form Indices": {
+              "pkeUranium": 3
+            }
+          }
+        }
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Cocapode",
+      "German": "Kokopalm",
+      "Spanish": "Cararalm",
+      "Portuguese": "Cararalm",
+      "Chinese Simplified": "椰树蟹"
+    }
+  },
+  "Cocancer": {
+    "Indices": {
+      "pkeUranium": 80
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Sand Veil", "Chlorophyll", "Harvest", "Filter"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "Appearance": {
+          "Halloween": {
+            "Form Indices": {
+              "pkeUranium": 3
+            }
+          }
+        }
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Cocancer",
+      "German": "Kokokrebs",
+      "Spanish": "Cocancer",
+      "Portuguese": "Cocancer",
+      "Chinese Simplified": "椰岛巨蟹"
+    }
+  },
+  "Corsola": {
+    "Indices": {
+      "pkeUranium": 81
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Hustle", "Natural Cure", "Regenerator"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      },
+      "Nuclear": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 3",
+    "Growth Rate": "Fast",
+    "Names": {
+      "French": "Corayon",
+      "German": "Corasonn",
+      "Spanish": "Corsola",
+      "Portuguese": "Corsola",
+      "Chinese Simplified": "太阳珊瑚"
+    }
+  },
+  "Corsoreef": {
+    "Indices": {
+      "pkeUranium": 82
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Sharp Coral", "Natural Cure", "Regenerator"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      },
+      "Nuclear": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 3",
+    "Growth Rate": "Fast",
+    "Names": {
+      "French": "Coréci",
+      "German": "Corsoralle",
+      "Spanish": "Corsoreef",
+      "Portuguese": "Corsoreef",
+      "Chinese Simplified": "珊瑚岩"
+    }
+  },
+  "Tubjaw": {
+    "Indices": {
+      "pkeUranium": 83
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Swift Swim", "Strong Jaw", "Intimidate"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      },
+      "Nuclear": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 7 Female 1",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Noctanguille",
+      "German": "Tubarahn",
+      "Spanish": "Tubjaw",
+      "Portuguese": "Tubjaw",
+      "Chinese Simplified": "大颌鳗"
+    }
+  },
+  "Tubareel": {
+    "Indices": {
+      "pkeUranium": 84
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Swift Swim", "Strong Jaw", "Intimidate"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      },
+      "Nuclear": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 7 Female 1",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Sombrequin",
+      "German": "Tubaraal",
+      "Spanish": "Tubareel",
+      "Portuguese": "Tubareel",
+      "Chinese Simplified": "卷桶鳗"
+    }
+  },
+  "Cassnail": {
+    "Indices": {
+      "pkeUranium": 85
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Shell Armor", "Sand Veil", "Sand Stream"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Escarseau",
+      "German": "Schnurg",
+      "Spanish": "Cassnail",
+      "Portuguese": "Cassnail",
+      "Chinese Simplified": "沙堡蜗"
+    }
+  },
+  "Sableau": {
+    "Indices": {
+      "pkeUranium": 86
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Shell Armor", "Sand Veil", "Sand Stream"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Sablargot",
+      "German": "Sableau",
+      "Spanish": "Sableau",
+      "Portuguese": "Sableau",
+      "Chinese Simplified": "宫殿蜗"
+    }
+  },
+  "Escartress": {
+    "Indices": {
+      "pkeUranium": 87
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Shell Armor", "Sand Veil", "Sand Stream"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Bastiropode",
+      "German": "Fescargun",
+      "Spanish": "Escartress",
+      "Portuguese": "Escartress",
+      "Chinese Simplified": "天守蜗"
+    }
+  },
+  "Nupin": {
+    "Indices": {
+      "pkeUranium": 88
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Chlorophyll", null, "Solar Power"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      },
+      "Nuclear": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "All Genderless",
+    "Growth Rate": "Fast",
+    "Names": {
+      "French": "Nupin",
+      "German": "Plankteria",
+      "Spanish": "Nupin",
+      "Portuguese": "Nupin",
+      "Chinese Simplified": "草履胞"
+    }
+  },
+  "Gellin": {
+    "Indices": {
+      "pkeUranium": 89
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Chlorophyll", null, "Solar Power"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      },
+      "Nuclear": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "All Genderless",
+    "Growth Rate": "Fast",
+    "Names": {
+      "French": "Gellin",
+      "German": "Geleria",
+      "Spanish": "Gellin",
+      "Portuguese": "Gellin",
+      "Chinese Simplified": "绿电胞"
+    }
+  },
+  "Cottonee": {
+    "Indices": {
+      "pkeUranium": 90
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Prankster", "Infiltrator", "Chlorophyll"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Doudouvet",
+      "German": "Waumboll",
+      "Spanish": "Cottonee",
+      "Portuguese": "Cottonee",
+      "Chinese Simplified": "木棉球"
+    }
+  },
+  "Whimsicott": {
+    "Indices": {
+      "pkeUranium": 91
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Prankster", "Infiltrator", "Chlorophyll"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Whimsicottite"
+          }
+        }
+      },
+      "Mega": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"],
+        "Ability Slots": ["Regenerator", "Regenerator", "Regenerator"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Farfaduvet",
+      "German": "Elfun",
+      "Spanish": "Whimsicott",
+      "Portuguese": "Whimsicott",
+      "Chinese Simplified": "风妖精"
+    }
+  },
+  "Misdreavus": {
+    "Indices": {
+      "pkeUranium": 92
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Levitate"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Fast",
+    "Names": {
+      "French": "Feuforêve",
+      "German": "Traunfugil",
+      "Spanish": "Misdreavus",
+      "Portuguese": "Misdreavus",
+      "Chinese Simplified": "梦妖"
+    }
+  },
+  "Mismagius": {
+    "Indices": {
+      "pkeUranium": 93
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Levitate"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Fast",
+    "Names": {
+      "French": "Magirêve",
+      "German": "Traunmagil",
+      "Spanish": "Mismagius",
+      "Portuguese": "Mismagius",
+      "Chinese Simplified": "梦妖魔"
+    }
+  },
+  "Barand": {
+    "Indices": {
+      "pkeUranium": 94
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Rivalry", "Shed Skin", "Tough Claws"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      },
+      "Nuclear": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Reptagrif",
+      "German": "Blosand",
+      "Spanish": "Barand",
+      "Portuguese": "Barand",
+      "Chinese Simplified": "尾爪龙"
+    }
+  },
+  "Glaslug": {
+    "Indices": {
+      "pkeUranium": 95
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Swift Swim", "Natural Cure", "Snow Warning"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "Appearance": {
+          "Easter": {
+            "Form Indices": {
+              "pkeUranium": 3
+            }
+          }
+        }
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Glimaçon",
+      "German": "Schneecke",
+      "Spanish": "Glaslug",
+      "Portuguese": "Glaslug",
+      "Chinese Simplified": "冻原虫"
+    }
+  },
+  "Glavinug": {
+    "Indices": {
+      "pkeUranium": 96
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Swift Swim", "Natural Cure", "Snow Warning"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "Appearance": {
+          "Easter": {
+            "Form Indices": {
+              "pkeUranium": 3
+            }
+          }
+        }
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Limiceberg",
+      "German": "Glaukus",
+      "Spanish": "Glavinug",
+      "Portuguese": "Glavinug",
+      "Chinese Simplified": "冰帝海牛"
+    }
+  },
+  "S51": {
+    "Indices": {
+      "pkeUranium": 97
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Levitate", null, "Analytic"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "Appearance": {
+          "Easter": {
+            "Form Indices": {
+              "pkeUranium": 4
+            }
+          }
+        }
+      }
+    },
+    "Gender Ratio": "All Genderless",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "S51",
+      "German": "S51",
+      "Spanish": "S51",
+      "Portuguese": "S51",
+      "Chinese Simplified": "Ｓ５１"
+    }
+  },
+  "S51-A": {
+    "Indices": {
+      "pkeUranium": 98
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Levitate", null, "Analytic"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Unidentified Fallen Object"
+          }
+        },
+        "Appearance": {
+          "Easter": {
+            "Form Indices": {
+              "pkeUranium": 4
+            }
+          }
+        }
+      },
+      "Mega": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"],
+        "Ability Slots": ["Mega Launcher", null, "Mega Launcher"],
+        "Appearance": {
+          "Easter": {
+            "Form Indices": {
+              "pkeUranium": 5
+            }
+          }
+        }
+      }
+    },
+    "Gender Ratio": "All Genderless",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "S51-A",
+      "German": "S51-A",
+      "Spanish": "S51-A",
+      "Portuguese": "S51-A",
+      "Chinese Simplified": "Ｓ５１－Ａ"
+    }
+  },
+  "Paraudio": {
+    "Indices": {
+      "pkeUranium": 99
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Soundproof", "Sound Boost"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "Appearance": {
+          "Halloween": {
+            "Form Indices": {
+              "pkeUranium": 3
+            }
+          }
+        }
+      },
+      "Nuclear": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Paraudio",
+      "German": "Paraudio",
+      "Spanish": "Paraudio",
+      "Portuguese": "Paraudio",
+      "Chinese Simplified": "轻音蜥"
+    }
+  },
+  "Paraboom": {
+    "Indices": {
+      "pkeUranium": 100
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Soundproof", "Sound Boost"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "Appearance": {
+          "Halloween": {
+            "Form Indices": {
+              "pkeUranium": 3
+            }
+          }
+        }
+      },
+      "Nuclear": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Paraboum",
+      "German": "Parabum",
+      "Spanish": "Paraboom",
+      "Portuguese": "Paraboom",
+      "Chinese Simplified": "爆音蜥"
+    }
+  },
+  "Flager": {
+    "Indices": {
+      "pkeUranium": 101
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Flash Fire"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 7 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Tigrasier",
+      "German": "Flager",
+      "Spanish": "Flager",
+      "Portuguese": "Flager",
+      "Chinese Simplified": "幼焰虎"
+    }
+  },
+  "Inflagetah": {
+    "Indices": {
+      "pkeUranium": 102
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Acceleration"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Inflagetite"
+          }
+        }
+      },
+      "Mega": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 7 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Enflaguépar",
+      "German": "Infohepard",
+      "Spanish": "Inflagetah",
+      "Portuguese": "Inflagetah",
+      "Chinese Simplified": "业火豹"
+    }
+  },
+  "Chimical": {
+    "Indices": {
+      "pkeUranium": 103
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Petrify", null, "Contrary"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "Appearance": {
+          "Halloween": {
+            "Form Indices": {
+              "pkeUranium": 3
+            }
+          }
+        }
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Chiminion",
+      "German": "Chimikal",
+      "Spanish": "Chimical",
+      "Portuguese": "Chimical",
+      "Chinese Simplified": "喀迈卡"
+    }
+  },
+  "Chimaconda": {
+    "Indices": {
+      "pkeUranium": 104
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Petrify", null, "Contrary"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "Appearance": {
+          "Halloween": {
+            "Form Indices": {
+              "pkeUranium": 3
+            }
+          }
+        }
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Chimaconda",
+      "German": "Chimakonda",
+      "Spanish": "Chimaconda",
+      "Portuguese": "Chimaconda",
+      "Chinese Simplified": "喀迈蟒"
+    }
+  },
+  "Tikiki": {
+    "Indices": {
+      "pkeUranium": 105
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Vital Spirit", "Iron Fist", "Technician"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Titiki",
+      "German": "Tikiki",
+      "Spanish": "Tikiki",
+      "Portuguese": "Tikiki",
+      "Chinese Simplified": "土著猴"
+    }
+  },
+  "Frikitiki": {
+    "Indices": {
+      "pkeUranium": 106
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Vital Spirit", "Iron Fist", "Technician"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Frikitiki",
+      "German": "Frikitiki",
+      "Spanish": "Frikitiki",
+      "Portuguese": "Frikitiki",
+      "Chinese Simplified": "酋长猴"
+    }
+  },
+  "Unymph": {
+    "Indices": {
+      "pkeUranium": 107
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Shield Dust", "Compound Eyes", "Suction Cups"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Nymfolan",
+      "German": "Unymph",
+      "Spanish": "Unymph",
+      "Portuguese": "Unymph",
+      "Chinese Simplified": "幼蜻蜓"
+    }
+  },
+  "Harptera": {
+    "Indices": {
+      "pkeUranium": 108
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Moxie", "Gale Wings", "Unburden"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Libellarpie",
+      "German": "Harptera",
+      "Spanish": "Harptera",
+      "Portuguese": "Harptera",
+      "Chinese Simplified": "蜻蜓龙"
+    }
+  },
+  "Chicoatl": {
+    "Indices": {
+      "pkeUranium": 109
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Sap Sipper", "Leaf Guard", "Chlorophyll"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Fast",
+    "Names": {
+      "French": "Galicoatl",
+      "German": "Kükoatl",
+      "Spanish": "Chicoatl",
+      "Portuguese": "Chicoatl",
+      "Chinese Simplified": "小羽枭"
+    }
+  },
+  "Quetzoral": {
+    "Indices": {
+      "pkeUranium": 110
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Sap Sipper", "Leaf Guard", "Chlorophyll"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Fast",
+    "Names": {
+      "French": "Quetzoral",
+      "German": "Quetzora",
+      "Spanish": "Quetzoral",
+      "Portuguese": "Quetzoral",
+      "Chinese Simplified": "羽花鹃"
+    }
+  },
+  "Coatlith": {
+    "Indices": {
+      "pkeUranium": 111
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Levitate", null, "Chlorophyll"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Fast",
+    "Names": {
+      "French": "Coatliquot",
+      "German": "Coatlith",
+      "Spanish": "Coatlith",
+      "Portuguese": "Coatlith",
+      "Chinese Simplified": "羽蛇龙"
+    }
+  },
+  "Tracton": {
+    "Indices": {
+      "pkeUranium": 112
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Speed Boost", "Motor Drive", "Analytic"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "Appearance": {
+          "Christmas": {
+            "Form Indices": {
+              "pkeUranium": 3
+            }
+          }
+        }
+      }
+    },
+    "Gender Ratio": "All Genderless",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Tracton",
+      "German": "Drachtor",
+      "Spanish": "Tracton",
+      "Portuguese": "Tracton",
+      "Chinese Simplified": "恐龙战车"
+    }
+  },
+  "Snopach": {
+    "Indices": {
+      "pkeUranium": 113
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Solid Rock", "Snow Cloak", "Sturdy"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 7 Female 1",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Dermagel",
+      "German": "Schnepach",
+      "Spanish": "Snopach",
+      "Portuguese": "Snopach",
+      "Chinese Simplified": "雪厚象"
+    }
+  },
+  "Dermafrost": {
+    "Indices": {
+      "pkeUranium": 114
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Solid Rock", "Snow Cloak", "Sturdy"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 7 Female 1",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Dermafrost",
+      "German": "Dermafrost",
+      "Spanish": "Dermafrost",
+      "Portuguese": "Dermafrost",
+      "Chinese Simplified": "冰河猛犸"
+    }
+  },
+  "Slothohm": {
+    "Indices": {
+      "pkeUranium": 115
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Energizate", "Motor Drive", "Rock Head"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 7 Female 1",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Ohmaï",
+      "German": "Faulohm",
+      "Spanish": "Slothohm",
+      "Portuguese": "Slothohm",
+      "Chinese Simplified": "欧姆树懒"
+    }
+  },
+  "Theriamp": {
+    "Indices": {
+      "pkeUranium": 116
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Energizate", "Motor Drive", "Rock Head"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 7 Female 1",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Ampaï",
+      "German": "Theriamp",
+      "Spanish": "Theriamp",
+      "Portuguese": "Theriamp",
+      "Chinese Simplified": "安培地懒"
+    }
+  },
+  "Titanice": {
+    "Indices": {
+      "pkeUranium": 117
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Forewarn", "Ice Body", "Snow Warning"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "Appearance": {
+          "Halloween": {
+            "Form Indices": {
+              "pkeUranium": 3
+            }
+          }
+        }
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Titanice",
+      "German": "Titaneis",
+      "Spanish": "Titanice",
+      "Portuguese": "Titanice",
+      "Chinese Simplified": "泰坦冰克"
+    }
+  },
+  "Frynai": {
+    "Indices": {
+      "pkeUranium": 118
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Swift Swim", "Inner Focus", "Sheer Force"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Fast",
+    "Names": {
+      "French": "Frinaï",
+      "German": "Brunai",
+      "Spanish": "Frynai",
+      "Portuguese": "Frynai",
+      "Chinese Simplified": "小苦无"
+    }
+  },
+  "Saidine": {
+    "Indices": {
+      "pkeUranium": 119
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Swift Swim", "Inner Focus", "Sheer Force"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Fast",
+    "Names": {
+      "French": "Saidine",
+      "German": "Saidine",
+      "Spanish": "Saidine",
+      "Portuguese": "Saidine",
+      "Chinese Simplified": "十手沙丁"
+    }
+  },
+  "Daikatuna": {
+    "Indices": {
+      "pkeUranium": 120
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Swift Swim", "Inner Focus", "Sheer Force"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Fast",
+    "Names": {
+      "French": "Kathona",
+      "German": "Daikatuna",
+      "Spanish": "Daikatuna",
+      "Portuguese": "Daikatuna",
+      "Chinese Simplified": "忍刀金枪"
+    }
+  },
+  "Selkid": {
+    "Indices": {
+      "pkeUranium": 121
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Cute Charm", "Swift Swim"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "All Female",
+    "Growth Rate": "Medium Slow",
+    "Names": {
+      "French": "Selkid",
+      "German": "Selkind",
+      "Spanish": "Selkid",
+      "Portuguese": "Selkid",
+      "Chinese Simplified": "海仙童"
+    }
+  },
+  "Syrentide": {
+    "Indices": {
+      "pkeUranium": 122
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Cute Charm", "Swift Swim"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Syrentideite"
+          }
+        }
+      },
+      "Mega": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"],
+        "Ability Slots": ["Pixilate", "Pixilate"]
+      }
+    },
+    "Gender Ratio": "All Female",
+    "Growth Rate": "Medium Slow",
+    "Names": {
+      "French": "Sirénaïade",
+      "German": "Syreneidon",
+      "Spanish": "Syrentide",
+      "Portuguese": "Syrentide",
+      "Chinese Simplified": "潮汐海妖"
+    }
+  },
+  "Spritzee": {
+    "Indices": {
+      "pkeUranium": 123
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Healer", "Aroma Veil"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Fluvetin",
+      "German": "Parfi",
+      "Spanish": "Spritzee",
+      "Portuguese": "Spritzee",
+      "Chinese Simplified": "粉香香"
+    }
+  },
+  "Aromatisse": {
+    "Indices": {
+      "pkeUranium": 124
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Healer", "Aroma Veil"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Cocotine",
+      "German": "Parfinesse",
+      "Spanish": "Aromatisse",
+      "Portuguese": "Aromatisse",
+      "Chinese Simplified": "香香粉"
+    }
+  },
+  "Miasmedic": {
+    "Indices": {
+      "pkeUranium": 125
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Healer", "Poison Touch"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Miasmédic",
+      "German": "Miasani",
+      "Spanish": "Miasmedic",
+      "Portuguese": "Miasmedic",
+      "Chinese Simplified": "瘴气巫"
+    }
+  },
+  "Jackdeary": {
+    "Indices": {
+      "pkeUranium": 126
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Magic Guard", "Inner Focus", "Inner Focus", "Pixilate"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "Appearance": {
+          "Easter": {
+            "Form Indices": {
+              "pkeUranium": 3
+            }
+          }
+        }
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Lapojack",
+      "German": "Wolpereh",
+      "Spanish": "Jackdeary",
+      "Portuguese": "Jackdeary",
+      "Chinese Simplified": "鹿角兔"
+    }
+  },
+  "Winotinger": {
+    "Indices": {
+      "pkeUranium": 127
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Magic Guard", "Inner Focus", "Inner Focus", "Pixilate"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "Appearance": {
+          "Easter": {
+            "Form Indices": {
+              "pkeUranium": 3
+            }
+          }
+        }
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Vinotinger",
+      "German": "Saufotinger",
+      "Spanish": "Winotinger",
+      "Portuguese": "Winotinger",
+      "Chinese Simplified": "武痴兔"
+    }
+  },
+  "Duplicat": {
+    "Indices": {
+      "pkeUranium": 128
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Prankster", "Trace"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "All Genderless",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Duplicat",
+      "German": "Duplikatz",
+      "Spanish": "Duplicat",
+      "Portuguese": "Duplicat",
+      "Chinese Simplified": "拷贝猫"
+    }
+  },
+  "Eevee": {
+    "Indices": {
+      "pkeUranium": 129
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Run Away", "Adaptability", "Anticipation"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 7 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Evoli",
+      "German": "Evoli",
+      "Spanish": "Eevee",
+      "Portuguese": "Eevee",
+      "Chinese Simplified": "伊布"
+    }
+  },
+  "Vaporeon": {
+    "Indices": {
+      "pkeUranium": 130
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Water Absorb", null, "Hydration"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 7 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Aquali",
+      "German": "Aquana",
+      "Spanish": "Vaporeon",
+      "Portuguese": "Vaporeon",
+      "Chinese Simplified": "水伊布"
+    }
+  },
+  "Jolteon": {
+    "Indices": {
+      "pkeUranium": 131
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Volt Absorb", null, "Quick Feet"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 7 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Voltali",
+      "German": "Blitza",
+      "Spanish": "Jolteon",
+      "Portuguese": "Jolteon",
+      "Chinese Simplified": "雷伊布"
+    }
+  },
+  "Flareon": {
+    "Indices": {
+      "pkeUranium": 132
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Flash Fire", null, "Guts"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 7 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Pyroli",
+      "German": "Flamara",
+      "Spanish": "Flareon",
+      "Portuguese": "Flareon",
+      "Chinese Simplified": "火伊布"
+    }
+  },
+  "Espeon": {
+    "Indices": {
+      "pkeUranium": 133
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Synchronize", null, "Magic Bounce"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 7 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Mentali",
+      "German": "Psiana",
+      "Spanish": "Espeon",
+      "Portuguese": "Espeon",
+      "Chinese Simplified": "太阳伊布"
+    }
+  },
+  "Umbreon": {
+    "Indices": {
+      "pkeUranium": 134
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Synchronize", null, "Inner Focus"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 7 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Noctali",
+      "German": "Nachtara",
+      "Spanish": "Umbreon",
+      "Portuguese": "Umbreon",
+      "Chinese Simplified": "月伊布"
+    }
+  },
+  "Leafeon": {
+    "Indices": {
+      "pkeUranium": 135
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Leaf Guard", null, "Chlorophyll"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 7 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Phyllali",
+      "German": "Folipurba",
+      "Spanish": "Leafeon",
+      "Portuguese": "Leafeon",
+      "Chinese Simplified": "叶伊布"
+    }
+  },
+  "Glaceon": {
+    "Indices": {
+      "pkeUranium": 136
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Snow Cloak", null, "Ice Body"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 7 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Givrali",
+      "German": "Glaziola",
+      "Spanish": "Glaceon",
+      "Portuguese": "Glaceon",
+      "Chinese Simplified": "冰伊布"
+    }
+  },
+  "Sylveon": {
+    "Indices": {
+      "pkeUranium": 137
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Cute Charm", null, "Pixilate"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 7 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Nymphali",
+      "German": "Feelinara",
+      "Spanish": "Sylveon",
+      "Portuguese": "Sylveon",
+      "Chinese Simplified": "仙子伊布"
+    }
+  },
+  "Nucleon": {
+    "Indices": {
+      "pkeUranium": 138
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Atomizate", null, "Geiger Sense"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 7 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Urali",
+      "German": "Nukleana",
+      "Spanish": "Nucleon",
+      "Portuguese": "Nucleon",
+      "Chinese Simplified": "原子伊布"
+    }
+  },
+  "Ratsy": {
+    "Indices": {
+      "pkeUranium": 139
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Insomnia", "Quick Feet", "Pickup"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 7 Female 1",
+    "Growth Rate": "Medium Slow",
+    "Names": {
+      "French": "Ratsy",
+      "German": "Ratsi",
+      "Spanish": "Ratsy",
+      "Portuguese": "Ratsy",
+      "Chinese Simplified": "画画鼠"
+    }
+  },
+  "Raffiti": {
+    "Indices": {
+      "pkeUranium": 140
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Insomnia", "Quick Feet", "Pickup"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 7 Female 1",
+    "Growth Rate": "Medium Slow",
+    "Names": {
+      "French": "Raffiti",
+      "German": "Raffiti",
+      "Spanish": "Raffiti",
+      "Portuguese": "Raffiti",
+      "Chinese Simplified": "涂鸦鼠"
+    }
+  },
+  "Gargryph": {
+    "Indices": {
+      "pkeUranium": 141
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Rebuild"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "Appearance": {
+          "Anniversary": {
+            "Form Indices": {
+              "pkeUranium": 3
+            }
+          }
+        }
+      }
+    },
+    "Gender Ratio": "All Genderless",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Gargryph",
+      "German": "Gargreif",
+      "Spanish": "Gargryph",
+      "Portuguese": "Gargryph",
+      "Chinese Simplified": "石狮鹫"
+    }
+  },
+  "Masking": {
+    "Indices": {
+      "pkeUranium": 142
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Illusion", null, "Synchronize"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "Appearance": {
+          "Halloween": {
+            "Form Indices": {
+              "pkeUranium": 4
+            }
+          }
+        }
+      },
+      "Nuclear": {
+        "Form Indices": {
+          "pkeUranium": 2
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Maskesté",
+      "German": "Maskaiser",
+      "Spanish": "Masking",
+      "Portuguese": "Masking",
+      "Chinese Simplified": "乔装鸟"
+    }
+  },
+  "Dramsama": {
+    "Indices": {
+      "pkeUranium": 143
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Illusion", null, "Synchronize"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Dramsamaite"
+          }
+        },
+        "Appearance": {
+          "Halloween": {
+            "Form Indices": {
+              "pkeUranium": 4
+            }
+          }
+        }
+      },
+      "Mega": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"],
+        "Ability Slots": ["Bad Dreams", null, "Bad Dreams"],
+        "Appearance": {
+          "Halloween": {
+            "Form Indices": {
+              "pkeUranium": 5
+            }
+          }
+        }
+      },
+      "Nuclear": {
+        "Form Indices": {
+          "pkeUranium": 2
+        },
+        "Exists in": ["pkeUranium"],
+        "In-Battle Form Changes": {
+          "Mega|Nuclear": {
+            "Type": "Mega",
+            "Item": "Dramsamaite"
+          }
+        }
+      },
+      "Mega|Nuclear": {
+        "Form Indices": {
+          "pkeUranium": 3
+        },
+        "Exists in": ["pkeUranium"],
+        "Ability Slots": ["Bad Dreams", null, "Bad Dreams"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Dramsama",
+      "German": "Dramsama",
+      "Spanish": "Dramsama",
+      "Portuguese": "Dramsama",
+      "Chinese Simplified": "舞王鸟"
+    }
+  },
+  "Antarki": {
+    "Indices": {
+      "pkeUranium": 144
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Illuminate", null, "Prankster"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Antarki",
+      "German": "Antarki",
+      "Spanish": "Antarki",
+      "Portuguese": "Antarki",
+      "Chinese Simplified": "叹火灵"
+    }
+  },
+  "Chupacho": {
+    "Indices": {
+      "pkeUranium": 145
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Poison Point", "Poison Touch", "Hustle"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      },
+      "Nuclear": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Chupacabro",
+      "German": "Chupacho",
+      "Spanish": "Chupacho",
+      "Portuguese": "Chupacho",
+      "Chinese Simplified": "德布拉"
+    }
+  },
+  "Luchabra": {
+    "Indices": {
+      "pkeUranium": 146
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Poison Point", "Poison Touch", "Hustle"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      },
+      "Nuclear": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Luttacabra",
+      "German": "Luchabra",
+      "Spanish": "Luchabra",
+      "Portuguese": "Luchabra",
+      "Chinese Simplified": "假面古拉"
+    }
+  },
+  "Linkite": {
+    "Indices": {
+      "pkeUranium": 147
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Shadow Tag", "Cursed Body"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "Appearance": {
+          "Christmas": {
+            "Form Indices": {
+              "pkeUranium": 3
+            }
+          }
+        }
+      }
+    },
+    "Gender Ratio": "All Genderless",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Fantochaine",
+      "German": "Gliedite",
+      "Spanish": "Linkite",
+      "Portuguese": "Linkite",
+      "Chinese Simplified": "镣铐鬼"
+    }
+  },
+  "Chainite": {
+    "Indices": {
+      "pkeUranium": 148
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Shadow Tag", "Cursed Body"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "Appearance": {
+          "Christmas": {
+            "Form Indices": {
+              "pkeUranium": 3
+            }
+          }
+        }
+      }
+    },
+    "Gender Ratio": "All Genderless",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Déchainote",
+      "German": "Kettite",
+      "Spanish": "Chainite",
+      "Portuguese": "Chainite",
+      "Chinese Simplified": "锁链恶灵"
+    }
+  },
+  "Pufluff": {
+    "Indices": {
+      "pkeUranium": 149
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Snow Cloak"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "Appearance": {
+          "Christmas": {
+            "Form Indices": {
+              "pkeUranium": 3
+            }
+          }
+        }
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Pelugel",
+      "German": "Pufluff",
+      "Spanish": "Pufluff",
+      "Portuguese": "Pufluff",
+      "Chinese Simplified": "泡芙卷"
+    }
+  },
+  "Alpico": {
+    "Indices": {
+      "pkeUranium": 150
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Competitive", "Technician"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "Appearance": {
+          "Christmas": {
+            "Form Indices": {
+              "pkeUranium": 3
+            }
+          }
+        }
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Alpico",
+      "German": "Alpico",
+      "Spanish": "Alpico",
+      "Portuguese": "Alpico",
+      "Chinese Simplified": "滑翔雪灵"
+    }
+  },
+  "Anderind": {
+    "Indices": {
+      "pkeUranium": 151
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Snow Warning", "Rivalry"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "Appearance": {
+          "Christmas": {
+            "Form Indices": {
+              "pkeUranium": 3
+            }
+          }
+        }
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Andésol",
+      "German": "Anderind",
+      "Spanish": "Anderind",
+      "Portuguese": "Anderind",
+      "Chinese Simplified": "乘风雪灵"
+    }
+  },
+  "Colarva": {
+    "Indices": {
+      "pkeUranium": 152
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Ice Body"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Glarvon",
+      "German": "Kalarva",
+      "Spanish": "Colarva",
+      "Portuguese": "Colarva",
+      "Chinese Simplified": "雪迹螨"
+    }
+  },
+  "Frosulo": {
+    "Indices": {
+      "pkeUranium": 153
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Ice Body"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Coconfroi",
+      "German": "Frosulo",
+      "Spanish": "Frosulo",
+      "Portuguese": "Frosulo",
+      "Chinese Simplified": "霜冻蛹"
+    }
+  },
+  "Frosthra": {
+    "Indices": {
+      "pkeUranium": 154
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Deep Freeze"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Mosthrazote",
+      "German": "Frosthra",
+      "Spanish": "Frosthra",
+      "Portuguese": "Frosthra",
+      "Chinese Simplified": "天霜蛾"
+    }
+  },
+  "Fafurr": {
+    "Indices": {
+      "pkeUranium": 155
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Thick Fat", "Fur Coat"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Fourrugon",
+      "German": "Fafnel",
+      "Spanish": "Fafurr",
+      "Portuguese": "Fafurr",
+      "Chinese Simplified": "冰绒龙"
+    }
+  },
+  "Fafninter": {
+    "Indices": {
+      "pkeUranium": 156
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Thick Fat", "Fur Coat"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Fafniver",
+      "German": "Fafninter",
+      "Spanish": "Fafninter",
+      "Portuguese": "Fafninter",
+      "Chinese Simplified": "临冬龙"
+    }
+  },
+  "Shrimputy": {
+    "Indices": {
+      "pkeUranium": 157
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Sniper"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Fluctuating",
+    "Names": {
+      "French": "Crevanon",
+      "German": "Garnole",
+      "Spanish": "Shrimputy",
+      "Portuguese": "Shrimputy",
+      "Chinese Simplified": "小炮龙虾"
+    }
+  },
+  "Krilvolver": {
+    "Indices": {
+      "pkeUranium": 158
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Sniper"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Fluctuating",
+    "Names": {
+      "French": "Krilvolver",
+      "German": "Krilvolver",
+      "Spanish": "Krilvolver",
+      "Portuguese": "Krilvolver",
+      "Chinese Simplified": "火炮龙虾"
+    }
+  },
+  "Lavent": {
+    "Indices": {
+      "pkeUranium": 159
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Magma Armor", "Adaptability"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Lavurène",
+      "German": "Lavalte",
+      "Spanish": "Lavent",
+      "Portuguese": "Lavent",
+      "Chinese Simplified": "岩浆龙"
+    }
+  },
+  "Swabone": {
+    "Indices": {
+      "pkeUranium": 160
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Scrappy"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Trublios",
+      "German": "Semanoch",
+      "Spanish": "Swabone",
+      "Portuguese": "Swabone",
+      "Chinese Simplified": "恶骨灵"
+    }
+  },
+  "Skelerogue": {
+    "Indices": {
+      "pkeUranium": 161
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Scrappy"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Flibustibia",
+      "German": "Skeleturke",
+      "Spanish": "Skelerogue",
+      "Portuguese": "Skelerogue",
+      "Chinese Simplified": "海贼骷"
+    }
+  },
+  "Navighast": {
+    "Indices": {
+      "pkeUranium": 162
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Levitate"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Squelitaine",
+      "German": "Navigeist",
+      "Spanish": "Navighast",
+      "Portuguese": "Navighast",
+      "Chinese Simplified": "海鬼王"
+    }
+  },
+  "Stenowatt": {
+    "Indices": {
+      "pkeUranium": 163
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Motor Drive", "Speed Boost", "Acceleration"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Fast",
+    "Names": {
+      "French": "Stenowatt",
+      "German": "Stenowatt",
+      "Spanish": "Stenowatt",
+      "Portuguese": "Stenowatt",
+      "Chinese Simplified": "迅爪电龙"
+    }
+  },
+  "Jungore": {
+    "Indices": {
+      "pkeUranium": 164
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Battle Armor", "Clear Body"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "Appearance": {
+          "Anniversary": {
+            "Form Indices": {
+              "pkeUranium": 3
+            }
+          }
+        }
+      }
+    },
+    "Gender Ratio": "Male 7 Female 1",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Gaminor",
+      "German": "Jungels",
+      "Spanish": "Jungore",
+      "Portuguese": "Jungore",
+      "Chinese Simplified": "矿石小生"
+    }
+  },
+  "Majungold": {
+    "Indices": {
+      "pkeUranium": 165
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Battle Armor", "Clear Body"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "Appearance": {
+          "Anniversary": {
+            "Form Indices": {
+              "pkeUranium": 3
+            }
+          }
+        }
+      }
+    },
+    "Gender Ratio": "Male 7 Female 1",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Oriclaque",
+      "German": "Majungold",
+      "Spanish": "Majungold",
+      "Portuguese": "Majungold",
+      "Chinese Simplified": "蛮金力士"
+    }
+  },
+  "Hagoop": {
+    "Indices": {
+      "pkeUranium": 166
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Gooey", "Liquid Ooze", "Regenerator"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "Appearance": {
+          "Easter": {
+            "Form Indices": {
+              "pkeUranium": 3
+            }
+          }
+        }
+      },
+      "Nuclear": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 7 Female 1",
+    "Growth Rate": "Fast",
+    "Names": {
+      "French": "Elébave",
+      "German": "Schlebri",
+      "Spanish": "Hagoop",
+      "Portuguese": "Hagoop",
+      "Chinese Simplified": "鼻涕鳗"
+    }
+  },
+  "Haagross": {
+    "Indices": {
+      "pkeUranium": 167
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Gooey", "Liquid Ooze", "Regenerator"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "Appearance": {
+          "Easter": {
+            "Form Indices": {
+              "pkeUranium": 3
+            }
+          }
+        }
+      },
+      "Nuclear": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 7 Female 1",
+    "Growth Rate": "Fast",
+    "Names": {
+      "French": "Myxetric",
+      "German": "Schlekel",
+      "Spanish": "Haagross",
+      "Portuguese": "Haagross",
+      "Chinese Simplified": "黏美鳗"
+    }
+  },
+  "Xenomite": {
+    "Indices": {
+      "pkeUranium": 168
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Damp", "Aftermath"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 3",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Xénomite",
+      "German": "Xenomilb",
+      "Spanish": "Xenomite",
+      "Portuguese": "Xenomite",
+      "Chinese Simplified": "异能小虫"
+    }
+  },
+  "Xenogen": {
+    "Indices": {
+      "pkeUranium": 169
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Damp", "Aftermath"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 3",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Xénogène",
+      "German": "Xenogen",
+      "Spanish": "Xenogen",
+      "Portuguese": "Xenogen",
+      "Chinese Simplified": "异能兽"
+    }
+  },
+  "Xenoqueen": {
+    "Indices": {
+      "pkeUranium": 170
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Damp", "Aftermath"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 3",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Xénoreine",
+      "German": "Xenögin",
+      "Spanish": "Xenoqueen",
+      "Portuguese": "Xenoqueen",
+      "Chinese Simplified": "异能皇后"
+    }
+  },
+  "Hazma": {
+    "Indices": {
+      "pkeUranium": 171
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Lead Skin"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "Appearance": {
+          "Anniversary": {
+            "Form Indices": {
+              "pkeUranium": 3
+            }
+          }
+        }
+      }
+    },
+    "Gender Ratio": "All Genderless",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Hazma",
+      "German": "Gefagut",
+      "Spanish": "Hazma",
+      "Portuguese": "Hazma",
+      "Chinese Simplified": "哈兹马"
+    }
+  },
+  "Geigeroach": {
+    "Indices": {
+      "pkeUranium": 172
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Lead Skin"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Cafaranium",
+      "German": "Geigerlake",
+      "Spanish": "Geigeroach",
+      "Portuguese": "Geigeroach",
+      "Chinese Simplified": "啮骨蟑螂"
+    }
+  },
+  "Minicorn": {
+    "Indices": {
+      "pkeUranium": 173
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Cute Charm", "Quick Feet", "Defiant"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 3",
+    "Growth Rate": "Fast",
+    "Names": {
+      "French": "Minicorne",
+      "German": "Kleinhorn",
+      "Spanish": "Minicorn",
+      "Portuguese": "Minicorn",
+      "Chinese Simplified": "小麟"
+    }
+  },
+  "Kiricorn": {
+    "Indices": {
+      "pkeUranium": 174
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Cute Charm", "Quick Feet", "Defiant"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega",
+            "Item": "Kiricornite"
+          }
+        }
+      },
+      "Mega": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"],
+        "Ability Slots": ["Magic Bounce", "Magic Bounce", "Magic Bounce"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 3",
+    "Growth Rate": "Fast",
+    "Names": {
+      "French": "Kiricorne",
+      "German": "Kirihorn",
+      "Spanish": "Kiricorn",
+      "Portuguese": "Kiricorn",
+      "Chinese Simplified": "独角麟"
+    }
+  },
+  "Oblivicorn": {
+    "Indices": {
+      "pkeUranium": 175
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Mold Breaker", "Quick Feet", "Defiant"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 3",
+    "Growth Rate": "Fast",
+    "Names": {
+      "French": "Katacorne",
+      "German": "Desasthorn",
+      "Spanish": "Oblivicorn",
+      "Portuguese": "Oblivicorn",
+      "Chinese Simplified": "夜恋麟"
+    }
+  },
+  "Luxi": {
+    "Indices": {
+      "pkeUranium": 176
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Super Luck", null, "Regenerator"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 7 Female 1",
+    "Growth Rate": "Medium Slow",
+    "Names": {
+      "French": "Luxi",
+      "German": "Luxi",
+      "Spanish": "Luxi",
+      "Portuguese": "Luxi",
+      "Chinese Simplified": "运福龙"
+    }
+  },
+  "Luxor": {
+    "Indices": {
+      "pkeUranium": 177
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Super Luck", null, "Regenerator"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 7 Female 1",
+    "Growth Rate": "Medium Slow",
+    "Names": {
+      "French": "Luxor",
+      "German": "Luxur",
+      "Spanish": "Luxor",
+      "Portuguese": "Luxor",
+      "Chinese Simplified": "聚福龙"
+    }
+  },
+  "Luxelong": {
+    "Indices": {
+      "pkeUranium": 178
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Super Luck", null, "Regenerator"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 7 Female 1",
+    "Growth Rate": "Medium Slow",
+    "Names": {
+      "French": "Luxelong",
+      "German": "Luxelong",
+      "Spanish": "Luxelong",
+      "Portuguese": "Luxelong",
+      "Chinese Simplified": "永福龙"
+    }
+  },
+  "Praseopunk": {
+    "Indices": {
+      "pkeUranium": 179
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Plus"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "All Genderless",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Praseopunk",
+      "German": "Praseopunk",
+      "Spanish": "Praseopunk",
+      "Portuguese": "Praseopunk",
+      "Chinese Simplified": "镨朋克"
+    }
+  },
+  "Neopunk": {
+    "Indices": {
+      "pkeUranium": 180
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Minus"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "All Genderless",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Neopunk",
+      "German": "Neopunk",
+      "Spanish": "Neopunk",
+      "Portuguese": "Neopunk",
+      "Chinese Simplified": "钕朋克"
+    }
+  },
+  "Sheebit": {
+    "Indices": {
+      "pkeUranium": 181
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Intimidate", "Moxie"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Solevro",
+      "German": "Schase",
+      "Spanish": "Sheebit",
+      "Portuguese": "Sheebit",
+      "Chinese Simplified": "羊绒兔"
+    }
+  },
+  "Terrabbit": {
+    "Indices": {
+      "pkeUranium": 182
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Intimidate", "Moxie"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Terrapin",
+      "German": "Terrase",
+      "Spanish": "Terrabbit",
+      "Portuguese": "Terrabbit",
+      "Chinese Simplified": "荒野兔"
+    }
+  },
+  "Laissure": {
+    "Indices": {
+      "pkeUranium": 183
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Intimidate", "Moxie"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Sismolièvre",
+      "German": "Lapalt",
+      "Spanish": "Laissure",
+      "Portuguese": "Laissure",
+      "Chinese Simplified": "崩山兔"
+    }
+  },
+  "Volchik": {
+    "Indices": {
+      "pkeUranium": 184
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Volt Absorb"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "Appearance": {
+          "Easter": {
+            "Form Indices": {
+              "pkeUranium": 3
+            }
+          }
+        }
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Voltillon",
+      "German": "Voltuk",
+      "Spanish": "Volchik",
+      "Portuguese": "Volchik",
+      "Chinese Simplified": "电伏鸟"
+    }
+  },
+  "Voltasu": {
+    "Indices": {
+      "pkeUranium": 185
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Volt Absorb"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "Appearance": {
+          "Easter": {
+            "Form Indices": {
+              "pkeUranium": 3
+            }
+          }
+        }
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Voltasu",
+      "German": "Voltasu",
+      "Spanish": "Voltasu",
+      "Portuguese": "Voltasu",
+      "Chinese Simplified": "三足乌"
+    }
+  },
+  "Yatagaryu": {
+    "Indices": {
+      "pkeUranium": 186
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Stormbringer"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "Appearance": {
+          "Easter": {
+            "Form Indices": {
+              "pkeUranium": 3
+            }
+          }
+        }
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Yatagaryu",
+      "German": "Yatagaryu",
+      "Spanish": "Yatagaryu",
+      "Portuguese": "Yatagaryu",
+      "Chinese Simplified": "八咫龙"
+    }
+  },
+  "Devimp": {
+    "Indices": {
+      "pkeUranium": 187
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Defiant", "Intimidate", "Disenchant"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "Appearance": {
+          "Christmas": {
+            "Form Indices": {
+              "pkeUranium": 3
+            }
+          }
+        }
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Farfadem",
+      "German": "Teubold",
+      "Spanish": "Devimp",
+      "Portuguese": "Devimp",
+      "Chinese Simplified": "小焰魔"
+    }
+  },
+  "Fallengel": {
+    "Indices": {
+      "pkeUranium": 188
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Defiant", "Intimidate", "Disenchant"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "Appearance": {
+          "Christmas": {
+            "Form Indices": {
+              "pkeUranium": 3
+            }
+          }
+        }
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Déchéange",
+      "German": "Fallengel",
+      "Spanish": "Fallengel",
+      "Portuguese": "Fallengel",
+      "Chinese Simplified": "火鬼卒"
+    }
+  },
+  "Beliaddon": {
+    "Indices": {
+      "pkeUranium": 189
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Defiant", "Intimidate", "Disenchant"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "Appearance": {
+          "Christmas": {
+            "Form Indices": {
+              "pkeUranium": 3
+            }
+          }
+        }
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Béliaddon",
+      "German": "Beliaddon",
+      "Spanish": "Beliaddon",
+      "Portuguese": "Beliaddon",
+      "Chinese Simplified": "炎冥王"
+    }
+  },
+  "Seikamater": {
+    "Indices": {
+      "pkeUranium": 190
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Elementalist"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "All Female",
+    "Growth Rate": "Medium Fast",
+    "Names": {
+      "French": "Seikamater",
+      "German": "Seikamater",
+      "Spanish": "Seikamater",
+      "Portuguese": "Seikamater",
+      "Chinese Simplified": "瑟卡梅德"
+    }
+  },
+  "Garlikid": {
+    "Indices": {
+      "pkeUranium": 191
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Justified"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "All Genderless",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Marmail",
+      "German": "Knobind",
+      "Spanish": "Garlikid",
+      "Portuguese": "Garlikid",
+      "Chinese Simplified": "蒜头小子"
+    }
+  },
+  "Baitatao": {
+    "Indices": {
+      "pkeUranium": 192
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Pressure"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "All Genderless",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Baitatao",
+      "German": "Baitatao",
+      "Spanish": "Baitatao",
+      "Portuguese": "Baitatao",
+      "Chinese Simplified": "铂伊塔奥"
+    }
+  },
+  "Leviathao": {
+    "Indices": {
+      "pkeUranium": 193
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Pressure"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "All Genderless",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Leviathao",
+      "German": "Leviathao",
+      "Spanish": "Leviathao",
+      "Portuguese": "Leviathao",
+      "Chinese Simplified": "利维陶"
+    }
+  },
+  "Krakanao": {
+    "Indices": {
+      "pkeUranium": 194
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Pressure"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "All Genderless",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Krakanao",
+      "German": "Krakanao",
+      "Spanish": "Krakanao",
+      "Portuguese": "Krakanao",
+      "Chinese Simplified": "克拉卡纳"
+    }
+  },
+  "Lanthan": {
+    "Indices": {
+      "pkeUranium": 195
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Sheer Force"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "All Genderless",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Lanthan",
+      "German": "Lanthan",
+      "Spanish": "Lanthan",
+      "Portuguese": "Lanthan",
+      "Chinese Simplified": "镧斩"
+    }
+  },
+  "Actan": {
+    "Indices": {
+      "pkeUranium": 196
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Intimidate"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      },
+      "Nuclear": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "All Genderless",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Actan",
+      "German": "Actan",
+      "Spanish": "Actan",
+      "Portuguese": "Actan",
+      "Chinese Simplified": "锕凯丹"
+    }
+  },
+  "Urayne": {
+    "Indices": {
+      "pkeUranium": 197
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Geiger Sense"]
+    },
+    "Default Form": "Alpha",
+    "Forms": {
+      "Alpha": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      },
+      "Beta": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"]
+      },
+      "Gamma": {
+        "Form Indices": {
+          "pkeUranium": 2
+        },
+        "Exists in": ["pkeUranium"],
+        "Ability Slots": ["Chernobyl"]
+      }
+    },
+    "Gender Ratio": "All Genderless",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Urayne",
+      "German": "Uramok",
+      "Spanish": "Urayne",
+      "Portuguese": "Urayne",
+      "Chinese Simplified": "铀瑞利恩"
+    }
+  },
+  "Aotius": {
+    "Indices": {
+      "pkeUranium": 198
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Pressure"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "All Genderless",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Aotius",
+      "German": "Aotius",
+      "Spanish": "Aotius",
+      "Portuguese": "Aotius",
+      "Chinese Simplified": "奥提乌斯"
+    }
+  },
+  "Mutios": {
+    "Indices": {
+      "pkeUranium": 199
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Pressure"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "All Genderless",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Mutios",
+      "German": "Mutios",
+      "Spanish": "Mutios",
+      "Portuguese": "Mutios",
+      "Chinese Simplified": "穆提欧斯"
+    }
+  },
+  "Zephy": {
+    "Indices": {
+      "pkeUranium": 200
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Levitate"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"]
+      }
+    },
+    "Gender Ratio": "All Female",
+    "Growth Rate": "Slow",
+    "Names": {
+      "French": "Zephy",
+      "German": "Zephy",
+      "Spanish": "Zephy",
+      "Portuguese": "Zephy",
+      "Chinese Simplified": "哈比"
+    }
+  },
+  "Gengar": {
+    "Indices": {
+      "pkeUranium": 201
+    },
+    "Ability Slots": {
+      "pkeUranium": ["Levitate"]
+    },
+    "Forms": {
+      "": {
+        "Form Indices": {
+          "pkeUranium": 0
+        },
+        "Exists in": ["pkeUranium"],
+        "In-Battle Form Changes": {
+          "Mega": {
+            "Type": "Mega"
+          }
+        }
+      },
+      "Mega": {
+        "Form Indices": {
+          "pkeUranium": 1
+        },
+        "Exists in": ["pkeUranium"],
+        "Ability Slots": ["Shadow Tag"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1",
+    "Growth Rate": "Medium Slow",
+    "Names": {
+      "French": "Ectoplasma",
+      "German": "Gengar",
+      "Spanish": "Gengar",
+      "Portuguese": "Gengar",
+      "Chinese Simplified": "耿鬼"
+    }
+  }
+}

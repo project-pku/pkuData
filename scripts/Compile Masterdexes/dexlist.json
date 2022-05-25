@@ -4,7 +4,8 @@
       "Main Series": "main-series/main-seriesSpeciesDex.json",
       "pk3": "main-series/gen-3/pk3SpeciesDex.json",
       "Pokéstar": "main-series/gen-5/pokestarSpeciesDex.json",
-      "Showdown": "showdown/showdownSpeciesDex.json"
+      "Showdown": "showdown/showdownSpeciesDex.json",
+      "Uranium": "essentials/Uranium/pkeUraniumSpeciesDex.json"
     }
   },
   "Move": {

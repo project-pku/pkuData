@@ -1,0 +1,2012 @@
+{
+  "1":{
+    "Species": "罗兰猫",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [4,65],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "2":{
+    "Species": "绿甲猫",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": 510,
+    "Form Names": ["，超级"],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [4,65],
+    "Alt Form Abilities": [null,[85,85,85,85,85,85],null,null,null,null]
+  },
+  "3":{
+    "Species": "火炬龙",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [49,66],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "4":{
+    "Species": "巨焰龙",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": 511,
+    "Form Names": ["，超级"],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [49,66],
+    "Alt Form Abilities": [null,[70,70,70,70,70,70],null,null,null,null]
+  },
+  "5":{
+    "Species": "蓝电马",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [9,67],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "6":{
+    "Species": "游雷马",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": 512,
+    "Form Names": ["，超级"],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [9,67],
+    "Alt Form Abilities": [null,[2,2,2,2,2,2],null,null,null,null]
+  },
+  "7":{
+    "Species": "小栗鼠",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["，核"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [50,53,95],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "8":{
+    "Species": "跃动鼠",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["，核"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [50,53,95],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "9":{
+    "Species": "回乡雀",
+    "Gender Byte": 127,
+    "Growth Rate": 3,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [145,148,141],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "10":{
+    "Species": "伊甸鸟",
+    "Gender Byte": 127,
+    "Growth Rate": 3,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [145,148,141],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "11":{
+    "Species": "炫羽鹰",
+    "Gender Byte": 127,
+    "Growth Rate": 3,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [145,148,141],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "12":{
+    "Species": "叶衣虫",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [68,30,156],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "13":{
+    "Species": "樱粉蝶",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [68,30,156],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "14":{
+    "Species": "妖仙蝶",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [68,30,156],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "15":{
+    "Species": "顽石鹿",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [5,69,125],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "16":{
+    "Species": "钢加鹿",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [5,69,125],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "17":{
+    "Species": "钢齿鹿",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [5,69,125],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "18":{
+    "Species": "钻地蜥",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [8,71,159],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "19":{
+    "Species": "双头地蛟",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [8,71,159],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "20":{
+    "Species": "小毒丸",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["，核"],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [26,26],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "21":{
+    "Species": "猛颚兽",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["，核"],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [22,153],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "22":{
+    "Species": "土龙弟弟",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [32,50,155],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "23":{
+    "Species": "天翼土龙",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [32,13],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "24":{
+    "Species": "壮壮蛙",
+    "Gender Byte": 127,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [29,6,11],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "25":{
+    "Species": "寻水蟾",
+    "Gender Byte": 127,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [29,6,11],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "26":{
+    "Species": "毒蟾老大",
+    "Gender Byte": 127,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [29,6,11],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "27":{
+    "Species": "鲤鱼王",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["，，核"],
+    "Valid Slots": [0,2,3],
+    "Abilities at Slots": [33,155,153],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "28":{
+    "Species": "暴鲤龙",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": 513,
+    "Form Names": ["，超级，核，超极核"],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [22,153],
+    "Alt Form Abilities": [null,[104,104,104,104,104,104],null,[104,104,104,104,104,104],null,null]
+  },
+  "29":{
+    "Species": "卖萌猫",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Christmas"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [22,56,119],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "30":{
+    "Species": "猎刺猫",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Christmas"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [22,56,119],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "31":{
+    "Species": "虎虎猫",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Christmas"],
+    "Valid Slots": [0],
+    "Abilities at Slots": [193],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "32":{
+    "Species": "猴怪",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [72,83,128],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "33":{
+    "Species": "火爆猴",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [72,83,128],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "34":{
+    "Species": "暴君猴",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [196,133],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "35":{
+    "Species": "小猫鹰",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["，核"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [32,15,110],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "36":{
+    "Species": "高吼猫鹰",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["，核"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [32,15,110],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "37":{
+    "Species": "莲叶童子",
+    "Gender Byte": 127,
+    "Growth Rate": 3,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [33,44,20],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "38":{
+    "Species": "莲帽小童",
+    "Gender Byte": 127,
+    "Growth Rate": 3,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [33,44,20],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "39":{
+    "Species": "乐天河童",
+    "Gender Byte": 127,
+    "Growth Rate": 3,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [33,44,20],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "40":{
+    "Species": "烟棉蚁",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [68],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "41":{
+    "Species": "烽火蚁",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [97],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "42":{
+    "Species": "核脑鱼",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [33,69,140],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "43":{
+    "Species": "脑白鳗",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [33,69,140],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "44":{
+    "Species": "阿柏蛇",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["，，核"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [22,61,127],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "45":{
+    "Species": "阿柏怪",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": 549,
+    "Form Names": ["，超级，核，超极核"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [22,61,127],
+    "Alt Form Abilities": [null,[195,195,195,195,195,195],null,[195,195,195,195,195,195],null,null]
+  },
+  "46":{
+    "Species": "浣狸",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["，核"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [62,50,188],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "47":{
+    "Species": "棕隐狸",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["，核"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [62,153,188],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "48":{
+    "Species": "水蛛儿",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [68],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "49":{
+    "Species": "海绵蛛",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [11],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "50":{
+    "Species": "火雏鹦",
+    "Gender Byte": 127,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": ["，核"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [18,145,49],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "51":{
+    "Species": "火羽鹦",
+    "Gender Byte": 127,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": ["，核"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [18,145,49],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "52":{
+    "Species": "浴火鸟",
+    "Gender Byte": 127,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": ["，核"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [18,145,49],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "53":{
+    "Species": "电跳鼠",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["，核"],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [205,10],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "54":{
+    "Species": "流星岩",
+    "Gender Byte": 255,
+    "Growth Rate": 1,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [55,5,36],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "55":{
+    "Species": "彗星岩",
+    "Gender Byte": 255,
+    "Growth Rate": 1,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [101,5,36],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "56":{
+    "Species": "宇航岩",
+    "Gender Byte": 255,
+    "Growth Rate": 1,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [101,5,36],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "57":{
+    "Species": "咩利羊",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [9],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "58":{
+    "Species": "绵绵",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [9],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "59":{
+    "Species": "电龙",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": 514,
+    "Form Names": ["，超级"],
+    "Valid Slots": [0],
+    "Abilities at Slots": [9],
+    "Alt Form Abilities": [null,[104,104,104,104,104,104],null,null,null,null]
+  },
+  "60":{
+    "Species": "肖恩咩",
+    "Gender Byte": 63,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": ["，，核"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [62,153,22],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "61":{
+    "Species": "坏咩咩",
+    "Gender Byte": 63,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": ["，，核"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [62,153,22],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "62":{
+    "Species": "战魔咩",
+    "Gender Byte": 63,
+    "Growth Rate": 4,
+    "Mega Stone": 515,
+    "Form Names": ["，超级，核，超极核"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [62,153,22],
+    "Alt Form Abilities": [null,[200,200,200,200,200,200],null,[200,200,200,200,200,200],null,[200,200,200,200,200,200]]
+  },
+  "63":{
+    "Species": "戏法蛛",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [68],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "64":{
+    "Species": "电绒蛛",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [10],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "65":{
+    "Species": "吸管虫",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["，核"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [61,151,140],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "66":{
+    "Species": "鸩壶龙",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["，核"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [61,151,140],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "67":{
+    "Species": "月野狗",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [104,62,128],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "68":{
+    "Species": "英月狗",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [104,62,128],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "69":{
+    "Species": "调皮蝠",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["，，，万圣节"],
+    "Valid Slots": [0,2,3],
+    "Abilities at Slots": [200,143,3],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "70":{
+    "Species": "魔王蝠",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["，，，万圣节"],
+    "Valid Slots": [0,2,3],
+    "Abilities at Slots": [200,143,3],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "71":{
+    "Species": "泳圈鼬",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [33,41],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "72":{
+    "Species": "浮潜鼬",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [33,41],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "73":{
+    "Species": "钻头鼹鼠",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [31,146,104],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "74":{
+    "Species": "超钻鼹鼠",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": 516,
+    "Form Names": ["，超级"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [31,146,104],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "75":{
+    "Species": "天蝎",
+    "Gender Byte": 127,
+    "Growth Rate": 3,
+    "Mega Stone": null,
+    "Form Names": ["，核"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [52,8,17],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "76":{
+    "Species": "天蝎王",
+    "Gender Byte": 127,
+    "Growth Rate": 3,
+    "Mega Stone": null,
+    "Form Names": ["，核"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [52,8,90],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "77":{
+    "Species": "勾魂眼",
+    "Gender Byte": 127,
+    "Growth Rate": 3,
+    "Mega Stone": 517,
+    "Form Names": ["，超级"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [51,100,158],
+    "Alt Form Abilities": [null,[156,156,156,156,156,156],null,[156,156,156,156,156,156],null,[156,156,156,156,156,156]]
+  },
+  "78":{
+    "Species": "椰子蟹",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["，，，万圣节"],
+    "Valid Slots": [0,1,2,3],
+    "Abilities at Slots": [8,34,139,111],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "79":{
+    "Species": "椰树蟹",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["，，，万圣节"],
+    "Valid Slots": [0,1,2,3],
+    "Abilities at Slots": [8,34,139,111],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "80":{
+    "Species": "椰岛巨蟹",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["，，，万圣节"],
+    "Valid Slots": [0,1,2,3],
+    "Abilities at Slots": [8,34,139,111],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "81":{
+    "Species": "太阳珊瑚",
+    "Gender Byte": 191,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": ["，核"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [55,30,144],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "82":{
+    "Species": "珊瑚岩",
+    "Gender Byte": 191,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": ["，核"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [192,30,144],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "83":{
+    "Species": "大颌鳗",
+    "Gender Byte": 31,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["，核"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [33,185,22],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "84":{
+    "Species": "卷桶鳗",
+    "Gender Byte": 31,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["，核"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [33,185,22],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "85":{
+    "Species": "沙堡蜗",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [75,8,45],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "86":{
+    "Species": "宫殿蜗",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [75,8,45],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "87":{
+    "Species": "天守蜗",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [75,8,45],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "88":{
+    "Species": "草履胞",
+    "Gender Byte": 255,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": ["，核"],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [34,94],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "89":{
+    "Species": "绿电胞",
+    "Gender Byte": 255,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": ["，核"],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [34,94],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "90":{
+    "Species": "木棉球",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [158,151,34],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "91":{
+    "Species": "风妖精",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": 548,
+    "Form Names": ["，超级"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [158,151,34],
+    "Alt Form Abilities": [null,[144,144,144,144,144,144],null,null,null,null]
+  },
+  "92":{
+    "Species": "梦妖",
+    "Gender Byte": 127,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [26],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "93":{
+    "Species": "梦妖魔",
+    "Gender Byte": 127,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [26],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "94":{
+    "Species": "尾爪龙",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["，核"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [79,61,188],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "95":{
+    "Species": "冻原虫",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Easter"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [33,30,117],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "96":{
+    "Species": "冰帝海牛",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Easter"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [33,30,117],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "97":{
+    "Species": "Ｓ５１",
+    "Gender Byte": 255,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,null,"Easter"],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [26,148],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "98":{
+    "Species": "Ｓ５１－Ａ",
+    "Gender Byte": 255,
+    "Growth Rate": 5,
+    "Mega Stone": 527,
+    "Form Names": ["，超级"],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [26,148],
+    "Alt Form Abilities": [null,[179,179,179,179,179,179],null,null,null,[179,179,179,179,179,179]]
+  },
+  "99":{
+    "Species": "轻音蜥",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["，核"],
+    "Valid Slots": [0,1],
+    "Abilities at Slots": [43,206],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "100":{
+    "Species": "爆音蜥",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["，核"],
+    "Valid Slots": [0,1],
+    "Abilities at Slots": [43,206],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "101":{
+    "Species": "幼焰虎",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [18],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "102":{
+    "Species": "业火豹",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": 518,
+    "Form Names": ["，超级"],
+    "Valid Slots": [0],
+    "Abilities at Slots": [199],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "103":{
+    "Species": "喀迈卡",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Halloween"],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [195,126],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "104":{
+    "Species": "喀迈蟒",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Halloween"],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [195,126],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "105":{
+    "Species": "土著猴",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [72,89,101],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "106":{
+    "Species": "酋长猴",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [72,89,101],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "107":{
+    "Species": "幼蜻蜓",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [19,14,21],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "108":{
+    "Species": "蜻蜓龙",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [153,175,84],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "109":{
+    "Species": "小羽枭",
+    "Gender Byte": 127,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [157,102,34],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "110":{
+    "Species": "羽花鹃",
+    "Gender Byte": 127,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [157,102,34],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "111":{
+    "Species": "羽蛇龙",
+    "Gender Byte": 127,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [26,34],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "112":{
+    "Species": "恐龙战车",
+    "Gender Byte": 255,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Christmas"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [3,78,148],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "113":{
+    "Species": "雪厚象",
+    "Gender Byte": 31,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [116,81,5],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "114":{
+    "Species": "冰河猛犸",
+    "Gender Byte": 31,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [116,81,5],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "115":{
+    "Species": "欧姆树懒",
+    "Gender Byte": 31,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [198,78,69],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "116":{
+    "Species": "安培地懒",
+    "Gender Byte": 31,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [198,78,69],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "117":{
+    "Species": "泰坦冰克",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Halloween"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [108,115,117],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "118":{
+    "Species": "小苦无",
+    "Gender Byte": 127,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [33,39,125],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "119":{
+    "Species": "十手沙丁",
+    "Gender Byte": 127,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [33,39,125],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "120":{
+    "Species": "忍刀金枪",
+    "Gender Byte": 127,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [33,39,125],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "121":{
+    "Species": "海仙童",
+    "Gender Byte": 254,
+    "Growth Rate": 3,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1],
+    "Abilities at Slots": [56,33],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "122":{
+    "Species": "潮汐海妖",
+    "Gender Byte": 254,
+    "Growth Rate": 3,
+    "Mega Stone": 526,
+    "Form Names": ["，超级"],
+    "Valid Slots": [0,1],
+    "Abilities at Slots": [56,33],
+    "Alt Form Abilities": [null,[181,181,181,181,181,181],null,null,null,null]
+  },
+  "123":{
+    "Species": "粉香香",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1],
+    "Abilities at Slots": [131,166],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "124":{
+    "Species": "香香粉",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1],
+    "Abilities at Slots": [131,166],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "125":{
+    "Species": "瘴气巫",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1],
+    "Abilities at Slots": [131,143],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "126":{
+    "Species": "鹿角兔",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["，，，复活节"],
+    "Valid Slots": [0,1,2,3],
+    "Abilities at Slots": [98,39,39,181],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "127":{
+    "Species": "武痴兔",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["，，，复活节"],
+    "Valid Slots": [0,1,2,3],
+    "Abilities at Slots": [98,39,39,181],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "128":{
+    "Species": "拷贝猫",
+    "Gender Byte": 255,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1],
+    "Abilities at Slots": [158,36],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "129":{
+    "Species": "伊布",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [50,91,107],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "130":{
+    "Species": "水伊布",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [11,93],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "131":{
+    "Species": "雷伊布",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [10,95],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "132":{
+    "Species": "火伊布",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [18,62],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "133":{
+    "Species": "太阳伊布",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [28,156],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "134":{
+    "Species": "月伊布",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [28,39],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "135":{
+    "Species": "叶伊布",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [102,34],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "136":{
+    "Species": "冰伊布",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [81,115],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "137":{
+    "Species": "仙子伊布",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [56,181],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "138":{
+    "Species": "原子伊布",
+    "Gender Byte": 31,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [201,208],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "139":{
+    "Species": "画画鼠",
+    "Gender Byte": 31,
+    "Growth Rate": 3,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [15,95,53],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "140":{
+    "Species": "涂鸦鼠",
+    "Gender Byte": 31,
+    "Growth Rate": 3,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [15,95,53],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "141":{
+    "Species": "石狮鹫",
+    "Gender Byte": 255,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Anniversary"],
+    "Valid Slots": [0],
+    "Abilities at Slots": [194],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "142":{
+    "Species": "乔装鸟",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["",null,"Nuclear",null,"Halloween"],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [149,28],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "143":{
+    "Species": "舞王鸟",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": 519,
+    "Form Names": ["，超级"],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [149,28],
+    "Alt Form Abilities": [null,[123,123,123,123,123,123],null,[123,123,123,123,123,123],null,[123,123,123,123,123,123]]
+  },
+  "144":{
+    "Species": "叹火灵",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [35,158],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "145":{
+    "Species": "德布拉",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["，核"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [38,143,55],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "146":{
+    "Species": "假面古拉",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["，核"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [38,143,55],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "147":{
+    "Species": "镣铐鬼",
+    "Gender Byte": 255,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Christmas"],
+    "Valid Slots": [0,1],
+    "Abilities at Slots": [23,130],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "148":{
+    "Species": "锁链恶灵",
+    "Gender Byte": 255,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Christmas"],
+    "Valid Slots": [0,1],
+    "Abilities at Slots": [23,130],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "149":{
+    "Species": "泡芙卷",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["，，，圣诞节"],
+    "Valid Slots": [0],
+    "Abilities at Slots": [81],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "150":{
+    "Species": "滑翔雪灵",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["，，，圣诞节"],
+    "Valid Slots": [0,1],
+    "Abilities at Slots": [170,101],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "151":{
+    "Species": "乘风雪灵",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["，，，圣诞节"],
+    "Valid Slots": [0,1],
+    "Abilities at Slots": [117,79],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "152":{
+    "Species": "雪迹螨",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [115],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "153":{
+    "Species": "霜冻蛹",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [115],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "154":{
+    "Species": "天霜蛾",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [203],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "155":{
+    "Species": "冰绒龙",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1],
+    "Abilities at Slots": [47,174],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "156":{
+    "Species": "临冬龙",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1],
+    "Abilities at Slots": [47,174],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "157":{
+    "Species": "小炮龙虾",
+    "Gender Byte": 127,
+    "Growth Rate": 2,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [97],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "158":{
+    "Species": "火炮龙虾",
+    "Gender Byte": 127,
+    "Growth Rate": 2,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [97],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "159":{
+    "Species": "岩浆龙",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1],
+    "Abilities at Slots": [40,91],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "160":{
+    "Species": "恶骨灵",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [113],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "161":{
+    "Species": "海贼骷",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [113],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "162":{
+    "Species": "海鬼王",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [26],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "163":{
+    "Species": "迅爪电龙",
+    "Gender Byte": 127,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [78,3,199],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "164":{
+    "Species": "矿石小生",
+    "Gender Byte": 31,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Anniversary"],
+    "Valid Slots": [0,1],
+    "Abilities at Slots": [4,29],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "165":{
+    "Species": "蛮金力士",
+    "Gender Byte": 31,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Anniversary"],
+    "Valid Slots": [0,1],
+    "Abilities at Slots": [4,29],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "166":{
+    "Species": "鼻涕鳗",
+    "Gender Byte": 31,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": ["，核"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [176,64,144],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "167":{
+    "Species": "黏美鳗",
+    "Gender Byte": 31,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": ["，核"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [176,64,144],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "168":{
+    "Species": "异能小虫",
+    "Gender Byte": 191,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1],
+    "Abilities at Slots": [6,106],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "169":{
+    "Species": "异能兽",
+    "Gender Byte": 191,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1],
+    "Abilities at Slots": [6,106],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "170":{
+    "Species": "异能皇后",
+    "Gender Byte": 191,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1],
+    "Abilities at Slots": [6,106],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "171":{
+    "Species": "哈兹马",
+    "Gender Byte": 255,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Anniversary"],
+    "Valid Slots": [0],
+    "Abilities at Slots": [202],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "172":{
+    "Species": "啮骨蟑螂",
+    "Gender Byte": 127,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [202],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "173":{
+    "Species": "小麟",
+    "Gender Byte": 191,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [56,95,128],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "174":{
+    "Species": "独角麟",
+    "Gender Byte": 191,
+    "Growth Rate": 4,
+    "Mega Stone": 586,
+    "Form Names": ["，超级"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [56,95,128],
+    "Alt Form Abilities": [null,[156,156,156,156,156,156],null,null,null,null]
+  },
+  "175":{
+    "Species": "夜恋麟",
+    "Gender Byte": 191,
+    "Growth Rate": 4,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [104,95,128],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "176":{
+    "Species": "运福龙",
+    "Gender Byte": 31,
+    "Growth Rate": 3,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [105,144],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "177":{
+    "Species": "聚福龙",
+    "Gender Byte": 31,
+    "Growth Rate": 3,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [105,144],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "178":{
+    "Species": "永福龙",
+    "Gender Byte": 31,
+    "Growth Rate": 3,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,2],
+    "Abilities at Slots": [105,144],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "179":{
+    "Species": "镨朋克",
+    "Gender Byte": 255,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [57],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "180":{
+    "Species": "钕朋克",
+    "Gender Byte": 255,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [58],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "181":{
+    "Species": "羊绒兔",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1],
+    "Abilities at Slots": [22,153],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "182":{
+    "Species": "荒野兔",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1],
+    "Abilities at Slots": [22,153],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "183":{
+    "Species": "崩山兔",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0,1],
+    "Abilities at Slots": [22,153],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "184":{
+    "Species": "电伏鸟",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Easter"],
+    "Valid Slots": [0],
+    "Abilities at Slots": [10],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "185":{
+    "Species": "三足乌",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Easter"],
+    "Valid Slots": [0],
+    "Abilities at Slots": [10],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "186":{
+    "Species": "八咫龙",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Easter"],
+    "Valid Slots": [0],
+    "Abilities at Slots": [204],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "187":{
+    "Species": "小焰魔",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Christmas"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [128,22,207],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "188":{
+    "Species": "火鬼卒",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Christmas"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [128,22,207],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "189":{
+    "Species": "炎冥王",
+    "Gender Byte": 127,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["",null,null,"Christmas"],
+    "Valid Slots": [0,1,2],
+    "Abilities at Slots": [128,22,207],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "190":{
+    "Species": "瑟卡梅德",
+    "Gender Byte": 254,
+    "Growth Rate": 0,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [197],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "191":{
+    "Species": "蒜头小子",
+    "Gender Byte": 255,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [154],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "192":{
+    "Species": "铂伊塔奥",
+    "Gender Byte": 255,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [46],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "193":{
+    "Species": "利维陶",
+    "Gender Byte": 255,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [46],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "194":{
+    "Species": "克拉卡纳",
+    "Gender Byte": 255,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [46],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "195":{
+    "Species": "镧斩",
+    "Gender Byte": 255,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [125],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "196":{
+    "Species": "锕凯丹",
+    "Gender Byte": 255,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["，核"],
+    "Valid Slots": [0],
+    "Abilities at Slots": [22],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "197":{
+    "Species": "铀瑞利恩",
+    "Gender Byte": 255,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": ["α","β","γ"],
+    "Valid Slots": [0],
+    "Abilities at Slots": [208],
+    "Alt Form Abilities": [null,null,[209,209,209,209,209,209],null,null,null]
+  },
+  "198":{
+    "Species": "奥提乌斯",
+    "Gender Byte": 255,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [46],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "199":{
+    "Species": "穆提欧斯",
+    "Gender Byte": 255,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [46],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "200":{
+    "Species": "哈比",
+    "Gender Byte": 254,
+    "Growth Rate": 5,
+    "Mega Stone": null,
+    "Form Names": [""],
+    "Valid Slots": [0],
+    "Abilities at Slots": [26],
+    "Alt Form Abilities": [null,null,null,null,null,null]
+  },
+  "201":{
+    "Species": "耿鬼",
+    "Gender Byte": 127,
+    "Growth Rate": 3,
+    "Mega Stone": null,
+    "Form Names": ["，超级"],
+    "Valid Slots": [0],
+    "Abilities at Slots": [26],
+    "Alt Form Abilities": [null,[23,23,23,23,23,23],null,null,null,null]
+  }
+}
