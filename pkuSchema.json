@@ -1,4 +1,4 @@
-// pkuSchema v1.0 - Updated as of 2022-05-29
+// pkuSchema v1.0 - Updated as of 2022-06-08
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "pkuObject",
@@ -40,8 +40,8 @@
       "type": ["string", "null"]
     },
     "Moves": {
-      "type": ["array", "null"],
-      "items": {"$ref": "#/definitions/Move"}
+      "type": "object",
+      "additionalProperties": {"$ref": "#/definitions/Move"}
     },
     "PID": {
       "type": ["integer", "null"]
@@ -147,9 +147,6 @@
     "Move": {
       "type": "object",
       "properties": {
-        "Name": {
-          "type": ["string", "null"]
-        },
         "PP Ups": {
           "type": ["integer", "null"]
         }
