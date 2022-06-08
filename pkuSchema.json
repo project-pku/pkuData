@@ -136,6 +136,10 @@
       "type": ["array", "null"],
       "items": {"type": "string"}
     },
+    "Movepool": {
+      "type": "object",
+      "additionalProperties": {"$ref": "#/definitions/Learned_Move"}
+    },
     "Format Specific": {
       "type": ["object", "null"],
       "additionalProperties": {"$ref": "#/definitions/Format_Dict"}
@@ -149,6 +153,14 @@
       "properties": {
         "PP Ups": {
           "type": ["integer", "null"]
+        }
+      }
+    },
+    "Learned_Move": {
+      "type": "object",
+      "properties": {
+        "Relearn": {
+          "type": ["boolean", "null"]
         }
       }
     },
