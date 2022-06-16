@@ -1,0 +1,214 @@
+{
+  "Uranium": {
+    "Exists in": ["pkeUranium"],
+    "Locations": {
+      // 0
+      "1": "Gate (Route 3 to Burole Town)", //in-game: Route 3
+      "2": "Burole Town (Pokémon Center)", //in-game: Burole Town
+      "3": "Bealbeach City Station (Lobby)", //in-game: Bealbeach City
+      "4": "Burole Town (Poké Mart)", //in-game: Burole Town
+      "5": "Burole Town Station (Lobby)", //in-game: Burole Town
+      "6": "Burole Town Station (Downstairs)", //in-game: Burole Town
+      "7": "Comet Cave (Route 4)", //Actually connects to Route 4 & 5. in-game: Comet Cave
+      "8": "Route 7",
+      "9": "Gate (Route 4 to Burole Town)", //in-game: Route 4
+      "10": "Comet Cave (Route 5)", //in-game: Comet Cave
+      "11": "Bealbeach City Station (Downstairs)", //in-game: Bealbeach City
+      "12": "Rochfale Town",
+      "13": "Rochfale Town (Pokémon Center)", //in-game: Rochfale Town
+      "14": "Title Screen", //Everything is a room in Essentials...
+      "15": "Gate (Route 4 to Route 10)", //Looks like a beta map. in-game: Route 4(OLD)
+      // "16": "Amatree Town", //Broken and unused version of Amatree Town
+      "17": "Rochfale Tunnel",
+      "18": "Route 11",
+      "19": "Passage Cave (Kevlar Town)", //in-game: Passage Cave
+      "20": "Gate (Legen Town to Victory Road)", //in-game: Legen Town
+      "21": "Route 9",
+      "22": "Route 6",
+      "23": "Angelure Town (Pokémon Center)", //in-game: Angelure Town
+      "24": "Silverport Town (Pokémon Center)", //in-game: Silverport Town
+      "25": "Pokémon Day Care", //in-game: Route 9
+      "26": "Snowbank Town (Pokémon Center)", //in-game: Snowbank Town
+      "27": "Gate (Route 9)", //in-game: Route 9
+      "28": "Route 8 (Outside Nuclear Plant Zeta)", //in-game: Route 8
+      "29": "Young Trainer's Academy",  //in-game: Burole Town
+      // "30": "POKE-URANIUM", //Map folder
+      "31": "Kevlar Town",
+      "32": "Moki Town",
+      "33": "Route 1",
+      "34": "Angelure Town (Poké Mart)", //in-game: Angelure Town
+      "35": "Route 2",
+      "36": "Passage Cave (Route 2)", //in-game: Passage Cave
+      "37": "Passage Cave (Nowtoch City)", //in-game: Passage Cave
+      // "38": "ETC", //Map folder
+      "39": "Test Area", //A debug map
+      "40": "Nowtoch City",
+      "41": "Nowtoch City (Poké Mart)", //in-game: Nowtoch City
+      "42": "Nowtoch City Gym", //in-game: Nowtoch City
+      "43": "Nowtoch City (Pokémon Center)", //in-game: Nowtoch City
+      "44": "Nowtoch City Station (Lobby)", //in-game: Nowtoch City
+      "45": "Nowtoch City Station (Downstairs)", //in-game: Nowtoch City
+      "46": "Nowtoch City (Indoors A)", //in-game: Nowtoch City
+      "47": "Nowtoch City (Indoors B)", //in-game: Nowtoch City
+      "48": "Player's Room", //in-game: [$Trainer Name]'s house
+      "49": "Player's House", //in-game: [$Trainer Name]'s house
+      "50": "Bamb'o's Lab", //in-game: Moki Town
+      "51": "Intro", //The professor intro screen
+      "52": "Beachside Resort and Casino", //in-game: Bealbeach City
+      "53": "Snowbank Town (Indoors)", //in-game: Snowbank Town
+      "54": "Route 3 (House)", //in-game: Route 3
+      // "55": "GAME", //Map folder
+      // "56": "MOVIES", //Map folder
+      "57": "Nuclear Plant Epsilon (Intro)", //in-game name: Nuclear Plant
+      "58": "Bealbeach Dept. Store (Elevator)", //in-game: Bealbeach City
+      "59": "Route 3",
+      "60": "Burole Town",
+      // "61": "MAP061", //Some leftover dummy map
+      "62": "Unknown", //Punk Twins event (not a placeholder)
+      // "63": "Angelure Town", //blank map. leftover by mistake?
+      "64": "Moki Town (House A)", //in-game: Moki Town
+      "65": "Moki Town (House B)", //in-game: Moki Town
+      "66": "Burole Town Gym", //in-game: Burole Town
+      "67": "Kevlar Town (Poké Mart)", //in-game: Kevlar Town
+      "68": "Kevlar Town (Pokémon Center)", //in-game: Kevlar Town
+      "69": "Amatree Town Gym", //in-game: Amatree Town
+      // 70
+      // 71
+      // 72
+      "73": "Kevlar Town (Indoors)", //4 buildings at once. in-game: Kevlar Town
+      "74": "Victory Road (Cave)", //in-game: Victory Road
+      "75": "Larkspur Labs", //in-game: Silverport Town
+      "76": "Route 4",
+      // 77
+      "78": "Venesi City (Pokémon Center)", //in-game: Venesi City
+      "79": "Venesi City (Poké Mart)", //in-game: Venesi City
+      "80": "The Labyrinth", //in-game: Labyrinth
+      "81": "Route 1 (House)", //in-game: Route 1
+      "82": "Silverport Town (Poké Mart)", //in-game: Silverport Town
+      "83": "Anthell (Lower)",  //in-game: Anthell Deeper
+      // 84
+      "85": "Burole Town (House A)", //in-game: Burole Town
+      "86": "Snowbank Town (Poké Mart)", //in-game: Snowbank Town
+      "87": "Route 12",
+      "88": "Gate (Route 16 to Snowbank Town)", //in-game: Route 16
+      "89": "Theo's Room", //in-game: Moki Town
+      "90": "Burole Town (House B)", //in-game: Burole Town
+      "91": "Rochfale Town (Poké Mart)", //in-game: Rochfale Town
+      "92": "Rochfale Town (House A)", //in-game: Rochfale Town
+      "93": "Rochfale Town (House B)", //in-game: Rochfale Town
+      "94": "Mapa intro", //Unused 'intro' map?
+      "95": "Intro 2", //Some pre-title screen custscene?
+      "96": "Comet Cave (Middle)", //in-game: Comet Cave
+      "97": "Venesi City (Indoors)", //in-game: Venesi City
+      "98": "Cypress Labs", //in-game: Rochfale Town
+      "99": "Route 14",
+      "100": "Route 15 (Rest House)", //in-game: Route 15
+      "101": "Bealbeach City",
+      "102": "Bealbeach City Gym", //in-game: Bealbeach City
+      // "103": "Gym3.1", //Unused test gym associated with map 102
+      "104": "Rochfale Town (House C)", //in-game: Rochfale Town
+      "105": "Route 6 (Cave)", //in-game: Route 6
+      "106": "Lanthanite Cave",
+      "107": "The Labyrinth (Underwater)", //in-game: Labyrinth
+      "108": "Bealbeach Dept. Store", //in-game: Bealbeach City
+      "109": "Bealbeach City (Pokémon Center)", //in-game: Bealbeach City
+      // 110
+      // 111
+      "112": "Nuclear Plant Omicron",
+      "113": "Bealbeach City (House A)", //in-game: Bealbeach City
+      "114": "Route 8 (Grove)", //in-game: Route 8
+      "115": "Beach Rest House", //in-game Route 7
+      // "116": "Angelure Town", //Broken version of map 119
+      "117": "Route 8",
+      "118": "Route 14 (Underwater)", //in-game: Route 14
+      "119": "Angelure Town", //Unfinished postgame content. Currently used as a debug map.
+      "120": "Fishing Contest Site", //more unfinished content, related to above town.
+      "121": "Vinoville Town",
+      "122": "Nuclear Plant Epsilon (Outside)", //in-game: Nuclear Plant Epsilon
+      "123": "Nuclear Plant Epsilon",
+      // "124": "Gym3", //Unused test gym associated with map 102
+      "125": "Nuclear Plant Epsilon (Worker Center)", //in-game: Nuclear Plant Epsilon
+      "126": "Bealbeach City (House B)", //in-game: Bealbeach City
+      "127": "Victory Road (Outside)", //in-game: Victory Road
+      "128": "Legen Town",
+      "129": "Legen Town Station (Lobby)", //in-game: Legen Town
+      "130": "Rochfale Town (House D)", //in-game: Rochfale Town
+      "131": "Championship Site (Waiting Area)", //in-game: Championship Site
+      "132": "Route 16",
+      "133": "Route 15",
+      "134": "Silverport Town",
+      "135": "Snowbank Town",
+      "136": "Snowbank Town (Outside Gym)", //in-game: Snowbank Town
+      "137": "Snowbank Town Gym (Cave)", //in-game: Snowbank Town
+      "138": "Angelure Town (Underwater)", //in-game: Angelure Town
+      "139": "Silverport Town (Indoors)", //in-game: Silverport Town
+      "140": "Gate (Route 11)", //in-game: Route 11
+      "141": "Snowbank Town Gym (Cliff)", //in-game: Snowbank Town
+      "142": "Route 5",
+      "143": "Route 10",
+      "144": "Venesi City",
+      "145": "Route 13",
+      "146": "Tsukinami Village",
+      "147": "Venesi City Gym", //in-game: Venesi City
+      "148": "Vinoville Town Gym", //in-game: Vinoville Town
+      "149": "Championship Site Shuttle", //in-game: Championship Site
+      "150": "Anthell",
+      "151": "Amatree Town",
+      "152": "Tsukinami Village (Pokémon Center)", //in-game: Tsukinami Village
+      "153": "Tsukinami Village (Poké Mart)", //in-game: Tsukinami Village
+      "154": "Gate (Route 5 to Rochfale Town)", //in-game: Route 5
+      "155": "Tandor Luxury Cruise", //in-game: Route 8
+      "156": "Pokémon Ranger HQ", //in-game: Bealbeach City
+      "157": "Vinoville Town (Pokémon Center)", //in-game: Vinoville Town
+      "158": "Vinoville Town (Poké Mart)", //in-game: Vinoville Town
+      "159": "Vinoville Town (Indoors)", //in-game: Vinoville Town
+      "160": "Gate (Route 8 to Vinoville Town)", //in-game: Route 8
+      "161": "Route 8 (Indoors)", //in-game: Route 8
+      "162": "Vinoville Town Gym (Basement)", //in-game: Vinoville Town
+      "163": "Route 8 (Crop Circles)", //Where S-51 is given. in-game: Route 8
+      // 164
+      "165": "Legen Town (Pokémon Center)", //in-game: Legen Town
+      "166": "Legen Town (Poké Mart)", //in-game: Legen Town
+      "167": "Legen Town (Indoors)", //in-game: Legen Town
+      "168": "Legen Town Station (Downstairs)", //in-game: Legen Town
+      "169": "testemap", //leftover test map
+      "170": "Amatree Rest House", //in-game: Amatree Town
+      "171": "Amatree Town (Indoors)", //in-game: Amatree Town
+      "172": "Theo's House", //in-game: Moki Town
+      "173": "Super Training Tent (Sp. Attack)", //in-game: Route 10
+      "174": "Tsukinami Village (Indoors A)", //in-game: Tsukinami Village
+      "175": "Tsukinami Village Gym",
+      // "176": "Silverport Town", //Broken, unused verison of Silverport Town.
+      "177": "Super Training Tent (Attack)", //in-game: Route 3
+      "178": "Super Training Tent (Speed)", //in-game: Route 7
+      "179": "Super Training Tent (HP)", //in-game: Route 12
+      "180": "Super Training Tent (Sp. Defense)", //in-game: Route 15
+      "181": "Championship Site (Lobby)", //in-game: Championship Site
+      // "182": "MAP182", //Empty map. Leftover by accident it seems.
+      // "183": "Rochfale Town", //Broken, unused verison of Rochfale Town.
+      "184": "Victory Road (Volcano)", //in-game: Victory Road
+      "185": "Victory Road (Bridge)", //in-game: Victory Road
+      "186": "Victory Road (Apex)", //in-game: Victory Road
+      "187": "Route 8 (Fallout)", //in-game: Route 8
+      "188": "Ranger Boat", //in-game: Route 8
+      "189": "Nuclear Plant Zeta (South)", //in-game: Nuclear Plant Zeta
+      "190": "Nuclear Plant Zeta (Courtyard)", //in-game: Nuclear Plant Zeta
+      "191": "Nuclear Plant Zeta (East)", //in-game: Nuclear Plant Zeta
+      "192": "Nuclear Plant Zeta (West)", //in-game: Nuclear Plant Zeta
+      "193": "Nuclear Plant Zeta (North)", //in-game: Nuclear Plant Zeta
+      "194": "Championship Tournament Arena", //in-game: Championship Site
+      "195": "Champion's Arena", //in-game: Championship Site
+      "196": "Champion's Arena (Fallout)", //in-game: Championship Site
+      "197": "Champion's Arena (Finale)", //Where Urayne is given. in-game: Championship Site
+      "198": "Nuclear Plant Epsilon (Flashback)", //Flashback in finale. in-game: Flashback
+      "199": "Hall of Fame",
+      "200": "Hall of Champions", //in-game: Championship Site
+      "201": "Legen Town Station (Upstairs)", //in-game: Legen Town
+      "202": "Lanthanite Core",
+      "203": "Victory Road (Garden)", //in-game: Victory Road
+      "204": "Tsukinami Village (Indoors B)", //in-game: Tsukinami Village
+      "205": "Route 7 (Cave)", //in-game Route 7
+      "206": "Snowbank Town Gym (Stream)" //in-game: Snowbank Town
+    }
+  }
+}
