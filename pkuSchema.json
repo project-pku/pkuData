@@ -1,4 +1,4 @@
-// pkuSchema v1.0 - Updated as of 2022-06-17
+// pkuSchema v1.0 - Updated as of 2022-06-22
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "pkuObject",
@@ -194,8 +194,10 @@
           "type": ["string", "null"]
         },
         "Met Date": {
-          "type": ["string", "null"],
-          "format": "date-time"
+          "type": ["string", "null"]
+        },
+        "Time Zone": {
+          "type": ["string", "null"]
         }
       }
     },
