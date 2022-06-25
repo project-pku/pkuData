@@ -140,6 +140,9 @@
       "type": "object",
       "additionalProperties": {"$ref": "#/definitions/Learned_Move"}
     },
+    "Feral Nuclear": {
+      "type": ["boolean", "null"]
+    },
     "Format Specific": {
       "type": ["object", "null"],
       "additionalProperties": {"$ref": "#/definitions/Format_Dict"}
