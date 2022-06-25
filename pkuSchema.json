@@ -1,4 +1,4 @@
-// pkuSchema v1.0 - Updated as of 2022-06-22
+// pkuSchema v1.0 - Updated as of 2022-06-25
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "pkuObject",
@@ -187,7 +187,7 @@
         }
       }
     },
-    "Met_Info_Base": {
+    "Catch_Info_Class": {
       "type": "object",
       "properties": {
         "Met Location": {
@@ -196,14 +196,6 @@
         "Met Date": {
           "type": ["string", "null"]
         },
-        "Time Zone": {
-          "type": ["string", "null"]
-        }
-      }
-    },
-    "Catch_Info_Class": {
-      "allOf": [{"$ref": "#/definitions/Met_Info_Base"}],
-      "properties": {
         "Ball": {
           "type": ["string", "null"]
         },
@@ -216,8 +208,14 @@
       }
     },
     "Egg_Info_Class": {
-      "allOf": [{"$ref": "#/definitions/Met_Info_Base"}],
+      "type": "object",
       "properties": {
+        "Received Location": {
+          "type": ["string", "null"]
+        },
+        "Received Date": {
+          "type": ["string", "null"]
+        },
         "Is Egg": {
           "type": ["boolean", "null"]
         },
