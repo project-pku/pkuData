@@ -940,7 +940,8 @@
           "pkeUranium": 0,
           "main-series": 0
         },
-        "Exists in": ["pkeUranium", "Showdown", "pk3"]
+        "Exists in": ["pkeUranium", "Showdown", "pk3"],
+        "Custom Shiny": ["pkeUranium"]
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -974,7 +975,8 @@
           "pkeUranium": 0,
           "main-series": 0
         },
-        "Exists in": ["pkeUranium", "Showdown", "pk3"]
+        "Exists in": ["pkeUranium", "Showdown", "pk3"],
+        "Custom Shiny": ["pkeUranium"]
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -1745,7 +1747,8 @@
           "pkeUranium": 0,
           "main-series": 0
         },
-        "Exists in": ["pkeUranium", "Showdown", "pk3"]
+        "Exists in": ["pkeUranium", "Showdown", "pk3"],
+        "Custom Shiny": ["pkeUranium"]
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -1779,7 +1782,8 @@
           "pkeUranium": 0,
           "main-series": 0
         },
-        "Exists in": ["pkeUranium", "Showdown", "pk3"]
+        "Exists in": ["pkeUranium", "Showdown", "pk3"],
+        "Custom Shiny": ["pkeUranium"]
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -1819,7 +1823,8 @@
             "Type": "Mega",
             "Item": "Ampharosite"
           }
-        }
+        },
+        "Custom Shiny": ["pkeUranium"]
       },
       "Mega": {
         "Form Indices": {
@@ -1827,7 +1832,8 @@
           "Showdown": "Mega"
         },
         "Exists in": ["pkeUranium", "Showdown"],
-        "Ability Slots": ["Mold Breaker"]
+        "Ability Slots": ["Mold Breaker"],
+        "Custom Shiny": ["pkeUranium"]
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -2597,7 +2603,8 @@
           "pkeUranium": 0,
           "main-series": 0
         },
-        "Exists in": ["pkeUranium", "Showdown", "pk3"]
+        "Exists in": ["pkeUranium", "Showdown", "pk3"],
+        "Custom Shiny": ["pkeUranium"]
       },
       "Nuclear": {
         "Form Indices": {
@@ -2950,7 +2957,8 @@
           "pkeUranium": 0,
           "main-series": 0
         },
-        "Exists in": ["pkeUranium", "Showdown", "pk3"]
+        "Exists in": ["pkeUranium", "Showdown", "pk3"],
+        "Custom Shiny": ["pkeUranium"]
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -2982,7 +2990,8 @@
         "Form Indices": {
           "pkeUranium": 0
         },
-        "Exists in": ["pkeUranium", "Showdown"]
+        "Exists in": ["pkeUranium", "Showdown"],
+        "Custom Shiny": ["pkeUranium"]
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -3872,7 +3881,8 @@
         "Form Indices": {
           "pkeUranium": 0
         },
-        "Exists in": ["pkeUranium", "Showdown"]
+        "Exists in": ["pkeUranium", "Showdown"],
+        "Custom Shiny": ["pkeUranium"]
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -3904,7 +3914,8 @@
         "Form Indices": {
           "pkeUranium": 0
         },
-        "Exists in": ["pkeUranium", "Showdown"]
+        "Exists in": ["pkeUranium", "Showdown"],
+        "Custom Shiny": ["pkeUranium"]
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -4137,7 +4148,8 @@
           "pkeUranium": 0,
           "main-series": 0
         },
-        "Exists in": ["pkeUranium", "Showdown", "pk3"]
+        "Exists in": ["pkeUranium", "Showdown", "pk3"],
+        "Custom Shiny": ["pkeUranium"]
       }
     },
     "Gender Ratio": "Male 7 Female 1",
@@ -4171,7 +4183,8 @@
           "pkeUranium": 0,
           "main-series": 0
         },
-        "Exists in": ["pkeUranium", "Showdown", "pk3"]
+        "Exists in": ["pkeUranium", "Showdown", "pk3"],
+        "Custom Shiny": ["pkeUranium"]
       }
     },
     "Gender Ratio": "Male 7 Female 1",
@@ -4205,7 +4218,8 @@
           "pkeUranium": 0,
           "main-series": 0
         },
-        "Exists in": ["pkeUranium", "Showdown", "pk3"]
+        "Exists in": ["pkeUranium", "Showdown", "pk3"],
+        "Custom Shiny": ["pkeUranium"]
       }
     },
     "Gender Ratio": "Male 7 Female 1",
@@ -4271,7 +4285,8 @@
         "Form Indices": {
           "pkeUranium": 0
         },
-        "Exists in": ["pkeUranium", "Showdown"]
+        "Exists in": ["pkeUranium", "Showdown"],
+        "Custom Shiny": ["pkeUranium"]
       }
     },
     "Gender Ratio": "Male 7 Female 1",
@@ -4303,7 +4318,8 @@
         "Form Indices": {
           "pkeUranium": 0
         },
-        "Exists in": ["pkeUranium", "Showdown"]
+        "Exists in": ["pkeUranium", "Showdown"],
+        "Custom Shiny": ["pkeUranium"]
       }
     },
     "Gender Ratio": "Male 7 Female 1",
