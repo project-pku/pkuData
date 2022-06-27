@@ -12151,5 +12151,17 @@
       }
     },
     "Gender Ratio": "All Genderless"
+  },
+  "Saharaja": {
+    "Indices": {
+      "CAP": 68,
+      "Showdown": "Saharaja"
+    },
+    "Forms": {
+      "": {
+        "Exists in": ["Showdown"]
+      }
+    },
+    "Gender Ratio": "Male 1 Female 1"
   }
 }
