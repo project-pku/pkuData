@@ -46,7 +46,8 @@
   },
   "Game": {
     "SubDexes":{
-      "Gen 3": "main-series/gen-3/gen3GameDex.json",
+      "pk3": "main-series/gen-3/pk3GameDex.json",
+      "GCN": "main-series/gen-3/gcnGameDex.json",
       "Uranium": "essentials/Uranium/pkeUraniumGameDex.json"
     }
   },
