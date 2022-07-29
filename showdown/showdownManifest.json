@@ -1,0 +1,6 @@
+{
+  "Species": "showdownSpeciesDex.json",
+  "Move": "showdownMoveDex.json",
+  "Ability": "showdownAbilityDex.json",
+  "Item": "showdownItemDex.json"
+}

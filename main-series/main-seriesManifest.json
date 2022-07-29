@@ -1,0 +1,8 @@
+{
+  "Species": "main-seriesSpeciesDex.json",
+  "Move": "main-seriesMoveDex.json",
+  "Ability": "main-seriesAbilityDex.json",
+  "Item": "main-seriesItemDex.json",
+  "Ball": "main-seriesBallDex.json",
+  "Language": "main-seriesLanguageDex.json"
+}
