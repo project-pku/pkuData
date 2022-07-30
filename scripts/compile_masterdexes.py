@@ -1,8 +1,10 @@
-# A python script that compiles collections of partial datadexes
-# into masterdexes as specified by dexlist.json
+# A python script that compiles collections of datadexes
+# into masterdexes as specified by the masterManifest.json
 import commentjson
-# import os
+import sys
+import os
 import os.path
+from pathlib import Path
 
 # custom to_json method
 def to_json(o, level=0):
@@ -58,9 +60,9 @@ def merge_dicts(base, new):
 ## Begin Script
 # ----------------
 # initialize
-root = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..")
+root = os.getcwd() #current working directory
 masterdex_path = os.path.join(root, "masterdexes")
-masterManifest = commentjson.load(open(os.path.join(root, "masterManifest.json"), encoding="utf8"))
+masterManifest = commentjson.load(open(os.path.join(root, sys.argv[1]), encoding="utf8"))
 
 # collect subdexes
 dexes = {}
@@ -77,6 +79,9 @@ for _, manifestLoc in masterManifest["Sub-Manifests"].items():
         dexes[dexType].append(fullDexLoc)
       else:
         dexes[dexType] = [fullDexLoc]
+
+# ensure masterdex path exists
+Path(masterdex_path).mkdir(parents=True, exist_ok=True)
 
 # process each dex type (in reverse order so that first dexes overwrite later ones)
 for dexType, dexList in dexes.items():
@@ -96,4 +101,4 @@ for dexType, dexList in dexes.items():
     f.write(to_json(base))
   print("Compiled master{0}Dex...".format(dexType))
 
-input("\nFinished compiling masterdexes!")
+print("\nFinished compiling masterdexes!")
