@@ -1,8 +1,10 @@
-# A python script that compiles collections of partial datadexes
-# into masterdexes as specified by dexlist.json
+# A python script that compiles collections of datadexes
+# into masterdexes as specified by the masterManifest.json
 import commentjson
-# import os
+import sys
+import os
 import os.path
+from pathlib import Path
 
 # custom to_json method
 def to_json(o, level=0):
@@ -58,9 +60,9 @@ def merge_dicts(base, new):
 ## Begin Script
 # ----------------
 # initialize
-root = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..")
-masterdex_path = os.path.join(root, "masterdexes")
-masterManifest = commentjson.load(open(os.path.join(root, "masterManifest.json"), encoding="utf8"))
+root = os.getcwd() #current working directory
+build_path = os.path.join(root, "build")
+masterManifest = commentjson.load(open(os.path.join(root, sys.argv[1]), encoding="utf8"))
 
 # collect subdexes
 dexes = {}
@@ -78,6 +80,9 @@ for _, manifestLoc in masterManifest["Sub-Manifests"].items():
       else:
         dexes[dexType] = [fullDexLoc]
 
+# ensure masterdex path exists
+Path(build_path).mkdir(parents=True, exist_ok=True)
+
 # process each dex type (in reverse order so that first dexes overwrite later ones)
 for dexType, dexList in dexes.items():
   # merge datadexes
@@ -92,8 +97,12 @@ for dexType, dexList in dexes.items():
       merge_dicts(base, sdex)
 
   # merging complete, write file
-  with open(os.path.join(masterdex_path,'master{0}Dex.json'.format(dexType)), 'w', encoding='utf-8') as f:
+  with open(os.path.join(build_path,'master{0}Dex.json'.format(dexType)), 'w', encoding='utf-8') as f:
     f.write(to_json(base))
   print("Compiled master{0}Dex...".format(dexType))
 
-input("\nFinished compiling masterdexes!")
+# add masterManifest to build
+with open(os.path.join(build_path,'masterManifest.json'), 'w', encoding='utf-8') as f:
+  f.write(to_json(masterManifest))
+
+print("\nFinished compiling masterdexes!")
