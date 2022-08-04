@@ -15,6 +15,7 @@ jobs:
       - name: Run compilation script
         run: |
           pip install commentjson
+          pip install jsonpath_ng
           python scripts/compile_masterdexes.py masterManifest.json
 
       - name: Commit to build branch

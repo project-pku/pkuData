@@ -431,20 +431,20 @@
         "255": "\u0000" //Null Terminator
       },
       "French": {
-        "$override": ["pk3", "Character Encoding", "English"],
+        "$override": "pk3.'Character Encoding'.English",
         "177": "«", //French open quotes (i.e. French equivalent of '“' in English)
         "178": "»" //French close quotes (i.e. French equivalent of '”' in English)
       },
       "Italian": {
-        "$override": ["pk3", "Character Encoding", "English"]
+        "$override": "pk3.'Character Encoding'.English"
       },
       "German": {
-        "$override": ["pk3", "Character Encoding", "English"],
+        "$override": "pk3.'Character Encoding'.English",
         "177": "„", //German open quotes (i.e. German equivalent of '“' in English)
         "178": "“" //German close quotes (i.e. German equivalent of '”' in English)
       },
       "Spanish": {
-        "$override": ["pk3", "Character Encoding", "English"]
+        "$override": "pk3.'Character Encoding'.English"
       }
     }
   }

@@ -10,7 +10,7 @@
     },
     "Exists in": ["pk3"],
     "Locations": {
-      "$override": ["$var:Gen3LocationBase"],
+      "$override": "'$temp_Gen3LocationBase'",
       "0": "Littleroot Town",
       "1": "Oldale Town",
       "2": "Dewford Town",
@@ -107,7 +107,7 @@
     },
     "Exists in": ["pk3"],
     "Locations": {
-      "$override": ["Sapphire", "Locations"],
+      "$override": "Sapphire.Locations",
       "66": "Team Magma Hideout" //Aqua in Sapphire & Emerald
     }
   },
@@ -117,7 +117,7 @@
     },
     "Exists in": ["pk3"],
     "Locations": {
-      "$override": ["Sapphire", "Locations"],
+      "$override": "Sapphire.Locations",
       "58": "Battle Frontier", //"Battle Tower" in RS
       "66": null, //Aqua/Magma Hideout in RS. Unused in Emerald
       "196": "Special Area", //"Celadon Dept." in FRLG (unused in emerald)
@@ -145,7 +145,7 @@
     },
     "Exists in": ["pk3"],
     "Locations": {
-      "$override": ["$var:Gen3LocationBase"],
+      "$override": "'$temp_Gen3LocationBase'",
       "88": "Pallet Town",
       "89": "Viridian City",
       "90": "Pewter City",
@@ -263,10 +263,10 @@
     },
     "Exists in": ["pk3"],
     "Locations": {
-      "$override": ["FireRed", "Locations"]
+      "$override": "FireRed.Locations"
     }
   },
-  "$var:Gen3LocationBase": {
+  "$temp_Gen3LocationBase": {
     "253": "Gift Egg", //location for gift eggs before they are hatched
     "254": "In-game trade",
     "255": "Fateful Encounter" //not the same as fateful encounter in later gens, think of it as "Received in an Event".

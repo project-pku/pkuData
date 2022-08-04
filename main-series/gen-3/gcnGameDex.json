@@ -6,7 +6,7 @@
     },
     "Exists in": ["pk3"],
     "Locations": {
-      "$override": ["$var:Gen3LocationBase"],
+      "$override": "'$temp_Gen3LocationBase'",
       "1": "Outskirt Stand/1",
       "2": "Outskirt Stand/2",
       "3": "Phenac City/3",
@@ -179,7 +179,7 @@
     },
     "Exists in": ["pk3"],
     "Locations": {
-      "$override": ["$var:Gen3LocationBase"],
+      "$override": "'$temp_Gen3LocationBase'",
       "0": "Starter",
       "1": "Cipher Lab/1",
       "7": "Cipher Lab/7",
