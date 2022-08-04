@@ -120,11 +120,11 @@ def isTemp(key):
 # initialize
 root = os.getcwd() #current working directory
 build_path = os.path.join(root, "build")
-masterManifest = commentjson.load(open(os.path.join(root, sys.argv[1]), encoding="utf8"))
+config = commentjson.load(open(os.path.join(root, sys.argv[1]), encoding="utf8"))
 
 # collect subdexes
 dexes = {}
-for _, manifestLoc in masterManifest["Sub-Manifests"].items():
+for _, manifestLoc in config["Sub-Configs"].items():
   manifestRoot = os.path.dirname(manifestLoc)
   manifest = commentjson.load(open(os.path.join(root, manifestLoc), encoding="utf8"))
   for dexType, dexLocOrLocs in manifest.items():
@@ -137,7 +137,7 @@ for _, manifestLoc in masterManifest["Sub-Manifests"].items():
       else:
         dexes[dexType] = [fullDexLoc]
 
-# ensure masterdex path exists
+# ensure build path exists
 Path(build_path).mkdir(parents=True, exist_ok=True)
 
 # process each dex type (in reverse order so that first dexes overwrite later ones)
@@ -153,19 +153,19 @@ for dexType, dexList in dexes.items():
     else:
       merge_dicts(base, sdex)
 
-  # unroll master datadex
+  # unroll final datadex
   unroll_dex(base)
 
   # remove all temp properties
   remove_key(base, isTemp)
 
   # post-processing, write file
-  with open(os.path.join(build_path,'master{0}Dex.json'.format(dexType)), 'w', encoding='utf-8') as f:
+  with open(os.path.join(build_path,'{0}Dex.json'.format(dexType)), 'w', encoding='utf-8') as f:
     f.write(to_json(base))
-  print("Compiled master{0}Dex...".format(dexType))
+  print("Compiled {0}Dex...".format(dexType))
 
-# include masterManifest in build
-with open(os.path.join(build_path,'masterManifest.json'), 'w', encoding='utf-8') as f:
-  f.write(to_json(masterManifest))
+# include config in build
+with open(os.path.join(build_path,'config.json'), 'w', encoding='utf-8') as f:
+  f.write(to_json(config))
 
-print("\nFinished compiling masterdexes!")
+print("\nFinished compiling dexes!")

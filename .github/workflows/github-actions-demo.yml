@@ -16,7 +16,7 @@ jobs:
         run: |
           pip install commentjson
           pip install jsonpath_ng
-          python scripts/compile_masterdexes.py masterManifest.json
+          python scripts/compile_build.py config.json
 
       - name: Commit to build branch
         uses: s0/git-publish-subdir-action@develop
