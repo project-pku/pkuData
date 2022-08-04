@@ -164,8 +164,20 @@ for dexType, dexList in dexes.items():
     f.write(to_json(base))
   print("Compiled {0}Dex...".format(dexType))
 
-# include config in build
+
+# build new config
+newconfig = {
+  "Name": config["Name"],
+  "Version": config["Version"],
+  "Dexes": {}
+}
+
+# add list of dexes to config
+for dexType in dexes:
+  newconfig["Dexes"][dexType] = f"{dexType}Dex.json"
+
+# add new config to build
 with open(os.path.join(build_path,'config.json'), 'w', encoding='utf-8') as f:
-  f.write(to_json(config))
+  f.write(to_json(newconfig))
 
 print("\nFinished compiling dexes!")
