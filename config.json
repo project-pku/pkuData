@@ -1,0 +1,11 @@
+{
+  "Name": "pkuData",
+  "Format Version": "0.3",
+  "Sub-Configs": {
+    "Main Series": "main-series/main-seriesConfig.json",
+    "Gen 3": "main-series/gen-3/gen-3Config.json",
+    "Gen 5": "main-series/gen-5/gen-5Config.json",
+    "Showdown": "showdown/showdownConfig.json",
+    "Uranium": "essentials/uranium/pkeUraniumConfig.json"
+  }
+}
