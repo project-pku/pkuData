@@ -1,6 +1,6 @@
 {
   "Name": "pkuData", //name of the datadex having repo
-  "Version": "0.4", //new version if a breaking change is made
+  "Version": "0.5", //new version if a breaking change is made
   "Sub-Configs": { //in order of priority (i.e. reverse merge order)
     "Main Series": "main-series/main-seriesConfig.json",
     "Gen 3": "main-series/gen-3/gen-3Config.json",
