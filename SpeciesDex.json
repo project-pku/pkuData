@@ -25894,7 +25894,7 @@
     "Forms": {
       "": {
         "Form Indices": {
-          "Showdown": [null, "F"]
+          "Showdown": ["$Male-Female", null, "F"]
         },
         "Exists in": ["Showdown"]
       }
@@ -31433,7 +31433,7 @@
     "Forms": {
       "": {
         "Form Indices": {
-          "Showdown": [null, "F"]
+          "Showdown": ["$Male-Female", null, "F"]
         },
         "Exists in": ["Showdown"]
       }

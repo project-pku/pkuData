@@ -1,6 +1,6 @@
 {
   "Name": "pkuData",
-  "Version": "0.4",
+  "Version": "0.5",
   "Dexes": {
     "Species": "SpeciesDex.json",
     "Move": "MoveDex.json",
