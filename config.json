@@ -1,14 +1,1 @@
-{
-  "Name": "pkuData",
-  "Version": "0.5",
-  "Dexes": {
-    "Species": "SpeciesDex.json",
-    "Move": "MoveDex.json",
-    "Ability": "AbilityDex.json",
-    "Item": "ItemDex.json",
-    "Ball": "BallDex.json",
-    "Language": "LanguageDex.json",
-    "Format": "FormatDex.json",
-    "Game": "GameDex.json"
-  }
-}
+{"Name":"pkuData","Version":"0.5","Dexes":{"Species":"SpeciesDex.json","Move":"MoveDex.json","Ability":"AbilityDex.json","Item":"ItemDex.json","Ball":"BallDex.json","Language":"LanguageDex.json","Format":"FormatDex.json","Game":"GameDex.json"}}
