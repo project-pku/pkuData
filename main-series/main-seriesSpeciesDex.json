@@ -541,9 +541,6 @@
       "main-series": 20
     },
     "Forms": {
-      "Alolan|Totem": {
-        "Castable to": ["Alolan"]
-      },
       "": {
         "Form Indices": {
           "main-series": 0
@@ -2716,9 +2713,6 @@
       "main-series": 105
     },
     "Forms": {
-      "Alolan|Totem": {
-        "Castable to": ["Alolan"]
-      },
       "": {
         "Form Indices": {
           "main-series": 0
@@ -16679,11 +16673,6 @@
     "Indices": {
       "main-series": 735
     },
-    "Forms": {
-      "Totem": {
-        "Castable to": [""]
-      }
-    },
     "Gender Ratio": "Male 1 Female 1",
     "Growth Rate": "Medium Fast",
     "Names": {
@@ -16737,11 +16726,6 @@
   "Vikavolt": {
     "Indices": {
       "main-series": 738
-    },
-    "Forms": {
-      "Totem": {
-        "Castable to": [""]
-      }
     },
     "Gender Ratio": "Male 1 Female 1",
     "Growth Rate": "Medium Fast",
@@ -16833,11 +16817,6 @@
   "Ribombee": {
     "Indices": {
       "main-series": 743
-    },
-    "Forms": {
-      "Totem": {
-        "Castable to": [""]
-      }
     },
     "Gender Ratio": "Male 1 Female 1",
     "Growth Rate": "Medium Fast",
@@ -17019,11 +16998,6 @@
     "Indices": {
       "main-series": 752
     },
-    "Forms": {
-      "Totem": {
-        "Castable to": [""]
-      }
-    },
     "Gender Ratio": "Male 1 Female 1",
     "Growth Rate": "Medium Fast",
     "Names": {
@@ -17059,11 +17033,6 @@
   "Lurantis": {
     "Indices": {
       "main-series": 754
-    },
-    "Forms": {
-      "Totem": {
-        "Castable to": [""]
-      }
     },
     "Gender Ratio": "Male 1 Female 1",
     "Growth Rate": "Medium Fast",
@@ -17136,11 +17105,6 @@
   "Salazzle": {
     "Indices": {
       "main-series": 758
-    },
-    "Forms": {
-      "Totem": {
-        "Castable to": [""]
-      }
     },
     "Gender Ratio": "All Female",
     "Growth Rate": "Medium Fast",
@@ -17586,11 +17550,6 @@
     "Indices": {
       "main-series": 777
     },
-    "Forms": {
-      "Totem": {
-        "Castable to": [""]
-      }
-    },
     "Gender Ratio": "Male 1 Female 1",
     "Growth Rate": "Medium Fast",
     "Names": {
@@ -17617,17 +17576,6 @@
             "Ability": "Disguise"
           }
         }
-      },
-      "Disguised|Totem": {
-        "Castable to": ["Disguised"],
-        "In-Battle Form Changes": {
-          "Busted|Totem": {
-            "Ability": "Disguise"
-          }
-        }
-      },
-      "Busted|Totem": {
-        "Castable to": ["Busted"]
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -17737,11 +17685,6 @@
   "Kommo-o": {
     "Indices": {
       "main-series": 784
-    },
-    "Forms": {
-      "Totem": {
-        "Castable to": [""]
-      }
     },
     "Gender Ratio": "Male 1 Female 1",
     "Growth Rate": "Slow",
