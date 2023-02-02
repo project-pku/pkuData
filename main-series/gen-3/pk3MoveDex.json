@@ -1,1142 +1,2792 @@
 {
   "None": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Pound": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Karate Chop": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Double Slap": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Comet Punch": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Mega Punch": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Pay Day": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Fire Punch": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Ice Punch": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Thunder Punch": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Scratch": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Vise Grip": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Guillotine": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Razor Wind": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Swords Dance": {
-    "Exists in": ["pk3"],
-    "Base PP": {
-      "pk3": 30
-    }
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {"pk3": 30}
   },
   "Cut": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Gust": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Wing Attack": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Whirlwind": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Fly": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Bind": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Slam": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Vine Whip": {
-    "Exists in": ["pk3"],
-    "Base PP": {
-      "pk3": 10
-    }
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {"pk3": 10}
   },
   "Stomp": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Double Kick": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Mega Kick": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Jump Kick": {
-    "Exists in": ["pk3"],
-    "Base PP": {
-      "pk3": 25
-    }
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {"pk3": 25}
   },
   "Rolling Kick": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Sand Attack": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Headbutt": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Horn Attack": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Fury Attack": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Horn Drill": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Tackle": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Body Slam": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Wrap": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Take Down": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Thrash": {
-    "Exists in": ["pk3"],
-    "Base PP": {
-      "pk3": 20
-    }
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {"pk3": 20}
   },
   "Double-Edge": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Tail Whip": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Poison Sting": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Twineedle": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Pin Missile": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Leer": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Bite": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Growl": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Roar": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Sing": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Supersonic": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Sonic Boom": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Disable": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Acid": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Ember": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Flamethrower": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Mist": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Water Gun": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Hydro Pump": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Surf": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Ice Beam": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Blizzard": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Psybeam": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Bubble Beam": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Aurora Beam": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Hyper Beam": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Peck": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Drill Peck": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Submission": {
-    "Exists in": ["pk3"],
-    "Base PP": {
-      "pk3": 25
-    }
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {"pk3": 25}
   },
   "Low Kick": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Counter": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Seismic Toss": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Strength": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Absorb": {
-    "Exists in": ["pk3"],
-    "Base PP": {
-      "pk3": 20
-    }
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {"pk3": 20}
   },
   "Mega Drain": {
-    "Exists in": ["pk3"],
-    "Base PP": {
-      "pk3": 10
-    }
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {"pk3": 10}
   },
   "Leech Seed": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Growth": {
-    "Exists in": ["pk3"],
-    "Base PP": {
-      "pk3": 40
-    }
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {"pk3": 40}
   },
   "Razor Leaf": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Solar Beam": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Poison Powder": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Stun Spore": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Sleep Powder": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Petal Dance": {
-    "Exists in": ["pk3"],
-    "Base PP": {
-      "pk3": 20
-    }
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {"pk3": 20}
   },
   "String Shot": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Dragon Rage": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Fire Spin": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Thunder Shock": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Thunderbolt": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Thunder Wave": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Thunder": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Rock Throw": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Earthquake": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Fissure": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Dig": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Toxic": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Confusion": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Psychic": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Hypnosis": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Meditate": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Agility": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Quick Attack": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Rage": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Teleport": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Night Shade": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Mimic": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Screech": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Double Team": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Recover": {
-    "Exists in": ["pk3"],
-    "Base PP": {
-      "pk3": 20
-    }
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {"pk3": 20}
   },
   "Harden": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Minimize": {
-    "Exists in": ["pk3"],
-    "Base PP": {
-      "pk3": 20
-    }
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {"pk3": 20}
   },
   "Smokescreen": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Confuse Ray": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Withdraw": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Defense Curl": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Barrier": {
-    "Exists in": ["pk3"],
-    "Base PP": {
-      "pk3": 30
-    }
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {"pk3": 30}
   },
   "Light Screen": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Haze": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Reflect": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Focus Energy": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Bide": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Metronome": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Mirror Move": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Self-Destruct": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Egg Bomb": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Lick": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Smog": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Sludge": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Bone Club": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Fire Blast": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Waterfall": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Clamp": {
-    "Exists in": ["pk3"],
-    "Base PP": {
-      "pk3": 10
-    }
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {"pk3": 10}
   },
   "Swift": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Skull Bash": {
-    "Exists in": ["pk3"],
-    "Base PP": {
-      "pk3": 15
-    }
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {"pk3": 15}
   },
   "Spike Cannon": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Constrict": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Amnesia": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Kinesis": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Soft-Boiled": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "High Jump Kick": {
-    "Exists in": ["pk3"],
-    "Base PP": {
-      "pk3": 20
-    }
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {"pk3": 20}
   },
   "Glare": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Dream Eater": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Poison Gas": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Barrage": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Leech Life": {
-    "Exists in": ["pk3"],
-    "Base PP": {
-      "pk3": 15
-    }
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {"pk3": 15}
   },
   "Lovely Kiss": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Sky Attack": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Transform": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Bubble": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Dizzy Punch": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Spore": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Flash": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Psywave": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Splash": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Acid Armor": {
-    "Exists in": ["pk3"],
-    "Base PP": {
-      "pk3": 40
-    }
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {"pk3": 40}
   },
   "Crabhammer": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Explosion": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Fury Swipes": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Bonemerang": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Rest": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Rock Slide": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Hyper Fang": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Sharpen": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Conversion": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Tri Attack": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Super Fang": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Slash": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Substitute": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Struggle": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Sketch": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Triple Kick": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Thief": {
-    "Exists in": ["pk3"],
-    "Base PP": {
-      "pk3": 10
-    }
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {"pk3": 10}
   },
   "Spider Web": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Mind Reader": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Nightmare": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Flame Wheel": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Snore": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Curse": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Flail": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Conversion 2": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Aeroblast": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Cotton Spore": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Reversal": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Spite": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Powder Snow": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Protect": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Mach Punch": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Scary Face": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Feint Attack": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Sweet Kiss": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Belly Drum": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Sludge Bomb": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Mud-Slap": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Octazooka": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Spikes": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Zap Cannon": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Foresight": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Destiny Bond": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Perish Song": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Icy Wind": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Detect": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Bone Rush": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Lock-On": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Outrage": {
-    "Exists in": ["pk3"],
-    "Base PP": {
-      "pk3": 15
-    }
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {"pk3": 15}
   },
   "Sandstorm": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Giga Drain": {
-    "Exists in": ["pk3"],
-    "Base PP": {
-      "pk3": 5
-    }
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {"pk3": 5}
   },
   "Endure": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Charm": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Rollout": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "False Swipe": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Swagger": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Milk Drink": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Spark": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Fury Cutter": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Steel Wing": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Mean Look": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Attract": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Sleep Talk": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Heal Bell": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Return": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Present": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Frustration": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Safeguard": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Pain Split": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Sacred Fire": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Magnitude": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Dynamic Punch": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Megahorn": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Dragon Breath": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Baton Pass": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Encore": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Pursuit": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Rapid Spin": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Sweet Scent": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Iron Tail": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Metal Claw": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Vital Throw": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Morning Sun": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Synthesis": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Moonlight": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Hidden Power": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Cross Chop": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Twister": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Rain Dance": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Sunny Day": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Crunch": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Mirror Coat": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Psych Up": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Extreme Speed": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Ancient Power": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Shadow Ball": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Future Sight": {
-    "Exists in": ["pk3"],
-    "Base PP": {
-      "pk3": 15
-    }
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {"pk3": 15}
   },
   "Rock Smash": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Whirlpool": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Beat Up": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Fake Out": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Uproar": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Stockpile": {
-    "Exists in": ["pk3"],
-    "Base PP": {
-      "pk3": 10
-    }
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {"pk3": 10}
   },
   "Spit Up": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Swallow": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Heat Wave": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Hail": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Torment": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Flatter": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Will-O-Wisp": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Memento": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Facade": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Focus Punch": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Smelling Salts": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Follow Me": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Nature Power": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Charge": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Taunt": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Helping Hand": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Trick": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Role Play": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Wish": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Assist": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Ingrain": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Superpower": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Magic Coat": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Recycle": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Revenge": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Brick Break": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Yawn": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Knock Off": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Endeavor": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Eruption": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Skill Swap": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Imprison": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Refresh": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Grudge": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Snatch": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Secret Power": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Dive": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Arm Thrust": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Camouflage": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Tail Glow": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Luster Purge": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Mist Ball": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Feather Dance": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Teeter Dance": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Blaze Kick": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Mud Sport": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Ice Ball": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Needle Arm": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Slack Off": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Hyper Voice": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Poison Fang": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Crush Claw": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Blast Burn": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Hydro Cannon": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Meteor Mash": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Astonish": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Weather Ball": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Aromatherapy": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Fake Tears": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Air Cutter": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Overheat": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Odor Sleuth": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Rock Tomb": {
-    "Exists in": ["pk3"],
-    "Base PP": {
-      "pk3": 10
-    }
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {"pk3": 10}
   },
   "Silver Wind": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Metal Sound": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Grass Whistle": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Tickle": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Cosmic Power": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Water Spout": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Signal Beam": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Shadow Punch": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Extrasensory": {
-    "Exists in": ["pk3"],
-    "Base PP": {
-      "pk3": 30
-    }
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {"pk3": 30}
   },
   "Sky Uppercut": {
-    "Exists in": ["pk3"]
-  },
-  "Sand Tomb": {
-    "Exists in": ["pk3"]
-  },
-  "Sheer Cold": {
-    "Exists in": ["pk3"]
-  },
-  "Muddy Water": {
-    "Exists in": ["pk3"]
-  },
-  "Bullet Seed": {
-    "Exists in": ["pk3"]
-  },
-  "Aerial Ace": {
-    "Exists in": ["pk3"]
-  },
-  "Icicle Spear": {
-    "Exists in": ["pk3"]
-  },
-  "Iron Defense": {
-    "Exists in": ["pk3"]
-  },
-  "Block": {
-    "Exists in": ["pk3"]
-  },
-  "Howl": {
-    "Exists in": ["pk3"]
-  },
-  "Dragon Claw": {
-    "Exists in": ["pk3"]
-  },
-  "Frenzy Plant": {
-    "Exists in": ["pk3"]
-  },
-  "Bulk Up": {
-    "Exists in": ["pk3"]
-  },
-  "Bounce": {
-    "Exists in": ["pk3"]
-  },
-  "Mud Shot": {
-    "Exists in": ["pk3"]
-  },
-  "Poison Tail": {
-    "Exists in": ["pk3"]
-  },
-  "Covet": {
-    "Exists in": ["pk3"],
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Base PP": {
-      "pk3": 40
+      "pk3": {"$index_override": "main-series"}
     }
   },
+  "Sand Tomb": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
+  },
+  "Sheer Cold": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
+  },
+  "Muddy Water": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
+  },
+  "Bullet Seed": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
+  },
+  "Aerial Ace": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
+  },
+  "Icicle Spear": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
+  },
+  "Iron Defense": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
+  },
+  "Block": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
+  },
+  "Howl": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
+  },
+  "Dragon Claw": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
+  },
+  "Frenzy Plant": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
+  },
+  "Bulk Up": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
+  },
+  "Bounce": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
+  },
+  "Mud Shot": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
+  },
+  "Poison Tail": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
+  },
+  "Covet": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {"pk3": 40}
+  },
   "Volt Tackle": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Magical Leaf": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Water Sport": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Calm Mind": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Leaf Blade": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Dragon Dance": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Rock Blast": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Shock Wave": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Water Pulse": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Doom Desire": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Psycho Boost": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
+    "Base PP": {
+      "pk3": {"$index_override": "main-series"}
+    }
   }
 }

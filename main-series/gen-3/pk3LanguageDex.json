@@ -1,20 +1,32 @@
 {
   "Japanese": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "English": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "French": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Italian": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "German": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Spanish": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    }
   }
 }

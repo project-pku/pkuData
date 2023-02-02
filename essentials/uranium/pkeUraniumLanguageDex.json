@@ -1,56 +1,29 @@
 {
   "Japanese": {
-    "Indices": {
-      "pkeUranium": 1
-    },
-    "Exists in": ["pkeUranium"]
+    "Indices": {"pkeUranium": 1}
   },
   "English": {
-    "Indices": {
-      "pkeUranium": 2
-    },
-    "Exists in": ["pkeUranium"]
+    "Indices": {"pkeUranium": 2}
   },
   "French": {
-    "Indices": {
-      "pkeUranium": 3
-    },
-    "Exists in": ["pkeUranium"]
+    "Indices": {"pkeUranium": 3}
   },
   "Italian": {
-    "Indices": {
-      "pkeUranium": 4
-    },
-    "Exists in": ["pkeUranium"]
+    "Indices": {"pkeUranium": 4}
   },
   "German": {
-    "Indices": {
-      "pkeUranium": 5
-    },
-    "Exists in": ["pkeUranium"]
+    "Indices": {"pkeUranium": 5}
   },
   "Spanish": {
-    "Indices": {
-      "pkeUranium": 7
-    },
-    "Exists in": ["pkeUranium"]
+    "Indices": {"pkeUranium": 7}
   },
   "Korean": {
-    "Indices": {
-      "pkeUranium": 8
-    },
-    "Exists in": ["pkeUranium"]
+    "Indices": {"pkeUranium": 8}
   },
   "Portugese": {
-    "Indices": {
-      "pkeUranium": 9
-    },
-    "Exists in": ["pkeUranium"]
+    "Indices": {"pkeUranium": 9}
   },
   "Chinese Simplified": {
-    "Indices": {
-      "pkeUranium": 10
-    },
-    "Exists in": ["pkeUranium"]
+    "Indices": {"pkeUranium": 10}
   }
 }

@@ -266,6 +266,12 @@
       "$override": "FireRed.Locations"
     }
   },
+  "Colosseum": {
+    "Indices": {"main-series": 15}
+  },
+  "XD": {
+    "Indices": {"main-series": 15}
+  },
   "$temp_Gen3LocationBase": {
     "253": "Gift Egg", //location for gift eggs before they are hatched
     "254": "In-game trade",

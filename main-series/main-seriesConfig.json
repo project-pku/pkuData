@@ -4,5 +4,6 @@
   "Ability": "main-seriesAbilityDex.json",
   "Item": "main-seriesItemDex.json",
   "Ball": "main-seriesBallDex.json",
+  "Game": "main-seriesGameDex.json",
   "Language": "main-seriesLanguageDex.json"
 }

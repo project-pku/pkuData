@@ -4,4 +4,4 @@ jobs:
   build-changes:
     runs-on: ubuntu-latest
     steps:
-      - uses: project-pku/pkuDexBuild-action@v1
+      - uses: project-pku/pkuDexBuild-action@v2

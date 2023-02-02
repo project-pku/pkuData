@@ -1,6 +1,6 @@
 {
   "Uranium": {
-    "Exists in": ["pkeUranium"],
+    "Indices": {"pkeUranium": 0}, //doesnt actually store game, 0 is just a default value
     "Locations": {
       // 0
       "1": "Gate (Route 3 to Burole Town)", //in-game: Route 3

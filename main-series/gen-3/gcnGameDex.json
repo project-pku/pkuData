@@ -1,10 +1,6 @@
 //All duplicate locations are appended by /ID#.
 {
   "Colosseum": {
-    "Indices": {
-      "main-series": 15
-    },
-    "Exists in": ["pk3"],
     "Locations": {
       "$override": "'$temp_Gen3LocationBase'",
       "1": "Outskirt Stand/1",
@@ -174,10 +170,6 @@
     }
   },
   "XD": {
-    "Indices": {
-      "main-series": 15
-    },
-    "Exists in": ["pk3"],
     "Locations": {
       "$override": "'$temp_Gen3LocationBase'",
       "0": "Starter",

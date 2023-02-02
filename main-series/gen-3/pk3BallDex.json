@@ -1,38 +1,62 @@
 {
   "Master Ball": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Ultra Ball": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Great Ball": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Poké Ball": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Safari Ball": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Net Ball": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Dive Ball": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Nest Ball": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Repeat Ball": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Timer Ball": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Luxury Ball": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    }
   },
   "Premier Ball": {
-    "Exists in": ["pk3"]
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    }
   }
 }

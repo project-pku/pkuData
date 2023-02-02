@@ -1,0 +1,23 @@
+{
+  "Sapphire": {
+    "Indices": {"main-series": 1}
+  },
+  "Ruby": {
+    "Indices": {"main-series": 2}
+  },
+  "Emerald": {
+    "Indices": {"main-series": 3}
+  },
+  "FireRed": {
+    "Indices": {"main-series": 4}
+  },
+  "LeafGreen": {
+    "Indices": {"main-series": 5}
+  },
+  "Colosseum": {
+    "Indices": {"main-series": 15}
+  },
+  "XD": {
+    "Indices": {"main-series": 15}
+  }
+}

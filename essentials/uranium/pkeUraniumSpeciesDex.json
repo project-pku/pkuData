@@ -1,17 +1,12 @@
 {
   "Orchynx": {
-    "Indices": {
-      "pkeUranium": 1
-    },
+    "Indices": {"pkeUranium": 1},
     "Ability Slots": {
       "pkeUranium": ["Battle Armor", null, "Overgrow"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 7 Female 1",
@@ -25,18 +20,13 @@
     }
   },
   "Metalynx": {
-    "Indices": {
-      "pkeUranium": 2
-    },
+    "Indices": {"pkeUranium": 2},
     "Ability Slots": {
       "pkeUranium": ["Battle Armor", null, "Overgrow"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "In-Battle Form Changes": {
           "Mega": {
             "Type": "Mega",
@@ -45,10 +35,7 @@
         }
       },
       "Mega": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 1},
         "Ability Slots": ["Heatproof", null, "Heatproof"]
       }
     },
@@ -63,18 +50,13 @@
     }
   },
   "Raptorch": {
-    "Indices": {
-      "pkeUranium": 3
-    },
+    "Indices": {"pkeUranium": 3},
     "Ability Slots": {
       "pkeUranium": ["Flame Body", null, "Blaze"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 7 Female 1",
@@ -88,18 +70,13 @@
     }
   },
   "Archilles": {
-    "Indices": {
-      "pkeUranium": 4
-    },
+    "Indices": {"pkeUranium": 4},
     "Ability Slots": {
       "pkeUranium": ["Flame Body", null, "Blaze"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "In-Battle Form Changes": {
           "Mega": {
             "Type": "Mega",
@@ -108,10 +85,7 @@
         }
       },
       "Mega": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 1},
         "Ability Slots": ["Drought", null, "Drought"]
       }
     },
@@ -126,18 +100,13 @@
     }
   },
   "Eletux": {
-    "Indices": {
-      "pkeUranium": 5
-    },
+    "Indices": {"pkeUranium": 5},
     "Ability Slots": {
       "pkeUranium": ["Static", null, "Torrent"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 7 Female 1",
@@ -151,18 +120,13 @@
     }
   },
   "Electruxo": {
-    "Indices": {
-      "pkeUranium": 6
-    },
+    "Indices": {"pkeUranium": 6},
     "Ability Slots": {
       "pkeUranium": ["Static", null, "Torrent"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "In-Battle Form Changes": {
           "Mega": {
             "Type": "Mega",
@@ -171,10 +135,7 @@
         }
       },
       "Mega": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 1},
         "Ability Slots": ["Drizzle", null, "Drizzle"]
       }
     },
@@ -189,24 +150,16 @@
     }
   },
   "Chyinmunk": {
-    "Indices": {
-      "pkeUranium": 7
-    },
+    "Indices": {"pkeUranium": 7},
     "Ability Slots": {
       "pkeUranium": ["Run Away", "Pickup", "Quick Feet"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       },
       "Nuclear": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 1}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -220,24 +173,16 @@
     }
   },
   "Kinetmunk": {
-    "Indices": {
-      "pkeUranium": 8
-    },
+    "Indices": {"pkeUranium": 8},
     "Ability Slots": {
       "pkeUranium": ["Run Away", "Pickup", "Quick Feet"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       },
       "Nuclear": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 1}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -251,18 +196,13 @@
     }
   },
   "Birbie": {
-    "Indices": {
-      "pkeUranium": 9
-    },
+    "Indices": {"pkeUranium": 9},
     "Ability Slots": {
       "pkeUranium": ["Big Pecks", "Analytic", "Moody"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -276,18 +216,13 @@
     }
   },
   "Aveden": {
-    "Indices": {
-      "pkeUranium": 10
-    },
+    "Indices": {"pkeUranium": 10},
     "Ability Slots": {
       "pkeUranium": ["Big Pecks", "Analytic", "Moody"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -301,18 +236,13 @@
     }
   },
   "Splendifowl": {
-    "Indices": {
-      "pkeUranium": 11
-    },
+    "Indices": {"pkeUranium": 11},
     "Ability Slots": {
       "pkeUranium": ["Big Pecks", "Analytic", "Moody"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -326,18 +256,13 @@
     }
   },
   "Cubbug": {
-    "Indices": {
-      "pkeUranium": 12
-    },
+    "Indices": {"pkeUranium": 12},
     "Ability Slots": {
       "pkeUranium": ["Swarm", "Natural Cure", "Magic Bounce"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -351,18 +276,13 @@
     }
   },
   "Cubblfly": {
-    "Indices": {
-      "pkeUranium": 13
-    },
+    "Indices": {"pkeUranium": 13},
     "Ability Slots": {
       "pkeUranium": ["Swarm", "Natural Cure", "Magic Bounce"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -376,18 +296,13 @@
     }
   },
   "Nimflora": {
-    "Indices": {
-      "pkeUranium": 14
-    },
+    "Indices": {"pkeUranium": 14},
     "Ability Slots": {
       "pkeUranium": ["Swarm", "Natural Cure", "Magic Bounce"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -401,18 +316,13 @@
     }
   },
   "Barewl": {
-    "Indices": {
-      "pkeUranium": 15
-    },
+    "Indices": {"pkeUranium": 15},
     "Ability Slots": {
       "pkeUranium": ["Sturdy", "Rock Head", "Sheer Force"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -426,18 +336,13 @@
     }
   },
   "Dearewl": {
-    "Indices": {
-      "pkeUranium": 16
-    },
+    "Indices": {"pkeUranium": 16},
     "Ability Slots": {
       "pkeUranium": ["Sturdy", "Rock Head", "Sheer Force"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -451,18 +356,13 @@
     }
   },
   "Gararewl": {
-    "Indices": {
-      "pkeUranium": 17
-    },
+    "Indices": {"pkeUranium": 17},
     "Ability Slots": {
       "pkeUranium": ["Sturdy", "Rock Head", "Sheer Force"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -476,18 +376,13 @@
     }
   },
   "Grozard": {
-    "Indices": {
-      "pkeUranium": 18
-    },
+    "Indices": {"pkeUranium": 18},
     "Ability Slots": {
       "pkeUranium": ["Sand Veil", "Arena Trap", "Sand Force"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -501,18 +396,13 @@
     }
   },
   "Terlard": {
-    "Indices": {
-      "pkeUranium": 19
-    },
+    "Indices": {"pkeUranium": 19},
     "Ability Slots": {
       "pkeUranium": ["Sand Veil", "Arena Trap", "Sand Force"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -526,24 +416,16 @@
     }
   },
   "Tonemy": {
-    "Indices": {
-      "pkeUranium": 20
-    },
+    "Indices": {"pkeUranium": 20},
     "Ability Slots": {
       "pkeUranium": ["Levitate", null, "Levitate"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       },
       "Nuclear": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 1}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -557,24 +439,16 @@
     }
   },
   "Tofurang": {
-    "Indices": {
-      "pkeUranium": 21
-    },
+    "Indices": {"pkeUranium": 21},
     "Ability Slots": {
       "pkeUranium": ["Intimidate", null, "Moxie"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       },
       "Nuclear": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 1}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -588,18 +462,13 @@
     }
   },
   "Dunsparce": {
-    "Indices": {
-      "pkeUranium": 22
-    },
+    "Indices": {"pkeUranium": 22},
     "Ability Slots": {
       "pkeUranium": ["Serene Grace", "Run Away", "Rattled"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -613,18 +482,13 @@
     }
   },
   "Dunseraph": {
-    "Indices": {
-      "pkeUranium": 23
-    },
+    "Indices": {"pkeUranium": 23},
     "Ability Slots": {
       "pkeUranium": ["Serene Grace", null, "Cloud Nine"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -638,18 +502,13 @@
     }
   },
   "Fortog": {
-    "Indices": {
-      "pkeUranium": 24
-    },
+    "Indices": {"pkeUranium": 24},
     "Ability Slots": {
       "pkeUranium": ["Clear Body", "Damp", "Water Absorb"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -663,18 +522,13 @@
     }
   },
   "Folerog": {
-    "Indices": {
-      "pkeUranium": 25
-    },
+    "Indices": {"pkeUranium": 25},
     "Ability Slots": {
       "pkeUranium": ["Clear Body", "Damp", "Water Absorb"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -688,18 +542,13 @@
     }
   },
   "Blubelrog": {
-    "Indices": {
-      "pkeUranium": 26
-    },
+    "Indices": {"pkeUranium": 26},
     "Ability Slots": {
       "pkeUranium": ["Clear Body", "Damp", "Water Absorb"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -713,24 +562,16 @@
     }
   },
   "Magikarp": {
-    "Indices": {
-      "pkeUranium": 27
-    },
+    "Indices": {"pkeUranium": 27},
     "Ability Slots": {
       "pkeUranium": ["Swift Swim", null, "Rattled", "Moxie"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       },
       "Nuclear": {
-        "Form Indices": {
-          "pkeUranium": 2
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 2}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -744,18 +585,13 @@
     }
   },
   "Gyarados": {
-    "Indices": {
-      "pkeUranium": 28
-    },
+    "Indices": {"pkeUranium": 28},
     "Ability Slots": {
       "pkeUranium": ["Intimidate", null, "Moxie"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "In-Battle Form Changes": {
           "Mega": {
             "Type": "Mega",
@@ -764,17 +600,11 @@
         }
       },
       "Mega": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 1},
         "Ability Slots": ["Mold Breaker", null, "Mold Breaker"]
       },
       "Nuclear": {
-        "Form Indices": {
-          "pkeUranium": 2
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 2},
         "In-Battle Form Changes": {
           "Mega|Nuclear": {
             "Type": "Mega",
@@ -783,10 +613,7 @@
         }
       },
       "Mega|Nuclear": {
-        "Form Indices": {
-          "pkeUranium": 3
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 3},
         "Ability Slots": ["Mold Breaker", null, "Mold Breaker"]
       }
     },
@@ -801,18 +628,13 @@
     }
   },
   "Feleng": {
-    "Indices": {
-      "pkeUranium": 29
-    },
+    "Indices": {"pkeUranium": 29},
     "Ability Slots": {
       "pkeUranium": ["Intimidate", "Cute Charm", "Frisk"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Appearance": {
           "Christmas": {
             "Form Indices": {
@@ -833,18 +655,13 @@
     }
   },
   "Felunge": {
-    "Indices": {
-      "pkeUranium": 30
-    },
+    "Indices": {"pkeUranium": 30},
     "Ability Slots": {
       "pkeUranium": ["Intimidate", "Cute Charm", "Frisk"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Appearance": {
           "Christmas": {
             "Form Indices": {
@@ -865,18 +682,13 @@
     }
   },
   "Feliger": {
-    "Indices": {
-      "pkeUranium": 31
-    },
+    "Indices": {"pkeUranium": 31},
     "Ability Slots": {
       "pkeUranium": ["Lazy"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Appearance": {
           "Christmas": {
             "Form Indices": {
@@ -897,18 +709,13 @@
     }
   },
   "Mankey": {
-    "Indices": {
-      "pkeUranium": 32
-    },
+    "Indices": {"pkeUranium": 32},
     "Ability Slots": {
       "pkeUranium": ["Vital Spirit", "Anger Point", "Defiant"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Custom Shiny": ["pkeUranium"]
       }
     },
@@ -923,18 +730,13 @@
     }
   },
   "Primeape": {
-    "Indices": {
-      "pkeUranium": 33
-    },
+    "Indices": {"pkeUranium": 33},
     "Ability Slots": {
       "pkeUranium": ["Vital Spirit", "Anger Point", "Defiant"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Custom Shiny": ["pkeUranium"]
       }
     },
@@ -949,18 +751,13 @@
     }
   },
   "Empirilla": {
-    "Indices": {
-      "pkeUranium": 34
-    },
+    "Indices": {"pkeUranium": 34},
     "Ability Slots": {
       "pkeUranium": ["Infuriate", null, "Weak Armor"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -974,18 +771,13 @@
     }
   },
   "Owten": {
-    "Indices": {
-      "pkeUranium": 35
-    },
+    "Indices": {"pkeUranium": 35},
     "Ability Slots": {
       "pkeUranium": ["Serene Grace", "Insomnia", "Tinted Lens"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Appearance": {
           "Anniversary": {
             "Form Indices": {
@@ -995,10 +787,7 @@
         }
       },
       "Nuclear": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 1}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -1012,18 +801,13 @@
     }
   },
   "Eshouten": {
-    "Indices": {
-      "pkeUranium": 36
-    },
+    "Indices": {"pkeUranium": 36},
     "Ability Slots": {
       "pkeUranium": ["Serene Grace", "Insomnia", "Tinted Lens"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Appearance": {
           "Anniversary": {
             "Form Indices": {
@@ -1033,10 +817,7 @@
         }
       },
       "Nuclear": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 1}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -1050,18 +831,13 @@
     }
   },
   "Lotad": {
-    "Indices": {
-      "pkeUranium": 37
-    },
+    "Indices": {"pkeUranium": 37},
     "Ability Slots": {
       "pkeUranium": ["Swift Swim", "Rain Dish", "Own Tempo"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -1075,18 +851,13 @@
     }
   },
   "Lombre": {
-    "Indices": {
-      "pkeUranium": 38
-    },
+    "Indices": {"pkeUranium": 38},
     "Ability Slots": {
       "pkeUranium": ["Swift Swim", "Rain Dish", "Own Tempo"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -1100,18 +871,13 @@
     }
   },
   "Ludicolo": {
-    "Indices": {
-      "pkeUranium": 39
-    },
+    "Indices": {"pkeUranium": 39},
     "Ability Slots": {
       "pkeUranium": ["Swift Swim", "Rain Dish", "Own Tempo"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -1125,18 +891,13 @@
     }
   },
   "Smore": {
-    "Indices": {
-      "pkeUranium": 40
-    },
+    "Indices": {"pkeUranium": 40},
     "Ability Slots": {
       "pkeUranium": ["Swarm"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 7 Female 1",
@@ -1150,18 +911,13 @@
     }
   },
   "Firoke": {
-    "Indices": {
-      "pkeUranium": 41
-    },
+    "Indices": {"pkeUranium": 41},
     "Ability Slots": {
       "pkeUranium": ["Sniper"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 7 Female 1",
@@ -1175,18 +931,13 @@
     }
   },
   "Brailip": {
-    "Indices": {
-      "pkeUranium": 42
-    },
+    "Indices": {"pkeUranium": 42},
     "Ability Slots": {
       "pkeUranium": ["Swift Swim", "Rock Head", "Telepathy"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -1200,18 +951,13 @@
     }
   },
   "Brainoar": {
-    "Indices": {
-      "pkeUranium": 43
-    },
+    "Indices": {"pkeUranium": 43},
     "Ability Slots": {
       "pkeUranium": ["Swift Swim", "Rock Head", "Telepathy"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -1225,24 +971,16 @@
     }
   },
   "Ekans": {
-    "Indices": {
-      "pkeUranium": 44
-    },
+    "Indices": {"pkeUranium": 44},
     "Ability Slots": {
       "pkeUranium": ["Intimidate", "Shed Skin", "Unnerve"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       },
       "Nuclear": {
-        "Form Indices": {
-          "pkeUranium": 2
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 2}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -1256,18 +994,13 @@
     }
   },
   "Arbok": {
-    "Indices": {
-      "pkeUranium": 45
-    },
+    "Indices": {"pkeUranium": 45},
     "Ability Slots": {
       "pkeUranium": ["Intimidate", "Shed Skin", "Unnerve"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "In-Battle Form Changes": {
           "Mega": {
             "Type": "Mega",
@@ -1276,17 +1009,11 @@
         }
       },
       "Mega": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 1},
         "Ability Slots": ["Petrify", "Petrify", "Petrify"]
       },
       "Nuclear": {
-        "Form Indices": {
-          "pkeUranium": 2
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 2},
         "In-Battle Form Changes": {
           "Mega|Nuclear": {
             "Type": "Mega",
@@ -1295,10 +1022,7 @@
         }
       },
       "Mega|Nuclear": {
-        "Form Indices": {
-          "pkeUranium": 3
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 3},
         "Ability Slots": ["Petrify", "Petrify", "Petrify"]
       }
     },
@@ -1313,18 +1037,13 @@
     }
   },
   "Tancoon": {
-    "Indices": {
-      "pkeUranium": 46
-    },
+    "Indices": {"pkeUranium": 46},
     "Ability Slots": {
       "pkeUranium": ["Guts", "Run Away", "Tough Claws"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Appearance": {
           "Christmas": {
             "Form Indices": {
@@ -1334,10 +1053,7 @@
         }
       },
       "Nuclear": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 1}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -1351,18 +1067,13 @@
     }
   },
   "Tanscure": {
-    "Indices": {
-      "pkeUranium": 47
-    },
+    "Indices": {"pkeUranium": 47},
     "Ability Slots": {
       "pkeUranium": ["Guts", "Moxie", "Tough Claws"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Appearance": {
           "Christmas": {
             "Form Indices": {
@@ -1372,10 +1083,7 @@
         }
       },
       "Nuclear": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 1}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -1389,18 +1097,13 @@
     }
   },
   "Sponee": {
-    "Indices": {
-      "pkeUranium": 48
-    },
+    "Indices": {"pkeUranium": 48},
     "Ability Slots": {
       "pkeUranium": ["Swarm"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 7 Female 1",
@@ -1414,18 +1117,13 @@
     }
   },
   "Sponaree": {
-    "Indices": {
-      "pkeUranium": 49
-    },
+    "Indices": {"pkeUranium": 49},
     "Ability Slots": {
       "pkeUranium": ["Water Absorb"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 7 Female 1",
@@ -1439,24 +1137,16 @@
     }
   },
   "Pahar": {
-    "Indices": {
-      "pkeUranium": 50
-    },
+    "Indices": {"pkeUranium": 50},
     "Ability Slots": {
       "pkeUranium": ["Flash Fire", "Big Pecks", "Flame Body"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       },
       "Nuclear": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 1}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -1470,24 +1160,16 @@
     }
   },
   "Palij": {
-    "Indices": {
-      "pkeUranium": 51
-    },
+    "Indices": {"pkeUranium": 51},
     "Ability Slots": {
       "pkeUranium": ["Flash Fire", "Big Pecks", "Flame Body"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       },
       "Nuclear": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 1}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -1501,24 +1183,16 @@
     }
   },
   "Pajay": {
-    "Indices": {
-      "pkeUranium": 52
-    },
+    "Indices": {"pkeUranium": 52},
     "Ability Slots": {
       "pkeUranium": ["Flash Fire", "Big Pecks", "Flame Body"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       },
       "Nuclear": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 1}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -1532,24 +1206,16 @@
     }
   },
   "Jerbolta": {
-    "Indices": {
-      "pkeUranium": 53
-    },
+    "Indices": {"pkeUranium": 53},
     "Ability Slots": {
       "pkeUranium": ["Quick Charge", null, "Volt Absorb"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       },
       "Nuclear": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 1}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -1563,18 +1229,13 @@
     }
   },
   "Comite": {
-    "Indices": {
-      "pkeUranium": 54
-    },
+    "Indices": {"pkeUranium": 54},
     "Ability Slots": {
       "pkeUranium": ["Hustle", "Sturdy", "Trace"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "All Genderless",
@@ -1588,18 +1249,13 @@
     }
   },
   "Cometeor": {
-    "Indices": {
-      "pkeUranium": 55
-    },
+    "Indices": {"pkeUranium": 55},
     "Ability Slots": {
       "pkeUranium": ["Technician", "Sturdy", "Trace"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "All Genderless",
@@ -1613,18 +1269,13 @@
     }
   },
   "Astronite": {
-    "Indices": {
-      "pkeUranium": 56
-    },
+    "Indices": {"pkeUranium": 56},
     "Ability Slots": {
       "pkeUranium": ["Technician", "Sturdy", "Trace"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "All Genderless",
@@ -1638,18 +1289,13 @@
     }
   },
   "Mareep": {
-    "Indices": {
-      "pkeUranium": 57
-    },
+    "Indices": {"pkeUranium": 57},
     "Ability Slots": {
       "pkeUranium": ["Static"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Custom Shiny": ["pkeUranium"]
       }
     },
@@ -1664,18 +1310,13 @@
     }
   },
   "Flaaffy": {
-    "Indices": {
-      "pkeUranium": 58
-    },
+    "Indices": {"pkeUranium": 58},
     "Ability Slots": {
       "pkeUranium": ["Static"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Custom Shiny": ["pkeUranium"]
       }
     },
@@ -1690,18 +1331,13 @@
     }
   },
   "Ampharos": {
-    "Indices": {
-      "pkeUranium": 59
-    },
+    "Indices": {"pkeUranium": 59},
     "Ability Slots": {
       "pkeUranium": ["Static"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "In-Battle Form Changes": {
           "Mega": {
             "Type": "Mega",
@@ -1711,10 +1347,7 @@
         "Custom Shiny": ["pkeUranium"]
       },
       "Mega": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 1},
         "Ability Slots": ["Mold Breaker"],
         "Custom Shiny": ["pkeUranium"]
       }
@@ -1730,18 +1363,13 @@
     }
   },
   "Baashaun": {
-    "Indices": {
-      "pkeUranium": 60
-    },
+    "Indices": {"pkeUranium": 60},
     "Ability Slots": {
       "pkeUranium": ["Guts", "Moxie", "Intimidate"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Appearance": {
           "Halloween": {
             "Form Indices": {
@@ -1751,10 +1379,7 @@
         }
       },
       "Nuclear": {
-        "Form Indices": {
-          "pkeUranium": 2
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 2}
       }
     },
     "Gender Ratio": "Male 3 Female 1",
@@ -1768,18 +1393,13 @@
     }
   },
   "Baaschaf": {
-    "Indices": {
-      "pkeUranium": 61
-    },
+    "Indices": {"pkeUranium": 61},
     "Ability Slots": {
       "pkeUranium": ["Guts", "Moxie", "Intimidate"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Appearance": {
           "Halloween": {
             "Form Indices": {
@@ -1789,10 +1409,7 @@
         }
       },
       "Nuclear": {
-        "Form Indices": {
-          "pkeUranium": 2
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 2}
       }
     },
     "Gender Ratio": "Male 3 Female 1",
@@ -1806,18 +1423,13 @@
     }
   },
   "Baariette": {
-    "Indices": {
-      "pkeUranium": 62
-    },
+    "Indices": {"pkeUranium": 62},
     "Ability Slots": {
       "pkeUranium": ["Guts", "Moxie", "Intimidate"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "In-Battle Form Changes": {
           "Mega": {
             "Type": "Mega",
@@ -1833,10 +1445,7 @@
         }
       },
       "Mega": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 1},
         "Ability Slots": ["Blood Lust", "Blood Lust", "Blood Lust"],
         "Appearance": {
           "Halloween": {
@@ -1847,10 +1456,7 @@
         }
       },
       "Nuclear": {
-        "Form Indices": {
-          "pkeUranium": 2
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 2},
         "In-Battle Form Changes": {
           "Mega|Nuclear": {
             "Type": "Mega",
@@ -1859,10 +1465,7 @@
         }
       },
       "Mega|Nuclear": {
-        "Form Indices": {
-          "pkeUranium": 3
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 3},
         "Ability Slots": ["Blood Lust", "Blood Lust", "Blood Lust"]
       }
     },
@@ -1877,18 +1480,13 @@
     }
   },
   "Tricwe": {
-    "Indices": {
-      "pkeUranium": 63
-    },
+    "Indices": {"pkeUranium": 63},
     "Ability Slots": {
       "pkeUranium": ["Swarm"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 7 Female 1",
@@ -1902,18 +1500,13 @@
     }
   },
   "Harylect": {
-    "Indices": {
-      "pkeUranium": 64
-    },
+    "Indices": {"pkeUranium": 64},
     "Ability Slots": {
       "pkeUranium": ["Volt Absorb"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 7 Female 1",
@@ -1927,24 +1520,16 @@
     }
   },
   "Costraw": {
-    "Indices": {
-      "pkeUranium": 65
-    },
+    "Indices": {"pkeUranium": 65},
     "Ability Slots": {
       "pkeUranium": ["Shed Skin", "Infiltrator", "Telepathy"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       },
       "Nuclear": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 1}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -1958,24 +1543,16 @@
     }
   },
   "Trawpint": {
-    "Indices": {
-      "pkeUranium": 66
-    },
+    "Indices": {"pkeUranium": 66},
     "Ability Slots": {
       "pkeUranium": ["Shed Skin", "Infiltrator", "Telepathy"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       },
       "Nuclear": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 1}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -1989,18 +1566,13 @@
     }
   },
   "Lunapup": {
-    "Indices": {
-      "pkeUranium": 67
-    },
+    "Indices": {"pkeUranium": 67},
     "Ability Slots": {
       "pkeUranium": ["Mold Breaker", "Guts", "Defiant"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -2014,18 +1586,13 @@
     }
   },
   "Herolune": {
-    "Indices": {
-      "pkeUranium": 68
-    },
+    "Indices": {"pkeUranium": 68},
     "Ability Slots": {
       "pkeUranium": ["Mold Breaker", "Guts", "Defiant"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -2039,18 +1606,13 @@
     }
   },
   "Minyan": {
-    "Indices": {
-      "pkeUranium": 69
-    },
+    "Indices": {"pkeUranium": 69},
     "Ability Slots": {
       "pkeUranium": ["Blood Lust", null, "Poison Touch", "Speed Boost"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Appearance": {
           "Halloween": {
             "Form Indices": {
@@ -2071,18 +1633,13 @@
     }
   },
   "Vilucard": {
-    "Indices": {
-      "pkeUranium": 70
-    },
+    "Indices": {"pkeUranium": 70},
     "Ability Slots": {
       "pkeUranium": ["Blood Lust", null, "Poison Touch", "Speed Boost"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Appearance": {
           "Halloween": {
             "Form Indices": {
@@ -2103,18 +1660,13 @@
     }
   },
   "Buizel": {
-    "Indices": {
-      "pkeUranium": 71
-    },
+    "Indices": {"pkeUranium": 71},
     "Ability Slots": {
       "pkeUranium": ["Swift Swim", null, "Water Veil"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -2128,18 +1680,13 @@
     }
   },
   "Floatzel": {
-    "Indices": {
-      "pkeUranium": 72
-    },
+    "Indices": {"pkeUranium": 72},
     "Ability Slots": {
       "pkeUranium": ["Swift Swim", null, "Water Veil"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -2153,18 +1700,13 @@
     }
   },
   "Modrille": {
-    "Indices": {
-      "pkeUranium": 73
-    },
+    "Indices": {"pkeUranium": 73},
     "Ability Slots": {
       "pkeUranium": ["Lightning Rod", "Sand Rush", "Mold Breaker"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -2178,18 +1720,13 @@
     }
   },
   "Drilgann": {
-    "Indices": {
-      "pkeUranium": 74
-    },
+    "Indices": {"pkeUranium": 74},
     "Ability Slots": {
       "pkeUranium": ["Lightning Rod", "Sand Rush", "Mold Breaker"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "In-Battle Form Changes": {
           "Mega": {
             "Type": "Mega",
@@ -2198,10 +1735,7 @@
         }
       },
       "Mega": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 1}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -2215,24 +1749,16 @@
     }
   },
   "Gligar": {
-    "Indices": {
-      "pkeUranium": 75
-    },
+    "Indices": {"pkeUranium": 75},
     "Ability Slots": {
       "pkeUranium": ["Hyper Cutter", "Sand Veil", "Immunity"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       },
       "Nuclear": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 1}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -2246,24 +1772,16 @@
     }
   },
   "Gliscor": {
-    "Indices": {
-      "pkeUranium": 76
-    },
+    "Indices": {"pkeUranium": 76},
     "Ability Slots": {
       "pkeUranium": ["Hyper Cutter", "Sand Veil", "Poison Heal"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       },
       "Nuclear": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 1}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -2277,18 +1795,13 @@
     }
   },
   "Sableye": {
-    "Indices": {
-      "pkeUranium": 77
-    },
+    "Indices": {"pkeUranium": 77},
     "Ability Slots": {
       "pkeUranium": ["Keen Eye", "Stall", "Prankster"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "In-Battle Form Changes": {
           "Mega": {
             "Type": "Mega",
@@ -2304,10 +1817,7 @@
         }
       },
       "Mega": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 1},
         "Ability Slots": ["Magic Bounce", "Magic Bounce", "Magic Bounce"],
         "Appearance": {
           "Christmas": {
@@ -2329,18 +1839,13 @@
     }
   },
   "Cocaran": {
-    "Indices": {
-      "pkeUranium": 78
-    },
+    "Indices": {"pkeUranium": 78},
     "Ability Slots": {
       "pkeUranium": ["Sand Veil", "Chlorophyll", "Harvest", "Filter"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Appearance": {
           "Halloween": {
             "Form Indices": {
@@ -2361,18 +1866,13 @@
     }
   },
   "Cararalm": {
-    "Indices": {
-      "pkeUranium": 79
-    },
+    "Indices": {"pkeUranium": 79},
     "Ability Slots": {
       "pkeUranium": ["Sand Veil", "Chlorophyll", "Harvest", "Filter"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Appearance": {
           "Halloween": {
             "Form Indices": {
@@ -2393,18 +1893,13 @@
     }
   },
   "Cocancer": {
-    "Indices": {
-      "pkeUranium": 80
-    },
+    "Indices": {"pkeUranium": 80},
     "Ability Slots": {
       "pkeUranium": ["Sand Veil", "Chlorophyll", "Harvest", "Filter"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Appearance": {
           "Halloween": {
             "Form Indices": {
@@ -2425,25 +1920,17 @@
     }
   },
   "Corsola": {
-    "Indices": {
-      "pkeUranium": 81
-    },
+    "Indices": {"pkeUranium": 81},
     "Ability Slots": {
       "pkeUranium": ["Hustle", "Natural Cure", "Regenerator"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Custom Shiny": ["pkeUranium"]
       },
       "Nuclear": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 1}
       }
     },
     "Gender Ratio": "Male 1 Female 3",
@@ -2457,24 +1944,16 @@
     }
   },
   "Corsoreef": {
-    "Indices": {
-      "pkeUranium": 82
-    },
+    "Indices": {"pkeUranium": 82},
     "Ability Slots": {
       "pkeUranium": ["Sharp Coral", "Natural Cure", "Regenerator"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       },
       "Nuclear": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 1}
       }
     },
     "Gender Ratio": "Male 1 Female 3",
@@ -2488,24 +1967,16 @@
     }
   },
   "Tubjaw": {
-    "Indices": {
-      "pkeUranium": 83
-    },
+    "Indices": {"pkeUranium": 83},
     "Ability Slots": {
       "pkeUranium": ["Swift Swim", "Strong Jaw", "Intimidate"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       },
       "Nuclear": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 1}
       }
     },
     "Gender Ratio": "Male 7 Female 1",
@@ -2519,24 +1990,16 @@
     }
   },
   "Tubareel": {
-    "Indices": {
-      "pkeUranium": 84
-    },
+    "Indices": {"pkeUranium": 84},
     "Ability Slots": {
       "pkeUranium": ["Swift Swim", "Strong Jaw", "Intimidate"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       },
       "Nuclear": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 1}
       }
     },
     "Gender Ratio": "Male 7 Female 1",
@@ -2550,18 +2013,13 @@
     }
   },
   "Cassnail": {
-    "Indices": {
-      "pkeUranium": 85
-    },
+    "Indices": {"pkeUranium": 85},
     "Ability Slots": {
       "pkeUranium": ["Shell Armor", "Sand Veil", "Sand Stream"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -2575,18 +2033,13 @@
     }
   },
   "Sableau": {
-    "Indices": {
-      "pkeUranium": 86
-    },
+    "Indices": {"pkeUranium": 86},
     "Ability Slots": {
       "pkeUranium": ["Shell Armor", "Sand Veil", "Sand Stream"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -2600,18 +2053,13 @@
     }
   },
   "Escartress": {
-    "Indices": {
-      "pkeUranium": 87
-    },
+    "Indices": {"pkeUranium": 87},
     "Ability Slots": {
       "pkeUranium": ["Shell Armor", "Sand Veil", "Sand Stream"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -2625,24 +2073,16 @@
     }
   },
   "Nupin": {
-    "Indices": {
-      "pkeUranium": 88
-    },
+    "Indices": {"pkeUranium": 88},
     "Ability Slots": {
       "pkeUranium": ["Chlorophyll", null, "Solar Power"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       },
       "Nuclear": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 1}
       }
     },
     "Gender Ratio": "All Genderless",
@@ -2656,24 +2096,16 @@
     }
   },
   "Gellin": {
-    "Indices": {
-      "pkeUranium": 89
-    },
+    "Indices": {"pkeUranium": 89},
     "Ability Slots": {
       "pkeUranium": ["Chlorophyll", null, "Solar Power"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       },
       "Nuclear": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 1}
       }
     },
     "Gender Ratio": "All Genderless",
@@ -2687,18 +2119,13 @@
     }
   },
   "Cottonee": {
-    "Indices": {
-      "pkeUranium": 90
-    },
+    "Indices": {"pkeUranium": 90},
     "Ability Slots": {
       "pkeUranium": ["Prankster", "Infiltrator", "Chlorophyll"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -2712,18 +2139,13 @@
     }
   },
   "Whimsicott": {
-    "Indices": {
-      "pkeUranium": 91
-    },
+    "Indices": {"pkeUranium": 91},
     "Ability Slots": {
       "pkeUranium": ["Prankster", "Infiltrator", "Chlorophyll"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "In-Battle Form Changes": {
           "Mega": {
             "Type": "Mega",
@@ -2732,10 +2154,7 @@
         }
       },
       "Mega": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 1},
         "Ability Slots": ["Regenerator", "Regenerator", "Regenerator"]
       }
     },
@@ -2750,18 +2169,13 @@
     }
   },
   "Misdreavus": {
-    "Indices": {
-      "pkeUranium": 92
-    },
+    "Indices": {"pkeUranium": 92},
     "Ability Slots": {
       "pkeUranium": ["Levitate"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Custom Shiny": ["pkeUranium"]
       }
     },
@@ -2776,18 +2190,13 @@
     }
   },
   "Mismagius": {
-    "Indices": {
-      "pkeUranium": 93
-    },
+    "Indices": {"pkeUranium": 93},
     "Ability Slots": {
       "pkeUranium": ["Levitate"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Custom Shiny": ["pkeUranium"]
       }
     },
@@ -2802,24 +2211,16 @@
     }
   },
   "Barand": {
-    "Indices": {
-      "pkeUranium": 94
-    },
+    "Indices": {"pkeUranium": 94},
     "Ability Slots": {
       "pkeUranium": ["Rivalry", "Shed Skin", "Tough Claws"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       },
       "Nuclear": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 1}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -2833,18 +2234,13 @@
     }
   },
   "Glaslug": {
-    "Indices": {
-      "pkeUranium": 95
-    },
+    "Indices": {"pkeUranium": 95},
     "Ability Slots": {
       "pkeUranium": ["Swift Swim", "Natural Cure", "Snow Warning"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Appearance": {
           "Easter": {
             "Form Indices": {
@@ -2865,18 +2261,13 @@
     }
   },
   "Glavinug": {
-    "Indices": {
-      "pkeUranium": 96
-    },
+    "Indices": {"pkeUranium": 96},
     "Ability Slots": {
       "pkeUranium": ["Swift Swim", "Natural Cure", "Snow Warning"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Appearance": {
           "Easter": {
             "Form Indices": {
@@ -2897,18 +2288,13 @@
     }
   },
   "S51": {
-    "Indices": {
-      "pkeUranium": 97
-    },
+    "Indices": {"pkeUranium": 97},
     "Ability Slots": {
       "pkeUranium": ["Levitate", null, "Analytic"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Appearance": {
           "Easter": {
             "Form Indices": {
@@ -2929,18 +2315,13 @@
     }
   },
   "S51-A": {
-    "Indices": {
-      "pkeUranium": 98
-    },
+    "Indices": {"pkeUranium": 98},
     "Ability Slots": {
       "pkeUranium": ["Levitate", null, "Analytic"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "In-Battle Form Changes": {
           "Mega": {
             "Type": "Mega",
@@ -2956,10 +2337,7 @@
         }
       },
       "Mega": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 1},
         "Ability Slots": ["Mega Launcher", null, "Mega Launcher"],
         "Appearance": {
           "Easter": {
@@ -2981,18 +2359,13 @@
     }
   },
   "Paraudio": {
-    "Indices": {
-      "pkeUranium": 99
-    },
+    "Indices": {"pkeUranium": 99},
     "Ability Slots": {
       "pkeUranium": ["Soundproof", "Sound Boost"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Appearance": {
           "Halloween": {
             "Form Indices": {
@@ -3002,10 +2375,7 @@
         }
       },
       "Nuclear": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 1}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -3019,18 +2389,13 @@
     }
   },
   "Paraboom": {
-    "Indices": {
-      "pkeUranium": 100
-    },
+    "Indices": {"pkeUranium": 100},
     "Ability Slots": {
       "pkeUranium": ["Soundproof", "Sound Boost"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Appearance": {
           "Halloween": {
             "Form Indices": {
@@ -3040,10 +2405,7 @@
         }
       },
       "Nuclear": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 1}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -3057,18 +2419,13 @@
     }
   },
   "Flager": {
-    "Indices": {
-      "pkeUranium": 101
-    },
+    "Indices": {"pkeUranium": 101},
     "Ability Slots": {
       "pkeUranium": ["Flash Fire"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 7 Female 1",
@@ -3082,18 +2439,13 @@
     }
   },
   "Inflagetah": {
-    "Indices": {
-      "pkeUranium": 102
-    },
+    "Indices": {"pkeUranium": 102},
     "Ability Slots": {
       "pkeUranium": ["Acceleration"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "In-Battle Form Changes": {
           "Mega": {
             "Type": "Mega",
@@ -3102,10 +2454,7 @@
         }
       },
       "Mega": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 1}
       }
     },
     "Gender Ratio": "Male 7 Female 1",
@@ -3119,18 +2468,13 @@
     }
   },
   "Chimical": {
-    "Indices": {
-      "pkeUranium": 103
-    },
+    "Indices": {"pkeUranium": 103},
     "Ability Slots": {
       "pkeUranium": ["Petrify", null, "Contrary"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Appearance": {
           "Halloween": {
             "Form Indices": {
@@ -3151,18 +2495,13 @@
     }
   },
   "Chimaconda": {
-    "Indices": {
-      "pkeUranium": 104
-    },
+    "Indices": {"pkeUranium": 104},
     "Ability Slots": {
       "pkeUranium": ["Petrify", null, "Contrary"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Appearance": {
           "Halloween": {
             "Form Indices": {
@@ -3183,18 +2522,13 @@
     }
   },
   "Tikiki": {
-    "Indices": {
-      "pkeUranium": 105
-    },
+    "Indices": {"pkeUranium": 105},
     "Ability Slots": {
       "pkeUranium": ["Vital Spirit", "Iron Fist", "Technician"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -3208,18 +2542,13 @@
     }
   },
   "Frikitiki": {
-    "Indices": {
-      "pkeUranium": 106
-    },
+    "Indices": {"pkeUranium": 106},
     "Ability Slots": {
       "pkeUranium": ["Vital Spirit", "Iron Fist", "Technician"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -3233,18 +2562,13 @@
     }
   },
   "Unymph": {
-    "Indices": {
-      "pkeUranium": 107
-    },
+    "Indices": {"pkeUranium": 107},
     "Ability Slots": {
       "pkeUranium": ["Shield Dust", "Compound Eyes", "Suction Cups"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -3258,18 +2582,13 @@
     }
   },
   "Harptera": {
-    "Indices": {
-      "pkeUranium": 108
-    },
+    "Indices": {"pkeUranium": 108},
     "Ability Slots": {
       "pkeUranium": ["Moxie", "Gale Wings", "Unburden"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -3283,18 +2602,13 @@
     }
   },
   "Chicoatl": {
-    "Indices": {
-      "pkeUranium": 109
-    },
+    "Indices": {"pkeUranium": 109},
     "Ability Slots": {
       "pkeUranium": ["Sap Sipper", "Leaf Guard", "Chlorophyll"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -3308,18 +2622,13 @@
     }
   },
   "Quetzoral": {
-    "Indices": {
-      "pkeUranium": 110
-    },
+    "Indices": {"pkeUranium": 110},
     "Ability Slots": {
       "pkeUranium": ["Sap Sipper", "Leaf Guard", "Chlorophyll"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -3333,18 +2642,13 @@
     }
   },
   "Coatlith": {
-    "Indices": {
-      "pkeUranium": 111
-    },
+    "Indices": {"pkeUranium": 111},
     "Ability Slots": {
       "pkeUranium": ["Levitate", null, "Chlorophyll"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -3358,18 +2662,13 @@
     }
   },
   "Tracton": {
-    "Indices": {
-      "pkeUranium": 112
-    },
+    "Indices": {"pkeUranium": 112},
     "Ability Slots": {
       "pkeUranium": ["Speed Boost", "Motor Drive", "Analytic"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Appearance": {
           "Christmas": {
             "Form Indices": {
@@ -3390,18 +2689,13 @@
     }
   },
   "Snopach": {
-    "Indices": {
-      "pkeUranium": 113
-    },
+    "Indices": {"pkeUranium": 113},
     "Ability Slots": {
       "pkeUranium": ["Solid Rock", "Snow Cloak", "Sturdy"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 7 Female 1",
@@ -3415,18 +2709,13 @@
     }
   },
   "Dermafrost": {
-    "Indices": {
-      "pkeUranium": 114
-    },
+    "Indices": {"pkeUranium": 114},
     "Ability Slots": {
       "pkeUranium": ["Solid Rock", "Snow Cloak", "Sturdy"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 7 Female 1",
@@ -3440,18 +2729,13 @@
     }
   },
   "Slothohm": {
-    "Indices": {
-      "pkeUranium": 115
-    },
+    "Indices": {"pkeUranium": 115},
     "Ability Slots": {
       "pkeUranium": ["Energizate", "Motor Drive", "Rock Head"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 7 Female 1",
@@ -3465,18 +2749,13 @@
     }
   },
   "Theriamp": {
-    "Indices": {
-      "pkeUranium": 116
-    },
+    "Indices": {"pkeUranium": 116},
     "Ability Slots": {
       "pkeUranium": ["Energizate", "Motor Drive", "Rock Head"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 7 Female 1",
@@ -3490,18 +2769,13 @@
     }
   },
   "Titanice": {
-    "Indices": {
-      "pkeUranium": 117
-    },
+    "Indices": {"pkeUranium": 117},
     "Ability Slots": {
       "pkeUranium": ["Forewarn", "Ice Body", "Snow Warning"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Appearance": {
           "Halloween": {
             "Form Indices": {
@@ -3522,18 +2796,13 @@
     }
   },
   "Frynai": {
-    "Indices": {
-      "pkeUranium": 118
-    },
+    "Indices": {"pkeUranium": 118},
     "Ability Slots": {
       "pkeUranium": ["Swift Swim", "Inner Focus", "Sheer Force"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -3547,18 +2816,13 @@
     }
   },
   "Saidine": {
-    "Indices": {
-      "pkeUranium": 119
-    },
+    "Indices": {"pkeUranium": 119},
     "Ability Slots": {
       "pkeUranium": ["Swift Swim", "Inner Focus", "Sheer Force"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -3572,18 +2836,13 @@
     }
   },
   "Daikatuna": {
-    "Indices": {
-      "pkeUranium": 120
-    },
+    "Indices": {"pkeUranium": 120},
     "Ability Slots": {
       "pkeUranium": ["Swift Swim", "Inner Focus", "Sheer Force"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -3597,18 +2856,13 @@
     }
   },
   "Selkid": {
-    "Indices": {
-      "pkeUranium": 121
-    },
+    "Indices": {"pkeUranium": 121},
     "Ability Slots": {
       "pkeUranium": ["Cute Charm", "Swift Swim"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "All Female",
@@ -3622,18 +2876,13 @@
     }
   },
   "Syrentide": {
-    "Indices": {
-      "pkeUranium": 122
-    },
+    "Indices": {"pkeUranium": 122},
     "Ability Slots": {
       "pkeUranium": ["Cute Charm", "Swift Swim"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "In-Battle Form Changes": {
           "Mega": {
             "Type": "Mega",
@@ -3642,10 +2891,7 @@
         }
       },
       "Mega": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 1},
         "Ability Slots": ["Pixilate", "Pixilate"]
       }
     },
@@ -3660,18 +2906,13 @@
     }
   },
   "Spritzee": {
-    "Indices": {
-      "pkeUranium": 123
-    },
+    "Indices": {"pkeUranium": 123},
     "Ability Slots": {
       "pkeUranium": ["Healer", "Aroma Veil"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Custom Shiny": ["pkeUranium"]
       }
     },
@@ -3686,18 +2927,13 @@
     }
   },
   "Aromatisse": {
-    "Indices": {
-      "pkeUranium": 124
-    },
+    "Indices": {"pkeUranium": 124},
     "Ability Slots": {
       "pkeUranium": ["Healer", "Aroma Veil"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Custom Shiny": ["pkeUranium"]
       }
     },
@@ -3712,18 +2948,13 @@
     }
   },
   "Miasmedic": {
-    "Indices": {
-      "pkeUranium": 125
-    },
+    "Indices": {"pkeUranium": 125},
     "Ability Slots": {
       "pkeUranium": ["Healer", "Poison Touch"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -3737,18 +2968,13 @@
     }
   },
   "Jackdeary": {
-    "Indices": {
-      "pkeUranium": 126
-    },
+    "Indices": {"pkeUranium": 126},
     "Ability Slots": {
       "pkeUranium": ["Magic Guard", "Inner Focus", "Inner Focus", "Pixilate"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Appearance": {
           "Easter": {
             "Form Indices": {
@@ -3769,18 +2995,13 @@
     }
   },
   "Winotinger": {
-    "Indices": {
-      "pkeUranium": 127
-    },
+    "Indices": {"pkeUranium": 127},
     "Ability Slots": {
       "pkeUranium": ["Magic Guard", "Inner Focus", "Inner Focus", "Pixilate"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Appearance": {
           "Easter": {
             "Form Indices": {
@@ -3801,18 +3022,13 @@
     }
   },
   "Duplicat": {
-    "Indices": {
-      "pkeUranium": 128
-    },
+    "Indices": {"pkeUranium": 128},
     "Ability Slots": {
       "pkeUranium": ["Prankster", "Trace"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "All Genderless",
@@ -3826,18 +3042,13 @@
     }
   },
   "Eevee": {
-    "Indices": {
-      "pkeUranium": 129
-    },
+    "Indices": {"pkeUranium": 129},
     "Ability Slots": {
       "pkeUranium": ["Run Away", "Adaptability", "Anticipation"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 7 Female 1",
@@ -3851,18 +3062,13 @@
     }
   },
   "Vaporeon": {
-    "Indices": {
-      "pkeUranium": 130
-    },
+    "Indices": {"pkeUranium": 130},
     "Ability Slots": {
       "pkeUranium": ["Water Absorb", null, "Hydration"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 7 Female 1",
@@ -3876,18 +3082,13 @@
     }
   },
   "Jolteon": {
-    "Indices": {
-      "pkeUranium": 131
-    },
+    "Indices": {"pkeUranium": 131},
     "Ability Slots": {
       "pkeUranium": ["Volt Absorb", null, "Quick Feet"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Custom Shiny": ["pkeUranium"]
       }
     },
@@ -3902,18 +3103,13 @@
     }
   },
   "Flareon": {
-    "Indices": {
-      "pkeUranium": 132
-    },
+    "Indices": {"pkeUranium": 132},
     "Ability Slots": {
       "pkeUranium": ["Flash Fire", null, "Guts"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Custom Shiny": ["pkeUranium"]
       }
     },
@@ -3928,18 +3124,13 @@
     }
   },
   "Espeon": {
-    "Indices": {
-      "pkeUranium": 133
-    },
+    "Indices": {"pkeUranium": 133},
     "Ability Slots": {
       "pkeUranium": ["Synchronize", null, "Magic Bounce"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Custom Shiny": ["pkeUranium"]
       }
     },
@@ -3954,18 +3145,13 @@
     }
   },
   "Umbreon": {
-    "Indices": {
-      "pkeUranium": 134
-    },
+    "Indices": {"pkeUranium": 134},
     "Ability Slots": {
       "pkeUranium": ["Synchronize", null, "Inner Focus"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 7 Female 1",
@@ -3979,18 +3165,13 @@
     }
   },
   "Leafeon": {
-    "Indices": {
-      "pkeUranium": 135
-    },
+    "Indices": {"pkeUranium": 135},
     "Ability Slots": {
       "pkeUranium": ["Leaf Guard", null, "Chlorophyll"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Custom Shiny": ["pkeUranium"]
       }
     },
@@ -4005,18 +3186,13 @@
     }
   },
   "Glaceon": {
-    "Indices": {
-      "pkeUranium": 136
-    },
+    "Indices": {"pkeUranium": 136},
     "Ability Slots": {
       "pkeUranium": ["Snow Cloak", null, "Ice Body"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Custom Shiny": ["pkeUranium"]
       }
     },
@@ -4031,18 +3207,13 @@
     }
   },
   "Sylveon": {
-    "Indices": {
-      "pkeUranium": 137
-    },
+    "Indices": {"pkeUranium": 137},
     "Ability Slots": {
       "pkeUranium": ["Cute Charm", null, "Pixilate"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 7 Female 1",
@@ -4056,18 +3227,13 @@
     }
   },
   "Nucleon": {
-    "Indices": {
-      "pkeUranium": 138
-    },
+    "Indices": {"pkeUranium": 138},
     "Ability Slots": {
       "pkeUranium": ["Atomizate", null, "Geiger Sense"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 7 Female 1",
@@ -4081,18 +3247,13 @@
     }
   },
   "Ratsy": {
-    "Indices": {
-      "pkeUranium": 139
-    },
+    "Indices": {"pkeUranium": 139},
     "Ability Slots": {
       "pkeUranium": ["Insomnia", "Quick Feet", "Pickup"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 7 Female 1",
@@ -4106,18 +3267,13 @@
     }
   },
   "Raffiti": {
-    "Indices": {
-      "pkeUranium": 140
-    },
+    "Indices": {"pkeUranium": 140},
     "Ability Slots": {
       "pkeUranium": ["Insomnia", "Quick Feet", "Pickup"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 7 Female 1",
@@ -4131,18 +3287,13 @@
     }
   },
   "Gargryph": {
-    "Indices": {
-      "pkeUranium": 141
-    },
+    "Indices": {"pkeUranium": 141},
     "Ability Slots": {
       "pkeUranium": ["Rebuild"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Appearance": {
           "Anniversary": {
             "Form Indices": {
@@ -4163,18 +3314,13 @@
     }
   },
   "Masking": {
-    "Indices": {
-      "pkeUranium": 142
-    },
+    "Indices": {"pkeUranium": 142},
     "Ability Slots": {
       "pkeUranium": ["Illusion", null, "Synchronize"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Appearance": {
           "Halloween": {
             "Form Indices": {
@@ -4184,10 +3330,7 @@
         }
       },
       "Nuclear": {
-        "Form Indices": {
-          "pkeUranium": 2
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 2}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -4201,18 +3344,13 @@
     }
   },
   "Dramsama": {
-    "Indices": {
-      "pkeUranium": 143
-    },
+    "Indices": {"pkeUranium": 143},
     "Ability Slots": {
       "pkeUranium": ["Illusion", null, "Synchronize"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "In-Battle Form Changes": {
           "Mega": {
             "Type": "Mega",
@@ -4228,10 +3366,7 @@
         }
       },
       "Mega": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 1},
         "Ability Slots": ["Bad Dreams", null, "Bad Dreams"],
         "Appearance": {
           "Halloween": {
@@ -4242,10 +3377,7 @@
         }
       },
       "Nuclear": {
-        "Form Indices": {
-          "pkeUranium": 2
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 2},
         "In-Battle Form Changes": {
           "Mega|Nuclear": {
             "Type": "Mega",
@@ -4254,10 +3386,7 @@
         }
       },
       "Mega|Nuclear": {
-        "Form Indices": {
-          "pkeUranium": 3
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 3},
         "Ability Slots": ["Bad Dreams", null, "Bad Dreams"]
       }
     },
@@ -4272,18 +3401,13 @@
     }
   },
   "Antarki": {
-    "Indices": {
-      "pkeUranium": 144
-    },
+    "Indices": {"pkeUranium": 144},
     "Ability Slots": {
       "pkeUranium": ["Illuminate", null, "Prankster"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -4297,24 +3421,16 @@
     }
   },
   "Chupacho": {
-    "Indices": {
-      "pkeUranium": 145
-    },
+    "Indices": {"pkeUranium": 145},
     "Ability Slots": {
       "pkeUranium": ["Poison Point", "Poison Touch", "Hustle"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       },
       "Nuclear": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 1}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -4328,24 +3444,16 @@
     }
   },
   "Luchabra": {
-    "Indices": {
-      "pkeUranium": 146
-    },
+    "Indices": {"pkeUranium": 146},
     "Ability Slots": {
       "pkeUranium": ["Poison Point", "Poison Touch", "Hustle"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       },
       "Nuclear": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 1}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -4359,18 +3467,13 @@
     }
   },
   "Linkite": {
-    "Indices": {
-      "pkeUranium": 147
-    },
+    "Indices": {"pkeUranium": 147},
     "Ability Slots": {
       "pkeUranium": ["Shadow Tag", "Cursed Body"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Appearance": {
           "Christmas": {
             "Form Indices": {
@@ -4391,18 +3494,13 @@
     }
   },
   "Chainite": {
-    "Indices": {
-      "pkeUranium": 148
-    },
+    "Indices": {"pkeUranium": 148},
     "Ability Slots": {
       "pkeUranium": ["Shadow Tag", "Cursed Body"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Appearance": {
           "Christmas": {
             "Form Indices": {
@@ -4423,18 +3521,13 @@
     }
   },
   "Pufluff": {
-    "Indices": {
-      "pkeUranium": 149
-    },
+    "Indices": {"pkeUranium": 149},
     "Ability Slots": {
       "pkeUranium": ["Snow Cloak"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Appearance": {
           "Christmas": {
             "Form Indices": {
@@ -4455,18 +3548,13 @@
     }
   },
   "Alpico": {
-    "Indices": {
-      "pkeUranium": 150
-    },
+    "Indices": {"pkeUranium": 150},
     "Ability Slots": {
       "pkeUranium": ["Competitive", "Technician"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Appearance": {
           "Christmas": {
             "Form Indices": {
@@ -4487,18 +3575,13 @@
     }
   },
   "Anderind": {
-    "Indices": {
-      "pkeUranium": 151
-    },
+    "Indices": {"pkeUranium": 151},
     "Ability Slots": {
       "pkeUranium": ["Snow Warning", "Rivalry"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Appearance": {
           "Christmas": {
             "Form Indices": {
@@ -4519,18 +3602,13 @@
     }
   },
   "Colarva": {
-    "Indices": {
-      "pkeUranium": 152
-    },
+    "Indices": {"pkeUranium": 152},
     "Ability Slots": {
       "pkeUranium": ["Ice Body"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -4544,18 +3622,13 @@
     }
   },
   "Frosulo": {
-    "Indices": {
-      "pkeUranium": 153
-    },
+    "Indices": {"pkeUranium": 153},
     "Ability Slots": {
       "pkeUranium": ["Ice Body"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -4569,18 +3642,13 @@
     }
   },
   "Frosthra": {
-    "Indices": {
-      "pkeUranium": 154
-    },
+    "Indices": {"pkeUranium": 154},
     "Ability Slots": {
       "pkeUranium": ["Deep Freeze"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -4594,18 +3662,13 @@
     }
   },
   "Fafurr": {
-    "Indices": {
-      "pkeUranium": 155
-    },
+    "Indices": {"pkeUranium": 155},
     "Ability Slots": {
       "pkeUranium": ["Thick Fat", "Fur Coat"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -4619,18 +3682,13 @@
     }
   },
   "Fafninter": {
-    "Indices": {
-      "pkeUranium": 156
-    },
+    "Indices": {"pkeUranium": 156},
     "Ability Slots": {
       "pkeUranium": ["Thick Fat", "Fur Coat"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -4644,18 +3702,13 @@
     }
   },
   "Shrimputy": {
-    "Indices": {
-      "pkeUranium": 157
-    },
+    "Indices": {"pkeUranium": 157},
     "Ability Slots": {
       "pkeUranium": ["Sniper"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -4669,18 +3722,13 @@
     }
   },
   "Krilvolver": {
-    "Indices": {
-      "pkeUranium": 158
-    },
+    "Indices": {"pkeUranium": 158},
     "Ability Slots": {
       "pkeUranium": ["Sniper"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -4694,18 +3742,13 @@
     }
   },
   "Lavent": {
-    "Indices": {
-      "pkeUranium": 159
-    },
+    "Indices": {"pkeUranium": 159},
     "Ability Slots": {
       "pkeUranium": ["Magma Armor", "Adaptability"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -4719,18 +3762,13 @@
     }
   },
   "Swabone": {
-    "Indices": {
-      "pkeUranium": 160
-    },
+    "Indices": {"pkeUranium": 160},
     "Ability Slots": {
       "pkeUranium": ["Scrappy"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -4744,18 +3782,13 @@
     }
   },
   "Skelerogue": {
-    "Indices": {
-      "pkeUranium": 161
-    },
+    "Indices": {"pkeUranium": 161},
     "Ability Slots": {
       "pkeUranium": ["Scrappy"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -4769,18 +3802,13 @@
     }
   },
   "Navighast": {
-    "Indices": {
-      "pkeUranium": 162
-    },
+    "Indices": {"pkeUranium": 162},
     "Ability Slots": {
       "pkeUranium": ["Levitate"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -4794,18 +3822,13 @@
     }
   },
   "Stenowatt": {
-    "Indices": {
-      "pkeUranium": 163
-    },
+    "Indices": {"pkeUranium": 163},
     "Ability Slots": {
       "pkeUranium": ["Motor Drive", "Speed Boost", "Acceleration"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -4819,18 +3842,13 @@
     }
   },
   "Jungore": {
-    "Indices": {
-      "pkeUranium": 164
-    },
+    "Indices": {"pkeUranium": 164},
     "Ability Slots": {
       "pkeUranium": ["Battle Armor", "Clear Body"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Appearance": {
           "Anniversary": {
             "Form Indices": {
@@ -4851,18 +3869,13 @@
     }
   },
   "Majungold": {
-    "Indices": {
-      "pkeUranium": 165
-    },
+    "Indices": {"pkeUranium": 165},
     "Ability Slots": {
       "pkeUranium": ["Battle Armor", "Clear Body"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Appearance": {
           "Anniversary": {
             "Form Indices": {
@@ -4883,18 +3896,13 @@
     }
   },
   "Hagoop": {
-    "Indices": {
-      "pkeUranium": 166
-    },
+    "Indices": {"pkeUranium": 166},
     "Ability Slots": {
       "pkeUranium": ["Gooey", "Liquid Ooze", "Regenerator"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Appearance": {
           "Easter": {
             "Form Indices": {
@@ -4904,10 +3912,7 @@
         }
       },
       "Nuclear": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 1}
       }
     },
     "Gender Ratio": "Male 7 Female 1",
@@ -4921,18 +3926,13 @@
     }
   },
   "Haagross": {
-    "Indices": {
-      "pkeUranium": 167
-    },
+    "Indices": {"pkeUranium": 167},
     "Ability Slots": {
       "pkeUranium": ["Gooey", "Liquid Ooze", "Regenerator"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Appearance": {
           "Easter": {
             "Form Indices": {
@@ -4942,10 +3942,7 @@
         }
       },
       "Nuclear": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 1}
       }
     },
     "Gender Ratio": "Male 7 Female 1",
@@ -4959,18 +3956,13 @@
     }
   },
   "Xenomite": {
-    "Indices": {
-      "pkeUranium": 168
-    },
+    "Indices": {"pkeUranium": 168},
     "Ability Slots": {
       "pkeUranium": ["Damp", "Aftermath"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 3",
@@ -4984,18 +3976,13 @@
     }
   },
   "Xenogen": {
-    "Indices": {
-      "pkeUranium": 169
-    },
+    "Indices": {"pkeUranium": 169},
     "Ability Slots": {
       "pkeUranium": ["Damp", "Aftermath"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 3",
@@ -5009,18 +3996,13 @@
     }
   },
   "Xenoqueen": {
-    "Indices": {
-      "pkeUranium": 170
-    },
+    "Indices": {"pkeUranium": 170},
     "Ability Slots": {
       "pkeUranium": ["Damp", "Aftermath"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 3",
@@ -5034,18 +4016,13 @@
     }
   },
   "Hazma": {
-    "Indices": {
-      "pkeUranium": 171
-    },
+    "Indices": {"pkeUranium": 171},
     "Ability Slots": {
       "pkeUranium": ["Lead Skin"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Appearance": {
           "Anniversary": {
             "Form Indices": {
@@ -5066,18 +4043,13 @@
     }
   },
   "Geigeroach": {
-    "Indices": {
-      "pkeUranium": 172
-    },
+    "Indices": {"pkeUranium": 172},
     "Ability Slots": {
       "pkeUranium": ["Lead Skin"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -5091,18 +4063,13 @@
     }
   },
   "Minicorn": {
-    "Indices": {
-      "pkeUranium": 173
-    },
+    "Indices": {"pkeUranium": 173},
     "Ability Slots": {
       "pkeUranium": ["Cute Charm", "Quick Feet", "Defiant"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 3",
@@ -5116,18 +4083,13 @@
     }
   },
   "Kiricorn": {
-    "Indices": {
-      "pkeUranium": 174
-    },
+    "Indices": {"pkeUranium": 174},
     "Ability Slots": {
       "pkeUranium": ["Cute Charm", "Quick Feet", "Defiant"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "In-Battle Form Changes": {
           "Mega": {
             "Type": "Mega",
@@ -5136,10 +4098,7 @@
         }
       },
       "Mega": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 1},
         "Ability Slots": ["Magic Bounce", "Magic Bounce", "Magic Bounce"]
       }
     },
@@ -5154,18 +4113,13 @@
     }
   },
   "Oblivicorn": {
-    "Indices": {
-      "pkeUranium": 175
-    },
+    "Indices": {"pkeUranium": 175},
     "Ability Slots": {
       "pkeUranium": ["Mold Breaker", "Quick Feet", "Defiant"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 3",
@@ -5179,18 +4133,13 @@
     }
   },
   "Luxi": {
-    "Indices": {
-      "pkeUranium": 176
-    },
+    "Indices": {"pkeUranium": 176},
     "Ability Slots": {
       "pkeUranium": ["Super Luck", null, "Regenerator"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 7 Female 1",
@@ -5204,18 +4153,13 @@
     }
   },
   "Luxor": {
-    "Indices": {
-      "pkeUranium": 177
-    },
+    "Indices": {"pkeUranium": 177},
     "Ability Slots": {
       "pkeUranium": ["Super Luck", null, "Regenerator"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 7 Female 1",
@@ -5229,18 +4173,13 @@
     }
   },
   "Luxelong": {
-    "Indices": {
-      "pkeUranium": 178
-    },
+    "Indices": {"pkeUranium": 178},
     "Ability Slots": {
       "pkeUranium": ["Super Luck", null, "Regenerator"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 7 Female 1",
@@ -5254,18 +4193,13 @@
     }
   },
   "Praseopunk": {
-    "Indices": {
-      "pkeUranium": 179
-    },
+    "Indices": {"pkeUranium": 179},
     "Ability Slots": {
       "pkeUranium": ["Plus"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "All Genderless",
@@ -5279,18 +4213,13 @@
     }
   },
   "Neopunk": {
-    "Indices": {
-      "pkeUranium": 180
-    },
+    "Indices": {"pkeUranium": 180},
     "Ability Slots": {
       "pkeUranium": ["Minus"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "All Genderless",
@@ -5304,18 +4233,13 @@
     }
   },
   "Sheebit": {
-    "Indices": {
-      "pkeUranium": 181
-    },
+    "Indices": {"pkeUranium": 181},
     "Ability Slots": {
       "pkeUranium": ["Intimidate", "Moxie"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -5329,18 +4253,13 @@
     }
   },
   "Terrabbit": {
-    "Indices": {
-      "pkeUranium": 182
-    },
+    "Indices": {"pkeUranium": 182},
     "Ability Slots": {
       "pkeUranium": ["Intimidate", "Moxie"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -5354,18 +4273,13 @@
     }
   },
   "Laissure": {
-    "Indices": {
-      "pkeUranium": 183
-    },
+    "Indices": {"pkeUranium": 183},
     "Ability Slots": {
       "pkeUranium": ["Intimidate", "Moxie"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "Male 1 Female 1",
@@ -5379,18 +4293,13 @@
     }
   },
   "Volchik": {
-    "Indices": {
-      "pkeUranium": 184
-    },
+    "Indices": {"pkeUranium": 184},
     "Ability Slots": {
       "pkeUranium": ["Volt Absorb"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Appearance": {
           "Easter": {
             "Form Indices": {
@@ -5411,18 +4320,13 @@
     }
   },
   "Voltasu": {
-    "Indices": {
-      "pkeUranium": 185
-    },
+    "Indices": {"pkeUranium": 185},
     "Ability Slots": {
       "pkeUranium": ["Volt Absorb"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Appearance": {
           "Easter": {
             "Form Indices": {
@@ -5443,18 +4347,13 @@
     }
   },
   "Yatagaryu": {
-    "Indices": {
-      "pkeUranium": 186
-    },
+    "Indices": {"pkeUranium": 186},
     "Ability Slots": {
       "pkeUranium": ["Stormbringer"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Appearance": {
           "Easter": {
             "Form Indices": {
@@ -5475,18 +4374,13 @@
     }
   },
   "Devimp": {
-    "Indices": {
-      "pkeUranium": 187
-    },
+    "Indices": {"pkeUranium": 187},
     "Ability Slots": {
       "pkeUranium": ["Defiant", "Intimidate", "Disenchant"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Appearance": {
           "Christmas": {
             "Form Indices": {
@@ -5507,18 +4401,13 @@
     }
   },
   "Fallengel": {
-    "Indices": {
-      "pkeUranium": 188
-    },
+    "Indices": {"pkeUranium": 188},
     "Ability Slots": {
       "pkeUranium": ["Defiant", "Intimidate", "Disenchant"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Appearance": {
           "Christmas": {
             "Form Indices": {
@@ -5539,18 +4428,13 @@
     }
   },
   "Beliaddon": {
-    "Indices": {
-      "pkeUranium": 189
-    },
+    "Indices": {"pkeUranium": 189},
     "Ability Slots": {
       "pkeUranium": ["Defiant", "Intimidate", "Disenchant"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "Appearance": {
           "Christmas": {
             "Form Indices": {
@@ -5571,18 +4455,13 @@
     }
   },
   "Seikamater": {
-    "Indices": {
-      "pkeUranium": 190
-    },
+    "Indices": {"pkeUranium": 190},
     "Ability Slots": {
       "pkeUranium": ["Elementalist"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "All Female",
@@ -5596,18 +4475,13 @@
     }
   },
   "Garlikid": {
-    "Indices": {
-      "pkeUranium": 191
-    },
+    "Indices": {"pkeUranium": 191},
     "Ability Slots": {
       "pkeUranium": ["Justified"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "All Genderless",
@@ -5621,18 +4495,13 @@
     }
   },
   "Baitatao": {
-    "Indices": {
-      "pkeUranium": 192
-    },
+    "Indices": {"pkeUranium": 192},
     "Ability Slots": {
       "pkeUranium": ["Pressure"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "All Genderless",
@@ -5646,18 +4515,13 @@
     }
   },
   "Leviathao": {
-    "Indices": {
-      "pkeUranium": 193
-    },
+    "Indices": {"pkeUranium": 193},
     "Ability Slots": {
       "pkeUranium": ["Pressure"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "All Genderless",
@@ -5671,18 +4535,13 @@
     }
   },
   "Krakanao": {
-    "Indices": {
-      "pkeUranium": 194
-    },
+    "Indices": {"pkeUranium": 194},
     "Ability Slots": {
       "pkeUranium": ["Pressure"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "All Genderless",
@@ -5696,18 +4555,13 @@
     }
   },
   "Lanthan": {
-    "Indices": {
-      "pkeUranium": 195
-    },
+    "Indices": {"pkeUranium": 195},
     "Ability Slots": {
       "pkeUranium": ["Sheer Force"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "All Genderless",
@@ -5721,24 +4575,16 @@
     }
   },
   "Actan": {
-    "Indices": {
-      "pkeUranium": 196
-    },
+    "Indices": {"pkeUranium": 196},
     "Ability Slots": {
       "pkeUranium": ["Intimidate"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       },
       "Nuclear": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 1}
       }
     },
     "Gender Ratio": "All Genderless",
@@ -5752,31 +4598,20 @@
     }
   },
   "Urayne": {
-    "Indices": {
-      "pkeUranium": 197
-    },
+    "Indices": {"pkeUranium": 197},
     "Ability Slots": {
       "pkeUranium": ["Geiger Sense"]
     },
     "Default Form": "Alpha",
     "Forms": {
       "Alpha": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       },
       "Beta": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 1}
       },
       "Gamma": {
-        "Form Indices": {
-          "pkeUranium": 2
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 2},
         "Ability Slots": ["Chernobyl"]
       }
     },
@@ -5791,18 +4626,13 @@
     }
   },
   "Aotius": {
-    "Indices": {
-      "pkeUranium": 198
-    },
+    "Indices": {"pkeUranium": 198},
     "Ability Slots": {
       "pkeUranium": ["Pressure"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "All Genderless",
@@ -5816,18 +4646,13 @@
     }
   },
   "Mutios": {
-    "Indices": {
-      "pkeUranium": 199
-    },
+    "Indices": {"pkeUranium": 199},
     "Ability Slots": {
       "pkeUranium": ["Pressure"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "All Genderless",
@@ -5841,18 +4666,13 @@
     }
   },
   "Zephy": {
-    "Indices": {
-      "pkeUranium": 200
-    },
+    "Indices": {"pkeUranium": 200},
     "Ability Slots": {
       "pkeUranium": ["Levitate"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"]
+        "Form Indices": {"pkeUranium": 0}
       }
     },
     "Gender Ratio": "All Female",
@@ -5866,29 +4686,19 @@
     }
   },
   "Gengar": {
-    "Indices": {
-      "pkeUranium": 201
-    },
+    "Indices": {"pkeUranium": 201},
     "Ability Slots": {
       "pkeUranium": ["Levitate"]
     },
     "Forms": {
       "": {
-        "Form Indices": {
-          "pkeUranium": 0
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 0},
         "In-Battle Form Changes": {
-          "Mega": {
-            "Type": "Mega"
-          }
+          "Mega": {"Type": "Mega"}
         }
       },
       "Mega": {
-        "Form Indices": {
-          "pkeUranium": 1
-        },
-        "Exists in": ["pkeUranium"],
+        "Form Indices": {"pkeUranium": 1},
         "Ability Slots": ["Shadow Tag"]
       }
     },

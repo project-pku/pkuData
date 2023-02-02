@@ -1,8 +1,13 @@
 {
   "Bulbasaur": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -10,9 +15,14 @@
     }
   },
   "Ivysaur": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -20,9 +30,14 @@
     }
   },
   "Venusaur": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -30,9 +45,14 @@
     }
   },
   "Charmander": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -40,9 +60,14 @@
     }
   },
   "Charmeleon": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -50,9 +75,14 @@
     }
   },
   "Charizard": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -60,9 +90,14 @@
     }
   },
   "Squirtle": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -70,9 +105,14 @@
     }
   },
   "Wartortle": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -80,9 +120,14 @@
     }
   },
   "Blastoise": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -90,9 +135,14 @@
     }
   },
   "Caterpie": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -100,9 +150,14 @@
     }
   },
   "Metapod": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -110,9 +165,14 @@
     }
   },
   "Butterfree": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -120,9 +180,14 @@
     }
   },
   "Weedle": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -130,9 +195,14 @@
     }
   },
   "Kakuna": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -140,9 +210,14 @@
     }
   },
   "Beedrill": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -150,9 +225,14 @@
     }
   },
   "Pidgey": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -160,9 +240,14 @@
     }
   },
   "Pidgeotto": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -170,9 +255,14 @@
     }
   },
   "Pidgeot": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -180,9 +270,14 @@
     }
   },
   "Rattata": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -190,9 +285,14 @@
     }
   },
   "Raticate": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -200,9 +300,14 @@
     }
   },
   "Spearow": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -210,9 +315,14 @@
     }
   },
   "Fearow": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -220,9 +330,14 @@
     }
   },
   "Ekans": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -230,9 +345,14 @@
     }
   },
   "Arbok": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -240,9 +360,14 @@
     }
   },
   "Pikachu": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -250,9 +375,14 @@
     }
   },
   "Raichu": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -260,9 +390,14 @@
     }
   },
   "Sandshrew": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -270,9 +405,14 @@
     }
   },
   "Sandslash": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -280,9 +420,14 @@
     }
   },
   "Nidoran♀": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -290,9 +435,14 @@
     }
   },
   "Nidorina": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -300,9 +450,14 @@
     }
   },
   "Nidoqueen": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -310,9 +465,14 @@
     }
   },
   "Nidoran♂": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -320,9 +480,14 @@
     }
   },
   "Nidorino": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -330,9 +495,14 @@
     }
   },
   "Nidoking": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -340,9 +510,14 @@
     }
   },
   "Clefairy": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -350,9 +525,14 @@
     }
   },
   "Clefable": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -360,9 +540,14 @@
     }
   },
   "Vulpix": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -370,9 +555,14 @@
     }
   },
   "Ninetales": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -380,9 +570,14 @@
     }
   },
   "Jigglypuff": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -390,9 +585,14 @@
     }
   },
   "Wigglytuff": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -400,9 +600,14 @@
     }
   },
   "Zubat": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -410,9 +615,14 @@
     }
   },
   "Golbat": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -420,9 +630,14 @@
     }
   },
   "Oddish": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -430,9 +645,14 @@
     }
   },
   "Gloom": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -440,9 +660,14 @@
     }
   },
   "Vileplume": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -450,9 +675,14 @@
     }
   },
   "Paras": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -460,9 +690,14 @@
     }
   },
   "Parasect": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -470,9 +705,14 @@
     }
   },
   "Venonat": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -480,9 +720,14 @@
     }
   },
   "Venomoth": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -490,9 +735,14 @@
     }
   },
   "Diglett": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -500,9 +750,14 @@
     }
   },
   "Dugtrio": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -510,9 +765,14 @@
     }
   },
   "Meowth": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -520,9 +780,14 @@
     }
   },
   "Persian": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -530,9 +795,14 @@
     }
   },
   "Psyduck": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -540,9 +810,14 @@
     }
   },
   "Golduck": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -550,9 +825,14 @@
     }
   },
   "Mankey": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -560,9 +840,14 @@
     }
   },
   "Primeape": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -570,9 +855,14 @@
     }
   },
   "Growlithe": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -580,9 +870,14 @@
     }
   },
   "Arcanine": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -590,9 +885,14 @@
     }
   },
   "Poliwag": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -600,9 +900,14 @@
     }
   },
   "Poliwhirl": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -610,9 +915,14 @@
     }
   },
   "Poliwrath": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -620,9 +930,14 @@
     }
   },
   "Abra": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -630,9 +945,14 @@
     }
   },
   "Kadabra": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -640,9 +960,14 @@
     }
   },
   "Alakazam": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -650,9 +975,14 @@
     }
   },
   "Machop": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -660,9 +990,14 @@
     }
   },
   "Machoke": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -670,9 +1005,14 @@
     }
   },
   "Machamp": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -680,9 +1020,14 @@
     }
   },
   "Bellsprout": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -690,9 +1035,14 @@
     }
   },
   "Weepinbell": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -700,9 +1050,14 @@
     }
   },
   "Victreebel": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -710,9 +1065,14 @@
     }
   },
   "Tentacool": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -720,9 +1080,14 @@
     }
   },
   "Tentacruel": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -730,9 +1095,14 @@
     }
   },
   "Geodude": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -740,9 +1110,14 @@
     }
   },
   "Graveler": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -750,9 +1125,14 @@
     }
   },
   "Golem": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -760,9 +1140,14 @@
     }
   },
   "Ponyta": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -770,9 +1155,14 @@
     }
   },
   "Rapidash": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -780,9 +1170,14 @@
     }
   },
   "Slowpoke": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -790,9 +1185,14 @@
     }
   },
   "Slowbro": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -800,9 +1200,14 @@
     }
   },
   "Magnemite": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -810,9 +1215,14 @@
     }
   },
   "Magneton": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -820,9 +1230,14 @@
     }
   },
   "Farfetch’d": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -830,9 +1245,14 @@
     }
   },
   "Doduo": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -840,9 +1260,14 @@
     }
   },
   "Dodrio": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -850,9 +1275,14 @@
     }
   },
   "Seel": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -860,9 +1290,14 @@
     }
   },
   "Dewgong": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -870,9 +1305,14 @@
     }
   },
   "Grimer": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -880,9 +1320,14 @@
     }
   },
   "Muk": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -890,9 +1335,14 @@
     }
   },
   "Shellder": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -900,9 +1350,14 @@
     }
   },
   "Cloyster": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -910,9 +1365,14 @@
     }
   },
   "Gastly": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -920,9 +1380,14 @@
     }
   },
   "Haunter": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -930,9 +1395,14 @@
     }
   },
   "Gengar": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -940,9 +1410,14 @@
     }
   },
   "Onix": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -950,9 +1425,14 @@
     }
   },
   "Drowzee": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -960,9 +1440,14 @@
     }
   },
   "Hypno": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -970,9 +1455,14 @@
     }
   },
   "Krabby": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -980,9 +1470,14 @@
     }
   },
   "Kingler": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -990,9 +1485,14 @@
     }
   },
   "Voltorb": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1000,9 +1500,14 @@
     }
   },
   "Electrode": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1010,9 +1515,14 @@
     }
   },
   "Exeggcute": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1020,9 +1530,14 @@
     }
   },
   "Exeggutor": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1030,9 +1545,14 @@
     }
   },
   "Cubone": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1040,9 +1560,14 @@
     }
   },
   "Marowak": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1050,9 +1575,14 @@
     }
   },
   "Hitmonlee": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1060,9 +1590,14 @@
     }
   },
   "Hitmonchan": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1070,9 +1605,14 @@
     }
   },
   "Lickitung": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1080,9 +1620,14 @@
     }
   },
   "Koffing": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1090,9 +1635,14 @@
     }
   },
   "Weezing": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1100,9 +1650,14 @@
     }
   },
   "Rhyhorn": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1110,9 +1665,14 @@
     }
   },
   "Rhydon": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1120,9 +1680,14 @@
     }
   },
   "Chansey": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1130,9 +1695,14 @@
     }
   },
   "Tangela": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1140,9 +1710,14 @@
     }
   },
   "Kangaskhan": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1150,9 +1725,14 @@
     }
   },
   "Horsea": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1160,9 +1740,14 @@
     }
   },
   "Seadra": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1170,9 +1755,14 @@
     }
   },
   "Goldeen": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1180,9 +1770,14 @@
     }
   },
   "Seaking": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1190,9 +1785,14 @@
     }
   },
   "Staryu": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1200,9 +1800,14 @@
     }
   },
   "Starmie": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1210,9 +1815,14 @@
     }
   },
   "Mr. Mime": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1220,9 +1830,14 @@
     }
   },
   "Scyther": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1230,9 +1845,14 @@
     }
   },
   "Jynx": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1240,9 +1860,14 @@
     }
   },
   "Electabuzz": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1250,9 +1875,14 @@
     }
   },
   "Magmar": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1260,9 +1890,14 @@
     }
   },
   "Pinsir": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1270,9 +1905,14 @@
     }
   },
   "Tauros": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1280,9 +1920,14 @@
     }
   },
   "Magikarp": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1290,9 +1935,14 @@
     }
   },
   "Gyarados": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1300,9 +1950,14 @@
     }
   },
   "Lapras": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1310,9 +1965,14 @@
     }
   },
   "Ditto": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1320,9 +1980,14 @@
     }
   },
   "Eevee": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1330,9 +1995,14 @@
     }
   },
   "Vaporeon": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1340,9 +2010,14 @@
     }
   },
   "Jolteon": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1350,9 +2025,14 @@
     }
   },
   "Flareon": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1360,9 +2040,14 @@
     }
   },
   "Porygon": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1370,9 +2055,14 @@
     }
   },
   "Omanyte": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1380,9 +2070,14 @@
     }
   },
   "Omastar": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1390,9 +2085,14 @@
     }
   },
   "Kabuto": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1400,9 +2100,14 @@
     }
   },
   "Kabutops": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1410,9 +2115,14 @@
     }
   },
   "Aerodactyl": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1420,9 +2130,14 @@
     }
   },
   "Snorlax": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1430,9 +2145,14 @@
     }
   },
   "Articuno": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1440,9 +2160,14 @@
     }
   },
   "Zapdos": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1450,9 +2175,14 @@
     }
   },
   "Moltres": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1460,9 +2190,14 @@
     }
   },
   "Dratini": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1470,9 +2205,14 @@
     }
   },
   "Dragonair": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1480,9 +2220,14 @@
     }
   },
   "Dragonite": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1490,9 +2235,14 @@
     }
   },
   "Mewtwo": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1500,9 +2250,14 @@
     }
   },
   "Mew": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1510,9 +2265,14 @@
     }
   },
   "Chikorita": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1520,9 +2280,14 @@
     }
   },
   "Bayleef": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1530,9 +2295,14 @@
     }
   },
   "Meganium": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1540,9 +2310,14 @@
     }
   },
   "Cyndaquil": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1550,9 +2325,14 @@
     }
   },
   "Quilava": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1560,9 +2340,14 @@
     }
   },
   "Typhlosion": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1570,9 +2355,14 @@
     }
   },
   "Totodile": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1580,9 +2370,14 @@
     }
   },
   "Croconaw": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1590,9 +2385,14 @@
     }
   },
   "Feraligatr": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1600,9 +2400,14 @@
     }
   },
   "Sentret": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1610,9 +2415,14 @@
     }
   },
   "Furret": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1620,9 +2430,14 @@
     }
   },
   "Hoothoot": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1630,9 +2445,14 @@
     }
   },
   "Noctowl": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1640,9 +2460,14 @@
     }
   },
   "Ledyba": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1650,9 +2475,14 @@
     }
   },
   "Ledian": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1660,9 +2490,14 @@
     }
   },
   "Spinarak": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1670,9 +2505,14 @@
     }
   },
   "Ariados": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1680,9 +2520,14 @@
     }
   },
   "Crobat": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1690,9 +2535,14 @@
     }
   },
   "Chinchou": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1700,9 +2550,14 @@
     }
   },
   "Lanturn": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1710,9 +2565,14 @@
     }
   },
   "Pichu": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1720,9 +2580,14 @@
     }
   },
   "Cleffa": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1730,9 +2595,14 @@
     }
   },
   "Igglybuff": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1740,9 +2610,14 @@
     }
   },
   "Togepi": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1750,9 +2625,14 @@
     }
   },
   "Togetic": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1760,9 +2640,14 @@
     }
   },
   "Natu": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1770,9 +2655,14 @@
     }
   },
   "Xatu": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1780,9 +2670,14 @@
     }
   },
   "Mareep": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1790,9 +2685,14 @@
     }
   },
   "Flaaffy": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1800,9 +2700,14 @@
     }
   },
   "Ampharos": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1810,9 +2715,14 @@
     }
   },
   "Bellossom": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1820,9 +2730,14 @@
     }
   },
   "Marill": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1830,9 +2745,14 @@
     }
   },
   "Azumarill": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1840,9 +2760,14 @@
     }
   },
   "Sudowoodo": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1850,9 +2775,14 @@
     }
   },
   "Politoed": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1860,9 +2790,14 @@
     }
   },
   "Hoppip": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1870,9 +2805,14 @@
     }
   },
   "Skiploom": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1880,9 +2820,14 @@
     }
   },
   "Jumpluff": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1890,9 +2835,14 @@
     }
   },
   "Aipom": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1900,9 +2850,14 @@
     }
   },
   "Sunkern": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1910,9 +2865,14 @@
     }
   },
   "Sunflora": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1920,9 +2880,14 @@
     }
   },
   "Yanma": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1930,9 +2895,14 @@
     }
   },
   "Wooper": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1940,9 +2910,14 @@
     }
   },
   "Quagsire": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1950,9 +2925,14 @@
     }
   },
   "Espeon": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1960,9 +2940,14 @@
     }
   },
   "Umbreon": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1970,9 +2955,14 @@
     }
   },
   "Murkrow": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1980,9 +2970,14 @@
     }
   },
   "Slowking": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -1990,9 +2985,14 @@
     }
   },
   "Misdreavus": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2000,90 +3000,149 @@
     }
   },
   "Unown": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "A": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       },
       "B": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       },
       "C": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       },
       "D": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       },
       "E": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       },
       "F": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       },
       "G": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       },
       "H": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       },
       "I": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       },
       "J": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       },
       "K": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       },
       "L": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       },
       "M": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       },
       "N": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       },
       "O": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       },
       "P": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       },
       "Q": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       },
       "R": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       },
       "S": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       },
       "T": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       },
       "U": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       },
       "V": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       },
       "W": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       },
       "X": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       },
       "Y": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       },
       "Z": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       },
       "!": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       },
       "?": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2091,9 +3150,14 @@
     }
   },
   "Wobbuffet": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2101,9 +3165,14 @@
     }
   },
   "Girafarig": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2111,9 +3180,14 @@
     }
   },
   "Pineco": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2121,9 +3195,14 @@
     }
   },
   "Forretress": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2131,9 +3210,14 @@
     }
   },
   "Dunsparce": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2141,9 +3225,14 @@
     }
   },
   "Gligar": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2151,9 +3240,14 @@
     }
   },
   "Steelix": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2161,9 +3255,14 @@
     }
   },
   "Snubbull": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2171,9 +3270,14 @@
     }
   },
   "Granbull": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2181,9 +3285,14 @@
     }
   },
   "Qwilfish": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2191,9 +3300,14 @@
     }
   },
   "Scizor": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2201,9 +3315,14 @@
     }
   },
   "Shuckle": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2211,9 +3330,14 @@
     }
   },
   "Heracross": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2221,9 +3345,14 @@
     }
   },
   "Sneasel": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2231,9 +3360,14 @@
     }
   },
   "Teddiursa": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2241,9 +3375,14 @@
     }
   },
   "Ursaring": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2251,9 +3390,14 @@
     }
   },
   "Slugma": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2261,9 +3405,14 @@
     }
   },
   "Magcargo": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2271,9 +3420,14 @@
     }
   },
   "Swinub": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2281,9 +3435,14 @@
     }
   },
   "Piloswine": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2291,9 +3450,14 @@
     }
   },
   "Corsola": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2301,9 +3465,14 @@
     }
   },
   "Remoraid": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2311,9 +3480,14 @@
     }
   },
   "Octillery": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2321,9 +3495,14 @@
     }
   },
   "Delibird": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2331,9 +3510,14 @@
     }
   },
   "Mantine": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2341,9 +3525,14 @@
     }
   },
   "Skarmory": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2351,9 +3540,14 @@
     }
   },
   "Houndour": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2361,9 +3555,14 @@
     }
   },
   "Houndoom": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2371,9 +3570,14 @@
     }
   },
   "Kingdra": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2381,9 +3585,14 @@
     }
   },
   "Phanpy": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2391,9 +3600,14 @@
     }
   },
   "Donphan": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2401,9 +3615,14 @@
     }
   },
   "Porygon2": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2411,9 +3630,14 @@
     }
   },
   "Stantler": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2421,9 +3645,14 @@
     }
   },
   "Smeargle": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2431,9 +3660,14 @@
     }
   },
   "Tyrogue": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2441,9 +3675,14 @@
     }
   },
   "Hitmontop": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2451,9 +3690,14 @@
     }
   },
   "Smoochum": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2461,9 +3705,14 @@
     }
   },
   "Elekid": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2471,9 +3720,14 @@
     }
   },
   "Magby": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2481,9 +3735,14 @@
     }
   },
   "Miltank": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2491,9 +3750,14 @@
     }
   },
   "Blissey": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2501,9 +3765,14 @@
     }
   },
   "Raikou": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2511,9 +3780,14 @@
     }
   },
   "Entei": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2521,9 +3795,14 @@
     }
   },
   "Suicune": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2531,9 +3810,14 @@
     }
   },
   "Larvitar": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2541,9 +3825,14 @@
     }
   },
   "Pupitar": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2551,9 +3840,14 @@
     }
   },
   "Tyranitar": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2561,9 +3855,14 @@
     }
   },
   "Lugia": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2571,9 +3870,14 @@
     }
   },
   "Ho-Oh": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2581,9 +3885,14 @@
     }
   },
   "Celebi": {
+    "Indices": {
+      "pk3": {"$index_override": "main-series"}
+    },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2596,7 +3905,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2609,7 +3920,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2622,7 +3935,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2635,7 +3950,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2648,7 +3965,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2661,7 +3980,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2674,7 +3995,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2687,7 +4010,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2700,7 +4025,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2713,7 +4040,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2726,7 +4055,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2739,7 +4070,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2752,7 +4085,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2765,7 +4100,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2778,7 +4115,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2791,7 +4130,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2804,7 +4145,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2817,7 +4160,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2830,7 +4175,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2843,7 +4190,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2856,7 +4205,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2869,7 +4220,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2882,7 +4235,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2895,7 +4250,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2908,7 +4265,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2921,7 +4280,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2934,7 +4295,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2947,7 +4310,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2960,7 +4325,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2973,7 +4340,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2986,7 +4355,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -2999,7 +4370,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3012,7 +4385,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3025,7 +4400,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3038,7 +4415,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3051,7 +4430,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3064,7 +4445,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3077,7 +4460,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3090,7 +4475,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3103,7 +4490,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3116,7 +4505,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3129,7 +4520,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3142,7 +4535,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3155,7 +4550,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3168,7 +4565,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3181,7 +4580,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3194,7 +4595,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3207,7 +4610,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3220,7 +4625,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3233,7 +4640,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3246,7 +4655,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3259,7 +4670,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3272,7 +4685,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3285,7 +4700,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3298,7 +4715,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3311,7 +4730,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3324,7 +4745,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3337,7 +4760,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3350,7 +4775,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3363,7 +4790,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3376,7 +4805,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3389,7 +4820,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3402,7 +4835,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3415,7 +4850,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3428,7 +4865,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3441,7 +4880,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3454,7 +4895,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3467,7 +4910,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3480,7 +4925,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3493,7 +4940,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3506,7 +4955,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3519,7 +4970,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3532,7 +4985,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3545,7 +5000,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3558,7 +5015,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3571,7 +5030,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3584,7 +5045,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3597,7 +5060,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3610,7 +5075,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3623,7 +5090,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3636,7 +5105,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3649,7 +5120,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3662,7 +5135,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3675,7 +5150,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3688,7 +5165,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3701,7 +5180,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3714,7 +5195,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3727,7 +5210,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3740,7 +5225,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3753,7 +5240,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3766,7 +5255,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3779,7 +5270,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3792,7 +5285,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3805,7 +5300,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3818,7 +5315,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3831,7 +5330,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3844,7 +5345,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3857,7 +5360,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3870,7 +5375,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3883,16 +5390,24 @@
     },
     "Forms": {
       "Normal": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       },
       "Sunny": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       },
       "Rainy": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       },
       "Snowy": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3905,7 +5420,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3918,7 +5435,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3931,7 +5450,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3944,7 +5465,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3957,7 +5480,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3970,7 +5495,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3983,7 +5510,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -3996,7 +5525,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -4009,7 +5540,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -4022,7 +5555,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -4035,7 +5570,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -4048,7 +5585,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -4061,7 +5600,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -4074,7 +5615,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -4087,7 +5630,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -4100,7 +5645,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -4113,7 +5660,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -4126,7 +5675,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -4139,7 +5690,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -4152,7 +5705,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -4165,7 +5720,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -4178,7 +5735,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -4191,7 +5750,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -4204,7 +5765,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -4217,7 +5780,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -4230,7 +5795,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -4243,7 +5810,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -4256,7 +5825,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -4269,7 +5840,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -4282,7 +5855,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -4295,7 +5870,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -4308,7 +5885,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -4321,7 +5900,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -4334,7 +5915,9 @@
     },
     "Forms": {
       "": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {
@@ -4347,16 +5930,24 @@
     },
     "Forms": {
       "Normal": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       },
       "Attack": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       },
       "Defense": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       },
       "Speed": {
-        "Exists in": ["pk3"]
+        "Form Indices": {
+          "pk3": {"$index_override": "main-series"}
+        }
       }
     },
     "Ability Slots": {

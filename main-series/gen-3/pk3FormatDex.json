@@ -4,7 +4,6 @@
 //    - The phrase "Unicode used in Gen 5" means that the unicode character used is the same one used by the Gen 5 games. These are the what chars become when transferred from gens 3-> 4-> 5, thus maintaining consistency.
 {
   "pk3": {
-    "Parent Indices": ["main-series"],
     "Character Encoding": {
       "Language Dependent": true,
       "Japanese": {

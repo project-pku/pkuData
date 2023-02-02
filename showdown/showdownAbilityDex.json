@@ -1,1628 +1,815 @@
 {
   "Adaptability": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Adaptability"
-    }
+    "Indices": {"Showdown": "Adaptability"}
   },
   "Aerilate": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Aerilate"
-    }
+    "Indices": {"Showdown": "Aerilate"}
   },
   "Aftermath": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Aftermath"
-    }
+    "Indices": {"Showdown": "Aftermath"}
   },
   "Air Lock": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Air Lock"
-    }
+    "Indices": {"Showdown": "Air Lock"}
   },
   "Analytic": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Analytic"
-    }
+    "Indices": {"Showdown": "Analytic"}
   },
   "Anger Point": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Anger Point"
-    }
+    "Indices": {"Showdown": "Anger Point"}
   },
   "Anticipation": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Anticipation"
-    }
+    "Indices": {"Showdown": "Anticipation"}
   },
   "Arena Trap": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Arena Trap"
-    }
+    "Indices": {"Showdown": "Arena Trap"}
   },
   "Aroma Veil": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Aroma Veil"
-    }
+    "Indices": {"Showdown": "Aroma Veil"}
   },
   "As One (Glastrier)": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "As One (Glastrier)"
-    }
+    "Indices": {"Showdown": "As One (Glastrier)"}
   },
   "As One (Spectrier)": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "As One (Spectrier)"
-    }
+    "Indices": {"Showdown": "As One (Spectrier)"}
   },
   "Aura Break": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Aura Break"
-    }
+    "Indices": {"Showdown": "Aura Break"}
   },
   "Bad Dreams": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Bad Dreams"
-    }
+    "Indices": {"Showdown": "Bad Dreams"}
   },
   "Ball Fetch": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Ball Fetch"
-    }
+    "Indices": {"Showdown": "Ball Fetch"}
   },
   "Battery": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Battery"
-    }
+    "Indices": {"Showdown": "Battery"}
   },
   "Battle Armor": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Battle Armor"
-    }
+    "Indices": {"Showdown": "Battle Armor"}
   },
   "Battle Bond": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Battle Bond"
-    }
+    "Indices": {"Showdown": "Battle Bond"}
   },
   "Beast Boost": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Beast Boost"
-    }
+    "Indices": {"Showdown": "Beast Boost"}
   },
   "Berserk": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Berserk"
-    }
+    "Indices": {"Showdown": "Berserk"}
   },
   "Big Pecks": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Big Pecks"
-    }
+    "Indices": {"Showdown": "Big Pecks"}
   },
   "Blaze": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Blaze"
-    }
+    "Indices": {"Showdown": "Blaze"}
   },
   "Bulletproof": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Bulletproof"
-    }
+    "Indices": {"Showdown": "Bulletproof"}
   },
   "Cheek Pouch": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Cheek Pouch"
-    }
+    "Indices": {"Showdown": "Cheek Pouch"}
   },
   "Chilling Neigh": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Chilling Neigh"
-    }
+    "Indices": {"Showdown": "Chilling Neigh"}
   },
   "Chlorophyll": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Chlorophyll"
-    }
+    "Indices": {"Showdown": "Chlorophyll"}
   },
   "Clear Body": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Clear Body"
-    }
+    "Indices": {"Showdown": "Clear Body"}
   },
   "Cloud Nine": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Cloud Nine"
-    }
+    "Indices": {"Showdown": "Cloud Nine"}
   },
   "Color Change": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Color Change"
-    }
+    "Indices": {"Showdown": "Color Change"}
   },
   "Comatose": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Comatose"
-    }
+    "Indices": {"Showdown": "Comatose"}
   },
   "Competitive": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Competitive"
-    }
+    "Indices": {"Showdown": "Competitive"}
   },
   "Compound Eyes": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Compound Eyes"
-    }
+    "Indices": {"Showdown": "Compound Eyes"}
   },
   "Contrary": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Contrary"
-    }
+    "Indices": {"Showdown": "Contrary"}
   },
   "Corrosion": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Corrosion"
-    }
+    "Indices": {"Showdown": "Corrosion"}
   },
   "Cotton Down": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Cotton Down"
-    }
+    "Indices": {"Showdown": "Cotton Down"}
   },
   "Curious Medicine": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Curious Medicine"
-    }
+    "Indices": {"Showdown": "Curious Medicine"}
   },
   "Cursed Body": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Cursed Body"
-    }
+    "Indices": {"Showdown": "Cursed Body"}
   },
   "Cute Charm": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Cute Charm"
-    }
+    "Indices": {"Showdown": "Cute Charm"}
   },
   "Damp": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Damp"
-    }
+    "Indices": {"Showdown": "Damp"}
   },
   "Dancer": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Dancer"
-    }
+    "Indices": {"Showdown": "Dancer"}
   },
   "Dark Aura": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Dark Aura"
-    }
+    "Indices": {"Showdown": "Dark Aura"}
   },
   "Dauntless Shield": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Dauntless Shield"
-    }
+    "Indices": {"Showdown": "Dauntless Shield"}
   },
   "Dazzling": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Dazzling"
-    }
+    "Indices": {"Showdown": "Dazzling"}
   },
   "Defeatist": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Defeatist"
-    }
+    "Indices": {"Showdown": "Defeatist"}
   },
   "Defiant": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Defiant"
-    }
+    "Indices": {"Showdown": "Defiant"}
   },
   "Delta Stream": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Delta Stream"
-    }
+    "Indices": {"Showdown": "Delta Stream"}
   },
   "Desolate Land": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Desolate Land"
-    }
+    "Indices": {"Showdown": "Desolate Land"}
   },
   "Disguise": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Disguise"
-    }
+    "Indices": {"Showdown": "Disguise"}
   },
   "Download": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Download"
-    }
+    "Indices": {"Showdown": "Download"}
   },
   "Dragon's Maw": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Dragon's Maw"
-    }
+    "Indices": {"Showdown": "Dragon's Maw"}
   },
   "Drizzle": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Drizzle"
-    }
+    "Indices": {"Showdown": "Drizzle"}
   },
   "Drought": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Drought"
-    }
+    "Indices": {"Showdown": "Drought"}
   },
   "Dry Skin": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Dry Skin"
-    }
+    "Indices": {"Showdown": "Dry Skin"}
   },
   "Early Bird": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Early Bird"
-    }
+    "Indices": {"Showdown": "Early Bird"}
   },
   "Effect Spore": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Effect Spore"
-    }
+    "Indices": {"Showdown": "Effect Spore"}
   },
   "Electric Surge": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Electric Surge"
-    }
+    "Indices": {"Showdown": "Electric Surge"}
   },
   "Emergency Exit": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Emergency Exit"
-    }
+    "Indices": {"Showdown": "Emergency Exit"}
   },
   "Fairy Aura": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Fairy Aura"
-    }
+    "Indices": {"Showdown": "Fairy Aura"}
   },
   "Filter": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Filter"
-    }
+    "Indices": {"Showdown": "Filter"}
   },
   "Flame Body": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Flame Body"
-    }
+    "Indices": {"Showdown": "Flame Body"}
   },
   "Flare Boost": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Flare Boost"
-    }
+    "Indices": {"Showdown": "Flare Boost"}
   },
   "Flash Fire": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Flash Fire"
-    }
+    "Indices": {"Showdown": "Flash Fire"}
   },
   "Flower Gift": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Flower Gift"
-    }
+    "Indices": {"Showdown": "Flower Gift"}
   },
   "Flower Veil": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Flower Veil"
-    }
+    "Indices": {"Showdown": "Flower Veil"}
   },
   "Fluffy": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Fluffy"
-    }
+    "Indices": {"Showdown": "Fluffy"}
   },
   "Forecast": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Forecast"
-    }
+    "Indices": {"Showdown": "Forecast"}
   },
   "Forewarn": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Forewarn"
-    }
+    "Indices": {"Showdown": "Forewarn"}
   },
   "Friend Guard": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Friend Guard"
-    }
+    "Indices": {"Showdown": "Friend Guard"}
   },
   "Frisk": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Frisk"
-    }
+    "Indices": {"Showdown": "Frisk"}
   },
   "Full Metal Body": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Full Metal Body"
-    }
+    "Indices": {"Showdown": "Full Metal Body"}
   },
   "Fur Coat": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Fur Coat"
-    }
+    "Indices": {"Showdown": "Fur Coat"}
   },
   "Gale Wings": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Gale Wings"
-    }
+    "Indices": {"Showdown": "Gale Wings"}
   },
   "Galvanize": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Galvanize"
-    }
+    "Indices": {"Showdown": "Galvanize"}
   },
   "Gluttony": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Gluttony"
-    }
+    "Indices": {"Showdown": "Gluttony"}
   },
   "Gooey": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Gooey"
-    }
+    "Indices": {"Showdown": "Gooey"}
   },
   "Gorilla Tactics": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Gorilla Tactics"
-    }
+    "Indices": {"Showdown": "Gorilla Tactics"}
   },
   "Grass Pelt": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Grass Pelt"
-    }
+    "Indices": {"Showdown": "Grass Pelt"}
   },
   "Grassy Surge": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Grassy Surge"
-    }
+    "Indices": {"Showdown": "Grassy Surge"}
   },
   "Grim Neigh": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Grim Neigh"
-    }
+    "Indices": {"Showdown": "Grim Neigh"}
   },
   "Gulp Missile": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Gulp Missile"
-    }
+    "Indices": {"Showdown": "Gulp Missile"}
   },
   "Guts": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Guts"
-    }
+    "Indices": {"Showdown": "Guts"}
   },
   "Harvest": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Harvest"
-    }
+    "Indices": {"Showdown": "Harvest"}
   },
   "Healer": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Healer"
-    }
+    "Indices": {"Showdown": "Healer"}
   },
   "Heatproof": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Heatproof"
-    }
+    "Indices": {"Showdown": "Heatproof"}
   },
   "Heavy Metal": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Heavy Metal"
-    }
+    "Indices": {"Showdown": "Heavy Metal"}
   },
   "Honey Gather": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Honey Gather"
-    }
+    "Indices": {"Showdown": "Honey Gather"}
   },
   "Huge Power": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Huge Power"
-    }
+    "Indices": {"Showdown": "Huge Power"}
   },
   "Hunger Switch": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Hunger Switch"
-    }
+    "Indices": {"Showdown": "Hunger Switch"}
   },
   "Hustle": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Hustle"
-    }
+    "Indices": {"Showdown": "Hustle"}
   },
   "Hydration": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Hydration"
-    }
+    "Indices": {"Showdown": "Hydration"}
   },
   "Hyper Cutter": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Hyper Cutter"
-    }
+    "Indices": {"Showdown": "Hyper Cutter"}
   },
   "Ice Body": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Ice Body"
-    }
+    "Indices": {"Showdown": "Ice Body"}
   },
   "Ice Face": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Ice Face"
-    }
+    "Indices": {"Showdown": "Ice Face"}
   },
   "Ice Scales": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Ice Scales"
-    }
+    "Indices": {"Showdown": "Ice Scales"}
   },
   "Illuminate": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Illuminate"
-    }
+    "Indices": {"Showdown": "Illuminate"}
   },
   "Illusion": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Illusion"
-    }
+    "Indices": {"Showdown": "Illusion"}
   },
   "Immunity": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Immunity"
-    }
+    "Indices": {"Showdown": "Immunity"}
   },
   "Imposter": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Imposter"
-    }
+    "Indices": {"Showdown": "Imposter"}
   },
   "Infiltrator": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Infiltrator"
-    }
+    "Indices": {"Showdown": "Infiltrator"}
   },
   "Innards Out": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Innards Out"
-    }
+    "Indices": {"Showdown": "Innards Out"}
   },
   "Inner Focus": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Inner Focus"
-    }
+    "Indices": {"Showdown": "Inner Focus"}
   },
   "Insomnia": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Insomnia"
-    }
+    "Indices": {"Showdown": "Insomnia"}
   },
   "Intimidate": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Intimidate"
-    }
+    "Indices": {"Showdown": "Intimidate"}
   },
   "Intrepid Sword": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Intrepid Sword"
-    }
+    "Indices": {"Showdown": "Intrepid Sword"}
   },
   "Iron Barbs": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Iron Barbs"
-    }
+    "Indices": {"Showdown": "Iron Barbs"}
   },
   "Iron Fist": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Iron Fist"
-    }
+    "Indices": {"Showdown": "Iron Fist"}
   },
   "Justified": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Justified"
-    }
+    "Indices": {"Showdown": "Justified"}
   },
   "Keen Eye": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Keen Eye"
-    }
+    "Indices": {"Showdown": "Keen Eye"}
   },
   "Klutz": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Klutz"
-    }
+    "Indices": {"Showdown": "Klutz"}
   },
   "Leaf Guard": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Leaf Guard"
-    }
+    "Indices": {"Showdown": "Leaf Guard"}
   },
   "Levitate": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Levitate"
-    }
+    "Indices": {"Showdown": "Levitate"}
   },
   "Libero": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Libero"
-    }
+    "Indices": {"Showdown": "Libero"}
   },
   "Light Metal": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Light Metal"
-    }
+    "Indices": {"Showdown": "Light Metal"}
   },
   "Lightning Rod": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Lightning Rod"
-    }
+    "Indices": {"Showdown": "Lightning Rod"}
   },
   "Limber": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Limber"
-    }
+    "Indices": {"Showdown": "Limber"}
   },
   "Liquid Ooze": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Liquid Ooze"
-    }
+    "Indices": {"Showdown": "Liquid Ooze"}
   },
   "Liquid Voice": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Liquid Voice"
-    }
+    "Indices": {"Showdown": "Liquid Voice"}
   },
   "Long Reach": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Long Reach"
-    }
+    "Indices": {"Showdown": "Long Reach"}
   },
   "Magic Bounce": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Magic Bounce"
-    }
+    "Indices": {"Showdown": "Magic Bounce"}
   },
   "Magic Guard": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Magic Guard"
-    }
+    "Indices": {"Showdown": "Magic Guard"}
   },
   "Magician": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Magician"
-    }
+    "Indices": {"Showdown": "Magician"}
   },
   "Magma Armor": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Magma Armor"
-    }
+    "Indices": {"Showdown": "Magma Armor"}
   },
   "Magnet Pull": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Magnet Pull"
-    }
+    "Indices": {"Showdown": "Magnet Pull"}
   },
   "Marvel Scale": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Marvel Scale"
-    }
+    "Indices": {"Showdown": "Marvel Scale"}
   },
   "Mega Launcher": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Mega Launcher"
-    }
+    "Indices": {"Showdown": "Mega Launcher"}
   },
   "Merciless": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Merciless"
-    }
+    "Indices": {"Showdown": "Merciless"}
   },
   "Mimicry": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Mimicry"
-    }
+    "Indices": {"Showdown": "Mimicry"}
   },
   "Minus": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Minus"
-    }
+    "Indices": {"Showdown": "Minus"}
   },
   "Mirror Armor": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Mirror Armor"
-    }
+    "Indices": {"Showdown": "Mirror Armor"}
   },
   "Misty Surge": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Misty Surge"
-    }
+    "Indices": {"Showdown": "Misty Surge"}
   },
   "Mold Breaker": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Mold Breaker"
-    }
+    "Indices": {"Showdown": "Mold Breaker"}
   },
   "Moody": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Moody"
-    }
+    "Indices": {"Showdown": "Moody"}
   },
   "Motor Drive": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Motor Drive"
-    }
+    "Indices": {"Showdown": "Motor Drive"}
   },
   "Moxie": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Moxie"
-    }
+    "Indices": {"Showdown": "Moxie"}
   },
   "Multiscale": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Multiscale"
-    }
+    "Indices": {"Showdown": "Multiscale"}
   },
   "Multitype": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Multitype"
-    }
+    "Indices": {"Showdown": "Multitype"}
   },
   "Mummy": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Mummy"
-    }
+    "Indices": {"Showdown": "Mummy"}
   },
   "Natural Cure": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Natural Cure"
-    }
+    "Indices": {"Showdown": "Natural Cure"}
   },
   "Neuroforce": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Neuroforce"
-    }
+    "Indices": {"Showdown": "Neuroforce"}
   },
   "Neutralizing Gas": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Neutralizing Gas"
-    }
+    "Indices": {"Showdown": "Neutralizing Gas"}
   },
   "No Guard": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "No Guard"
-    }
+    "Indices": {"Showdown": "No Guard"}
   },
   "None": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "No Ability"
-    }
+    "Indices": {"Showdown": "No Ability"}
   },
   "Normalize": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Normalize"
-    }
+    "Indices": {"Showdown": "Normalize"}
   },
   "Oblivious": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Oblivious"
-    }
+    "Indices": {"Showdown": "Oblivious"}
   },
   "Overcoat": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Overcoat"
-    }
+    "Indices": {"Showdown": "Overcoat"}
   },
   "Overgrow": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Overgrow"
-    }
+    "Indices": {"Showdown": "Overgrow"}
   },
   "Own Tempo": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Own Tempo"
-    }
+    "Indices": {"Showdown": "Own Tempo"}
   },
   "Parental Bond": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Parental Bond"
-    }
+    "Indices": {"Showdown": "Parental Bond"}
   },
   "Pastel Veil": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Pastel Veil"
-    }
+    "Indices": {"Showdown": "Pastel Veil"}
   },
   "Perish Body": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Perish Body"
-    }
+    "Indices": {"Showdown": "Perish Body"}
   },
   "Pickpocket": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Pickpocket"
-    }
+    "Indices": {"Showdown": "Pickpocket"}
   },
   "Pickup": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Pickup"
-    }
+    "Indices": {"Showdown": "Pickup"}
   },
   "Pixilate": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Pixilate"
-    }
+    "Indices": {"Showdown": "Pixilate"}
   },
   "Plus": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Plus"
-    }
+    "Indices": {"Showdown": "Plus"}
   },
   "Poison Heal": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Poison Heal"
-    }
+    "Indices": {"Showdown": "Poison Heal"}
   },
   "Poison Point": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Poison Point"
-    }
+    "Indices": {"Showdown": "Poison Point"}
   },
   "Poison Touch": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Poison Touch"
-    }
+    "Indices": {"Showdown": "Poison Touch"}
   },
   "Power Construct": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Power Construct"
-    }
+    "Indices": {"Showdown": "Power Construct"}
   },
   "Power of Alchemy": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Power of Alchemy"
-    }
+    "Indices": {"Showdown": "Power of Alchemy"}
   },
   "Power Spot": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Power Spot"
-    }
+    "Indices": {"Showdown": "Power Spot"}
   },
   "Prankster": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Prankster"
-    }
+    "Indices": {"Showdown": "Prankster"}
   },
   "Pressure": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Pressure"
-    }
+    "Indices": {"Showdown": "Pressure"}
   },
   "Primordial Sea": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Primordial Sea"
-    }
+    "Indices": {"Showdown": "Primordial Sea"}
   },
   "Prism Armor": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Prism Armor"
-    }
+    "Indices": {"Showdown": "Prism Armor"}
   },
   "Propeller Tail": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Propeller Tail"
-    }
+    "Indices": {"Showdown": "Propeller Tail"}
   },
   "Protean": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Protean"
-    }
+    "Indices": {"Showdown": "Protean"}
   },
   "Psychic Surge": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Psychic Surge"
-    }
+    "Indices": {"Showdown": "Psychic Surge"}
   },
   "Punk Rock": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Punk Rock"
-    }
+    "Indices": {"Showdown": "Punk Rock"}
   },
   "Pure Power": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Pure Power"
-    }
+    "Indices": {"Showdown": "Pure Power"}
   },
   "Queenly Majesty": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Queenly Majesty"
-    }
+    "Indices": {"Showdown": "Queenly Majesty"}
   },
   "Quick Draw": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Quick Draw"
-    }
+    "Indices": {"Showdown": "Quick Draw"}
   },
   "Quick Feet": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Quick Feet"
-    }
+    "Indices": {"Showdown": "Quick Feet"}
   },
   "Rain Dish": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Rain Dish"
-    }
+    "Indices": {"Showdown": "Rain Dish"}
   },
   "Rattled": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Rattled"
-    }
+    "Indices": {"Showdown": "Rattled"}
   },
   "Receiver": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Receiver"
-    }
+    "Indices": {"Showdown": "Receiver"}
   },
   "Reckless": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Reckless"
-    }
+    "Indices": {"Showdown": "Reckless"}
   },
   "Refrigerate": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Refrigerate"
-    }
+    "Indices": {"Showdown": "Refrigerate"}
   },
   "Regenerator": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Regenerator"
-    }
+    "Indices": {"Showdown": "Regenerator"}
   },
   "Ripen": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Ripen"
-    }
+    "Indices": {"Showdown": "Ripen"}
   },
   "Rivalry": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Rivalry"
-    }
+    "Indices": {"Showdown": "Rivalry"}
   },
   "RKS System": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "RKS System"
-    }
+    "Indices": {"Showdown": "RKS System"}
   },
   "Rock Head": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Rock Head"
-    }
+    "Indices": {"Showdown": "Rock Head"}
   },
   "Rough Skin": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Rough Skin"
-    }
+    "Indices": {"Showdown": "Rough Skin"}
   },
   "Run Away": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Run Away"
-    }
+    "Indices": {"Showdown": "Run Away"}
   },
   "Sand Force": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Sand Force"
-    }
+    "Indices": {"Showdown": "Sand Force"}
   },
   "Sand Rush": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Sand Rush"
-    }
+    "Indices": {"Showdown": "Sand Rush"}
   },
   "Sand Spit": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Sand Spit"
-    }
+    "Indices": {"Showdown": "Sand Spit"}
   },
   "Sand Stream": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Sand Stream"
-    }
+    "Indices": {"Showdown": "Sand Stream"}
   },
   "Sand Veil": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Sand Veil"
-    }
+    "Indices": {"Showdown": "Sand Veil"}
   },
   "Sap Sipper": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Sap Sipper"
-    }
+    "Indices": {"Showdown": "Sap Sipper"}
   },
   "Schooling": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Schooling"
-    }
+    "Indices": {"Showdown": "Schooling"}
   },
   "Scrappy": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Scrappy"
-    }
+    "Indices": {"Showdown": "Scrappy"}
   },
   "Screen Cleaner": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Screen Cleaner"
-    }
+    "Indices": {"Showdown": "Screen Cleaner"}
   },
   "Serene Grace": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Serene Grace"
-    }
+    "Indices": {"Showdown": "Serene Grace"}
   },
   "Shadow Shield": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Shadow Shield"
-    }
+    "Indices": {"Showdown": "Shadow Shield"}
   },
   "Shadow Tag": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Shadow Tag"
-    }
+    "Indices": {"Showdown": "Shadow Tag"}
   },
   "Shed Skin": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Shed Skin"
-    }
+    "Indices": {"Showdown": "Shed Skin"}
   },
   "Sheer Force": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Sheer Force"
-    }
+    "Indices": {"Showdown": "Sheer Force"}
   },
   "Shell Armor": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Shell Armor"
-    }
+    "Indices": {"Showdown": "Shell Armor"}
   },
   "Shield Dust": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Shield Dust"
-    }
+    "Indices": {"Showdown": "Shield Dust"}
   },
   "Shields Down": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Shields Down"
-    }
+    "Indices": {"Showdown": "Shields Down"}
   },
   "Simple": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Simple"
-    }
+    "Indices": {"Showdown": "Simple"}
   },
   "Skill Link": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Skill Link"
-    }
+    "Indices": {"Showdown": "Skill Link"}
   },
   "Slow Start": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Slow Start"
-    }
+    "Indices": {"Showdown": "Slow Start"}
   },
   "Slush Rush": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Slush Rush"
-    }
+    "Indices": {"Showdown": "Slush Rush"}
   },
   "Sniper": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Sniper"
-    }
+    "Indices": {"Showdown": "Sniper"}
   },
   "Snow Cloak": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Snow Cloak"
-    }
+    "Indices": {"Showdown": "Snow Cloak"}
   },
   "Snow Warning": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Snow Warning"
-    }
+    "Indices": {"Showdown": "Snow Warning"}
   },
   "Solar Power": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Solar Power"
-    }
+    "Indices": {"Showdown": "Solar Power"}
   },
   "Solid Rock": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Solid Rock"
-    }
+    "Indices": {"Showdown": "Solid Rock"}
   },
   "Soul-Heart": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Soul-Heart"
-    }
+    "Indices": {"Showdown": "Soul-Heart"}
   },
   "Soundproof": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Soundproof"
-    }
+    "Indices": {"Showdown": "Soundproof"}
   },
   "Speed Boost": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Speed Boost"
-    }
+    "Indices": {"Showdown": "Speed Boost"}
   },
   "Stakeout": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Stakeout"
-    }
+    "Indices": {"Showdown": "Stakeout"}
   },
   "Stall": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Stall"
-    }
+    "Indices": {"Showdown": "Stall"}
   },
   "Stalwart": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Stalwart"
-    }
+    "Indices": {"Showdown": "Stalwart"}
   },
   "Stamina": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Stamina"
-    }
+    "Indices": {"Showdown": "Stamina"}
   },
   "Stance Change": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Stance Change"
-    }
+    "Indices": {"Showdown": "Stance Change"}
   },
   "Static": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Static"
-    }
+    "Indices": {"Showdown": "Static"}
   },
   "Steadfast": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Steadfast"
-    }
+    "Indices": {"Showdown": "Steadfast"}
   },
   "Steam Engine": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Steam Engine"
-    }
+    "Indices": {"Showdown": "Steam Engine"}
   },
   "Steelworker": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Steelworker"
-    }
+    "Indices": {"Showdown": "Steelworker"}
   },
   "Steely Spirit": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Steely Spirit"
-    }
+    "Indices": {"Showdown": "Steely Spirit"}
   },
   "Stench": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Stench"
-    }
+    "Indices": {"Showdown": "Stench"}
   },
   "Sticky Hold": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Sticky Hold"
-    }
+    "Indices": {"Showdown": "Sticky Hold"}
   },
   "Storm Drain": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Storm Drain"
-    }
+    "Indices": {"Showdown": "Storm Drain"}
   },
   "Strong Jaw": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Strong Jaw"
-    }
+    "Indices": {"Showdown": "Strong Jaw"}
   },
   "Sturdy": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Sturdy"
-    }
+    "Indices": {"Showdown": "Sturdy"}
   },
   "Suction Cups": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Suction Cups"
-    }
+    "Indices": {"Showdown": "Suction Cups"}
   },
   "Super Luck": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Super Luck"
-    }
+    "Indices": {"Showdown": "Super Luck"}
   },
   "Surge Surfer": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Surge Surfer"
-    }
+    "Indices": {"Showdown": "Surge Surfer"}
   },
   "Swarm": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Swarm"
-    }
+    "Indices": {"Showdown": "Swarm"}
   },
   "Sweet Veil": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Sweet Veil"
-    }
+    "Indices": {"Showdown": "Sweet Veil"}
   },
   "Swift Swim": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Swift Swim"
-    }
+    "Indices": {"Showdown": "Swift Swim"}
   },
   "Symbiosis": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Symbiosis"
-    }
+    "Indices": {"Showdown": "Symbiosis"}
   },
   "Synchronize": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Synchronize"
-    }
+    "Indices": {"Showdown": "Synchronize"}
   },
   "Tangled Feet": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Tangled Feet"
-    }
+    "Indices": {"Showdown": "Tangled Feet"}
   },
   "Tangling Hair": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Tangling Hair"
-    }
+    "Indices": {"Showdown": "Tangling Hair"}
   },
   "Technician": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Technician"
-    }
+    "Indices": {"Showdown": "Technician"}
   },
   "Telepathy": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Telepathy"
-    }
+    "Indices": {"Showdown": "Telepathy"}
   },
   "Teravolt": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Teravolt"
-    }
+    "Indices": {"Showdown": "Teravolt"}
   },
   "Thick Fat": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Thick Fat"
-    }
+    "Indices": {"Showdown": "Thick Fat"}
   },
   "Tinted Lens": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Tinted Lens"
-    }
+    "Indices": {"Showdown": "Tinted Lens"}
   },
   "Torrent": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Torrent"
-    }
+    "Indices": {"Showdown": "Torrent"}
   },
   "Tough Claws": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Tough Claws"
-    }
+    "Indices": {"Showdown": "Tough Claws"}
   },
   "Toxic Boost": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Toxic Boost"
-    }
+    "Indices": {"Showdown": "Toxic Boost"}
   },
   "Trace": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Trace"
-    }
+    "Indices": {"Showdown": "Trace"}
   },
   "Transistor": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Transistor"
-    }
+    "Indices": {"Showdown": "Transistor"}
   },
   "Triage": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Triage"
-    }
+    "Indices": {"Showdown": "Triage"}
   },
   "Truant": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Truant"
-    }
+    "Indices": {"Showdown": "Truant"}
   },
   "Turboblaze": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Turboblaze"
-    }
+    "Indices": {"Showdown": "Turboblaze"}
   },
   "Unaware": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Unaware"
-    }
+    "Indices": {"Showdown": "Unaware"}
   },
   "Unburden": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Unburden"
-    }
+    "Indices": {"Showdown": "Unburden"}
   },
   "Unnerve": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Unnerve"
-    }
+    "Indices": {"Showdown": "Unnerve"}
   },
   "Unseen Fist": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Unseen Fist"
-    }
+    "Indices": {"Showdown": "Unseen Fist"}
   },
   "Victory Star": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Victory Star"
-    }
+    "Indices": {"Showdown": "Victory Star"}
   },
   "Vital Spirit": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Vital Spirit"
-    }
+    "Indices": {"Showdown": "Vital Spirit"}
   },
   "Volt Absorb": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Volt Absorb"
-    }
+    "Indices": {"Showdown": "Volt Absorb"}
   },
   "Wandering Spirit": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Wandering Spirit"
-    }
+    "Indices": {"Showdown": "Wandering Spirit"}
   },
   "Water Absorb": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Water Absorb"
-    }
+    "Indices": {"Showdown": "Water Absorb"}
   },
   "Water Bubble": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Water Bubble"
-    }
+    "Indices": {"Showdown": "Water Bubble"}
   },
   "Water Compaction": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Water Compaction"
-    }
+    "Indices": {"Showdown": "Water Compaction"}
   },
   "Water Veil": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Water Veil"
-    }
+    "Indices": {"Showdown": "Water Veil"}
   },
   "Weak Armor": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Weak Armor"
-    }
+    "Indices": {"Showdown": "Weak Armor"}
   },
   "White Smoke": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "White Smoke"
-    }
+    "Indices": {"Showdown": "White Smoke"}
   },
   "Wimp Out": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Wimp Out"
-    }
+    "Indices": {"Showdown": "Wimp Out"}
   },
   "Wonder Guard": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Wonder Guard"
-    }
+    "Indices": {"Showdown": "Wonder Guard"}
   },
   "Wonder Skin": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Wonder Skin"
-    }
+    "Indices": {"Showdown": "Wonder Skin"}
   },
   "Zen Mode": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Zen Mode"
-    }
+    "Indices": {"Showdown": "Zen Mode"}
   },
   "Mountaineer": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Mountaineer"
-    }
+    "Indices": {"Showdown": "Mountaineer"}
   },
   "Rebound": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Rebound"
-    }
+    "Indices": {"Showdown": "Rebound"}
   },
   "Persistent": {
-    "Exists in": ["Showdown"],
-    "Indices": {
-      "Showdown": "Persistent"
-    }
+    "Indices": {"Showdown": "Persistent"}
   }
 }
