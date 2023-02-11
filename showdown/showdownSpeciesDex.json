@@ -6250,7 +6250,12 @@
     "Indices": {"Showdown": "Meowstic"},
     "Forms": {
       "": {
-        "Form Indices": {"Showdown": ["$Male-Female", null, "F"]}
+        "Form Indices": {
+          "Showdown$": {
+            "Female$": "F", //"Mewostic-F"
+            "$": "" //"Mewostic" (male)
+          }
+        }
       }
     }
   },
@@ -8131,7 +8136,12 @@
     "Indices": {"Showdown": "Indeedee"},
     "Forms": {
       "": {
-        "Form Indices": {"Showdown": ["$Male-Female", null, "F"]}
+        "Form Indices": {
+          "Showdown$": {
+            "Female$": "F", //"Indeedee-F"
+            "$": "" //"Indeedee" (male)
+          }
+        }
       }
     }
   },
