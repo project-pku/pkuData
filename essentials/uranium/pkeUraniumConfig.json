@@ -3,7 +3,6 @@
   "Move": "pkeUraniumMoveDex.json",
   "Ability": "pkeUraniumAbilityDex.json",
   "Item": "pkeUraniumItemDex.json",
-  "Ball": "pkeUraniumBallDex.json",
   "Game": "pkeUraniumGameDex.json",
   "Language": "pkeUraniumLanguageDex.json"
 }

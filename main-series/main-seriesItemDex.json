@@ -1,67 +1,98 @@
+//All main-series games from Gen 3 onwards share:
+//  - The item IDs from 0-12.
+//  - All (official) ball IDs.
 {
   "None": {
-    "Indices": {
-      "main-series": 0
-    }
+    "Indices": {"main-series": 0}
   },
   "Master Ball": {
-    "Indices": {
-      "main-series": 1
-    }
+    "Indices": {"main-series": 1},
+    "Ball Indices": {"main-series": 1}
   },
   "Ultra Ball": {
-    "Indices": {
-      "main-series": 2
-    }
+    "Indices": {"main-series": 2},
+    "Ball Indices": {"main-series": 2}
   },
   "Great Ball": {
-    "Indices": {
-      "main-series": 3
-    }
+    "Indices": {"main-series": 3},
+    "Ball Indices": {"main-series": 3}
   },
   "Poké Ball": {
-    "Indices": {
-      "main-series": 4
-    }
+    "Indices": {"main-series": 4},
+    "Ball Indices": {"main-series": 4}
   },
   "Safari Ball": {
-    "Indices": {
-      "main-series": 5
-    }
+    "Indices": {"main-series": 5},
+    "Ball Indices": {"main-series": 5}
   },
   "Net Ball": {
-    "Indices": {
-      "main-series": 6
-    }
+    "Indices": {"main-series": 6},
+    "Ball Indices": {"main-series": 6}
   },
   "Dive Ball": {
-    "Indices": {
-      "main-series": 7
-    }
+    "Indices": {"main-series": 7},
+    "Ball Indices": {"main-series": 7}
   },
   "Nest Ball": {
-    "Indices": {
-      "main-series": 8
-    }
+    "Indices": {"main-series": 8},
+    "Ball Indices": {"main-series": 8}
   },
   "Repeat Ball": {
-    "Indices": {
-      "main-series": 9
-    }
+    "Indices": {"main-series": 9},
+    "Ball Indices": {"main-series": 9}
   },
   "Timer Ball": {
-    "Indices": {
-      "main-series": 10
-    }
+    "Indices": {"main-series": 10},
+    "Ball Indices": {"main-series": 10}
   },
   "Luxury Ball": {
-    "Indices": {
-      "main-series": 11
-    }
+    "Indices": {"main-series": 11},
+    "Ball Indices": {"main-series": 11}
   },
   "Premier Ball": {
-    "Indices": {
-      "main-series": 12
-    }
+    "Indices": {"main-series": 12},
+    "Ball Indices": {"main-series": 12}
+  },
+  "Dusk Ball": {
+    "Ball Indices": {"main-series": 13}
+  },
+  "Heal Ball": {
+    "Ball Indices": {"main-series": 14}
+  },
+  "Quick Ball": {
+    "Ball Indices": {"main-series": 15}
+  },
+  "Cherish Ball": {
+    "Ball Indices": {"main-series": 16}
+  },
+  "Fast Ball": {
+    "Ball Indices": {"main-series": 17}
+  },
+  "Level Ball": {
+    "Ball Indices": {"main-series": 18}
+  },
+  "Lure Ball": {
+    "Ball Indices": {"main-series": 19}
+  },
+  "Heavy Ball": {
+    "Ball Indices": {"main-series": 20}
+  },
+  "Love Ball": {
+    "Ball Indices": {"main-series": 21}
+  },
+  "Friend Ball": {
+    "Ball Indices": {"main-series": 22}
+  },
+  "Moon Ball": {
+    "Ball Indices": {"main-series": 23}
+  },
+  "Sport Ball": {
+    "Ball Indices": {"main-series": 24}
+  },
+  "Dream Ball": {
+    "Ball Indices": {"main-series": 25}
+  },
+  "Beast Ball": {
+    "Ball Indices": {"main-series": 26}
   }
 }

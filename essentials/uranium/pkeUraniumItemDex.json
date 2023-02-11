@@ -624,76 +624,100 @@
     "Indices": {"pkeUranium": 207}
   },
   "Master Ball": {
-    "Indices": {"pkeUranium": 208}
+    "Indices": {"pkeUranium": 208},
+    "Ball Indices": {"pkeUranium": 4}
   },
   "Ultra Ball": {
-    "Indices": {"pkeUranium": 209}
+    "Indices": {"pkeUranium": 209},
+    "Ball Indices": {"pkeUranium": 3}
   },
   "Great Ball": {
-    "Indices": {"pkeUranium": 210}
+    "Indices": {"pkeUranium": 210},
+    "Ball Indices": {"pkeUranium": 1}
   },
   "Poké Ball": {
-    "Indices": {"pkeUranium": 211}
+    "Indices": {"pkeUranium": 211},
+    "Ball Indices": {"pkeUranium": 0}
   },
   "Safari Ball": {
-    "Indices": {"pkeUranium": 212}
+    "Indices": {"pkeUranium": 212},
+    "Ball Indices": {"pkeUranium": 2}
   },
   "Net Ball": {
-    "Indices": {"pkeUranium": 213}
+    "Indices": {"pkeUranium": 213},
+    "Ball Indices": {"pkeUranium": 5}
   },
   "Dive Ball": {
-    "Indices": {"pkeUranium": 214}
+    "Indices": {"pkeUranium": 214},
+    "Ball Indices": {"pkeUranium": 6}
   },
   "Nest Ball": {
-    "Indices": {"pkeUranium": 215}
+    "Indices": {"pkeUranium": 215},
+    "Ball Indices": {"pkeUranium": 7}
   },
   "Repeat Ball": {
-    "Indices": {"pkeUranium": 216}
+    "Indices": {"pkeUranium": 216},
+    "Ball Indices": {"pkeUranium": 8}
   },
   "Timer Ball": {
-    "Indices": {"pkeUranium": 217}
+    "Indices": {"pkeUranium": 217},
+    "Ball Indices": {"pkeUranium": 9}
   },
   "Luxury Ball": {
-    "Indices": {"pkeUranium": 218}
+    "Indices": {"pkeUranium": 218},
+    "Ball Indices": {"pkeUranium": 10}
   },
   "Premier Ball": {
-    "Indices": {"pkeUranium": 219}
+    "Indices": {"pkeUranium": 219},
+    "Ball Indices": {"pkeUranium": 11}
   },
   "Dusk Ball": {
-    "Indices": {"pkeUranium": 220}
+    "Indices": {"pkeUranium": 220},
+    "Ball Indices": {"pkeUranium": 12}
   },
   "Heal Ball": {
-    "Indices": {"pkeUranium": 221}
+    "Indices": {"pkeUranium": 221},
+    "Ball Indices": {"pkeUranium": 13}
   },
   "Quick Ball": {
-    "Indices": {"pkeUranium": 222}
+    "Indices": {"pkeUranium": 222},
+    "Ball Indices": {"pkeUranium": 14}
   },
   "Cherish Ball": {
-    "Indices": {"pkeUranium": 223}
+    "Indices": {"pkeUranium": 223},
+    "Ball Indices": {"pkeUranium": 15}
   },
   "Fast Ball": {
-    "Indices": {"pkeUranium": 224}
+    "Indices": {"pkeUranium": 224},
+    "Ball Indices": {"pkeUranium": 16}
   },
   "Level Ball": {
-    "Indices": {"pkeUranium": 225}
+    "Indices": {"pkeUranium": 225},
+    "Ball Indices": {"pkeUranium": 17}
   },
   "Lure Ball": {
-    "Indices": {"pkeUranium": 226}
+    "Indices": {"pkeUranium": 226},
+    "Ball Indices": {"pkeUranium": 18}
   },
   "Heavy Ball": {
-    "Indices": {"pkeUranium": 227}
+    "Indices": {"pkeUranium": 227},
+    "Ball Indices": {"pkeUranium": 19}
   },
   "Love Ball": {
-    "Indices": {"pkeUranium": 228}
+    "Indices": {"pkeUranium": 228},
+    "Ball Indices": {"pkeUranium": 20}
   },
   "Friend Ball": {
-    "Indices": {"pkeUranium": 229}
+    "Indices": {"pkeUranium": 229},
+    "Ball Indices": {"pkeUranium": 21}
   },
   "Moon Ball": {
-    "Indices": {"pkeUranium": 230}
+    "Indices": {"pkeUranium": 230},
+    "Ball Indices": {"pkeUranium": 22}
   },
   "Sport Ball": {
-    "Indices": {"pkeUranium": 231}
+    "Indices": {"pkeUranium": 231},
+    "Ball Indices": {"pkeUranium": 23}
   },
   "Park Ball": {
     "Indices": {"pkeUranium": 232}
@@ -1479,7 +1503,8 @@
     "Indices": {"pkeUranium": 492}
   },
   "Atom Ball": {
-    "Indices": {"pkeUranium": 493}
+    "Indices": {"pkeUranium": 493},
+    "Ball Indices": {"pkeUranium": 27}
   },
   "T.U.R Ticket": {
     "Indices": {"pkeUranium": 494}
@@ -1728,7 +1753,8 @@
     "Indices": {"pkeUranium": 575}
   },
   "Nuclear Ball": {
-    "Indices": {"pkeUranium": 576}
+    "Indices": {"pkeUranium": 576},
+    "Ball Indices": {"pkeUranium": 26}
   },
   "Sachet": {
     "Indices": {"pkeUranium": 577}

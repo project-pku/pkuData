@@ -1,68 +1,54 @@
 {
   "None": {
-    "Indices": {
-      "pk3": {"$index_override": "main-series"}
-    }
+    "Indices": {"pk3": {"$index_override": "main-series"}}
   },
   "Master Ball": {
-    "Indices": {
-      "pk3": {"$index_override": "main-series"}
-    }
+    "Indices": {"pk3": {"$index_override": "main-series"}},
+    "Ball Indices": {"pk3": {"$index_override": "main-series"}}
   },
   "Ultra Ball": {
-    "Indices": {
-      "pk3": {"$index_override": "main-series"}
-    }
+    "Indices": {"pk3": {"$index_override": "main-series"}},
+    "Ball Indices": {"pk3": {"$index_override": "main-series"}}
   },
   "Great Ball": {
-    "Indices": {
-      "pk3": {"$index_override": "main-series"}
-    }
+    "Indices": {"pk3": {"$index_override": "main-series"}},
+    "Ball Indices": {"pk3": {"$index_override": "main-series"}}
   },
   "Poké Ball": {
-    "Indices": {
-      "pk3": {"$index_override": "main-series"}
-    }
+    "Indices": {"pk3": {"$index_override": "main-series"}},
+    "Ball Indices": {"pk3": {"$index_override": "main-series"}}
   },
   "Safari Ball": {
-    "Indices": {
-      "pk3": {"$index_override": "main-series"}
-    }
+    "Indices": {"pk3": {"$index_override": "main-series"}},
+    "Ball Indices": {"pk3": {"$index_override": "main-series"}}
   },
   "Net Ball": {
-    "Indices": {
-      "pk3": {"$index_override": "main-series"}
-    }
+    "Indices": {"pk3": {"$index_override": "main-series"}},
+    "Ball Indices": {"pk3": {"$index_override": "main-series"}}
   },
   "Dive Ball": {
-    "Indices": {
-      "pk3": {"$index_override": "main-series"}
-    }
+    "Indices": {"pk3": {"$index_override": "main-series"}},
+    "Ball Indices": {"pk3": {"$index_override": "main-series"}}
   },
   "Nest Ball": {
-    "Indices": {
-      "pk3": {"$index_override": "main-series"}
-    }
+    "Indices": {"pk3": {"$index_override": "main-series"}},
+    "Ball Indices": {"pk3": {"$index_override": "main-series"}}
   },
   "Repeat Ball": {
-    "Indices": {
-      "pk3": {"$index_override": "main-series"}
-    }
+    "Indices": {"pk3": {"$index_override": "main-series"}},
+    "Ball Indices": {"pk3": {"$index_override": "main-series"}}
   },
   "Timer Ball": {
-    "Indices": {
-      "pk3": {"$index_override": "main-series"}
-    }
+    "Indices": {"pk3": {"$index_override": "main-series"}},
+    "Ball Indices": {"pk3": {"$index_override": "main-series"}}
   },
   "Luxury Ball": {
-    "Indices": {
-      "pk3": {"$index_override": "main-series"}
-    }
+    "Indices": {"pk3": {"$index_override": "main-series"}},
+    "Ball Indices": {"pk3": {"$index_override": "main-series"}}
   },
   "Premier Ball": {
-    "Indices": {
-      "pk3": {"$index_override": "main-series"}
-    }
+    "Indices": {"pk3": {"$index_override": "main-series"}},
+    "Ball Indices": {"pk3": {"$index_override": "main-series"}}
   },
   "Potion": {
     "Indices": {"pk3": 13}

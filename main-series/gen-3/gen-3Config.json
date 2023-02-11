@@ -3,7 +3,6 @@
   "Move": "pk3MoveDex.json",
   "Ability": "pk3AbilityDex.json",
   "Item": "pk3ItemDex.json",
-  "Ball": "pk3BallDex.json",
   "Format": "pk3FormatDex.json",
   "Game": ["pk3GameDex.json", "gcnGameDex.json"],
   "Language": "pk3LanguageDex.json"
